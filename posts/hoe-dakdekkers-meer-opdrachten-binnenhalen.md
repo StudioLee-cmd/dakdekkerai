@@ -119,7 +119,7 @@ Jij hebt geen tijd om dit allemaal zelf te doen. Dat snappen we. DakdekkerAI reg
 
 Meer opdrachten, minder gemiste kansen, geen marketinggedoe. Zo werkt het.
 
-**Benieuwd wat dit oplevert voor jouw dakdekkersbedrijf?** Plan een gratis kennismaking via dakdekkerai.nl.
+**Benieuwd wat dit oplevert voor jouw dakdekkersbedrijf?** Plan een gratis kennismaking via [dakdekkerai.nl](https://www.dakdekkerai.nl).
 
 ---
 
