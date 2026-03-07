@@ -93,4 +93,4 @@ Geen enkele tool doet alles. De slimste aanpak is combineren:
 - **Leadgeneratie:** Werkspot of Zoofy voor directe opdrachten — handig als je snel werk nodig hebt.
 - **Marketing en groei:** [DakdekkerAI](/) voor langetermijngroei — planning, facturatie, betere vindbaarheid, automatische reviews en een AI-chatbot die leads opvangt.
 
-Benieuwd hoe DakdekkerAI jouw bedrijf kan helpen groeien? [Neem contact op](/contact) — we denken graag mee.
+Benieuwd hoe DakdekkerAI jouw bedrijf kan helpen groeien? [Plan een gratis gesprek](https://calendly.com/tim-studiolee) — we denken graag mee.
