@@ -65,11 +65,11 @@ De meeste dakdekkersbedrijven zoeken tools die deze dingen regelen:
 
 ## DakdekkerAI — AI-marketing en automatisering
 
-[DakdekkerAI](/) richt zich op het aantrekken van nieuwe klanten via AI-gestuurde marketing. Automatische review-verzoeken via WhatsApp, AI-chatbot op je website, en optimalisatie voor Google én AI-zoekmachines.
+[DakdekkerAI](/) is een compleet AI-systeem voor dakdekkers: planning, facturatie, automatische review-verzoeken via WhatsApp, AI-chatbot, en optimalisatie voor Google én AI-zoekmachines.
 
-**Sterkste punt:** Alles-in-één marketing op autopilot. Je wordt beter gevonden op Google, verzamelt automatisch reviews, en krijgt een chatbot die leads opvangt — zonder dat je er zelf tijd in stopt.
+**Sterkste punt:** Compleet systeem met AI: planning, facturatie, review-automatisering via WhatsApp, AI-chatbot en vindbaarheid op Google — alles op autopilot zonder dat je er zelf tijd in stopt.
 
-**Nadeel:** Geen facturatie of planning — DakdekkerAI werkt als aanvulling op tools zoals Moneybird, niet als vervanging.
+**Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 
 **Geschikt voor:** Dakdekkers die hun [online vindbaarheid](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen-via-google) willen verbeteren en niet afhankelijk willen zijn van platformen voor hun opdrachten.
 
@@ -78,7 +78,7 @@ De meeste dakdekkersbedrijven zoeken tools die deze dingen regelen:
 | | Werkspot | Zoofy | Klusio | Moneybird | DakdekkerAI |
 |---|---|---|---|---|---|
 | **Nieuwe opdrachten** | ✓ (platform) | ✓ (direct) | ✓ (chatbot) | ✗ | ✓ (SEO + AI) |
-| **Facturatie** | ✗ | ✗ | ✗ | ✓ | ✗ |
+| **Facturatie** | ✗ | ✗ | ✗ | ✓ | Basis |
 | **Review-automatisering** | Beperkt | Beperkt | ✗ | ✗ | ✓ (WhatsApp) |
 | **AI-marketing** | ✗ | ✗ | Deels (chatbot) | ✗ | ✓ |
 | **Google-vindbaarheid** | Via platform | Via platform | Via website | ✗ | ✓ (SEO + AI) |
@@ -91,6 +91,6 @@ Geen enkele tool doet alles. De slimste aanpak is combineren:
 
 - **Boekhouding:** Moneybird voor je facturatie en BTW — de basis die elke dakdekker nodig heeft.
 - **Leadgeneratie:** Werkspot of Zoofy voor directe opdrachten — handig als je snel werk nodig hebt.
-- **Marketing en groei:** [DakdekkerAI](/) voor langetermijngroei — betere vindbaarheid, automatische reviews en een AI-chatbot die leads opvangt zonder dat je afhankelijk bent van platformen.
+- **Marketing en groei:** [DakdekkerAI](/) voor langetermijngroei — planning, facturatie, betere vindbaarheid, automatische reviews en een AI-chatbot die leads opvangt.
 
 Benieuwd hoe DakdekkerAI jouw bedrijf kan helpen groeien? [Neem contact op](/contact) — we denken graag mee.
