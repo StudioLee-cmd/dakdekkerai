@@ -56,4 +56,4 @@ Na 3 maanden heb je meetbare data over tijdsbesparing, no-show reductie en omzet
 
 AI lost geen dakproblemen op — maar het lost wel het planningsprobleem op. Dakdekkers die slim automatiseren, doen meer werk met hetzelfde team, winnen meer offertes en groeien gestaag zonder extra personeel aan te nemen.
 
-Wil je weten hoe DakdekkerAI jouw bedrijf helpt? Ga naar [dakdekkerai.nl](https://dakdekkerai.nl).
+Wil je weten hoe DakdekkerAI jouw bedrijf helpt? Ga naar [dakdekkerai.nl](https://www.dakdekkerai.nl).
