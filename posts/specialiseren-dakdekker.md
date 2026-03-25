@@ -38,7 +38,7 @@ Historische panden vereisen vakmanschap dat niet elke dakdekker beheerst. Het is
 
 ### 4. Platte daken voor bedrijfspanden
 
-Commercieel vastgoed biedt grotere projecten met stabielere planning. Minder afhankelijk van particuliere klanten, meer [zakelijke opdrachten](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen-via-google).
+Commercieel vastgoed biedt grotere projecten met stabielere planning. Minder afhankelijk van particuliere klanten, meer [zakelijke opdrachten](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen).
 
 ## Hoe positioneer je je als specialist?
 
@@ -51,14 +51,14 @@ Kies op basis van drie criteria:
 
 ### Stap 2: Bouw een portfolio
 
-Verzamel [projectfoto's](/blog/sterk-portfolio-dakdekker-projectfotos-overtuigen) van je beste werk in die niche. Maak voor-en-na foto's, documenteer het proces, en verzamel referenties van opdrachtgevers.
+Verzamel [projectfoto's](/blog/portfolio-dakdekker-projectfotos) van je beste werk in die niche. Maak voor-en-na foto's, documenteer het proces, en verzamel referenties van opdrachtgevers.
 
 ### Stap 3: Communiceer je expertise
 
 Update al je online kanalen:
-- [Google Bedrijfsprofiel](/blog/meer-google-reviews-dakdekker-automatisch) — vermeld je specialisatie
+- [Google Bedrijfsprofiel](/blog/meer-google-reviews-als-dakdekker) — vermeld je specialisatie
 - Website — maak een aparte pagina per specialisatie
-- [Social media](/blog/social-media-dakdekkers-laat-projecten-zien) — deel alleen specialistisch werk
+- [Social media](/blog/social-media-dakdekkers-projecten) — deel alleen specialistisch werk
 
 ### Stap 4: Netwerk binnen je niche
 
@@ -83,7 +83,7 @@ Je hoeft niet alle andere klussen te weigeren. De strategie is:
 
 ## Geen tijd om je positionering uit te werken?
 
-Bij StudioLee helpen we dakdekkers met hun online positionering als specialist. Van [email marketing](/blog/email-marketing-dakdekkers-inspectieherinneringen) tot content die jouw expertise laat zien. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee helpen we dakdekkers met hun online positionering als specialist. Van [email marketing](/blog/email-marketing-dakdekker-inspectie) tot content die jouw expertise laat zien. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

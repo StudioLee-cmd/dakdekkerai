@@ -44,7 +44,7 @@ Je portfolio moet op twee plekken zichtbaar zijn:
 - Korte beschrijving van de klus
 - Voor-en-na foto's
 
-**2. Google Bedrijfsprofiel**: upload je beste foto's naar je Google-profiel. Bedrijven met foto's krijgen 42% meer routeverzoeken. Zorg dat je profiel altijd up-to-date is — lees hoe je je profiel optimaal inricht in onze [complete gids](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen-via-google).
+**2. Google Bedrijfsprofiel**: upload je beste foto's naar je Google-profiel. Bedrijven met foto's krijgen 42% meer routeverzoeken. Zorg dat je profiel altijd up-to-date is — lees hoe je je profiel optimaal inricht in onze [complete gids](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen).
 
 ## Social media als etalage
 
@@ -54,7 +54,7 @@ Instagram en Facebook zijn ideale platformen voor dakdekkers. Visueel werk verko
 - **Facebook**: plaats voor-en-na albums en vraag klanten je te taggen
 - **Reels/Stories**: korte video's van het werkproces trekken veel bekijks
 
-Post minimaal 2x per week een projectfoto. Na een paar maanden heb je een indrukwekkende online portfolio opgebouwd die continu nieuwe klanten aantrekt. Combineer dit met [leads genereren buiten Google om](/blog/dakdekker-leads-genereren-5-kanalen) voor maximaal bereik.
+Post minimaal 2x per week een projectfoto. Na een paar maanden heb je een indrukwekkende online portfolio opgebouwd die continu nieuwe klanten aantrekt. Combineer dit met [leads genereren buiten Google om](/blog/dakdekker-leads-genereren-buiten-google) voor maximaal bereik.
 
 ## Conclusie
 

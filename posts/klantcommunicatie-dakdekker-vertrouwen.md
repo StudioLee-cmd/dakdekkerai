@@ -15,7 +15,7 @@ Veel dakdekkers onderschatten dit. Ze focussen op het technische werk en vergete
 
 ## Voor de klus: verwachtingen managen
 
-Goede communicatie begint vóór de eerste dakpan is aangeraakt. Na het uitbrengen van je offerte — lees ook hoe je je [website laat converteren](/blog/dakdekker-website-converteren) — moet je helder communiceren:
+Goede communicatie begint vóór de eerste dakpan is aangeraakt. Na het uitbrengen van je offerte — lees ook hoe je je [website laat converteren](/blog/dakdekker-website-conversie-meer-aanvragen) — moet je helder communiceren:
 
 - **Planning**: wanneer start je en hoelang duurt het werk
 - **Impact**: wat merkt de klant (steigers, lawaai, beperkte bereikbaarheid)

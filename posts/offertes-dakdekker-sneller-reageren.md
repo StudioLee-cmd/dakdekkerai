@@ -13,7 +13,7 @@ tags: ["offertes", "dakdekker", "bedrijfsvoering"]
 
 Bij dakwerk speelt urgentie vaak een rol. Een lekkage, stormschade of een dak dat dringend onderhoud nodig heeft — klanten willen snel weten wat het kost en wanneer het kan. De dakdekker die als eerste een duidelijke offerte stuurt, wint in de meeste gevallen de klus.
 
-Uit onderzoek blijkt dat bedrijven die binnen 24 uur reageren op een aanvraag, vijf keer meer kans hebben om de opdracht te krijgen dan bedrijven die er langer over doen. Bij [dakdekkers](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen-google) is dat effect nog sterker, omdat klanten vaak meerdere offertes tegelijk aanvragen.
+Uit onderzoek blijkt dat bedrijven die binnen 24 uur reageren op een aanvraag, vijf keer meer kans hebben om de opdracht te krijgen dan bedrijven die er langer over doen. Bij [dakdekkers](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen) is dat effect nog sterker, omdat klanten vaak meerdere offertes tegelijk aanvragen.
 
 Snelheid betekent niet slordigheid. Het gaat om een professionele offerte in kortere tijd.
 

@@ -39,7 +39,7 @@ Het oplevermoment is je gouden kans. Een korte rondgang waarin je uitlegt wat je
 
 ### Na de klus
 
-De meeste dakdekkers verdwijnen na de factuur. Maar een simpel telefoontje of berichtje twee weken later — "Alles naar wens? Nog vragen?" — maakt een onuitwisbare indruk. Dit is het moment waarop klanten besluiten je aan te bevelen. Lees ook hoe je [klantbehoud als dakdekker](/blog/klantbehoud-dakdekker) structureel aanpakt.
+De meeste dakdekkers verdwijnen na de factuur. Maar een simpel telefoontje of berichtje twee weken later — "Alles naar wens? Nog vragen?" — maakt een onuitwisbare indruk. Dit is het moment waarop klanten besluiten je aan te bevelen. Lees ook hoe je [klantbehoud als dakdekker](/blog/klantbehoud-dakdekker-vaste-opdrachtgevers) structureel aanpakt.
 
 ## 5 manieren om mond-tot-mondreclame te stimuleren
 
@@ -59,7 +59,7 @@ Een klein gebaar voor een succesvolle doorverwijzing versterkt het effect enorm.
 
 ### 4. Zet Google Reviews in als digitale mond-tot-mond
 
-[Google reviews zijn de digitale variant van mond-tot-mondreclame](/blog/meer-google-reviews-dakdekker). Wanneer iemand zoekt naar "dakdekker [jouw plaats]", zijn reviews vaak het eerste wat ze zien. Elke review is een permanente aanbeveling die duizenden potentiële klanten bereikt.
+[Google reviews zijn de digitale variant van mond-tot-mondreclame](/blog/meer-google-reviews-als-dakdekker). Wanneer iemand zoekt naar "dakdekker [jouw plaats]", zijn reviews vaak het eerste wat ze zien. Elke review is een permanente aanbeveling die duizenden potentiële klanten bereikt.
 
 Vraag actief om reviews na elke afgeronde klus. Stuur een WhatsApp-berichtje met een directe link naar je Google-reviewpagina. Hoe makkelijker je het maakt, hoe meer reviews je krijgt.
 
@@ -75,7 +75,7 @@ In 2026 is mond-tot-mondreclame niet meer beperkt tot gesprekken aan de keukenta
 - **Nextdoor** — een platform specifiek voor buurtvragen, inclusief vakmanaanbevelingen
 - **Google Bedrijfsprofiel** — zichtbaar voor iedereen die zoekt
 
-Zorg dat je op al deze plekken vindbaar bent, zodat wanneer iemand je naam noemt, de volgende stap (je profiel bekijken, bellen, website bezoeken) eenvoudig is. [Optimaliseer ook je sociale media](/blog/social-media-dakdekkers-laat-projecten-zien) om projecten te tonen die klanten kunnen delen.
+Zorg dat je op al deze plekken vindbaar bent, zodat wanneer iemand je naam noemt, de volgende stap (je profiel bekijken, bellen, website bezoeken) eenvoudig is. [Optimaliseer ook je sociale media](/blog/social-media-dakdekkers-projecten) om projecten te tonen die klanten kunnen delen.
 
 ## De managed-service aanpak
 
@@ -89,4 +89,4 @@ Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen groei? Geld terug.
 
 Mond-tot-mondreclame is het fundament van elke succesvolle dakdekker. Maar in plaats van het aan het toeval over te laten, kun je het systematisch stimuleren. Door op de juiste momenten te vragen, het makkelijk deelbaar te maken, en online vindbaar te zijn, maak je van elke tevreden klant een ambassadeur voor je bedrijf.
 
-Lees ook hoe je [meer opdrachten binnenhaalt via Google](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen-via-google) en hoe [snelle reactie bij stormschade je meer klussen oplevert](/blog/stormschade-dakdekker-sneller-reageren).
+Lees ook hoe je [meer opdrachten binnenhaalt via Google](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen) en hoe [snelle reactie bij stormschade je meer klussen oplevert](/blog/stormschade-dakdekker-sneller-reageren).

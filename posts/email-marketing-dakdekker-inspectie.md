@@ -21,7 +21,7 @@ Een jaarlijkse inspectieherinnering van jou lost dat op. Het is relevant, het is
 
 **Vraag bij elke nieuwe klus**. "Ik stuur je elk najaar een herinnering voor een dakinspectie. Mag ik je mailadres daarvoor gebruiken?" Dit is een dienst, geen marketing.
 
-**Via je [website](/blog/dakdekker-website-converteren)**. Bied een gratis gids aan: "Hoe weet je of je dak aan onderhoud toe is?" Dit trekt huiseigenaren die nadenken over hun dak.
+**Via je [website](/blog/dakdekker-website-conversie-meer-aanvragen)**. Bied een gratis gids aan: "Hoe weet je of je dak aan onderhoud toe is?" Dit trekt huiseigenaren die nadenken over hun dak.
 
 ## Inspectieherinneringen die converteren
 
@@ -48,7 +48,7 @@ Elke mail sluit aan bij een natuurlijk moment waarop klanten nadenken over hun d
 Houd het beheerbaar:
 
 - **Twee seizoensmails per jaar** (september + maart) — ingepland voor het hele jaar
-- **Na elke klus**: tevredenheidsvraag (dag 3) + [reviewverzoek](/blog/dakdekker-meer-google-reviews) (dag 7)
+- **Na elke klus**: tevredenheidsvraag (dag 3) + [reviewverzoek](/blog/meer-google-reviews-als-dakdekker) (dag 7)
 - **Na storm**: handmatige mail naar je hele lijst (snel, hoeft niet perfect)
 - **Maximaal vier mails per jaar** — klanten melden zich anders af
 

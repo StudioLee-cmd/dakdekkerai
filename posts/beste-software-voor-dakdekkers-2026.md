@@ -71,7 +71,7 @@ De meeste dakdekkersbedrijven zoeken tools die deze dingen regelen:
 
 **Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 
-**Geschikt voor:** Dakdekkers die hun [online vindbaarheid](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen-via-google) willen verbeteren en niet afhankelijk willen zijn van platformen voor hun opdrachten.
+**Geschikt voor:** Dakdekkers die hun [online vindbaarheid](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen) willen verbeteren en niet afhankelijk willen zijn van platformen voor hun opdrachten.
 
 ## Vergelijking: welke tool past bij jou?
 
