@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-dakdekker.png"
 tags: ["online reputatie", "dakdekker", "reviews"]
 ---
 
-# Online reputatie als dakdekker: reviews die je agenda vol houden
-
 Wanneer een huiseigenaar een dakdekker zoekt, googelt die persoon eerst. Ze zien sterren, reviews en foto's. In 30 seconden beslissen ze of ze jou bellen of doorscrollen. Je online reputatie is het eerste filter.
 
 ## Waarom reviews extra belangrijk zijn voor dakdekkers

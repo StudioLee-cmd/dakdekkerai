@@ -47,7 +47,7 @@ Klanten willen verduurzamen maar vinden de investering vaak hoog. Ken de subsidi
 - **Gemeentelijke subsidies**: veel gemeenten hebben eigen potjes voor groene daken en isolatie
 - **Energiebespaarlening via het Nationaal Warmtefonds**: lening tegen lage rente voor verduurzaming
 
-Door klanten actief te informeren over subsidies verlaag je de drempel en verhoog je de kans dat ze de opdracht gunnen. Het maakt je niet alleen een dakdekker, maar een adviseur. Op je [website kun je bezoekers naar een aanvraag leiden](/blog/dakdekker-website-conversie-meer-aanvragen) door deze informatie prominent te presenteren.
+Door klanten actief te informeren over subsidies verlaag je de drempel en verhoog je de kans dat ze de opdracht gunnen. Het maakt je niet alleen een dakdekker, maar een adviseur. Op je [website kun je bezoekers naar een aanvraag leiden](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen) door deze informatie prominent te presenteren.
 
 ## Je duurzame diensten promoten
 

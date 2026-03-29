@@ -7,8 +7,6 @@ image: "/images/blog/google-bedrijfsprofiel-dakdekker.png"
 tags: ["google bedrijfsprofiel", "dakdekker", "lokale marketing"]
 ---
 
-# Google Bedrijfsprofiel als dakdekker: meer klussen uit je regio
-
 Wanneer iemand zoekt op "dakdekker in de buurt" of "daklekkage reparatie [stad]", toont Google eerst de kaartresultaten. Daar staan drie bedrijven — met sterren, afstand en een directe belknop. Als jij daar niet tussen staat, mis je de meest waardevolle leads die er zijn.
 
 Je Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is gratis en machtiger dan welke advertentie ook. In dit artikel leer je hoe je het als dakdekker maximaal benut.
@@ -33,7 +31,7 @@ Google beloont volledigheid. Hoe meer informatie je invult, hoe hoger je scoort 
 - **Adres** — je vestigingsadres of servicegebied
 - **Telefoonnummer** — direct bereikbaar, geen doorschakelnummers
 - **Openingstijden** — inclusief weekend en avonden als je die werkt
-- **Website** — link naar je [geoptimaliseerde website](/blog/dakdekker-website-conversie-meer-aanvragen)
+- **Website** — link naar je [geoptimaliseerde website](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen)
 
 ### Categorieeen kiezen
 

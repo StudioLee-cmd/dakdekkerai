@@ -7,8 +7,6 @@ image: "/images/blog/dakdekker-leads-genereren-buiten-google.png"
 tags: ["Leads", "Marketing", "Strategie"]
 ---
 
-# Dakdekker leads genereren: 5 kanalen buiten Google om
-
 Google is voor de meeste dakdekkers de belangrijkste bron van nieuwe klanten. En terecht — als iemand zoekt op "dakdekker [stad]" heb je te maken met iemand die nu een probleem heeft. Maar volledig afhankelijk zijn van één kanaal is riskant. Een algoritme-update, een nieuwe concurrent die bovenaan verschijnt, of een seizoensdip in zoekopdrachten kan je leadstroom van de ene op de andere dag halveren.
 
 Slimme dakdekkers diversifiëren. In dit artikel delen we vijf kanalen buiten Google om die je een stabielere en voorspelbaardere stroom van opdrachten opleveren.
@@ -27,7 +25,7 @@ Ja, Werkspot kost geld per lead. En ja, je concurreert met andere dakdekkers. Ma
 
 De sleutel is selectiviteit. Reageer niet op elke aanvraag, maar focus op klussen in je specialisatie en regio. Zorg dat je profiel compleet is met foto's van eerder werk en sterke reviews. Reageer snel — de eerste dakdekker die reageert wint in meer dan de helft van de gevallen.
 
-En belangrijk: gebruik Werkspot-klanten als springplank. Vraag na elke succesvolle klus om een Google-review. Zo bouw je aan je eigen online reputatie terwijl je via het platform werkt. Lees meer in ons artikel over [je website laten converteren](/blog/dakdekker-website-conversie-meer-aanvragen).
+En belangrijk: gebruik Werkspot-klanten als springplank. Vraag na elke succesvolle klus om een Google-review. Zo bouw je aan je eigen online reputatie terwijl je via het platform werkt. Lees meer in ons artikel over [je website laten converteren](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen).
 
 ## 3. Buurtapps en lokale Facebook-groepen
 

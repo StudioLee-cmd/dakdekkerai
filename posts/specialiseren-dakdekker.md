@@ -7,8 +7,6 @@ image: "/images/blog/specialiseren-dakdekker.png"
 tags: ["specialisatie", "dakdekker", "niche"]
 ---
 
-# Specialiseren als dakdekker: nichekennis die meer oplevert
-
 De meeste dakdekkers doen alles: platte daken, schuine daken, reparaties, nieuwbouw. Ze zijn de allrounder van de branche. Maar juist die breedte maakt het lastig om je te onderscheiden en hogere prijzen te vragen.
 
 Specialiseren is het tegenovergestelde: kies één niche en word er de beste in. Dit artikel laat zien welke specialisaties het meest opleveren en hoe je de overstap maakt.

@@ -7,8 +7,6 @@ image: "/images/blog/bereikbaarheid-dakdekker.png"
 tags: ["bereikbaarheid", "dakdekker", "klantenservice"]
 ---
 
-# Bereikbaarheid als dakdekker: geen oproep missen in het stormseizoen
-
 Het stormt. Tientallen huiseigenaren ontdekken lekkages en losse dakpannen. Ze pakken hun telefoon en bellen de eerste dakdekker die ze vinden. Als jij niet opneemt, belt de volgende. Die klant ben je kwijt — definitief.
 
 Bereikbaarheid is voor dakdekkers geen luxe, het is een bedrijfskritische vaardigheid. In dit artikel lees je hoe je het organiseert.
@@ -54,7 +52,7 @@ Dit geldt ook voor je [offerteproces](/blog/offertes-dakdekker-sneller-reageren)
 
 ## Je website als 24/7 receptie
 
-Je [website](/blog/dakdekker-website-conversie-meer-aanvragen) moet klanten ook buiten kantooruren verder helpen. Zorg voor:
+Je [website](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen) moet klanten ook buiten kantooruren verder helpen. Zorg voor:
 
 - Een duidelijk spoedformulier bovenaan de pagina
 - WhatsApp-knop voor directe berichten

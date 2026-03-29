@@ -21,7 +21,7 @@ Een jaarlijkse inspectieherinnering van jou lost dat op. Het is relevant, het is
 
 **Vraag bij elke nieuwe klus**. "Ik stuur je elk najaar een herinnering voor een dakinspectie. Mag ik je mailadres daarvoor gebruiken?" Dit is een dienst, geen marketing.
 
-**Via je [website](/blog/dakdekker-website-conversie-meer-aanvragen)**. Bied een gratis gids aan: "Hoe weet je of je dak aan onderhoud toe is?" Dit trekt huiseigenaren die nadenken over hun dak.
+**Via je [website](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen)**. Bied een gratis gids aan: "Hoe weet je of je dak aan onderhoud toe is?" Dit trekt huiseigenaren die nadenken over hun dak.
 
 ## Inspectieherinneringen die converteren
 

@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-dakdekker-partners.png"
 tags: ["samenwerkingen", "dakdekker", "groei"]
 ---
 
-# Samenwerken als dakdekker: partners die je agenda vullen
-
 Een dak is nooit alleen een dak. Er zitten zonnepanelen op, isolatie onder en een loodgieter werkt aan de dakdoorvoeren. Toch werken de meeste dakdekkers als solist. Ze missen daardoor klussen die via samenwerkingspartners hadden kunnen binnenkomen.
 
 ## Waarom samenwerkingen werken voor dakdekkers
@@ -43,7 +41,7 @@ Een offerte voor "dak vernieuwen + isolatie + zonnepanelen-klaar" is aantrekkeli
 
 ### 3. Deel je netwerk op je website
 
-Vermeld je partners op je [website](/blog/dakdekker-website-conversie). "Wij werken samen met gecertificeerde zonnepaneelinstallateurs en isolatiebedrijven." Dat geeft vertrouwen.
+Vermeld je partners op je [website](/blog/dakdekker-website-conversie-meer-aanvragen). "Wij werken samen met gecertificeerde zonnepaneelinstallateurs en isolatiebedrijven." Dat geeft vertrouwen.
 
 ![Luchtfoto van Nederlandse wijk met diverse daken en zonnepanelen](/images/blog/samenwerken-als-dakdekker-partners-2.png)
 
