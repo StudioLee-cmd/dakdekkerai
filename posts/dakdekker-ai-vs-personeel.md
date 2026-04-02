@@ -5,6 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-ai-vs-personeel.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
+cluster: ""
 ---
 
 Als je als dakdekker groeit, loop je tegen een muur aan. Je kunt het kantoorwerk niet meer alleen af. De logische stap lijkt dan: iemand aannemen voor op kantoor. Een planner, een werkvoorbereider, of een administratief medewerker.

@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-dakdekker-partners.png"
 tags: ["samenwerkingen", "dakdekker", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Een dak is nooit alleen een dak. Er zitten zonnepanelen op, isolatie onder en een loodgieter werkt aan de dakdoorvoeren. Toch werken de meeste dakdekkers als solist. Ze missen daardoor klussen die via samenwerkingspartners hadden kunnen binnenkomen.

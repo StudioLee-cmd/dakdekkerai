@@ -5,6 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-dakdekker-meer-opdrachten.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
+cluster: "concurrentieanalyse"
 ---
 
 ## Waarom concurrentieanalyse voor dakdekkers

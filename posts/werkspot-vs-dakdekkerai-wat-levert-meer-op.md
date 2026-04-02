@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-vs-dakdekkerai-wat-levert-meer-op.png"
 tags: ["Tools", "Vergelijking", "Dakdekkers"]
+cluster: "tools-uitleg"
 ---
 
 Werkspot is voor veel dakdekkers de eerste plek waar ze klussen vandaan halen. Je betaalt per lead, reageert op aanvragen en hoopt op de gunning. Het werkt — tot je berekent wat het je écht kost. In dit artikel vergelijken we Werkspot met DakdekkerAI: twee totaal verschillende benaderingen van klantenwerving.

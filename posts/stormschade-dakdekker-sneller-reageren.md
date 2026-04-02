@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stormschade-dakdekker-sneller-reageren.png"
 tags: ["Dakdekker", "Stormschade", "Seizoenswerk"]
+cluster: "seizoenswerk"
 ---
 
 ## Na de storm: het gouden uur voor dakdekkers

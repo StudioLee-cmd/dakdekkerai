@@ -7,6 +7,7 @@ image: "/images/blog/klantbehoud-dakdekker-vaste-opdrachtgevers.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "dakdekker", "groei"]
+cluster: "crm-klantbeheer"
 ---
 
 ## Waarom terugkerende klanten goud waard zijn

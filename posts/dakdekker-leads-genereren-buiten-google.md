@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-leads-genereren-buiten-google.png"
 tags: ["Leads", "Marketing", "Strategie"]
+cluster: "lead-opvolging"
 ---
 
 Google is voor de meeste dakdekkers de belangrijkste bron van nieuwe klanten. En terecht — als iemand zoekt op "dakdekker [stad]" heb je te maken met iemand die nu een probleem heeft. Maar volledig afhankelijk zijn van één kanaal is riskant. Een algoritme-update, een nieuwe concurrent die bovenaan verschijnt, of een seizoensdip in zoekopdrachten kan je leadstroom van de ene op de andere dag halveren.

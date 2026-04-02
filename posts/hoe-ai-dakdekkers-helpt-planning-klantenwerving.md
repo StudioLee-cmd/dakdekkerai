@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-dakdekkers-helpt-planning-klantenwerving.png"
 tags: ["AI", "Automatisering", "Dakdekkers"]
+cluster: "ai-automatisering"
 ---
 
 Dakdekken is zwaar werk — en de planning eromheen is dat ook. Weervertraging, materiaalschaarste, spoedklussen die alles omgooien. De meeste dakdekkersbedrijven beheren dit nog grotendeels met papieren werkbonnen, Excel en telefoontjes. AI verandert dat fundamenteel.

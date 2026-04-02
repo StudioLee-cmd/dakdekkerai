@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-dakdekker-inspectie.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "dakdekker", "inspectie"]
+cluster: "email-marketing"
 ---
 
 ## Waarom email marketing werkt voor dakdekkers

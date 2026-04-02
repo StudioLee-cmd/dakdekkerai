@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-dakdekker-geen-klus-missen.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
+cluster: "lead-opvolging"
 ---
 
 ## Waarom dakdekkers de meeste leads verliezen

@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-als-dakdekker-projectfotos.png"
 tags: ["Portfolio", "Marketing"]
+cluster: ""
 ---
 
 Een sterk portfolio is het verschil tussen een dakdekker die moet zoeken naar klussen en eentje die klanten naar zich toe trekt. In een sector waar vertrouwen alles is, zijn projectfoto's jouw beste visitekaartje.

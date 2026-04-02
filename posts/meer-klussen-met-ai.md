@@ -5,6 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-klussen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
+cluster: ""
 ---
 
 Als je zelf een aannemer zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een dakdekker 3,4 sterren? Dan scroll je door. Heeft hij 4,9 sterren met 200 reviews? Dan bel je hem. In de dakdekkerswereld, waar vertrouwen alles is ("Cowboys" zijn een bekend probleem), is jouw online reputatie je belangrijkste bezit.

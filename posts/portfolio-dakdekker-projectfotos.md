@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-dakdekker-projectfotos.png"
 tags: ["Portfolio", "Marketing", "Foto's"]
+cluster: "portfolio"
 ---
 
 ## Waarom een portfolio werkt

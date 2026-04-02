@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verduurzaming-dakdekker-isolatie-zonnepanelen.png"
 tags: ["Verduurzaming", "Groei", "Diensten"]
+cluster: "verduurzaming"
 ---
 
 De verduurzamingsgolf in Nederland biedt dakdekkers een enorme groeikans. Steeds meer huiseigenaren en bedrijven investeren in dakisolatie, zonnepanelen en groene daken. Als dakdekker zit je in een unieke positie: je bent al op het dak en kent de constructie. Door duurzame diensten toe te voegen aan je aanbod, vergroot je je omzet en maak je jezelf toekomstbestendig.

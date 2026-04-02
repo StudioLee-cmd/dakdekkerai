@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen.png"
 tags: ["Vindbaarheid", "Google", "Opdrachten", "Lokale SEO"]
+cluster: "vindbaarheid"
 ---
 
 ## De realiteit: Google beslist wie de klus krijgt

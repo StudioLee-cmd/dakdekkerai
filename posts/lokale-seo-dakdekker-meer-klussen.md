@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-dakdekker-meer-klussen.jpg"
 tags: ["Vindbaarheid", "Lokale SEO", "Groei"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom lokale vindbaarheid alles bepaalt voor dakdekkers

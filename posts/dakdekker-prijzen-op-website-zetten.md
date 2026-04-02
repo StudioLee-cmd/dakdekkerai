@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-prijzen-op-website-zetten.png"
 tags: ["Dakdekker", "Prijzen", "Website"]
+cluster: "prijzen-communiceren"
 ---
 
 ## De eeuwige discussie: prijzen wel of niet tonen?

@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/drone-dakdekkers-vakmensen.jpg"
 tags: ["1 April", "Vindbaarheid", "SEO"]
+cluster: "vindbaarheid"
 ---
 
 ## Drones die je dak repareren

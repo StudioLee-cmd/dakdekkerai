@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-dakdekker-vertrouwen.png"
 tags: ["Communicatie", "Klantrelatie", "Vertrouwen"]
+cluster: "klantcommunicatie"
 ---
 
 ## Waarom communicatie het verschil maakt
