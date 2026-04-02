@@ -3,7 +3,7 @@ title: "Portfolio als dakdekker: projectfoto's die klussen opleveren"
 excerpt: "Leer hoe je met een professioneel portfolio meer dakdekklussen binnenhaalt. Tips voor foto's, presentatie en online zichtbaarheid."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/portfolio-als-dakdekker-projectfotos.png"
+image: "/images/blog/portfolio-als-dakdekker-projectfotos.jpg"
 tags: ["Portfolio", "Marketing"]
 cluster: ""
 ---
