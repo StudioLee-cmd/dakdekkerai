@@ -78,6 +78,6 @@ Voor grotere projecten (boven €1.000) is een schriftelijke overeenkomst met pl
 
 ## Conclusie
 
-No-shows zijn beheersbaar. Automatische herinneringen, een helder annuleringsbeleid en goede voorbereiding met je klant voorkomen het overgrote deel van de problemen. Begin met WhatsApp-herinneringen — de meest laagdrempelige stap met het grootste effect.
+No-shows zijn beheersbaar. [automatische herinneringen](/chatbot), een helder annuleringsbeleid en goede voorbereiding met je klant voorkomen het overgrote deel van de problemen. Begin met WhatsApp-herinneringen — de meest laagdrempelige stap met het grootste effect.
 
 Wil je ontdekken hoe DakdekkerAI je planning en klantcommunicatie automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het voor je — jij hoeft alleen maar op het dak te staan.
