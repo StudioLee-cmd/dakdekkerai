@@ -26,7 +26,7 @@ Wacht niet een week. Het enthousiasme ebt snel weg — binnen 48 uur halveert de
 Handmatig reviewverzoeken sturen vergeet je na drie klussen. Automatisering is de oplossing:
 
 1. Klus wordt afgerond in je planningssysteem
-2. Systeem stuurt automatisch een WhatsApp-bericht met review-link
+2. Systeem stuurt automatisch een WhatsApp-bericht met [review-link](/reviews)
 3. Na 3 dagen zonder reactie: automatische herinnering
 4. Review binnengekregen? Automatisch bedankbericht
 
