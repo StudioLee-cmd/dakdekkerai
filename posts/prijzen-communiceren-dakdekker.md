@@ -54,6 +54,16 @@ Een kale prijslijst zegt niks. Een offerte met foto's van vergelijkbaar werk, ee
 
 Geef drie opties: basis, standaard en premium. De meeste klanten kiezen het midden. Je gemiddelde orderwaarde stijgt en de klant heeft het gevoel dat hij keuze heeft.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als dakdekker.
+
+Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [tarieven](/tarieven) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Transparant zijn over prijzen kost je geen klanten — het trekt juist de goede klanten aan. Klanten die weten wat iets kost en toch bellen, zijn serieuze kopers. Klanten die afhaken op prijs, hadden je toch niet ingehuurd.
