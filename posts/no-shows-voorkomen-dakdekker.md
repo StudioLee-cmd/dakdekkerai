@@ -49,6 +49,16 @@ Houd een lijst bij van klanten die snel willen maar waarvoor je nu geen plek heb
 
 Communiceer duidelijk dat dakwerk weerafhankelijk is. "Bij regen schuiven we door naar de eerstvolgende droge dag — je hoeft zelf niks te regelen, wij nemen contact op." Dit voorkomt verwarring en no-shows bij slecht weer.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als dakdekker.
+
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 No-shows kosten je als dakdekker niet alleen geld maar ook motivatie en planning. Met drie simpele automatische berichten op de juiste momenten voorkom je het overgrote deel. Het kost je vijf minuten om in te stellen en bespaart je duizenden euro's per jaar.
