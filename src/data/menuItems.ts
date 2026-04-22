@@ -5,11 +5,11 @@ export const menuItems: IMenuItem[] = [
         text: "Diensten",
         url: "#",
         children: [
-            { text: "Chatbot voor Dakdekkers", url: "/chatbot-voor-dakdekkers" },
-            { text: "Voice AI voor Dakdekkers", url: "/voice-ai-voor-dakdekkers" },
-            { text: "SEO voor Dakdekkers", url: "/seo-voor-dakdekkers" },
-            { text: "Social Media voor Dakdekkers", url: "/social-media-voor-dakdekkers" },
-            { text: "Reviews voor Dakdekkers", url: "/reviews-voor-dakdekkers" },
+            { text: "Chatbot voor Dakdekkers", url: "/chatbot" },
+            { text: "Voice AI voor Dakdekkers", url: "/voice-ai" },
+            { text: "SEO voor Dakdekkers", url: "/seo" },
+            { text: "Social Media voor Dakdekkers", url: "/social-media" },
+            { text: "Reviews voor Dakdekkers", url: "/reviews" },
             { text: "Review Pakket", url: "/review-pakket" },
         ]
     },
