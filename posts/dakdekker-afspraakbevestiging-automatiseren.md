@@ -2,11 +2,11 @@
 title: "Afspraakbevestigingen als dakdekker automatiseren"
 excerpt: "Klanten vergeten afspraken, jij verliest een halve werkdag. Automatische afspraakbevestigingen via WhatsApp voorkomen no-shows en besparen je uren per week."
 date: "2026-04-19"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-afspraakbevestiging-automatiseren.jpg"
 tags: ["Automatisering", "Planning", "Groei"]
 ---
-
 ## De verborgen kosten van vergeten afspraken
 
 Je rijdt naar een klus, maar niemand is thuis. De klant was het vergeten. Of erger: je hebt materiaal besteld, een steiger laten plaatsen en een hele ochtend geblokt. Eén gemiste afspraak kost een dakdekker al snel €200-400 aan verloren arbeidstijd, materiaalkosten en gereden kilometers.

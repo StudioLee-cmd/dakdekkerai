@@ -2,11 +2,11 @@
 title: "CRM voor dakdekkers: welke klantgegevens leveren herhaalopdrachten op"
 excerpt: "De 7 klantgegevens die elke dakdekker in zijn CRM moet vastleggen, plus hoe je die data automatisch omzet naar herhaalopdrachten en onderhoudsklussen."
 date: "2026-04-22"
+cluster: "crm-klantbeheer"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/crm-dakdekker-klantgegevens-herhaalopdrachten.jpg"
 tags: ["Dakdekker", "CRM", "Automatisering", "Klantbeheer"]
 ---
-
 Een klant belt. Hij is drie jaar geleden bij je geweest voor een bitumen-reparatie op een plat dak in Rotterdam. Weet je nog welke rol bitumen je hebt gelegd? Welke garantie erop zit? Wanneer het onderhoud aanbevolen is? De meeste dakdekkers moeten dan door hun WhatsApp scrollen, een oude factuur zoeken of simpelweg gokken. Dat is geen slechte administratie, dat is een ontbrekend systeem.
 
 Een CRM is niets anders dan "klanten niet vergeten". Geen ingewikkeld softwarepakket met honderd functies, maar een gestructureerde plek waar de juiste klantgegevens staan, zodat elke klant die drie jaar geleden bij je was, morgen weer een opdracht kan worden. In deze gids staat welke zeven klantgegevens je als dakdekker moet vastleggen, hoe je ze organiseert, en welke automatische signalen er tussen moeten zitten om van een CRM een groei-machine te maken.

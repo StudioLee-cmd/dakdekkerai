@@ -2,11 +2,11 @@
 title: "No-show kosten berekenen als dakdekker: wat kost een gemiste afspraak je echt?"
 excerpt: "Elke no-show kost je als dakdekker honderden euro's aan verloren uren en brandstof. Bereken je verlies en voorkom het."
 date: "2026-04-10"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-dakdekker-gemiste-afspraak.jpg"
 tags: ["No-shows", "Dakdekker", "Kosten"]
 ---
-
 ## Wat kost een no-show je als dakdekker echt
 
 Je bent om half acht vertrokken, gereedschap in de bus, ladder op het rek. Onderweg gebeld met de klant, geen gehoor. Bij het adres aangekomen: niemand thuis. Geen briefje, geen bericht. Je rijdt terug naar de werkplaats, anderhalf uur later, zonder een tegel te hebben gelegd.

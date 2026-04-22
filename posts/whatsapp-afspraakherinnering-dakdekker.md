@@ -2,11 +2,11 @@
 title: "WhatsApp afspraakherinnering voor dakdekkers: no-shows weg"
 excerpt: "Minder no-shows bij inspecties en offerteafspraken? Zo zet je automatische WhatsApp afspraakherinneringen op voor je dakdekkersbedrijf, stap voor stap."
 date: "2026-04-16"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-afspraakherinnering-dakdekker.jpg"
 tags: ["WhatsApp", "Herinneringen", "Dakdekker"]
 ---
-
 ## Waarom een dakdekker meer no-shows heeft dan je denkt
 
 Je staat zaterdagochtend om 09:30 voor de deur in Rotterdam-Zuid voor een offerteafspraak. Ladder op de auto, koffie in de bekerhouder, twee uur uitgetrokken om het dak goed te bekijken. Niemand thuis. Je belt drie keer, geen reactie. Een uur later komt de WhatsApp: "Sorry, was vergeten dat het vandaag was."

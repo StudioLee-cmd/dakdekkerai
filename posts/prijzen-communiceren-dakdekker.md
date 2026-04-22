@@ -2,11 +2,11 @@
 title: "Prijzen communiceren als dakdekker: transparant en toch winstgevend"
 excerpt: "Klanten willen weten wat het kost. Maar hoe communiceer je prijzen als dakdekker zonder jezelf tekort te doen? Tips voor transparante en winstgevende prijscommunicatie."
 date: "2026-04-05"
+cluster: "prijzen-communiceren"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-communiceren-dakdekker.jpg"
 tags: ["Prijzen", "Dakdekker", "Verkoop"]
 ---
-
 ## "Wat kost een nieuw dak?"
 
 Het is de eerste vraag die elke potentiële klant stelt. En het is de vraag waar de meeste dakdekkers mee worstelen. Te laag en je werkt jezelf in de verliezen. Te hoog en de klant belt de volgende. Geen antwoord geven en ze haken af.

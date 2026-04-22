@@ -2,11 +2,11 @@
 title: "Online leads genereren als dakdekker: 7 kanalen die werken"
 excerpt: "Afhankelijk van Werkspot of mond-tot-mond? Ontdek 7 online kanalen waarmee dakdekkers zelf leads genereren zonder commissie."
 date: "2026-04-07"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-online-leads-genereren.jpg"
 tags: ["Leads", "Dakdekker", "Marketing"]
 ---
-
 ## Weg van de afhankelijkheid: zelf leads genereren
 
 De meeste dakdekkersbedrijven starten met Werkspot. Het werkt: je krijgt aanvragen, je doet offertes, en als het meezit win je een paar klussen per week. Maar elke aanvraag kost je credits, de concurrentie is moordend, en de klant vergelijkt je op prijs in plaats van kwaliteit.

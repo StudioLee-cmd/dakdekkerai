@@ -2,11 +2,11 @@
 title: "Negatieve reviews als dakdekker: zo handel je ze professioneel af"
 excerpt: "Een negatieve review op Google voelt als een klap, maar ze hoeven je bedrijf niet te schaden. Lees hoe je ze juist gebruikt voor groei."
 date: "2026-04-08"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-reviews-dakdekker-omgaan.jpg"
 tags: ["Reviews", "Dakdekker", "Klantcommunicatie"]
 ---
-
 ## Waarom een negatieve review niet het einde is
 
 Je opent Google en ziet 'm staan: één ster, een kwade tekst over een dak dat lekt na drie weken, en de naam van een klant die je nog goed herinnert. Je eerste reactie? Boos worden. Tweede reactie? Negeren en hopen dat-ie wegzakt.

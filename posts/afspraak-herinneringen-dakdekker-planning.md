@@ -2,11 +2,11 @@
 title: "Afspraakherinneringen als dakdekker: zo houd je je planning op orde"
 excerpt: "Automatische afspraakherinneringen via WhatsApp en SMS besparen dakdekkers uren per week en halveren het aantal no-shows."
 date: "2026-04-15"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-dakdekker-planning.jpg"
 tags: ["Planning", "No-shows", "Automatisering"]
 ---
-
 Je hebt de hele ochtend vrijgehouden voor een dakinspectie. Materiaal in de bus, ladder op het rek, route uitgestippeld. Je belt de klant twintig minuten van tevoren. Voicemail. Bij aankomst is er niemand. Drie uur verspild aan een afspraak die de klant simpelweg vergeten was.
 
 Dit overkomt dakdekkers vaker dan je denkt. Niet omdat klanten onbetrouwbaar zijn, maar omdat een afspraak die twee weken geleden is gemaakt, makkelijk wegzakt in een drukke agenda. De oplossing is simpeler dan je verwacht: automatische herinneringen.

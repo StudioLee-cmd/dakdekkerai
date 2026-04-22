@@ -2,11 +2,11 @@
 title: "Offertes opvolgen als dakdekker: van offerte naar opdracht"
 excerpt: "Stuur je offertes maar hoor je niks terug? Leer hoe je als dakdekker je offertes opvolgt zonder opdringerig te zijn."
 date: "2026-04-12"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-opvolgen-dakdekker-meer-opdrachten.jpg"
 tags: ["Leads", "Offertes", "Groei"]
 ---
-
 ## De meeste offertes sterven in stilte
 
 Je bent op het dak geweest, hebt de schade bekeken, een nette offerte gestuurd. Dan wordt het stil. Na een week hoor je niks. Na twee weken begin je te twijfelen. Heeft de klant een ander gevonden? Was de prijs te hoog? Of is de offerte simpelweg vergeten in de inbox?

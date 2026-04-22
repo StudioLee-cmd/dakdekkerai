@@ -2,11 +2,11 @@
 title: "Review strategie voor dakdekkers: van klus naar 5 sterren"
 excerpt: "Goede reviews zijn goud waard voor dakdekkers. Ontdek een slimme review strategie die je automatisch meer Google-beoordelingen oplevert na elke klus."
 date: "2026-04-03"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-dakdekker.jpg"
 tags: ["Reviews", "Review strategie", "Dakdekker", "Google Reviews"]
 ---
-
 ## Waarom reviews voor dakdekkers extra belangrijk zijn
 
 Dakwerk is duur en onzichtbaar. Een klant kan het eindresultaat niet beoordelen — hij ziet alleen de factuur. Reviews van andere klanten zijn daarom het enige dat hem gerust stelt. Vijf sterren van twintig klanten zegt meer dan je mooiste offerte.

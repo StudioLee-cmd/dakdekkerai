@@ -2,11 +2,11 @@
 title: "Google Bedrijfsprofiel foto's als dakdekker: welke werken?"
 excerpt: "De juiste foto's op je Google profiel trekken meer klanten. Ontdek welke foto's als dakdekker het best werken en welke je beter kunt vermijden."
 date: "2026-04-17"
+cluster: "google-bedrijfsprofiel"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-profiel-fotos-dakdekker.jpg"
 tags: ["Google", "Bedrijfsprofiel", "Vindbaarheid"]
 ---
-
 ## Waarom foto's op je Google profiel ertoe doen
 
 Wanneer iemand zoekt op "dakdekker in de buurt" verschijnt je Google Bedrijfsprofiel met een foto bovenaan. Die foto bepaalt in een fractie van een seconde of de zoeker doorklikt naar jouw profiel of naar dat van de concurrent ernaast. Profielen met foto's krijgen 42 procent meer routebeschrijvingen en 35 procent meer klikken naar de website dan profielen zonder.

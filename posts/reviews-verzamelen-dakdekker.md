@@ -2,11 +2,11 @@
 title: "Reviews verzamelen als dakdekker: automatisch meer sterren"
 excerpt: "Dakdekkers met meer dan 20 Google reviews krijgen tot 3x meer aanvragen. Leer hoe je reviews automatisch verzamelt na elke klus."
 date: "2026-04-06"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-dakdekker.jpg"
 tags: ["Reviews", "Dakdekker", "Google"]
 ---
-
 ## Waarom reviews het verschil maken bij dakdekkers
 
 Als iemand een dakdekker zoekt, is de eerste stap bijna altijd Google. En wat ziet die zoeker? Een lijst met dakdekkers, sommige met 5 reviews, andere met 50. Bij wie denk je dat ze bellen?

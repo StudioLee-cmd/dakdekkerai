@@ -2,11 +2,11 @@
 title: "Administratie dakdekker: 6 uur per week besparen"
 excerpt: "Administratie als dakdekker: waar de uren echt naartoe gaan en welke zes processen je kunt automatiseren zonder personeel aan te nemen."
 date: "2026-04-21"
+cluster: "administratie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-dakdekker-uren-besparen.jpg"
 tags: ["Dakdekker", "Administratie", "Automatisering", "Efficiëntie"]
 ---
-
 Vraag een solo-dakdekker hoeveel uur hij per week kwijt is aan administratie en het antwoord is meestal "geen idee, maar te veel". Een eerlijke meting komt vrijwel altijd uit op zes tot twaalf uur per week: offertes tikken, WhatsApps over en weer, facturen maken, achter betalingen aan bellen, klussen inplannen, reviews vragen. Dat is bijna een extra werkdag per week die niet op een dak besteed wordt.
 
 Personeel aannemen lost het zelden op — de eerste fulltime medewerker kost je 45.000 euro per jaar en brengt nieuwe administratieve lasten met zich mee. Wat wel werkt: zes processen die elk een uur per week inleveren, zonder dat je iemand hoeft in te werken. In deze gids loop ik elk van die zes stuk voor stuk door, met het concrete automatiseringssysteem erachter.

@@ -2,11 +2,11 @@
 title: "Je dakdekkerswebsite als offerte-machine: 5 verbeteringen"
 excerpt: "Je website krijgt bezoekers maar geen offerteaanvragen? Deze vijf verbeteringen maken van je dakdekkerswebsite een lead-generator."
 date: "2026-04-18"
+cluster: "website-conversie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekkerswebsite-offerte-machine.jpg"
 tags: ["Website", "Conversie", "Leads"]
 ---
-
 ## Bezoekers die vertrekken zonder te bellen
 
 Je website krijgt bezoekers. Google Analytics laat zien dat er elke week tientallen mensen op je site komen. Maar het telefoon gaat niet vaker, de inbox blijft stil en het offerteformulier verzamelt stof. Het probleem zit niet in je vakmanschap. Het probleem zit in hoe je website die bezoekers opvangt.

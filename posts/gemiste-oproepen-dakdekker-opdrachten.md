@@ -2,11 +2,11 @@
 title: "Gemiste oproepen als dakdekker: hoeveel opdrachten mis je?"
 excerpt: "Elke gemiste oproep is een potentiële klus die naar de concurrent gaat. Ontdek hoeveel het je kost en hoe je het oplost."
 date: "2026-04-17"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-oproepen-dakdekker-opdrachten.jpg"
 tags: ["Bereikbaarheid", "Voice AI", "Opdrachten"]
 ---
-
 ## Op het dak ben je niet bereikbaar
 
 Als dakdekker sta je het grootste deel van de dag op een dak. Je handen zitten vol kit, je draagt handschoenen en je telefoon zit in je broekzak of beneden in de bus. Als die rinkelt, neem je niet op. Logisch, je kunt niet halverwege een rij dakpannen stoppen om een telefoontje aan te nemen.

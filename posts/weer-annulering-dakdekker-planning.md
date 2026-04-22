@@ -2,11 +2,11 @@
 title: "Slecht weer als dakdekker: zo houd je je planning overeind"
 excerpt: "Regen en wind gooien je planning in de war. Ontdek hoe je als dakdekker weergerelateerde uitval beheert en je week productief houdt."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/weer-annulering-dakdekker-planning.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 ---
-
 ## Het weer bepaalt je werkweek
 
 Als dakdekker werk je buiten. Dat betekent dat je planning afhankelijk is van iets waar je geen controle over hebt: het weer. Een voorspelde regenweek kan drie geplande projecten in de war gooien. Storm maakt werken op hoogte onmogelijk. En natte dakpannen zijn te glad om veilig op te lopen.

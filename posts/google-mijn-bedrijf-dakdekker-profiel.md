@@ -2,11 +2,11 @@
 title: "Google Mijn Bedrijf als dakdekker: het profiel dat werkt"
 excerpt: "Je Google Bedrijfsprofiel is het eerste wat klanten zien. Ontdek hoe je als dakdekker je profiel optimaliseert en meer aanvragen binnenhaalt."
 date: "2026-04-11"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-mijn-bedrijf-dakdekker-profiel.jpg"
 tags: ["Vindbaarheid", "Google", "Groei"]
 ---
-
 ## Waarom je Google Bedrijfsprofiel belangrijker is dan je website
 
 Als iemand zoekt naar "dakdekker [plaatsnaam]" toont Google eerst het lokale drieluik: drie bedrijven met hun adres, reviews en telefoonnummer. Pas daarna komen de reguliere zoekresultaten met websites. De meeste mensen bellen direct vanuit dat drieluik zonder ooit je website te bezoeken.

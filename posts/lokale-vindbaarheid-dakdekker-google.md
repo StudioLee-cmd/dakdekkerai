@@ -2,11 +2,11 @@
 title: "Lokale vindbaarheid als dakdekker via Google"
 excerpt: "Hoe word je als dakdekker gevonden door klanten in je regio? Praktische tips voor een hogere Google-ranking en meer dakklussen."
 date: "2026-04-04"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-dakdekker-google.jpg"
 tags: ["SEO", "Vindbaarheid", "Dakdekker"]
 ---
-
 ## Waarom online vindbaarheid cruciaal is voor dakdekkers
 
 Een lekkend dak wacht niet. Wanneer een huiseigenaar waterschade ontdekt, pakt hij de telefoon en zoekt op 'dakdekker in de buurt' of 'daklekkage reparatie spoed'. Wie bovenaan staat in Google Maps, krijgt de klus. Wie er niet staat, wordt niet eens overwogen.

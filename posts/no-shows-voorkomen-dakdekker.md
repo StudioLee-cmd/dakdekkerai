@@ -2,11 +2,11 @@
 title: "No-shows voorkomen als dakdekker: klanten die wél thuisblijven"
 excerpt: "Niets frustrerender dan voor een dichte deur staan. Zo voorkom je no-shows als dakdekker met automatische herinneringen en slimme planning."
 date: "2026-04-05"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-dakdekker.jpg"
 tags: ["No-shows", "Dakdekker", "Planning"]
 ---
-
 ## De rit voor niks
 
 Je hebt het busje beladen met materiaal, bent 40 minuten gereden naar de klant en niemand doet open. De afspraak stond al twee weken in de planning, maar de bewoner was het vergeten. Of erger: ze waren "even boodschappen doen" en dachten dat het wel goed zou komen.

@@ -2,11 +2,11 @@
 title: "Dakdekkersbedrijf automatiseren: van offerte tot factuur"
 excerpt: "Dakdekkers besteden te veel tijd aan offertes, planning en facturatie. Ontdek hoe automatisering je bedrijf efficiënter maakt."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekkersbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Dakdekker", "Bedrijfsvoering"]
 ---
-
 ## Meer tijd op het dak, minder achter het bureau
 
 Als dakdekker wil je op het dak staan, niet achter een bureau. Maar de realiteit is dat je minstens een kwart van je werkweek kwijt bent aan administratieve taken: offertes schrijven, planning bijhouden, facturen versturen, materiaallijsten opstellen en klanten bellen over afspraken.

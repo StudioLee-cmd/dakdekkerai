@@ -2,11 +2,11 @@
 title: "No-shows bij dakdekklussen voorkomen"
 excerpt: "Klant niet bereikbaar op de afgesproken dag? No-shows kosten dakdekkers tijd en geld. Leer hoe je afspraken betrouwbaarder maakt met slimme herinneringen en planning."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-dakdekker-voorkomen.jpg"
 tags: ["No-shows", "Planning", "Dakdekker"]
 ---
-
 ## Waarom no-shows extra vervelend zijn voor dakdekkers
 
 Een schilder kan binnen een paar minuten zijn spullen inpakken als een klant niet thuis is. Als dakdekker sta je er anders voor. Je hebt misschien een steiger laten plaatsen, materiaal besteld en een team samengesteld. Een no-show kost je niet alleen een dagdeel — het verstoort je hele weekplanning.
