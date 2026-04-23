@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Dakdekkers',
     siteUrl: 'https://www.dakdekkerai.nl/',
     metadata: {
-        title: 'Dakdekker AI - De slimme assistent voor jouw dakdekkersbedrijf',
+        title: 'DakdekkerAI - AI voor jouw dakdekkersbedrijf',
         description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-NL',
