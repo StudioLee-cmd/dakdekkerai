@@ -35,6 +35,8 @@ In de praktijk: gebruik Posts voor je marketing en aankondigingen, gebruik Q&A a
 
 ## 5 post-types die voor dakdekkers consistent werken
 
+![Dakdekker met klembord op een Nederlands hellend dak, naast nieuwe pannen en een aluminium ladder](/images/blog/google-bedrijfsprofiel-posts-dakdekker-weekplanning-2.jpg)
+
 Niet alle posts presteren gelijk. Op basis van wat we zien in dakdekker-profielen die in de top-3 staan, werken vijf typen consistent. De andere — algemene "we zijn open"-posts, jubileum-aankondigingen, vacatures — geven minder ranking-impact en lagere klik-doorvoer.
 
 ### 1. Review-spotlight (de social-proof loop)
