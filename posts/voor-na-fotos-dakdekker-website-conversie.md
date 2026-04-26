@@ -1,6 +1,6 @@
 ---
 title: "Voor-en-na foto's op je dakdekker-website"
-excerpt: "Voor-en-na foto's op je dakdekker-website verhogen conversie met tientallen procenten, mits je ze goed maakt. Compositie, plaatsing en de fouten die je moet vermijden."
+excerpt: "Voor-en-na foto's op je dakdekker-website verhogen conversie tientallen procenten. Compositie, plaatsing en de fouten die je moet vermijden."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voor-na-fotos-dakdekker-website-conversie.jpg"
