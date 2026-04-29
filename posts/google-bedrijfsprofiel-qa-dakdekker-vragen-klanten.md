@@ -4,6 +4,9 @@ slug: google-bedrijfsprofiel-qa-dakdekker-vragen-klanten
 date: 2026-04-29
 cluster: google-bedrijfsprofiel
 excerpt: "De Q&A-sectie op je Google Bedrijfsprofiel als dakdekker invullen met de vragen die klanten echt stellen plus 12 kant-en-klare antwoord-templates."
+image: "/images/blog/google-bedrijfsprofiel-qa-dakdekker-vragen-klanten.jpg"
+authorSlug: "tim-van-der-lee"
+tags: ["Google Bedrijfsprofiel", "Q&A", "Lokale SEO", "Dakdekker"]
 ---
 
 # Google Bedrijfsprofiel Q&A invullen als dakdekker: vragen die klanten echt stellen
