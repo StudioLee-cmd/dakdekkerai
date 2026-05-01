@@ -1,7 +1,7 @@
 ---
 title: "Dakdekker website laten maken: DIY, bureau of AI?"
 slug: dakdekker-website-diy-bureau-of-ai
-date: 2026-05-01
+date: "2026-05-01"
 excerpt: "Dakdekker website laten maken in 2026? Vergelijk DIY, webbureau en AI-platform: kosten, snelheid, vindbaarheid en wat het oplevert."
 image: "/images/blog/dakdekker-website-diy-bureau-of-ai.jpg"
 authorSlug: "tim-van-der-lee"
