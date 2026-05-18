@@ -2,7 +2,7 @@
 title: "Review strategie voor dakdekkers: van klus naar 5 sterren"
 excerpt: "Goede reviews zijn goud waard voor dakdekkers. Ontdek een slimme review strategie die je automatisch meer Google-beoordelingen oplevert na elke klus."
 date: "2026-04-03"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-dakdekker.jpg"
 tags: ["Reviews", "Review strategie", "Dakdekker", "Google Reviews"]

@@ -6,7 +6,7 @@ excerpt: "Stormschade-leads opvolgen als dakdekker: de 5-minuten stack met AI-te
 image: "/images/blog/stormschade-leads-opvolgen-dakdekker-5-minuten-automation-lead-opvolging.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Lead-opvolging", "Stormschade", "Reactietijd", "Automatisering", "Dakdekker"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 **In het kort:**

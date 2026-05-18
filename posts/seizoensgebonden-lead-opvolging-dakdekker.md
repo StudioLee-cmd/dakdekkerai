@@ -2,7 +2,7 @@
 title: "Seizoensgebonden lead opvolging als dakdekker: storm, najaar en voorjaar benutten"
 excerpt: "Na storm, in het najaar en voorjaar stromen aanvragen binnen. Dakdekkers die hun opvolging aanpassen aan het seizoen, winnen meer klussen."
 date: "2026-04-09"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensgebonden-lead-opvolging-dakdekker.jpg"
 tags: ["Lead opvolging", "Dakdekker", "Seizoenswerk"]

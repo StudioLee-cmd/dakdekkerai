@@ -4,7 +4,7 @@ excerpt: "Voor-en-na foto's op je dakdekker-website verhogen conversie tientalle
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voor-na-fotos-dakdekker-website-conversie.jpg"
-cluster: "website-conversie"
+cluster: "website"
 tags: ["Website Conversie", "Portfolio", "Dakdekker Marketing"]
 ---
 

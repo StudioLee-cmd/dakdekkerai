@@ -2,7 +2,7 @@
 title: "Slecht weer als dakdekker: zo houd je je planning overeind"
 excerpt: "Regen en wind gooien je planning in de war. Ontdek hoe je als dakdekker weergerelateerde uitval beheert en je week productief houdt."
 date: "2026-04-12"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/weer-annulering-dakdekker-planning.jpg"
 tags: ["No-shows", "Planning", "Groei"]

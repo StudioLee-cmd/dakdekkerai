@@ -2,7 +2,7 @@
 title: "Dakdekkersbedrijf automatiseren: van offerte tot factuur"
 excerpt: "Dakdekkers besteden te veel tijd aan offertes, planning en facturatie. Ontdek hoe automatisering je bedrijf efficiënter maakt."
 date: "2026-04-06"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekkersbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Dakdekker", "Bedrijfsvoering"]

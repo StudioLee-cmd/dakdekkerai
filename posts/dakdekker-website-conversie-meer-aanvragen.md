@@ -5,7 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen.png"
 tags: ["Dakdekker", "Website", "Conversie"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 ## Je website trekt bezoekers, maar geen klanten

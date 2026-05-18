@@ -6,7 +6,7 @@ excerpt: "Welke 5 keurmerken consumenten echt checken voordat ze een dakdekker k
 image: "/images/blog/erkende-dakdekker-vertrouwen-keurmerken-bouwen.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Branding", "Vertrouwen", "Keurmerken", "Dakdekker"]
-cluster: "branding"
+cluster: "website"
 ---
 
 **In het kort:**

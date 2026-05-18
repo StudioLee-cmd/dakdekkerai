@@ -5,7 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-dakdekker.png"
 tags: ["online reputatie", "dakdekker", "reviews"]
-cluster: "online-reputatie"
+cluster: "reviews"
 ---
 
 Wanneer een huiseigenaar een dakdekker zoekt, googelt die persoon eerst. Ze zien sterren, reviews en foto's. In 30 seconden beslissen ze of ze jou bellen of doorscrollen. Je online reputatie is het eerste filter.

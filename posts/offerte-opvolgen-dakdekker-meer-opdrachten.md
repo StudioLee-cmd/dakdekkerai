@@ -2,7 +2,7 @@
 title: "Offertes opvolgen als dakdekker: van offerte naar opdracht"
 excerpt: "Stuur je offertes maar hoor je niks terug? Leer hoe je als dakdekker je offertes opvolgt zonder opdringerig te zijn."
 date: "2026-04-12"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-opvolgen-dakdekker-meer-opdrachten.jpg"
 tags: ["Leads", "Offertes", "Groei"]

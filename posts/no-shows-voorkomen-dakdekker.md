@@ -2,7 +2,7 @@
 title: "No-shows voorkomen als dakdekker: klanten die wél thuisblijven"
 excerpt: "Niets frustrerender dan voor een dichte deur staan. Zo voorkom je no-shows als dakdekker met automatische herinneringen en slimme planning."
 date: "2026-04-05"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-dakdekker.jpg"
 tags: ["No-shows", "Dakdekker", "Planning"]

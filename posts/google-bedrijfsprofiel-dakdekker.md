@@ -5,7 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-dakdekker.png"
 tags: ["google bedrijfsprofiel", "dakdekker", "lokale marketing"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 Wanneer iemand zoekt op "dakdekker in de buurt" of "daklekkage reparatie [stad]", toont Google eerst de kaartresultaten. Daar staan drie bedrijven — met sterren, afstand en een directe belknop. Als jij daar niet tussen staat, mis je de meest waardevolle leads die er zijn.

@@ -6,7 +6,7 @@ excerpt: "Hoe een dakdekker met een tablet en de juiste software een werkbon plu
 image: "/images/blog/werkbon-op-het-dak-tablet-garantie-rapport-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Administratie", "Werkbon", "Tablet", "Dakdekker", "Garantie"]
-cluster: "administratie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

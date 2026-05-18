@@ -2,7 +2,7 @@
 title: "Het beste moment om een review te vragen na een dakklus"
 excerpt: "Timing bepaalt of een klant een review achterlaat. Ontdek wanneer je als dakdekker het beste kunt vragen en welke momenten je moet vermijden."
 date: "2026-04-14"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-timing-dakdekker.jpg"
 tags: ["Reviews", "Klantrelatie", "Dakdekker Tips"]

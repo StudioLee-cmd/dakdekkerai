@@ -7,7 +7,7 @@ image: "/images/blog/offertes-dakdekker-sneller-reageren.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["offertes", "dakdekker", "bedrijfsvoering"]
-cluster: "offerte-proces"
+cluster: "automatisering"
 ---
 
 ## Waarom snelheid alles is bij dakwerk

@@ -2,7 +2,7 @@
 title: "Afspraakbevestigingen als dakdekker automatiseren"
 excerpt: "Klanten vergeten afspraken, jij verliest een halve werkdag. Automatische afspraakbevestigingen via WhatsApp voorkomen no-shows en besparen je uren per week."
 date: "2026-04-19"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-afspraakbevestiging-automatiseren.jpg"
 tags: ["Automatisering", "Planning", "Groei"]

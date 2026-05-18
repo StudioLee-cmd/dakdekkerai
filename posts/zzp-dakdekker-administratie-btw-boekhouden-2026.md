@@ -6,7 +6,7 @@ excerpt: "Wat een ZZP dakdekker in 2026 minimaal moet weten over BTW, zelfstandi
 image: "/images/blog/zzp-dakdekker-administratie-btw-boekhouden-2026.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Administratie", "ZZP", "BTW", "Boekhouden", "Dakdekker"]
-cluster: "administratie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

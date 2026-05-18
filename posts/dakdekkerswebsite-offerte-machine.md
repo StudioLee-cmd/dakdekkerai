@@ -2,7 +2,7 @@
 title: "Je dakdekkerswebsite als offerte-machine: 5 verbeteringen"
 excerpt: "Je website krijgt bezoekers maar geen offerteaanvragen? Deze vijf verbeteringen maken van je dakdekkerswebsite een lead-generator."
 date: "2026-04-18"
-cluster: "website-conversie"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekkerswebsite-offerte-machine.jpg"
 tags: ["Website", "Conversie", "Leads"]

@@ -5,7 +5,7 @@ date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-google-maps-ranking-factoren.jpg"
 tags: ["Google Maps", "Local SEO", "Dakdekker"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 Iemand in jouw stad Googelt "dakdekker [plaatsnaam]". De eerste drie bedrijven op Google Maps krijgen samen 70 procent van de klikken. De nummer vier, vijf en zes: bij elkaar ongeveer 15 procent. Staat jouw dakdekkersbedrijf niet in de top-3, dan mis je structureel leads, zonder dat je het in de gaten hebt.

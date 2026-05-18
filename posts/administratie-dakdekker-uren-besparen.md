@@ -2,7 +2,7 @@
 title: "Administratie dakdekker: 6 uur per week besparen"
 excerpt: "Administratie als dakdekker: waar de uren echt naartoe gaan en welke zes processen je kunt automatiseren zonder personeel aan te nemen."
 date: "2026-04-21"
-cluster: "administratie"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-dakdekker-uren-besparen.jpg"
 tags: ["Dakdekker", "Administratie", "Automatisering", "Efficiëntie"]

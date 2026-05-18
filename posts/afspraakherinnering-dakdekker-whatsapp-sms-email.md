@@ -2,7 +2,7 @@
 title: "Afspraakherinneringen dakdekker: WhatsApp, SMS of e-mail"
 excerpt: "Afspraakherinneringen voor dakdekkers: wanneer kies je WhatsApp, SMS of e-mail? Praktische keuze met kosten, voorbeelden en multi-channel mix."
 date: "2026-04-28"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinnering-dakdekker-whatsapp-sms-email.jpg"
 tags: ["Dakdekker", "Afspraakherinneringen", "WhatsApp", "SMS", "Klantcommunicatie"]

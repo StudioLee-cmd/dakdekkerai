@@ -2,7 +2,7 @@
 title: "Google Bedrijfsprofiel foto's als dakdekker: welke werken?"
 excerpt: "De juiste foto's op je Google profiel trekken meer klanten. Ontdek welke foto's als dakdekker het best werken en welke je beter kunt vermijden."
 date: "2026-04-17"
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-profiel-fotos-dakdekker.jpg"
 tags: ["Google", "Bedrijfsprofiel", "Vindbaarheid"]

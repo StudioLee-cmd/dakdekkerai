@@ -5,7 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-dakdekkers.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
-cluster: ""
+cluster: "voice-ai"
 ---
 
 Het meest frustrerende moment voor een dakdekker? Je staat net met een rol bitumen in je handen, of erger nog, je balanceert op een nokvorst. En de telefoon gaat. Je kunt niet opnemen. Het is onveilig en onhandig. Je laat hem gaan.

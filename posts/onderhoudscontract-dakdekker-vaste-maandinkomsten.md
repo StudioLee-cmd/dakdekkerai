@@ -6,7 +6,7 @@ excerpt: "Hoe je als dakdekker eenmalige reparaties omzet in vaste maandinkomste
 image: "/images/blog/onderhoudscontract-dakdekker-vaste-maandinkomsten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Onderhoudscontract", "Recurring", "Seizoenswerk", "Klantbehoud"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 **In het kort:**

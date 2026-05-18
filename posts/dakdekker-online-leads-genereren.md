@@ -2,7 +2,7 @@
 title: "Online leads genereren als dakdekker: 7 kanalen die werken"
 excerpt: "Afhankelijk van Werkspot of mond-tot-mond? Ontdek 7 online kanalen waarmee dakdekkers zelf leads genereren zonder commissie."
 date: "2026-04-07"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-online-leads-genereren.jpg"
 tags: ["Leads", "Dakdekker", "Marketing"]

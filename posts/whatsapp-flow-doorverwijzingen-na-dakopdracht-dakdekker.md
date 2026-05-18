@@ -6,7 +6,7 @@ excerpt: "Vraag systematisch om doorverwijzingen via WhatsApp na elke dakopdrach
 image: "/images/blog/whatsapp-flow-doorverwijzingen-na-dakopdracht-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Mond-tot-mondreclame", "WhatsApp", "Marketing", "Dakdekker"]
-cluster: "mond-tot-mondreclame"
+cluster: "branding"
 ---
 
 **In het kort:**

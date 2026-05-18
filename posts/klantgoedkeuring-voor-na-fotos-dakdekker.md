@@ -6,7 +6,7 @@ excerpt: "Voor-na fotos zonder toestemming publiceren kan AVG-boetes en imagosch
 image: "/images/blog/klantgoedkeuring-voor-na-fotos-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Website", "AVG", "Portfolio"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 Een dakdekker uit de Achterhoek deelde vorig jaar trots de voor-na fotos van een nieuw schaaldak op zijn website en Instagram. Twee weken later kreeg hij een mail van de buurman van de opdrachtgever: "Mijn vrouw staat herkenbaar in beeld op uw foto. Wij hebben hier nooit toestemming voor gegeven. Verwijder de foto binnen 24 uur, anders melden wij dit bij de Autoriteit Persoonsgegevens." Resultaat: foto offline, klant geïrriteerd, Google-recensie van 1 ster van de buurman, en weken stress.

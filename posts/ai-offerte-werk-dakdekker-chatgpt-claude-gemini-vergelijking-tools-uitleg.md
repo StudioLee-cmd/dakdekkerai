@@ -6,7 +6,7 @@ excerpt: "AI in offerte-werk voor dakdekkers: 4 use-cases met ChatGPT, Claude en
 image: "/images/blog/ai-offerte-werk-dakdekker-chatgpt-claude-gemini-vergelijking-tools-uitleg.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Tools-uitleg", "AI", "ChatGPT", "Claude", "Gemini", "Offerte", "Dakdekker"]
-cluster: "tools-uitleg"
+cluster: "automatisering"
 ---
 
 **In het kort:**

@@ -2,7 +2,7 @@
 title: "Google Bedrijfsprofiel-posts voor dakdekkers: weekplanning"
 excerpt: "Posts op je Google Bedrijfsprofiel zijn een onderbenutte ranking-versterker. Zo bouw je als dakdekker een 7-daagse contentkalender die de top-3 vasthoudt."
 date: "2026-04-25"
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-posts-dakdekker-weekplanning.jpg"
 tags: ["Dakdekker", "Google Bedrijfsprofiel", "Lokale SEO", "Content"]

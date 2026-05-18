@@ -2,7 +2,7 @@
 title: "Afspraakherinneringen als dakdekker: zo houd je je planning op orde"
 excerpt: "Automatische afspraakherinneringen via WhatsApp en SMS besparen dakdekkers uren per week en halveren het aantal no-shows."
 date: "2026-04-15"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-dakdekker-planning.jpg"
 tags: ["Planning", "No-shows", "Automatisering"]
