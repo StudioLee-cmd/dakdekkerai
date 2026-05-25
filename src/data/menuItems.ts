@@ -12,6 +12,7 @@ export const menuItems: IMenuItem[] = [
             { text: "Reviews voor Dakdekkers", url: "/reviews" },
             { text: "Review Pakket", url: "/review-pakket" },
             { text: "CRM voor Dakdekkers", url: "/crm" },
+            { text: "Automatisering voor Dakdekkers", url: "/automatisering" },
         ]
     },
     {
