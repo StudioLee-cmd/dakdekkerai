@@ -22,6 +22,7 @@ export const footerDetails: {
         { text: "Reviews voor Dakdekkers", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Dakdekkers", url: "/crm" },
+        { text: "Automatisering voor Dakdekkers", url: "/automatisering" },
     ],
     general: [
         { text: "Tarieven", url: "/tarieven" },
@@ -37,6 +38,7 @@ export const footerDetails: {
         { text: "Reviews voor Dakdekkers", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Dakdekkers", url: "/crm" },
+        { text: "Automatisering voor Dakdekkers", url: "/automatisering" },
         { text: "Tarieven", url: "/tarieven" },
         { text: "Gratis Scan", url: "/gratis-scan" },
         { text: "Gratis Website", url: "/gratis-website" },
