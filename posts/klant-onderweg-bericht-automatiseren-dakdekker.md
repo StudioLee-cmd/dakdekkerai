@@ -2,7 +2,7 @@
 title: "Klant onderweg-bericht automatiseren als dakdekker"
 slug: klant-onderweg-bericht-automatiseren-dakdekker
 date: "2026-06-08"
-excerpt: "Stop met handmatig elke klant appen dat je onderweg bent. Zo automatiseer je als dakdekker je 'we komen eraan'-bericht met ETA en voorkom je misritten."
+excerpt: "Stop met handmatig elke klant appen dat je onderweg bent. Zo automatiseer je als dakdekker je aankomstbericht met ETA en voorkom je dure misritten."
 image: "/images/blog/klant-onderweg-bericht-automatiseren-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Automatisering", "Klantcommunicatie", "Planning", "Dakdekker", "WhatsApp"]
