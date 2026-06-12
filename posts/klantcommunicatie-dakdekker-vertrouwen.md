@@ -16,7 +16,7 @@ Veel dakdekkers onderschatten dit. Ze focussen op het technische werk en vergete
 
 ## Voor de klus: verwachtingen managen
 
-Goede communicatie begint vóór de eerste dakpan is aangeraakt. Na het uitbrengen van je offerte — lees ook hoe je je [website laat converteren](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen) — moet je helder communiceren:
+Goede communicatie begint vóór de eerste dakpan is aangeraakt. Na het uitbrengen van je offerte — lees ook hoe je je [website laat converteren](/blog/dakdekker-website-conversie-meer-aanvragen) — moet je helder communiceren:
 
 - **Planning**: wanneer start je en hoelang duurt het werk
 - **Impact**: wat merkt de klant (steigers, lawaai, beperkte bereikbaarheid)
@@ -54,7 +54,7 @@ Je hoeft niet alles handmatig te doen. Handige tools voor dakdekkers:
 - **Projectmanagement-apps**: Trello of Notion voor het bijhouden van projectstatus
 - **Foto-documentatie**: maak voor, tijdens en na foto's — handig voor je portfolio én bij eventuele discussies
 
-Het [verduurzamen van je communicatie](/blog/verduurzaming-dakdekker-isolatie-zonnepanelen) past ook bij deze werkwijze: digitaal in plaats van papier, efficiënt en professioneel.
+Het verduurzamen van je communicatie past ook bij deze werkwijze: digitaal in plaats van papier, efficiënt en professioneel.
 
 ## Conclusie
 

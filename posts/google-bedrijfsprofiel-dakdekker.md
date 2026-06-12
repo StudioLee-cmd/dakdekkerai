@@ -32,7 +32,7 @@ Google beloont volledigheid. Hoe meer informatie je invult, hoe hoger je scoort 
 - **Adres** — je vestigingsadres of servicegebied
 - **Telefoonnummer** — direct bereikbaar, geen doorschakelnummers
 - **Openingstijden** — inclusief weekend en avonden als je die werkt
-- **Website** — link naar je [geoptimaliseerde website](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen)
+- **Website** — link naar je [geoptimaliseerde website](/blog/dakdekker-website-conversie-meer-aanvragen)
 
 ### Categorieeen kiezen
 

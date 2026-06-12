@@ -96,7 +96,7 @@ Voor een dakdekker-bedrijf met 1-3 gebruikers ligt de stack-kost rond €60 tot 
 
 **Waar te beginnen morgen:**
 1. **Week 1:** Probeer ChatGPT Plus + Claude Pro één maand. Test offerte-generatie met je laatste 5 offertes. Vergelijk de output.
-2. **Week 2-3:** Implementeer een chatbot op je website (eigen GPT/Project of via een aanbieder zoals WoningAI/DakdekkerAI met dakdekker-specifieke training).
+2. **Week 2-3:** Implementeer een chatbot op je website (eigen GPT/Project of via een aanbieder zoals DakdekkerAI met dakdekker-specifieke training).
 3. **Week 4:** Begin met spraak-naar-tekst voor werkbon-invoer. Whisper via ChatGPT app in de auto.
 4. **Maand 2:** Voeg Gemini toe als foto-analyse voor binnenkomende klant-foto's serieus volume haalt.
 

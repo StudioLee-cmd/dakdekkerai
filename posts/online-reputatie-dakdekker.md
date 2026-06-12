@@ -47,7 +47,7 @@ Met een systeem dat na elke klus automatisch een reviewverzoek stuurt, bouw je s
 
 Dakwerk is weerafhankelijk. Vertragingen door regen, onverwachte schade onder bestaande lagen — klachten kunnen voorkomen. Reageer altijd professioneel en bied een oplossing.
 
-Combineer een sterke reviewscore met [projectfoto's](/blog/portfolio-dakdekker-projectfotos) en actieve [social media](/blog/social-media-dakdekkers-projecten) voor een compleet professioneel beeld.
+Combineer een sterke reviewscore met projectfoto's en actieve [social media](/blog/social-media-dakdekkers-projecten) voor een compleet professioneel beeld.
 
 ## Reviews en prijsstelling
 

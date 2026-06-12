@@ -29,7 +29,7 @@ De verduurzamingstrend maakt groene daken populair. Gemeenten bieden subsidies, 
 
 ### 2. Zonnepaneel-integratie
 
-Steeds meer klanten willen [zonnepanelen op hun dak](/blog/verduurzaming-dakdekker-isolatie-zonnepanelen). Een dakdekker die zonnepanelen kan integreren in de dakbedekking, heeft een uniek voordeel ten opzichte van standalone installateurs.
+Steeds meer klanten willen zonnepanelen op hun dak. Een dakdekker die zonnepanelen kan integreren in de dakbedekking, heeft een uniek voordeel ten opzichte van standalone installateurs.
 
 ### 3. Monumentale panden en leien daken
 
@@ -50,7 +50,7 @@ Kies op basis van drie criteria:
 
 ### Stap 2: Bouw een portfolio
 
-Verzamel [projectfoto's](/blog/portfolio-dakdekker-projectfotos) van je beste werk in die niche. Maak voor-en-na foto's, documenteer het proces, en verzamel referenties van opdrachtgevers.
+Verzamel projectfoto's van je beste werk in die niche. Maak voor-en-na foto's, documenteer het proces, en verzamel referenties van opdrachtgevers.
 
 ### Stap 3: Communiceer je expertise
 

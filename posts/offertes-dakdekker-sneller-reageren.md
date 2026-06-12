@@ -32,7 +32,7 @@ Een goede dakdekker-offerte bevat:
 
 **5. Prijs met en zonder btw**: transparant en duidelijk. Geen verrassingen achteraf.
 
-**6. Referenties of foto's**: link naar je [portfolio](/blog/portfolio-dakdekker-projectfotos) of voeg een voor-en-na foto toe van een vergelijkbaar project.
+**6. Referenties of foto's**: link naar je portfolio of voeg een voor-en-na foto toe van een vergelijkbaar project.
 
 ## Digitale tools voor sneller offreren
 

@@ -26,7 +26,7 @@ Ja, Werkspot kost geld per lead. En ja, je concurreert met andere dakdekkers. Ma
 
 De sleutel is selectiviteit. Reageer niet op elke aanvraag, maar focus op klussen in je specialisatie en regio. Zorg dat je profiel compleet is met foto's van eerder werk en sterke reviews. Reageer snel — de eerste dakdekker die reageert wint in meer dan de helft van de gevallen.
 
-En belangrijk: gebruik Werkspot-klanten als springplank. Vraag na elke succesvolle klus om een Google-review. Zo bouw je aan je eigen online reputatie terwijl je via het platform werkt. Lees meer in ons artikel over [je website laten converteren](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen).
+En belangrijk: gebruik Werkspot-klanten als springplank. Vraag na elke succesvolle klus om een Google-review. Zo bouw je aan je eigen online reputatie terwijl je via het platform werkt. Lees meer in ons artikel over [je website laten converteren](/blog/dakdekker-website-conversie-meer-aanvragen).
 
 ## 3. Buurtapps en lokale Facebook-groepen
 

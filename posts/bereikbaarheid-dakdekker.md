@@ -53,7 +53,7 @@ Dit geldt ook voor je [offerteproces](/blog/offertes-dakdekker-sneller-reageren)
 
 ## Je website als 24/7 receptie
 
-Je [website](/blog/dakdekker-website-conversie-meer-aanvragen-meer-aanvragen) moet klanten ook buiten kantooruren verder helpen. Zorg voor:
+Je [website](/blog/dakdekker-website-conversie-meer-aanvragen) moet klanten ook buiten kantooruren verder helpen. Zorg voor:
 
 - Een duidelijk spoedformulier bovenaan de pagina
 - WhatsApp-knop voor directe berichten

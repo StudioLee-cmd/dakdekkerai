@@ -38,7 +38,7 @@ Zonnepanelen zijn booming. Maar installateurs weigeren regelmatig klussen omdat 
 
 ### 2. Bied combinatieoffertes aan
 
-Een offerte voor "dak vernieuwen + isolatie + zonnepanelen-klaar" is aantrekkelijker dan drie losse offertes. Werk samen met een [isolatiebedrijf](/blog/verduurzaming-dakdekker-isolatie-zonnepanelen) en presenteer een totaalpakket.
+Een offerte voor "dak vernieuwen + isolatie + zonnepanelen-klaar" is aantrekkelijker dan drie losse offertes. Werk samen met een isolatiebedrijf en presenteer een totaalpakket.
 
 ### 3. Deel je netwerk op je website
 
@@ -50,7 +50,7 @@ Vermeld je partners op je [website](/blog/dakdekker-website-conversie-meer-aanvr
 
 Bij woningverkoop wordt steeds vaker een bouwtechnische keuring gedaan. Dakgebreken zijn een veelvoorkomend punt. Makelaars die een betrouwbare dakdekker kennen, verwijzen door naar jou.
 
-Bied makelaars een gratis snelle dakinspectie aan bij woningen die ze verkopen. De kosten zijn minimaal, maar je bouwt een relatie op die jaren meegaat. Versterk dit met [projectfoto's](/blog/portfolio-dakdekker-projectfotos) die makelaars kunnen delen met verkopers.
+Bied makelaars een gratis snelle dakinspectie aan bij woningen die ze verkopen. De kosten zijn minimaal, maar je bouwt een relatie op die jaren meegaat. Versterk dit met projectfoto's die makelaars kunnen delen met verkopers.
 
 ## Stormschade als samenwerkingsmoment
 

@@ -61,7 +61,7 @@ Tevreden klanten zijn je beste marketing. Maar ze verwijzen alleen door als je h
 
 **Maak het tastbaar**. Overweeg een verwijzingsbeloning: een gratis gootreiniging voor elke succesvolle doorverwijzing. De kosten zijn minimaal, de opbrengst is een nieuwe klant zonder acquisitiekosten.
 
-**Laat je [portfolio](/blog/portfolio-dakdekker-projectfotos) werken**. Zet projectfoto's op je website met het type werk en de regio. Klanten die je doorverwijzen, sturen vaak de link naar je website mee.
+**Laat je portfolio werken**. Zet projectfoto's op je website met het type werk en de regio. Klanten die je doorverwijzen, sturen vaak de link naar je website mee.
 
 ## Aan de slag
 
