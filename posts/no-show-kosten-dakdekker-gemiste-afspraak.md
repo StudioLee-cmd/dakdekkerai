@@ -1,6 +1,7 @@
 ---
 title: "No-show kosten berekenen als dakdekker: wat kost een gemiste afspraak je echt?"
-excerpt: "Elke no-show kost je als dakdekker honderden euro's aan verloren uren en brandstof. Bereken je verlies en voorkom het."
+seoTitle: "No-show kosten berekenen als dakdekker"
+excerpt: "Elke no-show kost je als dakdekker honderden euro's aan verloren uren en brandstof. Bereken je verlies en voorkom het. Met rekenvoorbeeld."
 date: "2026-04-10"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

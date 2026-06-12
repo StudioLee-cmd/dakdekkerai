@@ -1,8 +1,9 @@
 ---
 title: "Email marketing voor dakdekkers: inspectieherinneringen die opdrachten opleveren"
+seoTitle: "Email marketing voor dakdekkers"
 slug: "email-marketing-dakdekker-inspectie"
 date: "2026-03-23"
-excerpt: "Elk dak heeft onderhoud nodig, maar de meeste huiseigenaren vergeten dat. Met email marketing herinner je klanten op het juiste moment en genereer je terugkerend werk."
+excerpt: "Elk dak heeft onderhoud nodig, maar huiseigenaren vergeten dat. Met e-mail marketing herinner je klanten op tijd en genereer je terugkerend werk."
 image: "/images/blog/email-marketing-dakdekker-inspectie.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

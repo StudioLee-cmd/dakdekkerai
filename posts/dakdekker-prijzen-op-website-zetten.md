@@ -1,5 +1,6 @@
 ---
 title: "Moet je als dakdekker prijzen op je website zetten? Wat werkt het best"
+seoTitle: "Moet je als dakdekker prijzen op je website zetten?"
 excerpt: "Richtprijzen op je website: meer vertrouwen of meer prijsjagers? De voor- en nadelen voor dakdekkers, met praktische tips."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"

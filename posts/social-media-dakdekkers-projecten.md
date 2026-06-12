@@ -1,5 +1,6 @@
 ---
 title: "Social media voor dakdekkers: laat je projecten zien en krijg meer opdrachten"
+seoTitle: "Social media voor dakdekkers"
 excerpt: "Ontdek hoe dakdekkers social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor dakdekkers in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

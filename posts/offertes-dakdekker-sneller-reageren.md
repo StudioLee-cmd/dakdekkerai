@@ -1,8 +1,9 @@
 ---
 title: "Offertes als dakdekker: sneller reageren, meer projecten binnenhalen"
+seoTitle: "Offertes als dakdekker"
 slug: "offertes-dakdekker-sneller-reageren"
 date: "2026-03-21"
-excerpt: "De dakdekker die het snelst reageert, wint de klus. Leer hoe je je offerteproces versnelt en je conversie verhoogt."
+excerpt: "De dakdekker die het snelst reageert, wint de klus. Leer hoe je je offerteproces versnelt en je conversie verhoogt. Met concrete stappen."
 image: "/images/blog/offertes-dakdekker-sneller-reageren.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

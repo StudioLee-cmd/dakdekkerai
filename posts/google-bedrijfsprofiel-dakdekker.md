@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als dakdekker: meer klussen uit je regio"
+seoTitle: "Google Bedrijfsprofiel als dakdekker"
 excerpt: "Je Google Bedrijfsprofiel is het eerste wat potentiele klanten zien. Leer hoe je als dakdekker je profiel optimaliseert voor meer lokale klussen."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

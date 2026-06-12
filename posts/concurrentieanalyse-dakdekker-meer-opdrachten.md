@@ -1,6 +1,7 @@
 ---
 title: "Concurrentieanalyse voor dakdekkers: meer opdrachten in jouw regio"
-excerpt: "Ontdek hoe je als dakdekker de concurrentie analyseert en je onderscheidt voor meer opdrachten."
+seoTitle: "Concurrentieanalyse voor dakdekkers"
+excerpt: "Ontdek hoe je als dakdekker de concurrentie analyseert en je onderscheidt voor meer opdrachten. Met een praktisch stappenplan en voorbeelden."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-dakdekker-meer-opdrachten.jpg"

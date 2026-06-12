@@ -1,6 +1,7 @@
 ---
 title: "Prijzen communiceren als dakdekker: transparant en toch winstgevend"
-excerpt: "Klanten willen weten wat het kost. Maar hoe communiceer je prijzen als dakdekker zonder jezelf tekort te doen? Tips voor transparante en winstgevende prijscommunicatie."
+seoTitle: "Prijzen communiceren als dakdekker"
+excerpt: "Klanten willen weten wat het kost. Hoe communiceer je prijzen als dakdekker zonder jezelf tekort te doen? Tips voor winstgevende transparantie."
 date: "2026-04-05"
 cluster: "website"
 authorSlug: "tim-van-der-lee"

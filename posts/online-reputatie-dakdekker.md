@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als dakdekker: reviews die je agenda vol houden"
+seoTitle: "Online reputatie als dakdekker"
 excerpt: "Je online reputatie bepaalt of opdrachtgevers jou kiezen. Leer hoe je als dakdekker reviews verzamelt en je imago beschermt."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

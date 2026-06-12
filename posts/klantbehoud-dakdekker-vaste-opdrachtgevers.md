@@ -1,5 +1,6 @@
 ---
 title: "Klantbehoud als dakdekker: zo maak je van opdrachtgevers vaste klanten"
+seoTitle: "Klantbehoud als dakdekker"
 slug: "klantbehoud-dakdekker-vaste-opdrachtgevers"
 date: "2026-03-22"
 excerpt: "De meeste dakdekkers focussen op nieuwe klanten, maar bestaande klanten zijn veel winstgevender. Leer hoe je van opdrachtgevers vaste klanten maakt."

@@ -1,6 +1,6 @@
 ---
 title: "Offertes opvolgen als dakdekker: van offerte naar opdracht"
-excerpt: "Stuur je offertes maar hoor je niks terug? Leer hoe je als dakdekker je offertes opvolgt zonder opdringerig te zijn."
+excerpt: "Stuur je offertes maar hoor je niks terug? Leer hoe je als dakdekker je offertes opvolgt zonder opdringerig te zijn. Met voorbeeldberichten."
 date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

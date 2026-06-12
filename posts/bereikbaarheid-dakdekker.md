@@ -1,6 +1,7 @@
 ---
 title: "Bereikbaarheid als dakdekker: geen oproep missen in het stormseizoen"
-excerpt: "Klanten bellen wanneer het urgent is. Leer hoe je als dakdekker altijd bereikbaar bent zonder je planning te verstoren."
+seoTitle: "Bereikbaarheid als dakdekker"
+excerpt: "Klanten bellen wanneer het urgent is. Leer hoe je als dakdekker altijd bereikbaar bent zonder je planning te verstoren. Met voice AI."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-dakdekker.png"

@@ -1,5 +1,6 @@
 ---
 title: "Mond-tot-mondreclame als dakdekker: van tevreden klant naar nieuwe opdracht"
+seoTitle: "Mond-tot-mondreclame als dakdekker"
 excerpt: "De krachtigste marketing voor dakdekkers is nog altijd mond-tot-mondreclame. Ontdek hoe je dit systematisch aanpakt en meer opdrachten binnenhaalt."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

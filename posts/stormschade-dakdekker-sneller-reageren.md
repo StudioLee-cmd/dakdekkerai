@@ -1,5 +1,6 @@
 ---
 title: "Stormschade? Zo reageer je als dakdekker sneller en pak je meer klussen"
+seoTitle: "Stormschade: zo reageer je als dakdekker sneller"
 excerpt: "Na een storm zoeken honderden mensen tegelijk een dakdekker. Wie het snelst reageert, pakt de klussen. Zo organiseer je dat."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

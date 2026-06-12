@@ -2,7 +2,7 @@
 title: "Stadspagina's voor dakdekkers zonder duplicate content"
 slug: "stadspaginas-dakdekker-zonder-duplicate-content"
 date: "2026-06-06"
-excerpt: "Ranken voor 'dakdekker [stad]' in elke plaats waar je werkt? Zo bouw je stadspagina's die scoren, zonder duplicate content of dunne pagina's."
+excerpt: "Ranken voor dakdekker [stad] in elke plaats waar je werkt? Zo bouw je stadspagina's die scoren, zonder duplicate content of dunne pagina's."
 image: "/images/blog/stadspaginas-dakdekker-zonder-duplicate-content.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid", "Lokale SEO", "SEO"]

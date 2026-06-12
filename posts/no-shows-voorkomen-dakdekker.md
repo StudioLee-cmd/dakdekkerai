@@ -1,5 +1,6 @@
 ---
 title: "No-shows voorkomen als dakdekker: klanten die wél thuisblijven"
+seoTitle: "No-shows voorkomen als dakdekker"
 excerpt: "Niets frustrerender dan voor een dichte deur staan. Zo voorkom je no-shows als dakdekker met automatische herinneringen en slimme planning."
 date: "2026-04-05"
 cluster: "automatisering"

@@ -1,6 +1,7 @@
 ---
 title: "De Elite Dakdekker App: Geef je klanten hun eigen \"Klus App\" (En bind B2B klanten)"
-excerpt: "Onderscheid jezelf van de beunhazen. Met de Client App in het Elite plan kunnen jouw vaste klanten (VvE's, woningbouw) zelf meldingen doen en status inzien."
+seoTitle: "De Elite Dakdekker App: Geef je klanten hun eigen \"Klus App\""
+excerpt: "Onderscheid jezelf van beunhazen. Met de Client App in het Elite plan doen vaste klanten zoals VvE's zelf meldingen en zien ze de status."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-dakdekker-app.png"

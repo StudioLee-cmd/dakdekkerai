@@ -1,6 +1,7 @@
 ---
 title: "Je dakdekker-website laten converteren: van bezoeker naar aanvraag"
-excerpt: "Je dakdekker-website krijgt bezoekers, maar geen aanvragen? Het probleem zit niet in je SEO — het zit in je conversie."
+seoTitle: "Je dakdekker-website laten converteren"
+excerpt: "Je dakdekker-website krijgt bezoekers, maar geen aanvragen? Het probleem zit niet in je SEO — het zit in je conversie. Vijf snelle fixes."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-website-conversie-meer-aanvragen.png"

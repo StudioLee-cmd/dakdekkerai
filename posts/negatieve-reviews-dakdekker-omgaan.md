@@ -1,5 +1,6 @@
 ---
 title: "Negatieve reviews als dakdekker: zo handel je ze professioneel af"
+seoTitle: "Negatieve reviews als dakdekker"
 excerpt: "Een negatieve review op Google voelt als een klap, maar ze hoeven je bedrijf niet te schaden. Lees hoe je ze juist gebruikt voor groei."
 date: "2026-04-08"
 cluster: "reviews"

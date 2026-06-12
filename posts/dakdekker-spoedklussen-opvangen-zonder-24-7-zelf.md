@@ -1,6 +1,6 @@
 ---
 title: "Dakdekker spoedklussen opvangen zonder 24/7 zelf op te nemen"
-excerpt: "Spoedklussen komen 's avonds en in het weekend. Maar zelf permanent paraat staan breekt je op. Zo pak je ze wel op zonder zelf aan de telefoon te hoeven zitten."
+excerpt: "Spoedklussen komen 's avonds en in het weekend, maar permanent paraat staan breekt je op. Zo pak je ze op zonder zelf aan de telefoon te zitten."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-spoedklussen-opvangen-zonder-24-7-zelf.jpg"

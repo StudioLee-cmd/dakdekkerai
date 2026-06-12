@@ -1,5 +1,6 @@
 ---
 title: "CRM voor dakdekkers: welke klantgegevens leveren herhaalopdrachten op"
+seoTitle: "CRM voor dakdekkers: data die herhaalopdrachten oplevert"
 excerpt: "De 7 klantgegevens die elke dakdekker in zijn CRM moet vastleggen, plus hoe je die data automatisch omzet naar herhaalopdrachten en onderhoudsklussen."
 date: "2026-04-22"
 cluster: "automatisering"

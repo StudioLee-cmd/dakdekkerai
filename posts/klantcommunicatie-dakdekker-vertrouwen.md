@@ -1,6 +1,7 @@
 ---
 title: "Klantcommunicatie als dakdekker: updates die vertrouwen opbouwen"
-excerpt: "Ontdek hoe je als dakdekker met goede communicatie voor, tijdens en na de klus meer vertrouwen en aanbevelingen krijgt."
+seoTitle: "Klantcommunicatie als dakdekker"
+excerpt: "Ontdek hoe je als dakdekker met goede communicatie voor, tijdens en na de klus meer vertrouwen en aanbevelingen krijgt. Praktische tips."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-dakdekker-vertrouwen.png"

@@ -1,5 +1,6 @@
 ---
 title: "Seizoensgebonden lead opvolging als dakdekker: storm, najaar en voorjaar benutten"
+seoTitle: "Seizoensgebonden lead opvolging als dakdekker"
 excerpt: "Na storm, in het najaar en voorjaar stromen aanvragen binnen. Dakdekkers die hun opvolging aanpassen aan het seizoen, winnen meer klussen."
 date: "2026-04-09"
 cluster: "automatisering"

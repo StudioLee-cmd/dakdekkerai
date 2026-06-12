@@ -1,5 +1,6 @@
 ---
 title: "Dakdekker Google Maps-ranking: 7 factoren die de lokale top-3 bepalen"
+seoTitle: "Dakdekker Google Maps-ranking"
 excerpt: "Waarom staat jouw dakdekkersbedrijf niet in de Google Maps top-3 en hoe kom je er wel in? Deze 7 ranking-factoren bepalen alles."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

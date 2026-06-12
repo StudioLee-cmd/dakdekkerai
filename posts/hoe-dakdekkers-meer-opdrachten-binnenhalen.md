@@ -1,6 +1,6 @@
 ---
 title: "Hoe dakdekkers meer opdrachten binnenhalen via Google"
-excerpt: "Als dakdekker heb je geen tijd voor marketing. Toch is online zichtbaarheid je grootste groeikans. Dit is hoe je dat regelt — zonder er zelf uren in te steken."
+excerpt: "Als dakdekker heb je geen tijd voor marketing. Toch is online zichtbaarheid je grootste groeikans. Dit is hoe je dat regelt."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen.png"
