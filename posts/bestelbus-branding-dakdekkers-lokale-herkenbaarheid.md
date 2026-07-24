@@ -128,6 +128,6 @@ Bij DakdekkerAI helpen we dakdekker-bedrijven hun branding professioneel opzette
 - Een [chatbot voor dakdekkers](/chatbot) met QR-code geintegreerd in je bus-design
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dakdekkers](/gratis-scan) of bekijk onze [tarieven DakdekkerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor dakdekkers](/gratis-scan) of bekijk onze [tarieven DakdekkerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/erkende-dakdekker-vertrouwen-keurmerken-bouwen" class="text-dark fw-semibold">Erkende dakdekker check: zo bouw je vertrouwen</a> →</p></div></div></div>

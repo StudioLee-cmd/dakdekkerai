@@ -134,6 +134,6 @@ Bij DakdekkerAI helpen we dakdekkers hun referral-flow professioneel inrichten m
 - Een beloningssjabloon voor referral-rewards (cadeaubon, korting, of niks) zodat klanten weten wat ze krijgen
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dakdekkers](/gratis-scan) of bekijk onze [tarieven DakdekkerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor dakdekkers](/gratis-scan) of bekijk onze [tarieven DakdekkerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/mond-tot-mondreclame-dakdekker" class="text-dark fw-semibold">Mond-tot-mondreclame als dakdekker: van tevreden klant naar nieuwe opdracht</a> →</p></div></div></div>

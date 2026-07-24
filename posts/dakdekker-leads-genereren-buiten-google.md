@@ -66,4 +66,4 @@ Combineer offline en online. Elk kanaal versterkt de andere: een klant die je fl
 
 Google is en blijft belangrijk, maar het mag nooit je enige kanaal zijn. Door te diversifiëren naar lokale samenwerkingen, platforms, buurtmarketing, directe post en verzekeringsnetwerken, bouw je een stabielere en voorspelbaardere stroom van opdrachten. En dat geeft rust — zodat jij je kunt focussen op waar je goed in bent: dakwerk.
 
-Wil je hulp bij het opzetten van een slimme marketingstrategie voor je dakdekkersbedrijf? Bekijk wat [DakdekkerAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het opzetten van een slimme marketingstrategie voor je dakdekkersbedrijf? Bekijk wat [DakdekkerAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

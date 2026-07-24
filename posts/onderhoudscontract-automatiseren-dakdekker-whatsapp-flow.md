@@ -82,7 +82,7 @@ Dat hangt af van je klantenbestand, maar de rekensom is simpel: elke klant uit d
 
 ### Wat heb je nodig om te starten?
 
-Drie dingen: een klantenbestand met daktype en klusdatum, een WhatsApp Business-nummer en een systeem dat de selectie en verzending automatisch draait. Dat laatste hoef je niet zelf te bouwen. DakdekkerAI zet de complete flow voor je op, van klantkaart tot review-verzoek, met onze Groei-of-Geld-Terug Garantie. Wil je dat klanten hun controle direct online kunnen aanvragen, dan zorgen we met een [gratis website voor dakdekkers](/gratis-website) dat de aanvraagknop er vanaf dag één op staat. Liever eerst even sparren over wat er in jouw klantenbestand zit? [Plan een gratis gesprek](https://calendly.com/tim-studiolee), dan rekenen we het samen door.
+Drie dingen: een klantenbestand met daktype en klusdatum, een WhatsApp Business-nummer en een systeem dat de selectie en verzending automatisch draait. Dat laatste hoef je niet zelf te bouwen. DakdekkerAI zet de complete flow voor je op, van klantkaart tot review-verzoek, met onze Groei-of-Geld-Terug Garantie. Wil je dat klanten hun controle direct online kunnen aanvragen, dan zorgen we met een [gratis website voor dakdekkers](/gratis-website) dat de aanvraagknop er vanaf dag één op staat. Liever eerst even sparren over wat er in jouw klantenbestand zit? [Plan een gratis gesprek](https://cal.com/studiolee), dan rekenen we het samen door.
 
 Jij dekt het dak, wij regelen de rest. Meer opdrachten, minder gedoe.
 

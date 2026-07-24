@@ -136,6 +136,6 @@ Begin met één en doe die goed. Voor de meeste dakbedrijven werkt Instagram het
 
 Je hoeft geen marketeer te worden. Je hoeft alleen te stoppen met elke avond opnieuw bedenken wat je moet posten. Pak de kalender hierboven, koppel er je eigen werkfoto's aan en plan de maand in. Volgende keer als de bus voor de deur staat, is je content al onderweg.
 
-Wil je weten hoe sterk je nu online staat en wat een vaste contentstroom je zou opleveren? Doe de [gratis AI-scan voor dakdekkers](/gratis-scan), dan zie je in een paar minuten waar de winst zit. Liever even sparren? [Plan een vrijblijvend gesprek](https://calendly.com/tim-studiolee). En kies je voor het volledig uitbesteden, dan werken we met een Groei-of-Geld-Terug Garantie: levert het geen meetbaar resultaat op, dan krijg je je geld terug.
+Wil je weten hoe sterk je nu online staat en wat een vaste contentstroom je zou opleveren? Doe de [gratis AI-scan voor dakdekkers](/gratis-scan), dan zie je in een paar minuten waar de winst zit. Liever even sparren? [Plan een vrijblijvend gesprek](https://cal.com/studiolee). En kies je voor het volledig uitbesteden, dan werken we met een Groei-of-Geld-Terug Garantie: levert het geen meetbaar resultaat op, dan krijg je je geld terug.
 
 Jij dekt het dak, wij regelen de rest.
