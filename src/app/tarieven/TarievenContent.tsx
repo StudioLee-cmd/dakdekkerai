@@ -11,6 +11,14 @@ import { totalTraditionalCost } from "@/data/comparison";
 //   ⑤ vergelijk de REKENING (los bij elkaar vs alles inbegrepen), nooit de onderdelen
 // Bedragen zijn ONGEWIJZIGD: prijzen zijn business (RULE 5). Het los-bij-elkaar-bedrag komt uit
 // de bestaande bron comparison.ts, zodat er geen tweede waarheid op deze pagina staat.
+import { totalTraditionalCost } from "@/data/comparison";
+
+// Deze pagina volgt het PROPOSITIE-CONTRACT (niche-sites-upgrade-programma.md §PROPOSITIE-CONTRACT):
+//   ⛔1 geen tool-namen  ⛔2 geen tel-claims  ⛔3 geen vijfde ding
+//   ② gratis = het ONTWERP + het bestand · betaald = het draaiend krijgen en houden
+//   ⑤ vergelijk de REKENING (los bij elkaar vs alles inbegrepen), nooit de onderdelen
+// Bedragen zijn ONGEWIJZIGD: prijzen zijn business (RULE 5). Het los-bij-elkaar-bedrag komt uit
+// de bestaande bron comparison.ts, zodat er geen tweede waarheid op deze pagina staat.
 
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
 const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;

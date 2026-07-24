@@ -1,6 +1,13 @@
 import { IPricing } from "@/types";
 
 // PROPOSITIE-CONTRACT ⛔1 (niche-sites-upgrade-programma.md §PROPOSITIE-CONTRACT): GEEN tool-namen,
+// niet extern en niet intern. Tot 24-07 stond elke feature-regel hier als de PRODUCTNAAM uit onze
+// eigen gereedschapskist. Wie een merknaam leest gaat 'm googelen en zelf proberen; dan verkoop je
+// je eigen concurrent. Elke regel is daarom de UITKOMST voor de ondernemer, niet het gereedschap.
+// Zet ze niet terug: het contract is de bron, niet de smaak van de dag.
+// Bedragen en betaallinks zijn bewust ONGEWIJZIGD — prijzen zijn een business-beslissing (RULE 5).
+
+// PROPOSITIE-CONTRACT ⛔1 (niche-sites-upgrade-programma.md §PROPOSITIE-CONTRACT): GEEN tool-namen,
 // niet extern en niet intern. Tot 24-07 stonden hier de productnamen uit de gereedschapskist
 // ("SaaS Toolbox", "Social Media Planner", "Video & Photo AI", "Voice AI (Basic)", "Ad Manager",
 // "LazyAds & Social AI", "Managed Studio", "Deep-Level SEO Editor", "Physical Review Solutions").
