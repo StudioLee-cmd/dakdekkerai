@@ -11,7 +11,6 @@ import { totalTraditionalCost } from "@/data/comparison";
 //   ⑤ vergelijk de REKENING (los bij elkaar vs alles inbegrepen), nooit de onderdelen
 // Bedragen zijn ONGEWIJZIGD: prijzen zijn business (RULE 5). Het los-bij-elkaar-bedrag komt uit
 // de bestaande bron comparison.ts, zodat er geen tweede waarheid op deze pagina staat.
-import { totalTraditionalCost } from "@/data/comparison";
 
 // Deze pagina volgt het PROPOSITIE-CONTRACT (niche-sites-upgrade-programma.md §PROPOSITIE-CONTRACT):
 //   ⛔1 geen tool-namen  ⛔2 geen tel-claims  ⛔3 geen vijfde ding
