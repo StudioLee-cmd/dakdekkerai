@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Chatbot", "Live chat", "Website", "Spoed-aanvragen", "Dakdekker"]
 cluster: "chatbot"
 ---
-
 Het is dinsdagavond 21:30. Een huiseigenaar met een lekkend dak zit op je website en ziet rechtsonder een chatvenster. Hij typt zijn vraag, wacht drie minuten, krijgt niets terug en klikt door naar de volgende dakdekker. Die klus was van jou geweest, als dat venster had geantwoord.
 
 Dat chatvenster is dus geen detail, het is de plek waar je avondaanvragen winnen of verliezen. De vraag is alleen welke vorm je kiest: een live chat waar jij of een medewerker zelf achter zit, of een [ai chatbot voor dakdekkers](/chatbot) die het gesprek automatisch voert. Beide heten "chat op je website", maar in de praktijk zijn het totaal verschillende keuzes qua tijd, kosten en gemiste klussen.
@@ -73,6 +72,8 @@ Belangrijk detail: een goede [chatbot voor dakdekkers](/chatbot) maakt van spoed
 3. **Vergelijk de kosten met een gemiste klus.** Zet het maandbedrag van een ai-chatbot naast de waarde van 1 gemiste opdracht; de [tarieven](/tarieven) zijn daar bewust op afgestemd. Eén geredde klus per maand betaalt het systeem ruimschoots terug.
 
 Twijfel je nog tussen beide? Kies dan het hybride model: de [klantenservice chatbot](/chatbot) vangt elk gesprek op en jij springt in bij de gesprekken waar een vakman het verschil maakt. Zo krijgt de klant altijd direct antwoord en verlies jij geen tijd aan standaardvragen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-of-faq-pagina-dakdekker-spoed" class="text-dark fw-semibold">Chatbot of FAQ-pagina voor dakdekkers: wat werkt bij spoed</a> →</p></div></div></div>
 
 ## Conclusie: het venster moet antwoorden, altijd
 
