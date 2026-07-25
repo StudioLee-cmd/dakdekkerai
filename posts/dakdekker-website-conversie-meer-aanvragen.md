@@ -8,10 +8,9 @@ image: "/images/blog/dakdekker-website-conversie-meer-aanvragen.png"
 tags: ["Dakdekker", "Website", "Conversie"]
 cluster: "website"
 ---
-
 ## Je website trekt bezoekers, maar geen klanten
 
-Veel dakdekkers investeren in een website en SEO, krijgen bezoekers maar zien nauwelijks aanvragen. Een gemiddelde bouwwebsite converteert 2-3%. De best presterende halen 8-12%. Bij 500 bezoekers per maand is dat het verschil tussen 10 en 60 aanvragen.
+Veel dakdekkers investeren in een [website](/gratis-website) en SEO, krijgen bezoekers maar zien nauwelijks aanvragen. Een gemiddelde bouwwebsite converteert 2-3%. De best presterende halen 8-12%. Bij 500 bezoekers per maand is dat het verschil tussen 10 en 60 aanvragen.
 
 ## Wat een bezoeker zoekt in 5 seconden
 
@@ -51,6 +50,8 @@ Hoe lang duurt een dakrenovatie? Hebben jullie garantie? Stormschade?
 | Geen foto's van eigen werk | Portfolio met minimaal 10 projecten |
 | Website laadt langzaam | Optimaliseer afbeeldingen, snel hosting |
 | Niet mobiel-vriendelijk | Responsive design is verplicht |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekker-website-diy-bureau-of-ai" class="text-dark fw-semibold">Dakdekker website laten maken: DIY, bureau of AI?</a> →</p></div></div></div>
 
 ## Conclusie
 
