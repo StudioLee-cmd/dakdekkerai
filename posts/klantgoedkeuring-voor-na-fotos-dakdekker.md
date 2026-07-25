@@ -8,8 +8,7 @@ authorSlug: "tim-van-der-lee"
 tags: ["Website", "AVG", "Portfolio"]
 cluster: "website"
 ---
-
-Een dakdekker uit de Achterhoek deelde vorig jaar trots de voor-na fotos van een nieuw schaaldak op zijn website en Instagram. Twee weken later kreeg hij een mail van de buurman van de opdrachtgever: "Mijn vrouw staat herkenbaar in beeld op uw foto. Wij hebben hier nooit toestemming voor gegeven. Verwijder de foto binnen 24 uur, anders melden wij dit bij de Autoriteit Persoonsgegevens." Resultaat: foto offline, klant geïrriteerd, Google-recensie van 1 ster van de buurman, en weken stress.
+Een dakdekker uit de Achterhoek deelde vorig jaar trots de voor-na fotos van een nieuw schaaldak op zijn [website](/gratis-website) en Instagram. Twee weken later kreeg hij een mail van de buurman van de opdrachtgever: "Mijn vrouw staat herkenbaar in beeld op uw foto. Wij hebben hier nooit toestemming voor gegeven. Verwijder de foto binnen 24 uur, anders melden wij dit bij de Autoriteit Persoonsgegevens." Resultaat: foto offline, klant geïrriteerd, Google-recensie van 1 ster van de buurman, en weken stress.
 
 Voor-na fotos zijn een van de sterkste verkoop-tools die een dakdekker heeft, maar zonder schriftelijke klant-toestemming hangt er een juridisch en reputatie-risico boven. Dit artikel zet in 1500 woorden uiteen wat de AVG en het portretrecht voor dakdekkers betekenen, hoe je in 2 minuten per project schriftelijke toestemming regelt, en wat je MOET en MAG doen met klant-fotos.
 
