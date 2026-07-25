@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "dakdekker", "groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom terugkerende klanten goud waard zijn
 
 Een nieuwe klant binnenhalen kost vijf tot zeven keer meer dan een bestaande klant behouden. Voor dakdekkers is dat verschil nog groter, want de meeste opdrachten komen via [Google](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen) of [Werkspot](/blog/werkspot-vs-dakdekkerai-wat-levert-meer-op) — kanalen waar je concurreert op prijs.
@@ -68,6 +67,6 @@ Tevreden klanten zijn je beste marketing. Maar ze verwijzen alleen door als je h
 
 Klantbehoud begint bij goed werk en eindigt bij goede communicatie. Lever kwaliteit, bied nazorg, houd contact en maak doorverwijzen makkelijk.
 
-De dakdekker die dit consequent doet, bouwt een klantenbestand op dat jaar na jaar groeit — zonder steeds opnieuw te moeten concurreren op prijs.
+De dakdekker die dit consequent doet, bouwt een [klantenbestand](/crm) op dat jaar na jaar groeit — zonder steeds opnieuw te moeten concurreren op prijs.
 
 Wil je ontdekken hoe je als dakdekker online beter zichtbaar wordt? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.
