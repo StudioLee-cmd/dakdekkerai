@@ -8,12 +8,11 @@ image: "/images/blog/online-reputatie-dakdekker.png"
 tags: ["online reputatie", "dakdekker", "reviews"]
 cluster: "reviews"
 ---
-
 Wanneer een huiseigenaar een dakdekker zoekt, googelt die persoon eerst. Ze zien sterren, reviews en foto's. In 30 seconden beslissen ze of ze jou bellen of doorscrollen. Je online reputatie is het eerste filter.
 
 ## Waarom reviews extra belangrijk zijn voor dakdekkers
 
-Dakwerk is een grote investering. Klanten vertrouwen erop dat het werk jarenlang meegaat. Reviews geven dat vertrouwen: "Uitstekend werk, dak is na twee jaar stormseizoen nog perfect" is krachtiger dan elke brochure.
+Dakwerk is een grote investering. Klanten [vertrouwen](/reviews) erop dat het werk jarenlang meegaat. Reviews geven dat vertrouwen: "Uitstekend werk, dak is na twee jaar stormseizoen nog perfect" is krachtiger dan elke brochure.
 
 Een dakdekker met sterke reviews trekt:
 
