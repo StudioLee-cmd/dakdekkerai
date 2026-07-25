@@ -8,12 +8,11 @@ image: "/images/blog/hoe-ai-dakdekkers-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
 cluster: "automatisering"
 ---
-
 Het runnen van een dakdekkersbedrijf anno 2026 is topsport. Je bent niet alleen vakspecialist die daken waterdicht moet maken, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag op het dak, maar als ze eerlijk kijken, zijn ze s avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, lekkages inplannen en facturen doen.
 
 ## De "Oude" Manier: Hard Werken, Weinig Leven
 
-Laten we de situatie eens schetsen. **Vroeger** zag je dag er zo uit: Je staat op een dakkapel, brander in je hand. Je telefoon gaat. Je kunt niet opnemen. Later bel je terug: voicemail. 's Avonds kom je thuis, kapot van het sjouwen. Maar in plaats van op de bank te ploffen, moet je offertes maken en facturen sturen. Je weekenden zijn half gevuld met administratie.
+Laten we de situatie eens schetsen. **Vroeger** zag je dag er zo uit: Je staat op een dakkapel, brander in je hand. Je [telefoon](/voice-ai) gaat. Je kunt niet opnemen. Later bel je terug: voicemail. 's Avonds kom je thuis, kapot van het sjouwen. Maar in plaats van op de bank te ploffen, moet je offertes maken en facturen sturen. Je weekenden zijn half gevuld met administratie.
 
 Dit patroon is de doodsteek voor je groei. Je kunt simpelweg niet méér daken leggen, want je tijd zit vol met kantoorwerk. En personeel aannemen? Dat is duur, risicovol en brengt weer managementtaken met zich mee.
 
