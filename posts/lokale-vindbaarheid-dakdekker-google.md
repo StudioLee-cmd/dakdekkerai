@@ -82,6 +82,6 @@ Dan win je op consistentie. De meeste dakdekkers starten met SEO maar stoppen na
 
 ## Conclusie
 
-Als dakdekker is lokale vindbaarheid je meest rendabele investering. Een geoptimaliseerd Google Bedrijfsprofiel, een sterke website, structurele reviews en regelmatige content brengen je bovenaan bij de klanten die je het hardst nodig hebben.
+Als dakdekker is lokale [vindbaarheid](/blog/stadspaginas-dakdekker-zonder-duplicate-content) je meest rendabele investering. Een geoptimaliseerd Google Bedrijfsprofiel, een sterke website, structurele reviews en regelmatige content brengen je bovenaan bij de klanten die je het hardst nodig hebben.
 
 Start een [gratis scan](/gratis-scan) en ontdek wat je online zichtbaarheid je nu kost — en wat het kan opleveren.
