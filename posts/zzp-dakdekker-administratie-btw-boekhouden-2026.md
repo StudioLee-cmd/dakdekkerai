@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Administratie", "ZZP", "BTW", "Boekhouden", "Dakdekker"]
 cluster: "automatisering"
 ---
-
 **In het kort:**
 - Een ZZP dakdekker betaalt in 2026 standaard 21 procent BTW, mag tot 1.000 euro startersaftrek en 5.030 euro zelfstandigenaftrek toepassen, en kan gereedschap boven 450 euro afschrijven over 5 jaar.
 - BTW-aangifte gaat in de meeste gevallen per kwartaal. Op alle leveringen aan particulieren ben je 21 procent BTW verschuldigd. Op B2B-leveringen aan andere BTW-plichtige bedrijven kan vaak BTW verlegd worden.
@@ -124,7 +123,7 @@ Hoe een geautomatiseerde administratie er in praktijk uitziet, op weekbasis:
 - **Begin volgend kwartaal, 1 uur**: BTW-aangifte direct vanuit Moneybird klaarmaken en versturen.
 - **Voor 1 mei**: eindelijke IB-aangifte met je belastingadviseur of via DigiD direct, gemiddeld 1 dagdeel werk.
 
-Totaal per week 2 tot 3 uur administratie versus 8 tot 12 uur bij volledig handmatig. Voor een ZZP dakdekker met een uurtarief van 65 euro is dat 6 tot 9 uur per week vrije tijd of extra omzet.
+Totaal per week 2 tot 3 uur [administratie](/blog/administratie-dakdekker-uren-besparen) versus 8 tot 12 uur bij volledig handmatig. Voor een ZZP dakdekker met een uurtarief van 65 euro is dat 6 tot 9 uur per week vrije tijd of extra omzet.
 
 ## Concrete getallen: wat houd je netto over?
 
