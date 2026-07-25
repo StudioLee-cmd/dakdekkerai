@@ -44,7 +44,7 @@ Bij een gemiddelde kluswaarde van €300 en drie no-shows per week praat je over
 
 **WhatsApp** is veruit het effectiefst. Het heeft een openingspercentage van meer dan 90 procent, de klant leest het bericht vrijwel altijd, en kan direct reageren. SMS werkt als backup voor klanten zonder WhatsApp.
 
-E-mail is minder geschikt voor afspraakherinneringen. De meeste mensen checken hun mail niet vlak voor een afspraak, en herinneringen belanden regelmatig in de spamfolder.
+E-mail is minder geschikt voor [afspraakherinneringen](/blog/afspraakherinnering-dakdekker-whatsapp-sms-email). De meeste mensen checken hun mail niet vlak voor een afspraak, en herinneringen belanden regelmatig in de spamfolder.
 
 Een [AI-telefonist](/voice-ai) voegt een extra laag toe: als een klant niet reageert op de WhatsApp-herinnering, belt het systeem automatisch. En als de klant wil verzetten, regelt de telefonist dat direct in je agenda.
 
