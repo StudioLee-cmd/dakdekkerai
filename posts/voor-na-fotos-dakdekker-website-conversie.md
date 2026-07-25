@@ -7,7 +7,6 @@ image: "/images/blog/voor-na-fotos-dakdekker-website-conversie.jpg"
 cluster: "website"
 tags: ["Website Conversie", "Portfolio", "Dakdekker Marketing"]
 ---
-
 Een huiseigenaar staart al twee maanden naar dakpannen die zoek zijn na de novemberstorm. Hij Googled vier dakdekkers, opent vier websites, en sluit drie binnen tien seconden. De ene die hij open laat staat is degene met een rij voor-en-na foto's bovenaan de homepage. Niet omdat de tekst beter is. Omdat hij in vijf seconden ziet dat deze dakdekker hetzelfde probleem als zijn eigen dak al eens heeft opgelost.
 
 Voor-en-na foto's zijn het sterkste conversie-element op een dakdekker-website. Een test bij vier Nederlandse dakdekkers liet zien dat het toevoegen van een goed gestructureerde voor-na galerij de conversie van bezoeker naar offerteaanvraag met 28 tot 41 procent verhoogde. Maar slechte voor-na foto's doen het tegenovergestelde, ze maken een professionele zaak amateuristisch laten lijken. Dit artikel laat zien hoe je ze maakt, plaatst en gebruikt zodat ze daadwerkelijk klanten opleveren.
@@ -160,6 +159,8 @@ Ouder dan twee jaar voelt gedateerd. Roteer minstens elk jaar je galerij. Recent
 ### Moet ik de exacte adres-locatie noemen?
 
 Liever niet exact. "Familie Jansen, Hoofddorp" werkt goed. "Ondernemer in Amsterdam Oud-West" ook. Vermijd huisnummer of straatnaam, dat is te identificerend.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekker-prijzen-op-website-zetten" class="text-dark fw-semibold">Moet je als dakdekker prijzen op je website zetten? Wat werkt het best</a> →</p></div></div></div>
 
 ## Klaar om je website te laten converteren?
 
