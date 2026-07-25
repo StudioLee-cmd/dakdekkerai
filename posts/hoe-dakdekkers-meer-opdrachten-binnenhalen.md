@@ -7,7 +7,6 @@ image: "/images/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen.png"
 tags: ["Vindbaarheid", "Google", "Opdrachten", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
-
 ## De realiteit: Google beslist wie de klus krijgt
 
 Iemand heeft een lekkend dak. Het regent. Ze pakken hun telefoon en zoeken "dakdekker spoed [stad]". Ze klikken op het eerste resultaat dat betrouwbaar oogt — en bellen. De dakdekker die bovenaan staat, krijgt de klus. De rest weet van niks.
@@ -20,7 +19,7 @@ Het goede nieuws: de meeste dakdekkers hebben hun online aanwezigheid nog niet o
 
 ## Stap 1: Wees zichtbaar op Google Maps voor spoedklussen
 
-Voor urgente zoekopdrachten — lekkage, stormschade, dakinspectie — kijken mensen altijd eerst naar Google Maps. Ze willen een dakdekker in de buurt die snel kan komen, betrouwbaar is en goede reviews heeft.
+Voor urgente zoekopdrachten — lekkage, stormschade, dakinspectie — kijken mensen altijd eerst naar [Google](/seo) Maps. Ze willen een dakdekker in de buurt die snel kan komen, betrouwbaar is en goede reviews heeft.
 
 **Optimaliseer je Google Bedrijfsprofiel:**
 
@@ -47,7 +46,7 @@ Stel een automatisch WhatsApp-bericht in dat 3 uur na afronding van een klus wor
 
 > "Hoi [naam], de klus is klaar. Hopen dat alles naar wens is! Zou je ons even willen helpen met een Google-review? Dat helpt andere huiseigenaren ons te vinden: [link]"
 
-Met automatisering hoef je er zelf niets voor te doen. Het bericht gaat vanzelf. En reviews komen vanzelf binnen.
+Met [automatisering](/blog/review-respons-automatiseren-ai-dakdekker) hoef je er zelf niets voor te doen. Het bericht gaat vanzelf. En reviews komen vanzelf binnen.
 
 ---
 
