@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Software", "Stack", "Dakdekker"]
 cluster: "automatisering"
 ---
-
 De gemiddelde dakdekker met 2 tot 5 medewerkers gebruikt zonder het door te hebben tien tot vijftien losse tools. WhatsApp voor klantcontact, Excel voor planning, een papieren werkbon, Moneybird voor facturen, het Google Bedrijfsprofiel los daarvan, een mailbox waar offertes in verdwijnen. Het werkt, totdat één van die schakels breekt: een klant belt twee jaar later voor garantie en niemand kan de werkbon vinden. Een steiger staat in de buurt maar de medewerker krijgt de adresgegevens pas op de ochtend van de klus zelf. Een review-verzoek na de klus blijft drie weken liggen.
 
 Het oplossen begint niet met "een nieuwe tool kopen". Het begint met begrijpen welke categorieën van software een dakdekkersbedrijf eigenlijk heeft. Pas als je je stack als geheel ziet, kun je beslissen of je vier losse tools combineert tot één, of dat je juist één all-in-one platform afbreekt naar gespecialiseerde stukjes. Hieronder de zeven categorieën die elke serieuze dakdekkersstack heeft, in de volgorde waarin je ze in de praktijk nodig krijgt, met de typische teamgrootte en de keuze waar je vroeg of laat tegenaan loopt.
@@ -37,7 +36,7 @@ Eerst: een weersafhankelijke planning-laag. Liefst gekoppeld aan een lokale weer
 
 ![Open laptop op rommelig bureau met dakdekkerslogboek, kop koffie en handschoenen ernaast](/images/blog/software-stack-dakdekker-7-categorieen-2.jpg)
 
-Wie het netjes wil koppelen aan de communicatie naar klanten (afspraakherinneringen, "we zijn er over 15 minuten", "klus is afgerond"), zit eigenlijk al in categorie 6 hieronder. Daarom heeft veel dakdekkerssoftware deze twee categorieën gecombineerd: planning + klantcommunicatie als één laag.
+Wie het netjes wil koppelen aan de communicatie naar klanten (afspraakherinneringen, "we zijn er over 15 minuten", "klus is afgerond"), zit eigenlijk al in categorie 6 hieronder. Daarom heeft veel dakdekkerssoftware deze twee categorieën gecombineerd: planning + [klantcommunicatie](/blog/klant-onderweg-bericht-automatiseren-dakdekker) als één laag.
 
 ## Categorie 4: Werkbon en uitvoering op het dak
 
