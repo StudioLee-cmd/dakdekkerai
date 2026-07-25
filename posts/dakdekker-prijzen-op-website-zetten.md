@@ -8,10 +8,9 @@ image: "/images/blog/dakdekker-prijzen-op-website-zetten.png"
 tags: ["Dakdekker", "Prijzen", "Website"]
 cluster: "website"
 ---
-
 ## De eeuwige discussie: prijzen wel of niet tonen?
 
-Vraag tien dakdekkers of ze prijzen op hun website zetten en je krijgt tien verschillende antwoorden. De een zweert erbij: "Het filtert de serieuze klanten eruit." De ander is faliekant tegen: "Elke klus is anders, je kunt geen standaardprijs geven."
+Vraag tien dakdekkers of ze prijzen op hun [website](/gratis-website) zetten en je krijgt tien verschillende antwoorden. De een zweert erbij: "Het filtert de serieuze klanten eruit." De ander is faliekant tegen: "Elke klus is anders, je kunt geen standaardprijs geven."
 
 Beide standpunten hebben gelijk. Maar de data laat iets interessants zien: websites van dakdekkers met richtprijzen krijgen gemiddeld 40% meer offerte-aanvragen dan websites zonder enige prijsindicatie.
 
@@ -84,6 +83,8 @@ Dakdekkers die richtprijzen toevoegen rapporteren:
 - **Hogere conversie** — minder verrassingen bij de offerte
 - **Minder tijdverspilling** — klanten met een budget van €500 voor een klus van €5.000 bellen niet
 - **Meer vertrouwen** — transparantie wordt gewaardeerd in een branche waar dat niet altijd vanzelfsprekend is
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekkerswebsite-offerte-machine" class="text-dark fw-semibold">Je dakdekkerswebsite als offerte-machine: 5 verbeteringen</a> →</p></div></div></div>
 
 ## Conclusie
 
