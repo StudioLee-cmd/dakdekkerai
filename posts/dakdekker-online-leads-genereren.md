@@ -105,6 +105,8 @@ Geschikte onderwerpen voor dakdekkers:
 
 Elk artikel dat rankt in Google levert je maandelijks nieuwe bezoekers op. Combineer dit met een duidelijk contactformulier en je hebt een continue stroom leads. Wil je hier hulp bij? Bekijk hoe [SEO voor dakdekkers](/seo) werkt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekker-leads-genereren-buiten-google" class="text-dark fw-semibold">Dakdekker leads genereren: 5 kanalen buiten Google om</a> →</p></div></div></div>
+
 ## Van lead naar opdracht: vergeet de opvolging niet
 
 Leads genereren is stap een. De opvolging bepaalt of die leads ook daadwerkelijk klussen worden. We schreven eerder over hoe je als dakdekker [geen enkele klus meer mist door goede lead opvolging](/blog/lead-opvolging-dakdekker-geen-klus-missen).
