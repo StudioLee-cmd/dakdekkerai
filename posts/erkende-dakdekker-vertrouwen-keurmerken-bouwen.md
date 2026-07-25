@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Branding", "Vertrouwen", "Keurmerken", "Dakdekker"]
 cluster: "website"
 ---
-
 **In het kort:**
 - Consumenten checken voor de eerste afspraak gemiddeld 4 trust-signalen op je site: KvK-nummer, certificering, Google reviews en jaartal van oprichting. Wie er drie of minder toont, valt af in de eerste shortlist.
 - De drie meest waardevolle dakdekker-keurmerken in Nederland zijn KIWA, KOMO en BRL 2401. Geen ervan is wettelijk verplicht, maar elk schaalt je gemiddelde opdrachtwaarde met 15 tot 30 procent.
@@ -101,6 +100,8 @@ Wat je idealiter binnen een halfjaar wil hebben:
 - AI-chatbot die deze info actief deelt met websitebezoekers.
 
 Voor de [tarieven](/tarieven) van een AI-pakket dat dit hele trust-systeem (chatbot + reviews-flow + website-update) draait vanaf 79 euro per maand, kijk je op de tariefpagina. Of begin met een [gratis AI-scan](/gratis-scan) van je huidige website om direct te zien welke trust-signalen je nu mist en wat de impact is.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-dakdekker-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Veelgestelde vragen
 
