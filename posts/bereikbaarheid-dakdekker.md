@@ -8,10 +8,9 @@ image: "/images/blog/bereikbaarheid-dakdekker.png"
 tags: ["bereikbaarheid", "dakdekker", "klantenservice"]
 cluster: "voice-ai"
 ---
-
 Het stormt. Tientallen huiseigenaren ontdekken lekkages en losse dakpannen. Ze pakken hun telefoon en bellen de eerste dakdekker die ze vinden. Als jij niet opneemt, belt de volgende. Die klant ben je kwijt — definitief.
 
-Bereikbaarheid is voor dakdekkers geen luxe, het is een bedrijfskritische vaardigheid. In dit artikel lees je hoe je het organiseert.
+[Bereikbaarheid](/voice-ai) is voor dakdekkers geen luxe, het is een bedrijfskritische vaardigheid. In dit artikel lees je hoe je het organiseert.
 
 ## Waarom bereikbaarheid geld waard is
 
