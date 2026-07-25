@@ -7,7 +7,6 @@ image: "/images/blog/hoe-ai-dakdekkers-helpt-planning-klantenwerving.png"
 tags: ["AI", "Automatisering", "Dakdekkers"]
 cluster: "automatisering"
 ---
-
 Dakdekken is zwaar werk — en de planning eromheen is dat ook. Weervertraging, materiaalschaarste, spoedklussen die alles omgooien. De meeste dakdekkersbedrijven beheren dit nog grotendeels met papieren werkbonnen, Excel en telefoontjes. AI verandert dat fundamenteel.
 
 Dakdekkers die AI-tools inzetten, plannen efficiënter, reageren sneller op aanvragen en winnen meer offertes. In dit artikel lees je hoe dat werkt in de praktijk.
@@ -39,7 +38,7 @@ Dakdekkersbedrijven die dit inzetten, rapporteren 20–30% hogere conversie op o
 
 ## Google-zichtbaarheid en reviews automatiseren
 
-Meer dan 80% van de dakdekkersopdrachten begint met een Google-zoekopdracht. Een hoge beoordeling met recente reviews is je beste verkoopargument.
+Meer dan 80% van de dakdekkersopdrachten begint met een Google-zoekopdracht. Een hoge beoordeling met recente [reviews](/reviews) is je beste verkoopargument.
 
 Na elke afgeronde opdracht stuurt een geautomatiseerd bericht de klant een reviewverzoek via WhatsApp. Tevreden klanten plaatsen in 30 seconden een review — en jouw Google-profiel groeit structureel. DakdekkerAI helpt je dit proces volledig te automatiseren, zodat je reviewstroom nooit meer droogvalt.
 
