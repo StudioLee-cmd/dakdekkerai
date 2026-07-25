@@ -19,8 +19,10 @@ const Hero: React.FC = () => {
     const [toonRays, setToonRays] = useState(false);
 
     useEffect(() => {
-        const t = window.requestAnimationFrame(() => setToonRays(true));
-        return () => window.cancelAnimationFrame(t);
+        const aan = () => setToonRays(true);
+        const events = ['pointermove', 'scroll', 'touchstart', 'keydown'] as const;
+        events.forEach(e => window.addEventListener(e, aan, { once: true, passive: true }));
+        return () => events.forEach(e => window.removeEventListener(e, aan));
     }, []);
     const { scrollY } = useScroll();
 
