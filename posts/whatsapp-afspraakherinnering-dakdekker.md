@@ -102,6 +102,8 @@ Drie veelgemaakte fouten die je hele systeem ondermijnen:
 
 Houd het kort, functioneel en altijd met een actie. Dat is alles.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-show-kosten-dakdekker-gemiste-afspraak" class="text-dark fw-semibold">No-show kosten berekenen als dakdekker: wat kost een gemiste afspraak je echt?</a> →</p></div></div></div>
+
 ## Alles samen laten draaien: jouw agenda, WhatsApp en AI
 
 De magie zit in de combinatie. Eén afspraak in je agenda, drie automatische WhatsApp-momenten, één weerproof verzettrigger, en een AI-laag die het gesprek opvangt als de klant terug-antwoordt met een vraag of probleem. Jij hoeft alleen klussen, niet plannen, niet bevestigen, niet napellen.
