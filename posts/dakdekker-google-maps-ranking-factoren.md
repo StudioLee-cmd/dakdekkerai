@@ -8,7 +8,6 @@ image: "/images/blog/dakdekker-google-maps-ranking-factoren.jpg"
 tags: ["Google Maps", "Local SEO", "Dakdekker"]
 cluster: "vindbaarheid"
 ---
-
 Iemand in jouw stad Googelt "dakdekker [plaatsnaam]". De eerste drie bedrijven op Google Maps krijgen samen 70 procent van de klikken. De nummer vier, vijf en zes: bij elkaar ongeveer 15 procent. Staat jouw dakdekkersbedrijf niet in de top-3, dan mis je structureel leads, zonder dat je het in de gaten hebt.
 
 De goede kans: Google Maps-ranking is niet willekeurig. Het algoritme weegt 7 factoren zwaarder dan andere. Als je die 7 factoren goed invult, klim je binnen 2-3 maanden naar de lokale top-3. Dit artikel legt elke factor uit en zegt concreet wat je moet doen.
@@ -71,7 +70,7 @@ Must-have invullingen:
 
 ## Factor 5: NAP-consistentie op externe sites
 
-Google controleert of je NAP-gegevens (Naam, Adres, Telefoon) identiek zijn op je eigen site, Google Bedrijfsprofiel, branchegidsen (DeTelefoongids, Yellow Pages), social media en bijvoorbeeld Werkspot. Zelfs kleine verschillen ("Dakdekker Jansen BV" vs "Jansen Dakwerken") verwarren het algoritme en drukken je ranking.
+Google controleert of je NAP-gegevens (Naam, Adres, Telefoon) identiek zijn op je eigen site, [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-posts-dakdekker-weekplanning), branchegidsen (DeTelefoongids, Yellow Pages), social media en bijvoorbeeld Werkspot. Zelfs kleine verschillen ("Dakdekker Jansen BV" vs "Jansen Dakwerken") verwarren het algoritme en drukken je ranking.
 
 Doe dit één keer goed:
 
