@@ -47,6 +47,8 @@ Meer dan 70 procent van de bellers reageert hierop. Ze typen hun probleem, vaak 
 
 De chatbot kan ook triage doen: "Is er op dit moment water binnenkomen?" Als het antwoord ja is, stuurt het systeem direct een melding naar jou zodat je spoedgevallen niet mist, ook niet om 22:00 's avonds.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/spoedtarief-automatiseren-dakdekker-storm-oproepen" class="text-dark fw-semibold">Spoedtarief automatiseren als dakdekker bij storm-oproepen</a> →</p></div></div></div>
+
 ## Stop met opdrachten verliezen
 
 Elke dakdekker die op het dak staat terwijl zijn telefoon afgaat, kent dit probleem. Het verschil zit in hoe je het oplost. Met de juiste automatisering mis je geen oproep meer, zonder dat je tijdens het werk gestoord wordt. De investering betaalt zich terug met de eerste klus die je anders had gemist.
