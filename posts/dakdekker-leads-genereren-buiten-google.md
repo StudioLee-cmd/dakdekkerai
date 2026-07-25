@@ -7,7 +7,6 @@ image: "/images/blog/dakdekker-leads-genereren-buiten-google.png"
 tags: ["Leads", "Marketing", "Strategie"]
 cluster: "automatisering"
 ---
-
 Google is voor de meeste dakdekkers de belangrijkste bron van nieuwe klanten. En terecht — als iemand zoekt op "dakdekker [stad]" heb je te maken met iemand die nu een probleem heeft. Maar volledig afhankelijk zijn van één kanaal is riskant. Een algoritme-update, een nieuwe concurrent die bovenaan verschijnt, of een seizoensdip in zoekopdrachten kan je leadstroom van de ene op de andere dag halveren.
 
 Slimme dakdekkers diversifiëren. In dit artikel delen we vijf kanalen buiten Google om die je een stabielere en voorspelbaardere stroom van opdrachten opleveren.
@@ -18,7 +17,7 @@ De meest onderschatte bron van leads voor dakdekkers: andere vakmensen. Aannemer
 
 Hoe bouw je zo'n relatie op? Begin met een lijst van alle aannemers en bouwbedrijven in een straal van 30 kilometer. Neem persoonlijk contact op — niet via e-mail, maar telefonisch of in persoon. Bied aan om een keer mee te kijken bij een project. Laat je werk zien, wees betrouwbaar, en lever kwaliteit. Na twee of drie succesvolle samenwerkingen word je hun vaste dakdekker.
 
-Dit kost tijd in het begin, maar de opdrachten die eruit komen zijn vaak groter dan particuliere klussen. En het mooiste: je hoeft niet te concurreren op prijs, want de aannemer kiest op vertrouwen en betrouwbaarheid.
+Dit kost tijd in het begin, maar de opdrachten die eruit komen zijn vaak groter dan particuliere klussen. En het mooiste: je hoeft niet te concurreren op prijs, want de aannemer kiest op [vertrouwen](/reviews) en betrouwbaarheid.
 
 ## 2. Werkspot en vergelijkbare platforms
 
