@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid", "Google", "Starten"]
 cluster: "vindbaarheid"
 ---
-
 Een nieuwe bakker opent zijn winkel met de luiken nog dicht. De broodjes zijn vers, het assortiment klopt, het koffiezetapparaat brandt. Maar er staat geen bordje op de deur en het raam zit gesloten. De buurt loopt door, ziet niets, en stopt bij de bakker drie deuren verderop die zijn raam al jaren open heeft staan.
 
 Een dakdekkersbedrijf starten zonder online vindbaarheid is precies die dichte luik. Je KvK staat ingeschreven, de werkbus is geleverd, het gereedschap ligt klaar. Maar als iemand vannacht een lekkage heeft en op zijn telefoon "dakdekker bij mij in de buurt" intikt, sta jij nergens. De concurrent die er al vijf jaar zit, staat boven jou. Dat is geen probleem van slecht werk. Dat is een probleem van een dichte luik.
@@ -71,7 +70,7 @@ Maand 3: 10+ reviews, profiel ingewerkt, agenda begint te lopen. 5 tot 12 organi
 
 Maand 6: stabiel. 15 tot 30 organische leads per maand mits je doorgaat met reviews verzamelen en het profiel verzorgt.
 
-Wie zegt dat je sneller kunt, liegt of doet betaalde advertenties (Google Ads) erbovenop, en dat is een ander gesprek. Voor organische, duurzame vindbaarheid op de lange termijn is dit het pad. Het is het pad dat in maand 24 nog steeds leads oplevert zonder dat je daarvoor maand-na-maand moet blijven betalen.
+Wie zegt dat je sneller kunt, liegt of doet betaalde advertenties (Google Ads) erbovenop, en dat is een ander gesprek. Voor organische, duurzame [vindbaarheid](/blog/dakdekker-leads-kopen-of-zelf-genereren) op de lange termijn is dit het pad. Het is het pad dat in maand 24 nog steeds leads oplevert zonder dat je daarvoor maand-na-maand moet blijven betalen.
 
 ## Wat StudioLee voor jou doet (en wat niet)
 
