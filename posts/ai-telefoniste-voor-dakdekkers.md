@@ -8,8 +8,7 @@ image: "/images/blog/ai-telefoniste-voor-dakdekkers.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: "voice-ai"
 ---
-
-Het meest frustrerende moment voor een dakdekker? Je staat net met een rol bitumen in je handen, of erger nog, je balanceert op een nokvorst. En de telefoon gaat. Je kunt niet opnemen. Het is onveilig en onhandig. Je laat hem gaan.
+Het meest frustrerende moment voor een dakdekker? Je staat net met een rol bitumen in je handen, of erger nog, je balanceert op een nokvorst. En de [telefoon](/voice-ai) gaat. Je kunt niet opnemen. Het is onveilig en onhandig. Je laat hem gaan.
 
 Wat doet die klant met lekkage? Belt hij later terug? Vaak niet. In onze branche geldt: **snelheid is alles**. Hij belt de volgende dakdekker in de lijst. Die neemt wel op (of heeft AI). Weg klant. Weg omzet. Weg toekomstmuziek.
 
