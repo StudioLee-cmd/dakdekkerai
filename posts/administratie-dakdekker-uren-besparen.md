@@ -94,6 +94,8 @@ Elke fase is op zichzelf nuttig. Je hoeft geen alles-of-niets-beslissing te neme
 
 Wij bouwen dit volledige stack voor dakbedrijven in onze managed service — jouw boekingstool, jouw agenda, jouw facturatieprogramma, aan elkaar geknoopt zodat de processen hierboven vanzelf lopen. Binnen zes tot tien weken draait het geheel in de achtergrond en kun jij weer terug naar waar jouw uren echt renderen: op het dak.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-dakdekkers-helpt" class="text-dark fw-semibold">Hoe AI Dakdekkers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als de administratieve uren na drie maanden niet meetbaar omlaag zijn én je agenda niet voller raakt, krijg je je investering terug. Wil je eerst zien wat het voor jouw bedrijf concreet oplevert, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven) voor het volledige pakket. Wij bouwen het systeem, jij legt de pannen.
