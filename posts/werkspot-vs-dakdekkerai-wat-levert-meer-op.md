@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-vs-dakdekkerai-wat-levert-meer-op.png"
 tags: ["Tools", "Vergelijking", "Dakdekkers"]
 cluster: "automatisering"
 ---
-
 Werkspot is voor veel dakdekkers de eerste plek waar ze klussen vandaan halen. Je betaalt per lead, reageert op aanvragen en hoopt op de gunning. Het werkt — tot je berekent wat het je écht kost. In dit artikel vergelijken we Werkspot met DakdekkerAI: twee totaal verschillende benaderingen van klantenwerving.
 
 ## Wat is Werkspot?
@@ -60,7 +59,7 @@ Lees ook: [hoe dakdekkers meer opdrachten binnenhalen via Google](/blog/hoe-ai-d
 
 ## Reviews als groeistrategie
 
-Op Werkspot zijn reviews allesbepalend — ze bepalen of een klant jou kiest of je concurrent. DakdekkerAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Maar het slimste is dat deze reviews niet alleen op Werkspot verschijnen — ze versterken ook je Google-profiel. Meer Google Reviews betekent een hogere positie in Google, wat weer meer directe klanten oplevert zonder Werkspot. Zo bouw je je eigen klantenstroom op terwijl je Werkspot als aanvulling houdt.
+Op Werkspot zijn reviews allesbepalend — ze bepalen of een klant jou kiest of je concurrent. DakdekkerAI automatiseert je reviewstrategie: na elke klus gaat automatisch een reviewverzoek uit. Maar het slimste is dat deze reviews niet alleen op Werkspot verschijnen — ze versterken ook je Google-profiel. Meer [Google Reviews](/reviews) betekent een hogere positie in Google, wat weer meer directe klanten oplevert zonder Werkspot. Zo bouw je je eigen klantenstroom op terwijl je Werkspot als aanvulling houdt.
 
 ## Wanneer Werkspot wél werkt
 
