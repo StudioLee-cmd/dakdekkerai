@@ -8,7 +8,6 @@ image: "/images/blog/dakdekker-ai-vs-personeel.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
 cluster: "automatisering"
 ---
-
 Als je als dakdekker groeit, loop je tegen een muur aan. Je kunt het kantoorwerk niet meer alleen af. De logische stap lijkt dan: iemand aannemen voor op kantoor. Een planner, een werkvoorbereider, of een administratief medewerker.
 
 Maar is dat in 2026 nog wel de slimste keuze? Personeel is goud waard, maar vooral **vakpersoneel** (de jongens op het dak). Voor het kantoorwerk is er nu een beter alternatief.
@@ -27,7 +26,7 @@ En dan? Dan heb je iemand die er van 9 tot 5 is. Niet in het weekend. Niet tijde
 ### Dakdekker AI: Het Alternatief
 
 Vergelijk dat eens met ons Elite pakket (€297 / maand). Voor minder dan 10% van de kosten krijg je:
-- **24/7 Bereikbaarheid:** AI slaapt nooit, is nooit ziek en neemt ook op zondagavond op bij stormschade.
+- **24/7 [Bereikbaarheid](/voice-ai):** AI slaapt nooit, is nooit ziek en neemt ook op zondagavond op bij stormschade.
 - **Oneindige Schaalbaarheid:** Bellen er 10 mensen tegelijk? De AI helpt ze allemaal tegelijk. Een mens kan maar één telefoon vasthouden.
 - **Geen Werkgeversrisico's:** Geen contracten, geen ontslagbescherming, geen gedoe. Maandelijks opzegbaar.
 
