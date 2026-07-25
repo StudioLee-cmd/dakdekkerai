@@ -8,7 +8,6 @@ image: "/images/blog/stormschade-dakdekker-sneller-reageren.png"
 tags: ["Dakdekker", "Stormschade", "Seizoenswerk"]
 cluster: "automatisering"
 ---
-
 ## Na de storm: het gouden uur voor dakdekkers
 
 Als er een storm over Nederland trekt, gebeurt er iets bijzonders op Google. Binnen een uur na de eerste windstoten vertienvoudigt het zoekvolume op "dakdekker spoed", "stormschade dak" en "lekkage na storm." Dit is het gouden uur voor dakdekkers.
@@ -47,7 +46,7 @@ Tijdens een storm word je platgebeld — maar je kunt niet tien telefoontjes teg
 - Waar? (adres en postcode)
 - Hoe urgent? (actieve lekkage of preventieve inspectie)
 
-Jij krijgt een geordende lijst met alle meldingen, gesorteerd op urgentie. Geen chaos, geen gemiste oproepen.
+Jij krijgt een geordende lijst met alle meldingen, gesorteerd op urgentie. Geen chaos, geen [gemiste oproepen](/voice-ai).
 
 ### 4. Werk met een spoedplanning
 
