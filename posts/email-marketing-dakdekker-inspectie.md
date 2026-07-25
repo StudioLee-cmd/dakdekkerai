@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "dakdekker", "inspectie"]
 cluster: "automatisering"
 ---
-
 ## Waarom email marketing werkt voor dakdekkers
 
 Een dak is iets waar huiseigenaren pas aan denken als er iets mis is — een lekkage, een losgewaaide dakpan, verstopte goten. Maar preventief onderhoud voorkomt dure reparaties. De meeste klanten weten dat; ze vergeten het alleen.
@@ -56,7 +55,7 @@ Houd het beheerbaar:
 
 Plan een ochtend in januari om alle mails voor het jaar te schrijven en in te plannen. Vier mails schrijven kost je twee uur — en levert het hele jaar opdrachten op.
 
-Een gratis tool als MailerLite is voldoende. Tot 500 contacten is het gratis, inclusief automatisering.
+Een gratis tool als MailerLite is voldoende. Tot 500 contacten is het gratis, inclusief [automatisering](/automatisering).
 
 ## Veelgemaakte fouten
 
