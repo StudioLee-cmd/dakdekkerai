@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
                 />
             </div>
 
-            <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[var(--hero-gradient-via)] to-[var(--hero-gradient-to)]">
+            <div className="absolute left-0 right-0 bottom-0 h-40 bg-gradient-to-b from-transparent via-[var(--hero-gradient-via)] to-[var(--hero-gradient-to)]">
             </div>
 
             <div className="text-center relative">
