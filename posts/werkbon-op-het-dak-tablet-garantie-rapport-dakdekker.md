@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Administratie", "Werkbon", "Tablet", "Dakdekker", "Garantie"]
 cluster: "automatisering"
 ---
-
 **In het kort:**
 - Een dakdekker met papieren werkbonnen verliest gemiddeld 6 tot 12 uur per week aan herinvoeren, kwijtraken en achteraf-bellen. Een tablet-systeem op het dak elimineert dit bijna volledig.
 - De drie meest gebruikte tablets in de bouw in 2026 zijn de iPad 11 (cellular), de Samsung Galaxy Tab Active 5 (rugged) en de Microsoft Surface Go 4. Voor dakwerk wint de Tab Active 5 op duurzaamheid en zon-zichtbaarheid.
@@ -110,6 +109,8 @@ Voor een dakdekker-MKB met 5 medewerkers:
 Tegenover een tijdsbesparing van 300 tot 600 productieve uren per jaar (waarde 19.000 tot 39.000 euro), is de ROI binnen het eerste jaar 2 tot 5 keer de investering. Vanaf jaar 2 vallen de tablet-kosten weg en blijft alleen de licentie staan, dan is de ROI nog hoger.
 
 Begin met een [gratis AI-scan](/gratis-scan) om voor jouw specifieke situatie de werkbon-tijdverspilling concreet door te rekenen en te zien welk platform het best past. Of bekijk een [nieuwe website laten maken](/gratis-website) waarin de werkbon-flow direct gekoppeld is aan je site en CRM.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/onderhoudscycli-per-adres-crm-dakdekker" class="text-dark fw-semibold">Onderhoudscycli per adres: CRM-setup voor dakdekkers</a> →</p></div></div></div>
 
 ## Veelgestelde vragen
 
