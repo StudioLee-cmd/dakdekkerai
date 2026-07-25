@@ -7,14 +7,13 @@ image: "/images/blog/lokale-seo-dakdekker-meer-klussen.jpg"
 tags: ["Vindbaarheid", "Lokale SEO", "Groei"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom lokale vindbaarheid alles bepaalt voor dakdekkers
 
 Als dakdekker werk je lokaal. Je klanten zitten in je regio — huiseigenaren met lekkages, storm­schade of een dak dat aan vervanging toe is. Ze zoeken op Google: "dakdekker [plaatsnaam]" of "daklekkage repareren in de buurt."
 
 Als je niet verschijnt bij die zoekopdrachten, bestaan je niet voor deze klanten. Ze bellen de dakdekker die wél bovenaan staat. Lokale SEO is het verschil tussen een volle agenda en wachten op klussen.
 
-Het goede nieuws: lokale SEO voor dakdekkers is geen rocket science. Met een paar gerichte stappen kun je binnen drie tot zes maanden significant hoger verschijnen in de zoekresultaten voor je regio.
+Het goede nieuws: [lokale SEO voor dakdekkers](/seo) is geen rocket science. Met een paar gerichte stappen kun je binnen drie tot zes maanden significant hoger verschijnen in de zoekresultaten voor je regio.
 
 ## De juiste zoekwoorden voor je regio
 
