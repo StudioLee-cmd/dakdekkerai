@@ -8,7 +8,6 @@ image: "/images/blog/mond-tot-mondreclame-dakdekker.png"
 tags: ["Mond-tot-mond", "Klantwerving", "Groei"]
 cluster: "branding"
 ---
-
 Vraag een succesvolle dakdekker waar zijn beste klanten vandaan komen, en het antwoord is bijna altijd hetzelfde: via via. Een buurman die je dak heeft gerepareerd vertelt het aan drie straten verderop. Een tevreden klant stuurt haar schoonzus door. Mond-tot-mondreclame is en blijft het krachtigste marketingkanaal voor dakdekkers.
 
 Maar de meeste dakdekkers laten dit aan het toeval over. Ze doen goed werk, hopen dat klanten erover praten, en wachten af. Dat kan slimmer. In dit artikel lees je hoe je mond-tot-mondreclame systematisch stimuleert zodat het een betrouwbare stroom van nieuwe opdrachten oplevert.
@@ -81,7 +80,7 @@ Zorg dat je op al deze plekken vindbaar bent, zodat wanneer iemand je naam noemt
 
 ## De managed-service aanpak
 
-Alles zelf regelen naast je daadwerkelijke dakwerk is lastig. Met een managed service hoef je slechts **15 minuten per maand** te besteden aan een kort gesprek. Reviews verzamelen, online zichtbaarheid, social media — het wordt allemaal voor je geregeld.
+Alles zelf regelen naast je daadwerkelijke dakwerk is lastig. Met een managed service hoef je slechts **15 minuten per maand** te besteden aan een kort gesprek. Reviews verzamelen, [online zichtbaarheid](/social-media), social media — het wordt allemaal voor je geregeld.
 
 Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen groei? Geld terug. Het risico ligt 100% bij ons.
 
