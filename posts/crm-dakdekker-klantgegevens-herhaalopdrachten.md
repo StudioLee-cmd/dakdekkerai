@@ -121,7 +121,7 @@ Na drie maanden heeft dit systeem zichzelf terugverdiend, niet omdat het spectac
 
 Concreet: dakdekkers die deze zeven velden vastleggen en automatische signalen opvolgen zien hun herhaalopdrachten-ratio stijgen van tien-vijftien procent naar dertig-veertig procent binnen anderhalf jaar. Op een klantenbestand van driehonderd klanten is dat het verschil tussen dertig extra klussen per jaar en negentig extra klussen per jaar, allemaal uit bestaande relaties, zonder dat je één euro aan nieuwe leads besteedt.
 
-Wij bouwen deze CRM-setup in onze managed service voor dakdekkers. Gebaseerd op jouw bestaande klantenbestand, jouw materialen en jouw voorkeursplatform. Binnen twee tot drie weken draait het in de achtergrond en zie je de eerste rebook-nudges uitgaan.
+Wij bouwen deze CRM-setup in onze [managed service](/blog/dakdekker-ai-vs-personeel) voor dakdekkers. Gebaseerd op jouw bestaande klantenbestand, jouw materialen en jouw voorkeursplatform. Binnen twee tot drie weken draait het in de achtergrond en zie je de eerste rebook-nudges uitgaan.
 
 ## Groei-of-Geld-Terug Garantie
 
