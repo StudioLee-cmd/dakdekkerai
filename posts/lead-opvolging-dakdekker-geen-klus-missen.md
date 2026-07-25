@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-dakdekker-geen-klus-missen.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom dakdekkers de meeste leads verliezen
 
 Als dakdekker werk je de hele dag op het dak. Letterlijk. Je kunt niet zomaar je telefoon pakken als een potentiële klant belt met een lekkage of offerte-aanvraag. Tegen de tijd dat je 's avonds je gemiste oproepen bekijkt, heeft die klant al lang een andere dakdekker gevonden.
@@ -32,7 +31,7 @@ De 5-minuten-regel werkt vooral bij spoedlekkages. Een huiseigenaar met water da
 
 ![Nederlandse woonwijk met dakpannen](/images/blog/lead-opvolging-dakdekker-geen-klus-missen-2.jpg)
 
-De oplossing is niet om vaker je telefoon te checken — het is automatisering. Bij elke gemiste oproep wordt direct een WhatsApp-bericht verstuurd:
+De oplossing is niet om vaker je telefoon te checken — het is [automatisering](/automatisering). Bij elke gemiste oproep wordt direct een WhatsApp-bericht verstuurd:
 
 "Bedankt voor je bericht. Ik ben momenteel op een klus maar bel je vandaag nog terug. Heb je spoed door een lekkage? Stuur een foto en ik geef direct een indicatie."
 
@@ -64,6 +63,8 @@ Veel huiseigenaren ontdekken dakproblemen 's avonds of in het weekend — precie
 Een AI-telefoniste vangt deze oproepen op, noteert het probleem, en jij start maandagochtend met een lijst warme leads. De klanten hebben al het gevoel dat ze "ergens staan" — ze wachten geduldig tot je terugbelt.
 
 Spoedlekkages buiten werktijden zijn vaak je meest winstgevende klussen. Klanten accepteren hogere tarieven omdat het urgent is. Met een AI die 24/7 bereikbaar is, mis je deze kansen niet meer.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/zzp-dakdekker-administratie-btw-boekhouden-2026" class="text-dark fw-semibold">ZZP dakdekker administratie: BTW en boekhouden</a> →</p></div></div></div>
 
 ## Meer klussen zonder meer marketing
 
