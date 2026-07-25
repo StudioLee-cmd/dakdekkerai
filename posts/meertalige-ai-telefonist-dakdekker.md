@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Bereikbaarheid", "Storm", "Meertalig"]
 cluster: "voice-ai"
 ---
-
 De eerste najaarsstorm rolt binnen en je telefoon staat roodgloeiend. Losgewaaide pannen, een lekkage boven de babykamer, een ondernemer wiens bedrijfshal onder water loopt. Je staat zelf op een dak met een harnas om, je handen zitten vol, en ondertussen tikt de teller van gemiste oproepen door. Elke gemiste beller is een klus die naar de dakdekker gaat die wel opnam.
 
 En dan is er nog iets wat bijna niemand hardop zegt: niet iedereen die belt spreekt vloeiend Nederlands. De Poolse voorman van een bouwbedrijf die namens de aannemer belt. Een Turkse huiseigenaar die in paniek is over water op zolder. Een Engelstalige expat in de Randstad. Tijdens een storm-piek belt half Nederland tegelijk, en een deel daarvan in een andere taal dan de jouwe. Een meertalige AI telefonist vangt die gesprekken op, in de taal van de beller, terwijl jij gewoon doorwerkt.
@@ -70,7 +69,7 @@ Nee. Je houdt je eigen nummer en je eigen manier van werken. De telefonist wordt
 
 ## Zorg dat de volgende storm je klanten oplevert, geen gemiste oproepen
 
-Een storm is voor een dakdekker het drukste én het meest lucratieve moment van het jaar. Juist dan mag je bereikbaarheid geen toeval zijn, en zeker geen kwestie van welke taal de beller spreekt. Een meertalige AI telefonist zorgt dat je geen enkele klus meer verliest omdat je op een dak stond of omdat iemand in het Pools belde.
+Een storm is voor een dakdekker het drukste én het meest lucratieve moment van het jaar. Juist dan mag je [bereikbaarheid](/blog/bereikbaarheid-dakdekker) geen toeval zijn, en zeker geen kwestie van welke taal de beller spreekt. Een meertalige AI telefonist zorgt dat je geen enkele klus meer verliest omdat je op een dak stond of omdat iemand in het Pools belde.
 
 Wil je weten waar bij jou de meeste opdrachten weglekken? Vraag een [gratis ai scan voor dakdekkers](/gratis-scan) aan en zie precies welke oproepen je nu misloopt, en wat het je kost. Zo sta je er bij de volgende storm klaar voor, in vier talen tegelijk.
 
