@@ -63,6 +63,8 @@ Automatiseer dit:
 
 De investering in bedrijfssoftware begint bij 50 euro per maand. Bij een uurtarief van 55 euro verdien je dat terug met één bespaard uur.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-offerte-werk-dakdekker-chatgpt-claude-gemini-vergelijking-tools-uitleg" class="text-dark fw-semibold">AI in offerte-werk voor dakdekkers: 4 use-cases</a> →</p></div></div></div>
+
 ## Begin vandaag
 
 1. **Offertesoftware** installeren: maak offertes op locatie in plaats van 's avonds thuis
