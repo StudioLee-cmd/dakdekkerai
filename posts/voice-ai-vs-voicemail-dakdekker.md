@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Voicemail", "Bereikbaarheid", "Gemiste oproepen", "Dakdekker"]
 cluster: "voice-ai"
 ---
-
 Vrijdagavond, 19:40. De storm van vanmiddag is net gaan liggen en ergens in jouw werkgebied belt een huiseigenaar met een kapotte nokvorst drie dakdekkers achter elkaar. Bij de eerste hoort hij: spreek uw boodschap in na de piep. Hij hangt op. Bij de tweede hetzelfde verhaal. De derde neemt op, en die rijdt maandag het dak op. Jij was nummer één in zijn lijstje, maar je voicemail heeft het gesprek voor je gevoerd.
 
 Dat is de eerlijke kern van de keuze tussen voicemail en een [ai telefonist voor dakdekkers](/voice-ai): niet welke techniek nieuwer is, maar wie het gesprek voert op het moment dat jij met twee handen aan een dakpan hangt. Hieronder zetten we beide naast elkaar, met een beslistabel, een rekensom die je met je eigen cijfers invult, en ook het scenario waarin voicemail gewoon volstaat.
@@ -69,6 +68,8 @@ De grens ligt bij spoed en bij onbekende bellers. Zodra stormschade, lekkages of
 De overstap is kleiner dan veel dakdekkers denken. Je houdt gewoon je eigen nummer: je stelt alleen in dat gesprekken na een aantal seconden doorschakelen naar de [ai telefoonbeantwoorder voor dakdekkers](/voice-ai). Neem jij op, dan merkt niemand iets. Neem jij niet op, dan start het gesprek in plaats van de piep.
 
 Daarna begint het echte voordeel: opvolging. Een terugbelverzoek kan automatisch een bevestiging naar de klant sturen en een taak voor jou aanmaken, zodat er niets tussen wal en schip valt. Die [automatische opvolging](/automatisering) is het verschil tussen een systeem dat oproepen aanneemt en een systeem dat klussen binnenhaalt.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefoniste-voor-dakdekkers" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Conclusie: laat de piep niet je acquisitie doen
 
