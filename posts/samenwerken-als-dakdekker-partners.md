@@ -7,7 +7,6 @@ image: "/images/blog/samenwerken-als-dakdekker-partners.png"
 tags: ["samenwerkingen", "dakdekker", "groei"]
 cluster: "branding"
 ---
-
 Een dak is nooit alleen een dak. Er zitten zonnepanelen op, isolatie onder en een loodgieter werkt aan de dakdoorvoeren. Toch werken de meeste dakdekkers als solist. Ze missen daardoor klussen die via samenwerkingspartners hadden kunnen binnenkomen.
 
 ## Waarom samenwerkingen werken voor dakdekkers
@@ -18,7 +17,7 @@ Voordelen:
 - Meer klussen via doorverwijzingen
 - Grotere projecten (dak + isolatie + zonnepanelen)
 - Minder concurrentie op individuele klussen
-- Sterkere reputatie in de regio
+- Sterkere [reputatie](/reviews) in de regio
 
 ## De beste partners voor dakdekkers
 
@@ -63,6 +62,8 @@ Houd bij welke partners hoeveel klussen opleveren. Bespreek elk kwartaal de resu
 ## De lange termijn voordelen
 
 Dakdekkers die hun samenwerkingsnetwerk structureel opbouwen, ervaren na een jaar een fundamentele verandering. In plaats van elke klus zelf te moeten binnenhalen, komen projecten via partners binnen. Dat geeft rust, voorspelbaarheid en de mogelijkheid om selectiever te zijn in welke klussen je aanneemt. De beste dakdekkers kiezen hun projecten — ze hoeven niet meer elke offerte te sturen om werk te hebben. Dat begint bij het opbouwen van een sterk partnernetwerk.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/specialiseren-dakdekker" class="text-dark fw-semibold">Specialiseren als dakdekker: nichekennis die meer oplevert</a> →</p></div></div></div>
 
 ## Hulp nodig?
 
