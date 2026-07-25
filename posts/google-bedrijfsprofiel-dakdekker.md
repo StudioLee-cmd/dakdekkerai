@@ -8,14 +8,13 @@ image: "/images/blog/google-bedrijfsprofiel-dakdekker.png"
 tags: ["google bedrijfsprofiel", "dakdekker", "lokale marketing"]
 cluster: "vindbaarheid"
 ---
-
 Wanneer iemand zoekt op "dakdekker in de buurt" of "daklekkage reparatie [stad]", toont Google eerst de kaartresultaten. Daar staan drie bedrijven — met sterren, afstand en een directe belknop. Als jij daar niet tussen staat, mis je de meest waardevolle leads die er zijn.
 
 Je Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is gratis en machtiger dan welke advertentie ook. In dit artikel leer je hoe je het als dakdekker maximaal benut.
 
 ## Waarom het Google Bedrijfsprofiel zo belangrijk is
 
-Google toont lokale bedrijfsresultaten boven de reguliere zoekresultaten. Dat betekent dat je Google Bedrijfsprofiel zichtbaarder is dan je eigen website. Voor dakdekkers is dit extra relevant omdat klanten vaak acuut zoeken — bij stormschade, lekkages of geplande renovaties.
+Google toont lokale bedrijfsresultaten boven de reguliere [zoekresultaten](/seo). Dat betekent dat je Google Bedrijfsprofiel zichtbaarder is dan je eigen website. Voor dakdekkers is dit extra relevant omdat klanten vaak acuut zoeken — bij stormschade, lekkages of geplande renovaties.
 
 Een goed geoptimaliseerd profiel levert:
 
