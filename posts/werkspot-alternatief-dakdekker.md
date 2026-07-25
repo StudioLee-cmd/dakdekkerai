@@ -7,14 +7,13 @@ image: "/images/blog/werkspot-alternatief-dakdekker.jpg"
 tags: ["Vergelijking", "Werkspot", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Het Werkspot-model: wat het je echt kost
 
 Werkspot rekent €15 tot €30 per reactie op een aanvraag. Niet per gewonnen klus — per reactie. Of je de klus krijgt of niet, je betaalt. Bij 20 reacties per maand zit je al snel op €300 tot €600 aan leadkosten, terwijl je slechts een fractie van die leads daadwerkelijk omzet in werk.
 
 Daarbovenop concurreer je met 3 tot 5 andere dakdekkers op dezelfde klus. De klant kiest vaak de goedkoopste, niet de beste. Je concurreert dus niet op vakmanschap, maar op prijs. Dat is een race naar beneden.
 
-Als dakdekker werk je letterlijk op het dak. Je kunt niet even je telefoon pakken als er een Werkspot-aanvraag binnenkomt. Tegen de tijd dat je 's avonds reageert, heeft de klant al een andere dakdekker gevonden.
+Als dakdekker werk je letterlijk op het dak. Je kunt niet even je [telefoon](/voice-ai) pakken als er een Werkspot-aanvraag binnenkomt. Tegen de tijd dat je 's avonds reageert, heeft de klant al een andere dakdekker gevonden.
 
 ## Waarom steeds meer dakdekkers stoppen met Werkspot
 
