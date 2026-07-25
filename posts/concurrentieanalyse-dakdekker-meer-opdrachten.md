@@ -8,7 +8,6 @@ image: "/images/blog/concurrentieanalyse-dakdekker-meer-opdrachten.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
 cluster: "branding"
 ---
-
 ## Waarom concurrentieanalyse voor dakdekkers
 
 De dakdekkersbranche is competitief. Er zijn veel bedrijven die vergelijkbare diensten aanbieden, en klanten kiezen vaak op basis van prijs, snelheid of online reputatie. Zonder goed inzicht in je concurrentie loop je het risico om opdrachten te missen die je had kunnen winnen.
@@ -23,7 +22,7 @@ Begin met een Google-zoekopdracht op "dakdekker [jouw regio]". Noteer de eerste 
 
 Kijk ook op platforms zoals Werkspot waar veel dakdekkers actief zijn. Bekijk per concurrent:
 - Hoe ziet hun website eruit? Is er een offerte-formulier?
-- Hoeveel Google Reviews hebben ze en wat is de score?
+- Hoeveel [Google Reviews](/reviews) hebben ze en wat is de score?
 - Welke diensten benadrukken ze? Focussen ze op specifieke daktypen?
 - Hoe snel reageren ze volgens reviews?
 
@@ -65,6 +64,8 @@ Daarnaast maakt service het verschil:
 - Garantie op het uitgevoerde werk
 
 Dit zijn dingen die klanten onthouden en doorvertellen. En doorverwijzingen zijn in deze branche goud waard.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/bestelbus-branding-dakdekkers-lokale-herkenbaarheid" class="text-dark fw-semibold">Bestelbus-branding voor dakdekkers: lokale herkenbaarheid</a> →</p></div></div></div>
 
 ## Actieplan voor meer zichtbaarheid
 
