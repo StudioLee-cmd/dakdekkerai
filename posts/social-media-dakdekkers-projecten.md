@@ -8,10 +8,9 @@ image: "/images/blog/social-media-dakdekkers-projecten.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor dakdekkers
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke dakdekker die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke dakdekker die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Drone-foto's van afgeronde proj
 
 ## Projectfoto's zijn je beste verkooptool
 
-Als dakdekker heb je een gouden content-bron: je dagelijkse werk. Elke klus is een potentiële social media post. Het verschil tussen een dakdekker met een volle agenda en eentje die op opdrachten wacht? Vaak simpelweg online zichtbaarheid.
+Als dakdekker heb je een gouden content-bron: je dagelijkse werk. Elke klus is een potentiële [social media](/blog/klusfotos-van-het-dak-social-media-dakdekker) post. Het verschil tussen een dakdekker met een volle agenda en eentje die op opdrachten wacht? Vaak simpelweg online zichtbaarheid.
 
 Maak het een gewoonte: neem bij elke klus een 'voor'-foto en een 'na'-foto. Dat kost je 30 seconden en levert content op die wekenlang werkt.
 
