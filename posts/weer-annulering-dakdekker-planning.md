@@ -51,6 +51,8 @@ Nederland heeft gemiddeld 130 tot 150 regendagen per jaar. Dat is meer dan een d
 
 Reken niet op 52 volle werkweken. Reken op 40 tot 42 productieve buitenweken en plan je omzet daarop. De resterende weken zijn buffer: binnenwerk, onderhoud, administratie en vakantie.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekker-afspraakbevestiging-automatiseren" class="text-dark fw-semibold">Afspraakbevestigingen als dakdekker automatiseren</a> →</p></div></div></div>
+
 ## Weer is geen excuus, het is een variabele
 
 Elke dakdekker werkt met hetzelfde weer. Het verschil zit in hoe je ermee omgaat. Degene die proactief communiceert, binnenklussen als buffer heeft en regenuren productief besteedt, draait aan het eind van het jaar dezelfde omzet als in een droog jaar.
