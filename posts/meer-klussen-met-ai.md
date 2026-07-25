@@ -8,10 +8,9 @@ image: "/images/blog/meer-klussen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
 Als je zelf een aannemer zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een dakdekker 3,4 sterren? Dan scroll je door. Heeft hij 4,9 sterren met 200 reviews? Dan bel je hem. In de dakdekkerswereld, waar vertrouwen alles is ("Cowboys" zijn een bekend probleem), is jouw online reputatie je belangrijkste bezit.
 
-Voor jouw bedrijf zijn Google Reviews de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Maar hoe kom je aan die reviews zonder te smeken?
+Voor jouw bedrijf zijn [Google Reviews](/reviews) de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Maar hoe kom je aan die reviews zonder te smeken?
 
 ## Het Probleem: De "Vergeet-Factor"
 
@@ -28,10 +27,10 @@ Onze Reputatie Manager AI lost dit op door het proces volledig uit jouw handen t
 ### De "Review Firewall": Je geheime wapen tegen azijnpissers
 
 Wij sturen de klant niet direct naar Google. Dat is riskant, want als iemand een slechte dag heeft, heb je direct een 1-ster review. Wij gebruiken een slim tussenstation:
-- **Is de klant blij? (Duim omhoog)** -> Super! Dan stuurt de AI direct de link naar Google Reviews. De drempel is weg, de klant klikt en klaar.
+- **Is de klant blij? (Duim omhoog)** -> Super! Dan stuurt de AI direct de link naar [Google Reviews](/blog/review-hardware-dakdekker-nfc-qr-of-bordje). De drempel is weg, de klant klikt en klaar.
 - **Is de klant niet blij? (Duim omlaag)** -> Ai. Maar in plaats van een slechte Google review, opent er een privé feedback formulier dat **rechtstreeks naar jou** gaat.
 
-Snap je de kracht hiervan? Je vangt de ontevreden klanten af vòòrdat ze online klagen. Je kunt het netjes oplossen, ze bellen, en ze alsnog blij maken. Je online reputatie blijft smetteloos.
+Snap je de kracht hiervan? Je vangt de ontevreden klanten af vòòrdat ze online klagen. Je kunt het netjes oplossen, ze bellen, en ze alsnog blij maken. Je [online reputatie](/blog/online-reputatie-dakdekker) blijft smetteloos.
 
 ## Het Resultaat: Lokale Dominantie
 
