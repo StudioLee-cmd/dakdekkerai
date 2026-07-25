@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Website", "DIY", "Bureau", "AI", "Conversie"]
 cluster: "website"
 ---
-
 Een dakdekker zonder website mist klanten. Dat is niet meer ter discussie in 2026: 87 procent van particuliere opdrachtgevers checkt eerst je online aanwezigheid voordat ze de telefoon pakken, en spoeddiensten worden in toenemende mate via Google Maps en AI-zoekmachines gevonden. Maar de echte vraag is niet *of* je een website nodig hebt. De vraag is: hoe laat je hem bouwen, en wat kost het je over een heel jaar?
 
 Dit artikel is voor jou als dakdekker-bedrijfseigenaar die overweegt om een nieuwe website te laten bouwen, of die ontevreden is over een bestaande site die geen klussen oplevert. We vergelijken drie routes — zelf bouwen (DIY), een webbureau inschakelen, of een AI-platform gebruiken dat speciaal is gemaakt voor dakdekkers. Kosten, snelheid, vindbaarheid in Google, onderhoud, en wat het je per jaar oplevert in extra opdrachten.
@@ -94,6 +93,8 @@ Drie scenario's:
 - **Kies een AI-platform als** je snel een professionele dakdekker-website wilt zonder gedoe, een vaste maandprijs prefereert boven losse facturen, en automatische updates belangrijker vindt dan volledige design-vrijheid. Past voor 9 op de 10 Nederlandse dakdekkers.
 
 Twijfel je nog? De meeste AI-platforms bieden een proefperiode of een gratis demo aan. Bekijk de [gratis website voor dakdekkers](https://www.dakdekkerai.nl/gratis-website) van DakdekkerAI om te zien of de aanpak bij je bedrijf past — geen bouwkosten, geen lange contracten, en een Groei-of-Geld-Terug Garantie als de site geen klussen oplevert.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/foto-portfolio-dakdekker-privacy-zichtbaarheid-2026" class="text-dark fw-semibold">Foto-portfolio dakdekker: privacy + zichtbaarheid 2026</a> →</p></div></div></div>
 
 ## Conclusie: waarom dakdekkers steeds vaker AI kiezen
 
