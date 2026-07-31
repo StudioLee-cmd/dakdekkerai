@@ -47,7 +47,7 @@ Stormschade houdt zich niet aan kantooruren. Klanten die op zaterdagavond een le
 
 ## Snelheid van reageren
 
-De gouden regel: bel binnen 1 uur terug. Uit onderzoek blijkt dat de kans op het winnen van een klus met 80% daalt als je langer dan 4 uur wacht.
+De gouden regel: bel binnen 1 uur terug. De kans op het winnen van een klus zakt hard als je langer dan 4 uur wacht.
 
 Dit geldt ook voor je [offerteproces](/blog/offertes-dakdekker-sneller-reageren). Snelheid is vertrouwen.
 
@@ -68,7 +68,7 @@ Klanten die snel geholpen worden, laten betere [Google reviews](/blog/meer-googl
 
 In het stormseizoen (oktober-maart) is de vraag het hoogst. Bereid je voor:
 
-- Houd je agenda 30% vrij voor spoedwerk
+- Houd een flink deel van je agenda vrij voor spoedwerk
 - Communiceer realistische wachttijden
 - Verwijs naar collega-dakdekkers als je echt vol zit (zij verwijzen later terug)
 
