@@ -72,7 +72,7 @@ Het doel is niet om viral te gaan, maar om een consistent portfolio op te bouwen
 
 ## 5. Reviews als vertrouwensbouwer
 
-Reviews zijn geen nice-to-have, ze zijn een doorslaggevende factor. 88 procent van de consumenten vertrouwt online reviews evenveel als persoonlijke aanbevelingen. Voor dakdekkers, waar het om grote bedragen gaat (500 tot 15.000 euro), is vertrouwen alles.
+Reviews zijn geen nice-to-have, ze zijn een doorslaggevende factor. Het overgrote deel van de consumenten vertrouwt online reviews evenveel als persoonlijke aanbevelingen. Voor dakdekkers, waar het om grote bedragen gaat (500 tot 15.000 euro), is vertrouwen alles.
 
 Maak van reviews een vast onderdeel van je werkproces:
 
