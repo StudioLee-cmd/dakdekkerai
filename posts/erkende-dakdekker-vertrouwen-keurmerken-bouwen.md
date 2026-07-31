@@ -10,7 +10,7 @@ cluster: "website"
 ---
 **In het kort:**
 - Consumenten checken voor de eerste afspraak gemiddeld 4 trust-signalen op je site: KvK-nummer, certificering, Google reviews en jaartal van oprichting. Wie er drie of minder toont, valt af in de eerste shortlist.
-- De drie meest waardevolle dakdekker-keurmerken in Nederland zijn KIWA, KOMO en BRL 2401. Geen ervan is wettelijk verplicht, maar elk schaalt je gemiddelde opdrachtwaarde met 15 tot 30 procent.
+- De drie meest waardevolle dakdekker-keurmerken in Nederland zijn KIWA, KOMO en BRL 2401. Geen ervan is wettelijk verplicht, maar elk tilt je gemiddelde opdrachtwaarde omhoog.
 - Trust-signalen werken alleen als ze CONCREET zijn: een Google reviews-score van 4,7 met 87 reviews wint van een vaag "tevreden klanten". Een logoblok met KIWA wint van een algemene "wij werken volgens de norm".
 - AI-tools maken het toonbaar: een chatbot die direct certificeringen, reviews en garanties uit je systeem haalt en aan de bezoeker laat zien, verhoogt de offerte-conversie met 30 tot 50 procent volgens benchmarks van Trustpilot.
 
@@ -39,7 +39,7 @@ KIWA is de oudste en meest erkende NL-certificering voor dakdekkers. Klanten her
 
 ### 2. KOMO-procescertificaat
 
-KOMO is meer technisch georienteerd op materialen en uitvoering. Voor renovatie-dakdekkers en bedrijven die met PV-installaties werken is dit de norm. Kosten vergelijkbaar met KIWA, soms iets lager voor kleine bedrijven. KOMO en KIWA samen geeft je toegang tot 90 procent van de aanbestedingen waar dakdekkers aan mee mogen doen.
+KOMO is meer technisch georienteerd op materialen en uitvoering. Voor renovatie-dakdekkers en bedrijven die met PV-installaties werken is dit de norm. Kosten vergelijkbaar met KIWA, soms iets lager voor kleine bedrijven. KOMO en KIWA samen geeft je toegang tot vrijwel alle aanbestedingen waar dakdekkers aan mee mogen doen.
 
 ### 3. BRL 2401 (renovatie + nieuwbouw)
 
@@ -55,7 +55,7 @@ Dakmerk is een vakvereniging-keurmerk specifiek voor dakdekkers. Lager bekendhei
 
 ## Hoe je deze keurmerken op je site toont
 
-Het keurmerk hebben is stap een. Het zichtbaar maken is stap twee. De meeste dakdekker-websites laten hier 80 procent van de waarde liggen.
+Het keurmerk hebben is stap een. Het zichtbaar maken is stap twee. De meeste dakdekker-websites laten hier het grootste deel van de waarde liggen.
 
 - **Logoblok in de hero-sectie.** Direct onder je hoofdtitel een rij van 4 tot 6 keurmerken-logos in grijswaarden. Klanten scannen dit binnen 5 seconden.
 - **Een aparte certificaten-pagina.** Met scans van je certificaten als PDF-link, geldigheidsdatum, en een korte uitleg per keurmerk in 1 zin "wat dit voor de klant betekent".
@@ -75,7 +75,7 @@ Concrete cijfers waar je naar moet streven:
 - Minstens 3 nieuwe reviews per maand. Verse reviews wegen zwaarder dan oude.
 - Reviews moeten je naam noemen ("Werk van Jan ging perfect" wint van "tevreden over jullie").
 
-Om dit niveau te halen zonder elke klant zelf te moeten vragen, automatiseer je het. Een [Google reviews-flow](/reviews) stuurt 24 uur na oplevering een sms of WhatsApp met directe link naar het Google review-formulier en bijgevoegd je foto van het opgeleverde dak. Conversie van zo'n review-aanvraag ligt op 35 tot 50 procent. Bij 8 opleveringen per week levert dat 12 tot 16 nieuwe reviews per maand zonder extra werk.
+Om dit niveau te halen zonder elke klant zelf te moeten vragen, automatiseer je het. Een [Google reviews-flow](/reviews) stuurt 24 uur na oplevering een sms of WhatsApp met directe link naar het Google review-formulier en bijgevoegd je foto van het opgeleverde dak. De conversie van zo'n review-aanvraag ligt hoog. Bij 8 opleveringen per week levert dat 12 tot 16 nieuwe reviews per maand zonder extra werk.
 
 ## Trust-signalen die geld kosten
 
@@ -111,7 +111,7 @@ Vanaf aanvraag tot ontvangen certificaat reken je 3 tot 6 maanden. De audit zelf
 
 ### Wat als ik nog geen 30 reviews heb?
 
-Begin met een review-flow voor je laatste 50 opgeleverde projecten. Stuur ze een persoonlijke vraag met directe Google review-link. Conversie ligt op 20 tot 30 procent voor oudere klanten. Dat levert je 10 tot 15 reviews binnen een maand, daarna heb je momentum.
+Begin met een review-flow voor je laatste 50 opgeleverde projecten. Stuur ze een persoonlijke vraag met directe Google review-link. De conversie ligt lager voor oudere klanten. Dat levert je 10 tot 15 reviews binnen een maand, daarna heb je momentum.
 
 ### Mag ik een keurmerk-logo tonen als ik er nog mee bezig ben?
 
