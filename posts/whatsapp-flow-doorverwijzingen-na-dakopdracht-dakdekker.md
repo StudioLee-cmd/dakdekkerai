@@ -12,16 +12,16 @@ cluster: "branding"
 **In het kort:**
 - Een tevreden klant levert gemiddeld 1,4 extra dakdekker-leads op in de eerste 12 maanden, MAAR alleen als je actief om doorverwijzingen vraagt. Dakdekkers die níet vragen krijgen 0,3 referrals per klant. Het verschil zit in één WhatsApp-bericht op het juiste moment.
 - De 3 momenten waarop je de hoogste reply-rate haalt: 24 uur na oplevering (foto plus dankbericht), 7 dagen na oplevering (vraag om review én doorverwijzing) en 90 dagen na oplevering (seizoens-trigger met buurtaanbod). Onder de 3 vragen per opdracht zakt je referral-ratio onder 1,0.
-- Een WhatsApp Business-template gekoppeld aan je [crm voor dakdekkers](/crm) automatiseert de 3 momenten zonder dat jij eraan denkt. Reply-rate van een goed getimed bericht ligt op 38 tot 52 procent. Conversie van reply naar nieuwe lead: 15 tot 25 procent.
+- Een WhatsApp Business-template gekoppeld aan je [crm voor dakdekkers](/crm) automatiseert de 3 momenten zonder dat jij eraan denkt. De reply-rate van een goed getimed bericht is hoog. De conversie van reply naar nieuwe lead ligt daar een stuk onder.
 - Voor de dakdekker met 8 opleveringen per week levert deze flow 5 tot 12 nieuwe leads per maand op, zonder advertentie-budget en zonder extra werk. Cumulatieve waarde over een jaar: 60 tot 144 extra leads en 30 tot 70 extra opdrachten.
 
 ## Waarom doorverwijzingen je goedkoopste lead-bron zijn
 
-Een betaalde Google Ads-lead voor een dakdekker kost in 2026 gemiddeld 38 tot 75 euro per click, en converteert op 4 tot 8 procent naar een offerte-aanvraag. Reken het door: een nieuwe klant via Google kost je 600 tot 1.500 euro aan ads-budget, exclusief je eigen uren voor opvolging.
+Een betaalde Google Ads-lead voor een dakdekker kost in 2026 gemiddeld 38 tot 75 euro per click, en converteert maar mondjesmaat naar een offerte-aanvraag. Reken het door: een nieuwe klant via Google kost je 600 tot 1.500 euro aan ads-budget, exclusief je eigen uren voor opvolging.
 
-Een doorverwijzing van een bestaande klant kost je nul euro aan ads en converteert op 35 tot 55 procent naar een offerte-aanvraag. Dezelfde nieuwe klant: 0 euro plus 90 seconden voor het versturen van één WhatsApp-bericht.
+Een doorverwijzing van een bestaande klant kost je nul euro aan ads en converteert een veelvoud beter naar een offerte-aanvraag. Dezelfde nieuwe klant: 0 euro plus 90 seconden voor het versturen van één WhatsApp-bericht.
 
-Toch laat 73 procent van de Nederlandse dakdekkers deze lead-bron volledig liggen, omdat ze óf vergeten te vragen, óf het ongemakkelijk vinden, óf geen systeem hebben om het te herhalen. Het systeem-deel is wat we vandaag oplossen.
+Toch laat het overgrote deel van de Nederlandse dakdekkers deze lead-bron volledig liggen, omdat ze óf vergeten te vragen, óf het ongemakkelijk vinden, óf geen systeem hebben om het te herhalen. Het systeem-deel is wat we vandaag oplossen.
 
 Voor de basis-randvoorwaarden (professionele website, online aantoonbare reviews, herkenbare branding) helpt een [gratis website voor dakdekkers](/gratis-website) je in één keer in orde. Maar zelfs zonder die randvoorwaarden levert een WhatsApp-flow al direct meer dan een bestaande dakdekker met website maar geen flow.
 
@@ -33,7 +33,7 @@ Niet één keer vragen, niet vijf keer vragen. Drie keer, op specifieke momenten
 
 Direct na de oplevering stuur je géén vraag, maar een waardebericht. Een foto van het opgeleverde dak (vanaf de straat genomen tijdens de eindcontrole) met een dankbericht. Geen call-to-action, geen vraag. Doel: het positieve gevoel verankeren op een tijdstip dat de klant je nog scherp herinnert.
 
-Reply-rate op dit bericht: 65 tot 80 procent (mensen reageren simpelweg met een duim of "bedankt!"). Die reply is de opening voor moment 2.
+Reply-rate op dit bericht: hoog (mensen reageren simpelweg met een duim of "bedankt!"). Die reply is de opening voor moment 2.
 
 ### Moment 2: 7 dagen na oplevering (review-vraag plus doorverwijzing)
 
@@ -41,13 +41,13 @@ Een week later, op een werkdag tussen 9:00 en 11:00, stuur je het tweede bericht
 
 De timing 7 dagen werkt omdat: (a) het positieve gevoel van de opgeleverde klus nog vers is, (b) klant heeft tijd gehad het werk te beoordelen na een paar regenbuien, (c) er nog geen "afsluiting" van de relatie is gebeurd.
 
-Een [reviews-flow voor dakdekkers](/reviews) gekoppeld aan deze WhatsApp-trigger stuurt automatisch een direct-link naar je Google-reviewpagina. Conversie van bericht naar review: 32 tot 45 procent. Conversie naar doorverwijzing: 8 tot 15 procent.
+Een [reviews-flow voor dakdekkers](/reviews) gekoppeld aan deze WhatsApp-trigger stuurt automatisch een direct-link naar je Google-reviewpagina. Een substantieel deel van die berichten leidt tot een review, en een kleiner deel tot een doorverwijzing.
 
 ### Moment 3: 90 dagen na oplevering (seizoens-trigger)
 
 Drie maanden later, op een moment dat seizoensmatig logisch is (vóór de winter voor pannendaken, ná de zomer voor zonnedaken), stuur je een derde bericht. Geen vraag om review, wel een buurtaanbod: "Doet u uw buren een gunst? Tot eind oktober krijgen klanten uit uw straat een gratis dakcheck als ze uw naam noemen."
 
-Dit derde moment haalt de "vergeten klanten" terug. Reply-rate is lager (15 tot 25 procent), maar de doorverwijzingen die je hieruit krijgt zijn van hogere kwaliteit (buurtgenoten die actief op zoek waren, niet zomaar reageren).
+Dit derde moment haalt de "vergeten klanten" terug. Reply-rate is lager, maar de doorverwijzingen die je hieruit krijgt zijn van hogere kwaliteit (buurtgenoten die actief op zoek waren, niet zomaar reageren).
 
 ![Dakdekker op koffietafel thuis met telefoon met WhatsApp-doorverwijzingsbericht zichtbaar](/images/blog/whatsapp-flow-doorverwijzingen-na-dakopdracht-dakdekker-2.jpg)
 
@@ -59,19 +59,19 @@ Hieronder de exacte berichten die je via WhatsApp Business inplant. Pas namen en
 
 > Hoi [Voornaam], het dak is af. Hier de foto vanaf de straat. Schoonmaak heb ik vanmiddag opgevangen, alles netjes weggebracht. Mocht u in de komende 3 maanden iets opvallen, stuur me dan een berichtje. Fijne week! Groet, [Jouw naam]
 
-Foto-bijlage essentieel. Reply-rate: 65 tot 80 procent.
+Foto-bijlage essentieel. Reply-rate: hoog.
 
 ### Script 2: 7-dagen review-plus-doorverwijzing
 
 > Hoi [Voornaam], het dak is een week oud. Nog tevreden? Twee snelle dingen: (1) zou u 30 seconden over hebben voor een Google-review? Link: [google-review-url]. (2) Kent u toevallig iemand in [buurtnaam] of [aangrenzende buurt] met een dak dat ook aandacht nodig heeft? Ik kom voor een gratis check langs. Bedankt! [Jouw naam]
 
-Eén bericht, twee vragen. Reply-rate: 38 tot 52 procent.
+Eén bericht, twee vragen. Reply-rate: goed.
 
 ### Script 3: 90-dagen seizoens-trigger (vóór winter)
 
 > Hoi [Voornaam], de winter komt eraan. Korte vraag: kent u buurtgenoten of vrienden die hun dak nog willen laten nakijken vóór de eerste echte regen? Tot eind oktober krijgen klanten die uw naam noemen een gratis dakcheck (50 euro waarde). Bedankt voor de support! [Jouw naam]
 
-Reply-rate: 15 tot 25 procent. Doorverwijzingen die binnenkomen zijn warmer dan koud.
+Reply-rate: lager dan bij de eerdere momenten. Doorverwijzingen die binnenkomen zijn warmer dan koud.
 
 ### Script 4: Reactie op een doorverwijzing (de follow-up)
 
@@ -79,11 +79,11 @@ Als iemand antwoordt met "ja, mijn buurman [naam] heeft een lekkend dak", stuur 
 
 > Top, bedankt [Voornaam]! Wat is een goed moment voor me om hem te bellen? Of mag ik uw naam noemen als ik bel? Dan weet hij dat het via u komt.
 
-De vraag over hoe-bellen voorkomt dat je een koude lead krijgt. Reply-rate: 80 tot 95 procent.
+De vraag over hoe-bellen voorkomt dat je een koude lead krijgt. Reply-rate: zeer hoog.
 
 ## CRM-tracking: wat je per klant bijhoudt
 
-Zonder tracking verlies je 30 tot 50 procent van je doorverwijzingen omdat je vergeet wie wie heeft aangebracht. Vier velden per klant zijn voldoende:
+Zonder tracking verlies je een fors deel van je doorverwijzingen omdat je vergeet wie wie heeft aangebracht. Vier velden per klant zijn voldoende:
 
 - **WhatsApp-status:** verstuurd 24u / 7d / 90d (met datum per moment)
 - **Reactie:** ja review + ja doorverwijzing / ja review alleen / ja doorverwijzing alleen / niet gereageerd
@@ -94,7 +94,7 @@ Een [crm voor dakdekkers](/crm) met deze 4 velden per klant maakt dat je iedere 
 
 ## Wat NIET helpt: 3 typische fouten
 
-**Fout 1: Te snel vragen.** Op dag 1 vragen om een Google-review werkt niet, want de klant heeft het werk nog niet kunnen testen. Reply-rate zakt onder de 15 procent en je krijgt 1- of 2-sterren-reviews van mensen die net iets ontdekt hebben dat niet goed staat.
+**Fout 1: Te snel vragen.** Op dag 1 vragen om een Google-review werkt niet, want de klant heeft het werk nog niet kunnen testen. De reply-rate zakt hard en je krijgt 1- of 2-sterren-reviews van mensen die net iets ontdekt hebben dat niet goed staat.
 
 **Fout 2: Generiek bericht zonder timing.** "Wij willen u bedanken voor uw vertrouwen" zonder verwijzing naar dit specifieke dak, deze specifieke straat, deze specifieke datum, leest als spam. Personalisatie (voornaam + straatnaam + datum oplevering) verhoogt reply-rate met 2 tot 3 keer.
 
