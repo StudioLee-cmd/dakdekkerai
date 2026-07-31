@@ -59,7 +59,7 @@ Dezelfde honderd leads, twee routes, over twee jaar:
 |---|---|---|
 | Kosten per lead | 20 euro, blijft 20 euro | 15 euro jaar 1, richting 2 euro jaar 2 |
 | Gedeeld met concurrenten | Ja, vaak 3 tot 5 | Nee, exclusief van jou |
-| Conversie naar opdracht | ~25% (gedeelde, koude lead) | ~50% (warme, exclusieve lead) |
+| Conversie naar opdracht (rekenvoorbeeld) | ~25% (gedeelde, koude lead) | ~50% (warme, exclusieve lead) |
 | Kosten per gewonnen opdracht | 80 tot 160 euro | 30 euro jaar 1, richting 4 euro daarna |
 | Wat je opbouwt | Niets, huren | Website, rankings, reviews (bezit) |
 | Als je stopt met betalen | Leads stoppen direct | Leads blijven binnenkomen |
