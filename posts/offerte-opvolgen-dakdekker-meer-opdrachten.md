@@ -11,7 +11,7 @@ tags: ["Leads", "Offertes", "Groei"]
 
 Je bent op het dak geweest, hebt de schade bekeken, een nette offerte gestuurd. Dan wordt het stil. Na een week hoor je niks. Na twee weken begin je te twijfelen. Heeft de klant een ander gevonden? Was de prijs te hoog? Of is de offerte simpelweg vergeten in de inbox?
 
-Gemiddeld wordt slechts 30 tot 40 procent van de dakdekkersoffertes geaccepteerd. Maar een groot deel daarvan is niet verloren aan de concurrent. Het is verloren aan stilte. De klant twijfelt, vergeet of wacht tot jij het initiatief neemt.
+Gemiddeld wordt maar een minderheid van de dakdekkersoffertes geaccepteerd. Maar een groot deel daarvan is niet verloren aan de concurrent. Het is verloren aan stilte. De klant twijfelt, vergeet of wacht tot jij het initiatief neemt.
 
 ## De gouden opvolgtiming
 
@@ -53,6 +53,6 @@ Reageer altijd positief. "Geen probleem, mocht je in de toekomst dakwerk nodig h
 
 ## Betere opvolging, meer opdrachten
 
-Je hoeft niet meer leads te genereren. Je hoeft alleen de leads die je al hebt beter op te volgen. Consequent opvolgen verhoogt je conversie met 20 tot 40 procent zonder dat je een euro extra aan marketing uitgeeft.
+Je hoeft niet meer leads te genereren. Je hoeft alleen de leads die je al hebt beter op te volgen. Consequent opvolgen verhoogt je conversie fors zonder dat je een euro extra aan marketing uitgeeft.
 
 Wil je inzicht in je offerteproces en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
