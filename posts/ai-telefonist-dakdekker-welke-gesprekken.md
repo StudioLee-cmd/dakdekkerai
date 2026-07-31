@@ -10,7 +10,7 @@ cluster: "voice-ai"
 
 ## In het kort
 
-- **Een AI telefonist neemt 90% van de standaardvragen over** (offerte, planning, openingstijden) en stuurt de rest door naar jou.
+- **Een AI telefonist neemt het leeuwendeel van de standaardvragen over** (offerte, planning, openingstijden) en stuurt de rest door naar jou.
 - **Spoedlekkages worden direct herkend** en als urgent doorgezet, ook 's avonds en in het weekend.
 - **De grens ligt bij grote inschattingen:** een complex dakproject inschatten doet de AI niet, een afspraak inplannen wel.
 - **Een goed script kost één uur opzet** en levert direct resultaat. Niet maandenlange training.
@@ -123,7 +123,7 @@ Bekijk de [tarieven](/tarieven) voor wat dit kost en wat erin zit. Voor een door
 
 ### Hoort de klant dat het AI is?
 
-Met de huidige stemtechnologie merkt 95 procent van de bellers het verschil niet. Sommigen vinden het zelfs positief: hij is altijd beleefd, neemt nooit een korte toon aan en vraagt door als iets onduidelijk is. Wie er bewust naar luistert, kan het soms herkennen, maar dat is geen probleem voor de meeste klanten.
+Met de huidige stemtechnologie merken de meeste bellers het verschil niet. Sommigen vinden het zelfs positief: hij is altijd beleefd, neemt nooit een korte toon aan en vraagt door als iets onduidelijk is. Wie er bewust naar luistert, kan het soms herkennen, maar dat is geen probleem voor de meeste klanten.
 
 ### Wat als hij iets fout doet?
 
