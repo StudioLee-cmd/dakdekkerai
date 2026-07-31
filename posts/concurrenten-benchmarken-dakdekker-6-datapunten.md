@@ -45,7 +45,7 @@ Wat je hiermee doet: alles onder de 3/5 is een directe to-do voor jezelf. Dienst
 
 Zet drie zoektermen op een rij: "dakdekker [jouw stad]", "lekkage dak [jouw stad]", "platdak dakdekker [jouw stad]" (of welke kernterm voor jouw werk relevant is). Type ze één voor één in op Google Maps en noteer per zoekterm wie er op plek 1, 2 en 3 staat.
 
-Waarom: dit is jouw harde waarheid. De drie partijen die hier staan, pakken zo'n 70-80% van de klikken op die zoekterm. Plek 4 en lager krijgt nauwelijks aandacht. Als jij voor je belangrijkste kernterm op plek 7 staat, ben je voor die zoekopdracht onzichtbaar, niet "lager dan ideaal", gewoon weg.
+Waarom: dit is jouw harde waarheid. De drie partijen die hier staan, pakken het leeuwendeel van de klikken op die zoekterm. Plek 4 en lager krijgt nauwelijks aandacht. Als jij voor je belangrijkste kernterm op plek 7 staat, ben je voor die zoekopdracht onzichtbaar, niet "lager dan ideaal", gewoon weg.
 
 Wat je hiermee doet: als dezelfde concurrent op meerdere kerntermen in de top-3 staat, leer van hem. Wat heeft hij dat jij niet hebt? Vaak is het een combinatie van Datapunt 1 (reviews) en Datapunt 2 (GBP-compleetheid) plus iets specifieks: een lokaal telefoonnummer, een wijk-specifieke landingspagina, een paar serieuze backlinks vanuit de regio. Notitie maken, doorgaan.
 
