@@ -9,7 +9,7 @@ tags: ["Website Conversie", "Portfolio", "Dakdekker Marketing"]
 ---
 Een huiseigenaar staart al twee maanden naar dakpannen die zoek zijn na de novemberstorm. Hij Googled vier dakdekkers, opent vier websites, en sluit drie binnen tien seconden. De ene die hij open laat staat is degene met een rij voor-en-na foto's bovenaan de homepage. Niet omdat de tekst beter is. Omdat hij in vijf seconden ziet dat deze dakdekker hetzelfde probleem als zijn eigen dak al eens heeft opgelost.
 
-Voor-en-na foto's zijn het sterkste conversie-element op een dakdekker-website. Een test bij vier Nederlandse dakdekkers liet zien dat het toevoegen van een goed gestructureerde voor-na galerij de conversie van bezoeker naar offerteaanvraag met 28 tot 41 procent verhoogde. Maar slechte voor-na foto's doen het tegenovergestelde, ze maken een professionele zaak amateuristisch laten lijken. Dit artikel laat zien hoe je ze maakt, plaatst en gebruikt zodat ze daadwerkelijk klanten opleveren.
+Voor-en-na foto's zijn het sterkste conversie-element op een dakdekker-website. Een goed gestructureerde voor-na galerij verhoogt de conversie van bezoeker naar offerteaanvraag merkbaar. Maar slechte voor-na foto's doen het tegenovergestelde, ze maken een professionele zaak amateuristisch laten lijken. Dit artikel laat zien hoe je ze maakt, plaatst en gebruikt zodat ze daadwerkelijk klanten opleveren.
 
 ## Waarom voor-en-na foto's voor dakdekkers anders werken
 
@@ -20,7 +20,7 @@ Voor-en-na foto's lossen dat fundamentele probleem op. Een rotte dakgoot vol bla
 Voor andere vakken is een voor-na minder krachtig. Een loodgieter werkt achter een muur. Een schilder werkt aan binnenmuren waar bezoekers zelden komen. Maar een dak is iconisch zichtbaar. Daarom presteert een goede voor-na galerij voor dakdekkers beter dan voor bijna elke andere bouwvak. Lees ook onze tips voor [lokale SEO als dakdekker](/seo) als je naast conversie ook bezoekers wilt aantrekken.
 
 **In het kort:**
-- Voor-en-na foto's verhogen conversie van een dakdekker-website met 28 tot 41 procent.
+- Voor-en-na foto's verhogen de conversie van een dakdekker-website merkbaar.
 - Dezelfde camerahoek voor en na is de belangrijkste regel.
 - Plaatsing op de homepage werkt beter dan op een aparte portfolio-pagina.
 - Twee tot vier vergelijkingen is genoeg, meer wordt overslagen.
@@ -74,7 +74,7 @@ Veel dakdekkers stoppen voor-na foto's op een aparte portfolio-pagina. Dat is ee
 1. **Direct onder de hero op de homepage.** Eén grote voor-na vergelijking met een korte caption ("Lekkage-reparatie, Amsterdam, december 2025"). Dit is de plek waar je de meeste impact maakt.
 2. **Tussen de hero en de offerte-CTA.** Drie tot vier kleinere voor-na shots in een rij. Klant scrollt langs deze foto's op weg naar de "vraag offerte aan" knop en wordt daar overtuigd.
 3. **Bij elke dienst-pagina (lekkage, pan-vervanging, etc.).** Specifieke voor-na voor die specifieke dienst. Bezoeker die op "lekkage-reparatie" klikt wil bewijs zien van lekkage-reparaties, niet van pan-vervanging.
-4. **Op een aparte portfolio-pagina, als laatste optie.** Maar verwacht hier 80 procent minder views dan op de homepage.
+4. **Op een aparte portfolio-pagina, als laatste optie.** Maar verwacht hier fors minder views dan op de homepage.
 
 Een doordacht ingedeelde [dakdekker-website](/gratis-website) heeft op elke belangrijke pagina minstens één voor-na vergelijking. Bekijk ook onze [tarieven](/tarieven) als je dit liever volledig laat opzetten.
 
@@ -112,14 +112,14 @@ Voor-na foto's zonder context werken matig. Met een korte zin context werken ze 
 
 Een herkenbaar dak in een herkenbare straat is identificeerbaar. Vraag de klant om schriftelijke toestemming voor de foto, ook als er geen mensen op staan. Een eenvoudig WhatsApp-bericht volstaat. Onze pagina over [reviews](/reviews) gaat dieper in op klant-toestemming voor digitale assets.
 
-## Wat het oplevert in cijfers
+## Wat het oplevert
 
 Bij vier Nederlandse dakdekkers die we de afgelopen 12 maanden hebben begeleid bij het toevoegen van een goed-gestructureerde voor-na galerij op hun homepage, zagen we deze gemiddelde resultaten:
 
-- **Conversie van bezoeker naar offerteaanvraag:** +28 tot +41 procent
-- **Tijd op de homepage:** +45 procent (klanten kijken langer)
-- **Bounce rate:** -18 procent (minder mensen verlaten de site direct)
-- **Telefoongesprekken vanuit de website:** +22 procent
+- **Conversie van bezoeker naar offerteaanvraag:** merkbaar hoger
+- **Tijd op de homepage:** langer (klanten kijken langer)
+- **Bounce rate:** lager (minder mensen verlaten de site direct)
+- **Telefoongesprekken vanuit de website:** meer
 
 Dit zijn geen perfecte cijfers (verschillende websites, verschillende uitgangspunten), maar de richting is consistent. Een dakdekker-website met goede voor-na foto's converteert significant beter dan eentje zonder.
 
