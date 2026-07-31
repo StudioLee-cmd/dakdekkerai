@@ -9,7 +9,7 @@ tags: ["Website Conversie", "Portfolio", "Dakdekker Marketing"]
 ---
 Een huiseigenaar staart al twee maanden naar dakpannen die zoek zijn na de novemberstorm. Hij Googled vier dakdekkers, opent vier websites, en sluit drie binnen tien seconden. De ene die hij open laat staat is degene met een rij voor-en-na foto's bovenaan de homepage. Niet omdat de tekst beter is. Omdat hij in vijf seconden ziet dat deze dakdekker hetzelfde probleem als zijn eigen dak al eens heeft opgelost.
 
-Voor-en-na foto's zijn het sterkste conversie-element op een dakdekker-website. Een goed gestructureerde voor-na galerij verhoogt de conversie van bezoeker naar offerteaanvraag merkbaar. Maar slechte voor-na foto's doen het tegenovergestelde, ze maken een professionele zaak amateuristisch laten lijken. Dit artikel laat zien hoe je ze maakt, plaatst en gebruikt zodat ze daadwerkelijk klanten opleveren.
+Voor-en-na foto's zijn het sterkste conversie-element op een dakdekker-website. Een goed gestructureerde voor-na galerij tilt de conversie van bezoeker naar offerteaanvraag omhoog. Maar slechte voor-na foto's doen het tegenovergestelde, ze maken een professionele zaak amateuristisch laten lijken. Dit artikel laat zien hoe je ze maakt, plaatst en gebruikt zodat ze daadwerkelijk klanten opleveren.
 
 ## Waarom voor-en-na foto's voor dakdekkers anders werken
 
@@ -20,7 +20,7 @@ Voor-en-na foto's lossen dat fundamentele probleem op. Een rotte dakgoot vol bla
 Voor andere vakken is een voor-na minder krachtig. Een loodgieter werkt achter een muur. Een schilder werkt aan binnenmuren waar bezoekers zelden komen. Maar een dak is iconisch zichtbaar. Daarom presteert een goede voor-na galerij voor dakdekkers beter dan voor bijna elke andere bouwvak. Lees ook onze tips voor [lokale SEO als dakdekker](/seo) als je naast conversie ook bezoekers wilt aantrekken.
 
 **In het kort:**
-- Voor-en-na foto's verhogen de conversie van een dakdekker-website merkbaar.
+- Voor-en-na foto's zetten meer bezoekers om in een offerteaanvraag.
 - Dezelfde camerahoek voor en na is de belangrijkste regel.
 - Plaatsing op de homepage werkt beter dan op een aparte portfolio-pagina.
 - Twee tot vier vergelijkingen is genoeg, meer wordt overslagen.
@@ -116,7 +116,7 @@ Een herkenbaar dak in een herkenbare straat is identificeerbaar. Vraag de klant 
 
 Bij vier Nederlandse dakdekkers die we de afgelopen 12 maanden hebben begeleid bij het toevoegen van een goed-gestructureerde voor-na galerij op hun homepage, zagen we deze gemiddelde resultaten:
 
-- **Conversie van bezoeker naar offerteaanvraag:** merkbaar hoger
+- **Conversie van bezoeker naar offerteaanvraag:** hoger
 - **Tijd op de homepage:** langer (klanten kijken langer)
 - **Bounce rate:** lager (minder mensen verlaten de site direct)
 - **Telefoongesprekken vanuit de website:** meer
