@@ -10,7 +10,7 @@ cluster: "website"
 ---
 ## Je website trekt bezoekers, maar geen klanten
 
-Veel dakdekkers investeren in een [website](/gratis-website) en SEO, krijgen bezoekers maar zien nauwelijks aanvragen. Een gemiddelde bouwwebsite converteert 2-3%. De best presterende halen 8-12%. Bij 500 bezoekers per maand is dat het verschil tussen 10 en 60 aanvragen.
+Veel dakdekkers investeren in een [website](/gratis-website) en SEO, krijgen bezoekers maar zien nauwelijks aanvragen. Een gemiddelde bouwwebsite converteert maar een paar procent van de bezoekers. De best presterende halen een veelvoud daarvan. Bij 500 bezoekers per maand is dat het verschil tussen een handvol en tientallen aanvragen.
 
 ## Wat een bezoeker zoekt in 5 seconden
 
@@ -30,13 +30,13 @@ Minimaal 10-15 projecten met voor-en-na foto's en bijschriften.
 "Pannendak vervangen: vanaf €80 per m2" — indicaties helpen.
 
 ### 4. Een simpel contactformulier
-Naam, telefoonnummer, postcode, type dak, korte omschrijving. Meer dan 5 velden = 50% afhakers.
+Naam, telefoonnummer, postcode, type dak, korte omschrijving. Meer dan 5 velden en je verliest een fors deel van de invullers.
 
 ### 5. Click-to-call op mobiel
-60% bezoekers komt via smartphone. Telefoonnummer moet klikbaar zijn.
+Het merendeel van je bezoekers komt via smartphone. Telefoonnummer moet klikbaar zijn.
 
 ### 6. Snelheidsgarantie
-"We reageren binnen 2 uur." Dit verhoogt aanvragen met 20-30%.
+"We reageren binnen 2 uur." Dit verhoogt het aantal aanvragen merkbaar.
 
 ### 7. FAQ-sectie
 Hoe lang duurt een dakrenovatie? Hebben jullie garantie? Stormschade?
