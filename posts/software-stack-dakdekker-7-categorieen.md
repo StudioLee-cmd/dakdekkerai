@@ -58,7 +58,7 @@ Wie hier serieus mee aan de slag wil zonder zelf de koppelingen te bouwen, vindt
 
 Marketing-software is breder dan SEO en advertenties. Voor een dakdekker valt onder deze categorie ook de WhatsApp-laag voor klantupdates ("we zijn onderweg", "klus is klaar", "review-link na een week"), de automatische review-verzoeken na elke klus, de social-media planner voor maandelijkse voor-en-na foto's, en de e-mail-flow naar oude klanten voor onderhoud na twee jaar.
 
-De typische valkuil is denken dat dit allemaal handmatig moet en daarom alleen op rustige momenten gebeurt. In de praktijk staat 80% van de communicatie vast: dezelfde berichten, dezelfde momenten, dezelfde reviews-vragen. Dat is automatiseerbaar zonder dat het robotisch voelt. Een [ai chatbot voor dakdekkers](/chatbot) vangt de inkomende vragen op je website op, een [ai telefonist voor dakdekkers](/voice-ai) neemt de oproep aan terwijl je op het dak staat, en [review management voor dakdekkers](/reviews) stuurt het verzoek automatisch na de klus.
+De typische valkuil is denken dat dit allemaal handmatig moet en daarom alleen op rustige momenten gebeurt. In de praktijk ligt het overgrote deel van de communicatie vast: dezelfde berichten, dezelfde momenten, dezelfde reviews-vragen. Dat is automatiseerbaar zonder dat het robotisch voelt. Een [ai chatbot voor dakdekkers](/chatbot) vangt de inkomende vragen op je website op, een [ai telefonist voor dakdekkers](/voice-ai) neemt de oproep aan terwijl je op het dak staat, en [review management voor dakdekkers](/reviews) stuurt het verzoek automatisch na de klus.
 
 ## Categorie 7: Garantie-tracking (dakdekker-uniek)
 
