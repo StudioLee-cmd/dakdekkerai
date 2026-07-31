@@ -17,7 +17,7 @@ cluster: "branding"
 
 ## Waarom een bestelbus de goedkoopste marketing-kanaal is
 
-Reken het door. Een Google Ads-campagne voor een dakdekker kost gemiddeld 38 tot 75 euro per click, met 4 tot 8 procent conversie naar offerte-aanvraag. Een Facebook-campagne kost 15 tot 35 euro per lead. Een flyer-actie in de buurt kost 1.500 tot 4.500 euro voor 5.000 flyers met een respons van 0,5 tot 1,2 procent.
+Reken het door. Een Google Ads-campagne voor een dakdekker kost gemiddeld 38 tot 75 euro per click, met een lage conversie naar offerte-aanvraag. Een Facebook-campagne kost 15 tot 35 euro per lead. Een flyer-actie in de buurt kost 1.500 tot 4.500 euro voor 5.000 flyers met een respons van een fractie van een procent.
 
 Een gestickerde bestelbus die je toch al rijdt: eenmalige kosten 950 tot 2.800 euro, en daarna 0 euro per maand voor de hele resterende levensduur (typisch 6 tot 10 jaar). Een dakdekker-bus rijdt door 3 tot 5 lokale buurten elke werkdag. Per kilometer wordt de bus gezien door 25 tot 80 forensen, voetgangers en fietsers. Op 100 km per dag is dat 2.500 tot 8.000 impressies.
 
@@ -67,13 +67,13 @@ Welke vier of vijf elementen je design absoluut moet bevatten:
 
 Voor de visuele consistentie tussen bus en website: zorg dat je [gratis website voor dakdekkers](/gratis-website) DEZELFDE kleurpalet, lettertype en logo-versie gebruikt als je bus. Mensen die je bus zien onthouden de kleuren, niet de exacte naam. Wanneer ze later googelen en je website opent met dezelfde kleuren, is de herkenning instant.
 
-Een QR-code op de achterkant van de bus die rechtstreeks naar een [chatbot voor dakdekkers](/chatbot) op je website leidt converteert 8 tot 15 procent van geinteresseerde voorbijgangers direct naar een gesprek, zonder telefoongesprek.
+Een QR-code op de achterkant van de bus die rechtstreeks naar een [chatbot voor dakdekkers](/chatbot) op je website leidt zet een deel van de geinteresseerde voorbijgangers direct om naar een gesprek, zonder telefoongesprek.
 
 ## De ROI: hoeveel leads uit één gestickerde bus
 
 Cijfers gebaseerd op DakdekkerAI-data over 2025 en 2026 (sample: 47 dakdekker-bedrijven die hun bussen lieten branden):
 
-- Niveau 2 (zijkant-belettering): gemiddeld 28 directe telefoontjes per jaar vanaf de bus, 22 website-bezoeken via QR of getypt URL. 60 procent komt tot een offerte-aanvraag. 35 tot 45 procent van offertes converteert naar opdracht. Resultaat: 10 tot 15 nieuwe opdrachten per jaar.
+- Niveau 2 (zijkant-belettering): gemiddeld 28 directe telefoontjes per jaar vanaf de bus, 22 website-bezoeken via QR of getypt URL. Een deel daarvan komt tot een offerte-aanvraag, en daarvan converteert er weer een deel naar opdracht. Resultaat: 10 tot 15 nieuwe opdrachten per jaar.
 - Niveau 3 (3/4-wrap): gemiddeld 45 directe telefoontjes per jaar, 38 website-bezoeken. Resultaat: 18 tot 24 nieuwe opdrachten per jaar.
 
 Bij een gemiddelde dakopdracht-waarde van 4.200 euro is dat 42.000 tot 100.000 euro extra omzet per jaar uit één bus. Terugverdien-tijd: 2 tot 4 maanden voor niveau 2, 3 tot 6 maanden voor niveau 3.
