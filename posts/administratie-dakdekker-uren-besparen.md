@@ -48,7 +48,7 @@ Een klus inplannen zonder systeem loopt in de meeste dakbedrijven zo: klant belt
 
 Met een ingebouwde flow ziet het er anders uit: klant bevestigt afspraak op je bookingpagina, ontvangt direct een WhatsApp-bevestiging, 48 uur vooraf een JA-of-NEE herbevestiging, 24 uur vooraf een voorbereidingsbericht (bijvoorbeeld "zorg dat de kruipruimte toegankelijk is"), en op de dag zelf een "we vertrekken over 30 minuten"-bericht.
 
-Je doet nul handwerk. De no-shows — het grootste ergernis in dakbedrijven — dalen met 40 tot 60 procent. En de klant is op het moment van aankomst voorbereid, wat je nog eens 15 minuten schrobben per klus scheelt.
+Je doet nul handwerk. De no-shows — het grootste ergernis in dakbedrijven — dalen fors. En de klant is op het moment van aankomst voorbereid, wat je nog eens 15 minuten schrobben per klus scheelt.
 
 ## 4. Werkbonnen en urenregistratie vanaf het dak
 
@@ -62,7 +62,7 @@ Dakdekkers die dit overstappen melden dat hun omloopsnelheid van factuur naar be
 
 Factureren zelf is niet het probleem — achter mensen aanjagen die niet betalen, dat is het probleem. Een solo-dakdekker met 80 klussen per jaar heeft gemiddeld 8 tot 12 late betalers per jaar. Elk daarvan vraagt om 2 tot 3 herinneringen, een WhatsApp of telefoontje, en soms een aanmaning.
 
-Een basisflow die dit automatiseert: vijf dagen na de vervaldatum een vriendelijke WhatsApp-reminder, tien dagen later een formele herinneringsmail, twintig dagen later een laatste reminder met aanmaning-notitie. Alleen de allerlaatste stap (incassobureau of persoonlijk contact) vereist nog jouw aandacht. Deze flow kost niets extra behalve set-up, en de gemiddelde betaaltijd daalt met 40 tot 50 procent omdat de meeste late betalers gewoon waren vergeten.
+Een basisflow die dit automatiseert: vijf dagen na de vervaldatum een vriendelijke WhatsApp-reminder, tien dagen later een formele herinneringsmail, twintig dagen later een laatste reminder met aanmaning-notitie. Alleen de allerlaatste stap (incassobureau of persoonlijk contact) vereist nog jouw aandacht. Deze flow kost niets extra behalve set-up, en de gemiddelde betaaltijd daalt fors omdat de meeste late betalers gewoon waren vergeten.
 
 ## 6. Reviews vragen en binnenkrijgen
 
