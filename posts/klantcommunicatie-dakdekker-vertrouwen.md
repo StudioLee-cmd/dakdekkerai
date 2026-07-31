@@ -24,7 +24,7 @@ Goede communicatie begint vóór de eerste dakpan is aangeraakt. Na het uitbreng
 - **Materialen**: wat wordt er gebruikt en waarom
 - **Weer-afhankelijkheid**: wat gebeurt er bij slecht weer
 
-Stuur dit in een overzichtelijke e-mail of WhatsApp-bericht, zodat de klant het kan teruglezen. Dit voorkomt 80% van de telefoontjes tijdens het project.
+Stuur dit in een overzichtelijke e-mail of WhatsApp-bericht, zodat de klant het kan teruglezen. Dit voorkomt het gros van de telefoontjes tijdens het project.
 
 ## Tijdens het werk: updates sturen
 
