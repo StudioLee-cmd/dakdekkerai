@@ -25,7 +25,7 @@ Het verschil met handmatig bellen? Je vergeet het nooit, het kost je nul tijd en
 
 ## WhatsApp werkt beter dan sms of e-mail
 
-Sms wordt steeds minder gelezen. E-mail belandt in de spam. Maar WhatsApp? Dat leest iedereen. 98% van de WhatsApp-berichten wordt geopend, de meeste binnen 3 minuten.
+Sms wordt steeds minder gelezen. E-mail belandt in de spam. Maar WhatsApp? Dat leest iedereen. Vrijwel elk WhatsApp-bericht wordt geopend, de meeste binnen enkele minuten.
 
 Voor dakdekkers is WhatsApp extra effectief omdat je ook foto's kunt meesturen. Stuur de klant een foto van het materiaal dat je meeneemt, of een luchtfoto van hun dak met een markering van het werkgebied. Dat schept vertrouwen voordat je überhaupt op locatie bent.
 
@@ -35,7 +35,7 @@ Voor dakdekkers is WhatsApp extra effectief omdat je ook foto's kunt meesturen. 
 
 Reken even mee. Als je gemiddeld 2 no-shows per maand hebt, en elke no-show kost je €300 aan verloren tijd en materiaal, dan verlies je €7.200 per jaar. Daar koop je een compleet automatiseringssysteem van, en je houdt nog geld over.
 
-Maar het gaat niet alleen om geld. Elke no-show verpest je planning voor de rest van de dag. Je team staat stil, je agenda klopt niet meer en je moet klussen verschuiven. Een automatisch herinneringssysteem verlaagt no-shows met 40-60%.
+Maar het gaat niet alleen om geld. Elke no-show verpest je planning voor de rest van de dag. Je team staat stil, je agenda klopt niet meer en je moet klussen verschuiven. Een automatisch herinneringssysteem verlaagt no-shows fors.
 
 Bekijk de [tarieven](/tarieven) om te zien wat een automatiseringspakket precies kost en oplevert.
 
