@@ -16,7 +16,7 @@ Voor-na fotos zijn een van de sterkste verkoop-tools die een dakdekker heeft, ma
 
 - Voor-na fotos van een woning zelf vereisen geen formele AVG-toestemming, maar wel zakelijke afspraak met opdrachtgever.
 - Voor-na fotos waarop personen herkenbaar staan, vallen onder portretrecht en vereisen WEL toestemming.
-- Mondelinge toestemming is geldig maar bewijslast ligt bij jou; schriftelijke toestemming voorkomt 95% van de discussies.
+- Mondelinge toestemming is geldig maar bewijslast ligt bij jou; schriftelijke toestemming voorkomt vrijwel alle discussies.
 - Eén A4 toestemmingsformulier dat de klant bij ondertekening van de offerte tekent, is de standaard-oplossing.
 - Bij bedrijfspanden is het meestal eenvoudiger; bij particuliere woningen extra zorgvuldig zijn met buren in beeld.
 
@@ -40,7 +40,7 @@ Een praktijkgids voor de meeste situaties:
 
 ## Het 2-minuten consent-formulier dat alles afdekt
 
-De praktische oplossing voor 95 procent van de dakdekker-projecten is een eenvoudig schriftelijk toestemmingsformulier dat je standaard bij de offerte-ondertekening laat ondertekenen:
+De praktische oplossing voor vrijwel elk dakdekker-project is een eenvoudig schriftelijk toestemmingsformulier dat je standaard bij de offerte-ondertekening laat ondertekenen:
 
 ```
 TOESTEMMING VOOR PORTFOLIO-FOTOGRAFIE
@@ -86,7 +86,7 @@ Een klant kan zijn toestemming altijd intrekken. Bij een serieuze intrekking moe
 - Niet verantwoordelijk voor screenshots of reposts die anderen al hebben gemaakt.
 - Geen schadevergoeding verschuldigd, mits je de intrekking netjes opvolgt.
 
-In de praktijk komt intrekking weinig voor (5-10 procent van projecten over 5 jaar). Vaak is de aanleiding een onenigheid over een ander aspect van de samenwerking. Goede klantcommunicatie tijdens het project verlaagt het risico significant. Lees ook hoe je [klantcommunicatie als dakdekker structureert om vertrouwen op te bouwen](/blog/klantcommunicatie-dakdekker-vertrouwen).
+In de praktijk komt intrekking weinig voor. Vaak is de aanleiding een onenigheid over een ander aspect van de samenwerking. Goede klantcommunicatie tijdens het project verlaagt het risico significant. Lees ook hoe je [klantcommunicatie als dakdekker structureert om vertrouwen op te bouwen](/blog/klantcommunicatie-dakdekker-vertrouwen).
 
 ## Voor zakelijke opdrachtgevers: ander regime
 
@@ -108,7 +108,7 @@ Drone-shots zijn waardevol voor voor-na werk maar voegen extra regels toe:
 ## De 5 fouten die je kunt voorkomen
 
 1. **Mondeling toestemming vragen tijdens project.** Werkt op het moment, maar geen bewijs achteraf. Schriftelijk vooraf is de standaard.
-2. **Buren niet inlichten bij drone-fotografie.** Eén briefje door de bus van directe buren voorkomt 90 procent van klachten.
+2. **Buren niet inlichten bij drone-fotografie.** Eén briefje door de bus van directe buren voorkomt vrijwel alle klachten.
 3. **Toestemming nooit documenteren in CRM.** Eén jaar later weet je niet meer welke klant wel of niet getekend heeft. Documenteer in je CRM bij elke project. Lees ook over [een CRM voor dakdekkers](/blog/crm-dakdekker-klantgegevens-herhaalopdrachten) waar dit standaard in zit.
 4. **Generieke "ik mag uw foto gebruiken"-zin in offerte.** Dit is niet specifiek genoeg voor de AVG. Een apart toestemmingsformulier met checkbox-opties is dat wel.
 5. **Foto's van projecten van VORIGE eigenaren publiceren.** Een woning is verkocht en jij hebt de oude foto nog op je site. De nieuwe eigenaar kan vragen om verwijdering.
