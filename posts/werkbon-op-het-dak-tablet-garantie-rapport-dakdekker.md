@@ -68,7 +68,7 @@ Hier is de werkbon-plus-garantie-flow zoals een dakdekker hem in 4 minuten kan d
 1. **Open de werkbon-app op de tablet.** Klantnaam komt automatisch uit de planning. Datum + locatie auto-ingevuld via GPS.
 2. **Scan de barcode van de gebruikte materialen.** Pannen-batch, lood-rol-nummer, kit-tube. Dit is de basis voor het garantie-rapport.
 3. **Maak 4 tot 8 foto's van het opgeleverde werk.** Algemene-foto, close-up dakhoek, lood-aansluiting, schoorsteen, dakgoot. Foto's gaan automatisch in het garantie-rapport.
-4. **Vul de uren-balk in.** Aantal uren per medewerker, aantal materiaalverbruik in m2 of meters. Bestaat al voor 80 procent uit auto-inschattingen op basis van de offerte.
+4. **Vul de uren-balk in.** Aantal uren per medewerker, aantal materiaalverbruik in m2 of meters. Bestaat grotendeels al uit auto-inschattingen op basis van de offerte.
 5. **Laat de klant tekenen op het scherm.** Handtekening voor akkoord werk, plus akkoord voor ontvangst van garantie-rapport per email.
 
 Eind van de stap 5 zit de bon + foto-archief + garantie-rapport al in de boekhouding. De klant heeft binnen 60 seconden een bevestigings-email met PDF-bijlage.
@@ -92,7 +92,7 @@ Wie deze structuur consistent levert, sluit niet alleen claims-discussies vooraf
 De grootste tijdwinst zit niet in de tablet zelf maar in de integraties. Drie die het verschil maken:
 
 - **Boekhouding (Moneybird, e-Boekhouden, Exact).** Werkbon → factuur direct, geen handmatige overtype. Bespaart 10 minuten per factuur.
-- **WhatsApp-notificatie naar de klant.** Direct na het tekenen krijgt de klant een WhatsApp met PDF-bijlage. Verhoogt review-conversie met 30 procent omdat de klant gelijk een tevredenheids-moment heeft.
+- **WhatsApp-notificatie naar de klant.** Direct na het tekenen krijgt de klant een WhatsApp met PDF-bijlage. Verhoogt de review-conversie merkbaar omdat de klant gelijk een tevredenheids-moment heeft.
 - **Klantkaart-update.** Elke werkbon update automatisch de klantkaart in het [CRM](/chatbot) zodat je bij een volgend gesprek alle eerdere klussen + foto's en garanties direct ziet.
 
 Een [AI-chatbot](/chatbot) op je website kan ook automatisch het juiste garantie-rapport ophalen als een eerdere klant naar zijn dossier vraagt. Dat scheelt jou opzoeken en geeft de klant direct een professionele ervaring.
