@@ -54,7 +54,7 @@ Niet iedereen reageert op het eerste bericht. Plan een second touch:
 - Dag 4: e-mail met dezelfde vraag, iets uitgebreider
 - In de factuur: QR-code die direct naar je reviewpagina linkt
 
-Met deze aanpak haalt je gemiddeld 30 tot 40 procent van je klanten een review te plaatsen. Bij 10 klussen per maand is dat 3 tot 4 nieuwe reviews per maand.
+Met deze aanpak haal je een substantieel deel van je klanten zover dat ze een review plaatsen. Bij 10 klussen per maand levert dat elke maand een paar nieuwe reviews op.
 
 ## Negatieve reviews: kans in plaats van bedreiging
 
