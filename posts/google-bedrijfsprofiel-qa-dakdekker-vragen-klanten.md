@@ -71,7 +71,7 @@ Antwoord: Ja. Op nieuwe dakbedekking 10 jaar materiaalgarantie en 5 jaar werkgar
 
 **9. Werken jullie met verzekering bij stormschade?**
 
-Antwoord: Ja. Wij maken offerte direct in het format dat je verzekering accepteert (uitgebreid met foto's, oorzaak, herstelmethode). De meeste verzekeraars vergoeden tussen 70% en 100% bij plotselinge schade, vraag ons om hulp bij de claim.
+Antwoord: Ja. Wij maken offerte direct in het format dat je verzekering accepteert (uitgebreid met foto's, oorzaak, herstelmethode). De meeste verzekeraars vergoeden een groot deel tot het volledige bedrag bij plotselinge schade, vraag ons om hulp bij de claim.
 
 **10. Hoe ziet de offerte eruit?**
 
