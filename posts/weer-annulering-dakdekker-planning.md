@@ -15,7 +15,7 @@ Dit is geen no-show in de traditionele zin. De klant annuleert niet, jij annulee
 
 ## Overboeking als strategie
 
-Hotels doen het, vliegtuigmaatschappijen doen het: overboeken. Als dakdekker kun je een afgezwakte versie toepassen. Plan per week 10 tot 15 procent meer werk in dan je capaciteit toelaat. Bij mooi weer heb je het druk. Bij slecht weer valt er iets weg en klopt je planning alsnog.
+Hotels doen het, vliegtuigmaatschappijen doen het: overboeken. Als dakdekker kun je een afgezwakte versie toepassen. Plan per week iets meer werk in dan je capaciteit toelaat. Bij mooi weer heb je het druk. Bij slecht weer valt er iets weg en klopt je planning alsnog.
 
 Dit werkt alleen als je eerlijk communiceert. Zeg tegen klanten: "We plannen je in voor week 20, maar bij slecht weer kan het verschuiven naar week 21. We houden je op de hoogte." Klanten begrijpen dat je niet bij storm op het dak kunt.
 
@@ -30,7 +30,7 @@ Als je drie buitenklussen per week hebt en twee binnenklussen als backup, heb je
 De ergste situatie: de klant verwacht je om 8:00, jij besluit om 7:30 dat het te nat is, de klant heeft vrij genomen van werk om thuis te zijn. Dat leidt tot frustratie.
 
 Voorkom dit met proactieve communicatie:
-- **Dag van tevoren:** check het weerbericht. Als er meer dan 50 procent regens wordt voorspeld, bel de klant: "Morgen ziet er nat uit. Ik houd je morgenochtend vroeg op de hoogte of we door kunnen gaan."
+- **Dag van tevoren:** check het weerbericht. Als er serieuze kans op regen wordt voorspeld, bel de klant: "Morgen ziet er nat uit. Ik houd je morgenochtend vroeg op de hoogte of we door kunnen gaan."
 - **Ochtend van de klus (7:00):** definitief bericht. "Het regent vandaag, we schuiven door naar [nieuwe datum]. Sorry voor het ongemak."
 
 Met een [automatisch berichtensysteem](/voice-ai) gaan deze berichten naar alle geplande klanten tegelijk. Geen individuele belrondjes.
