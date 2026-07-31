@@ -20,7 +20,7 @@ De psychologie hierachter is simpel:
 
 - **Sociale bewijskracht** — als je buurman zegt dat een dakdekker goed is, geloof je dat eerder dan een advertentie
 - **Laag risico** — de aanbeveler heeft het al meegemaakt en het was goed
-- **Hogere conversie** — doorverwezen leads converteren 3-5x beter dan koude leads
+- **Hogere conversie** — doorverwezen leads converteren een stuk beter dan koude leads
 
 ## Wanneer praten klanten over je?
 
