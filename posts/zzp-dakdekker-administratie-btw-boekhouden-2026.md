@@ -21,7 +21,7 @@ Als zelfstandig dakdekker krijg je in Nederland in 2026 met vier belastingsvorme
 - **BTW (omzetbelasting)**: 21 procent op vrijwel alle dakdekker-werk. Per kwartaal aangifte verplicht (april, juli, oktober, januari).
 - **Inkomstenbelasting (IB)**: jaarlijks aangifte voor 1 mei over het voorgaande jaar. Inclusief zelfstandigenaftrek en eventuele MKB-winstvrijstelling.
 - **Werkkosten- en bedrijfskosten**: dagelijks bijhouden welke uitgaven aftrekbaar zijn (gereedschap, brandstof, bedrijfskleding, telefoon).
-- **Bijdrage Zorgverzekeringswet (Zvw)**: 5,32 procent van je belastbaar inkomen, automatisch verrekend bij IB-aangifte.
+- **Bijdrage Zorgverzekeringswet (Zvw)**: een vast percentage van je belastbaar inkomen (het actuele tarief staat bij de Belastingdienst), automatisch verrekend bij IB-aangifte.
 
 Voor de [tarieven](/tarieven) van een AI-pakket dat je hele administratie draait inclusief BTW-aangifte vanaf 79 euro per maand kijk je op de tariefpagina.
 
@@ -64,7 +64,7 @@ Bovenop de zelfstandigenaftrek mag je in de eerste 3 jaar van je ondernemerschap
 
 ### MKB-winstvrijstelling
 
-Op het saldo na bovenstaande aftrekken krijg je nog 12,7 procent MKB-winstvrijstelling. Effectief verlaagt dit je belaste winst met dat percentage.
+Op het saldo na bovenstaande aftrekken krijg je nog de MKB-winstvrijstelling (het actuele percentage staat bij de Belastingdienst). Effectief verlaagt dit je belaste winst met dat percentage.
 
 ### Gereedschap afschrijven
 
@@ -93,7 +93,7 @@ In 2026 zijn er drie boekhoud-platforms die voor ZZP dakdekkers met AI-koppeling
 
 ### Moneybird (vanaf 12 euro per maand)
 
-Het standaard ZZP-platform. Sterk in factureren, automatische bank-koppeling, BTW-aangifte direct vanuit het platform. Met AI-categorisering (sinds 2025) sorteert het 90 procent van je bonnen zelf op de juiste rekening.
+Het standaard ZZP-platform. Sterk in factureren, automatische bank-koppeling, BTW-aangifte direct vanuit het platform. Met AI-categorisering (sinds 2025) sorteert het het overgrote deel van je bonnen zelf op de juiste rekening.
 
 ### e-Boekhouden (vanaf 8 euro per maand)
 
@@ -135,10 +135,10 @@ Voor een ZZP dakdekker met 60.000 euro omzet (BTW exclusief) in 2026:
 - Aftrek zelfstandigenaftrek: 5.030 euro.
 - Aftrek startersaftrek (eerste 3 jaar): 2.123 euro.
 - Belaste winst voor MKB-vrijstelling: 34.847 euro.
-- MKB-winstvrijstelling 12,7 procent: 4.426 euro aftrek.
+- MKB-winstvrijstelling, in dit rekenvoorbeeld 12,7 procent: 4.426 euro aftrek.
 - Belastbaar inkomen: 30.421 euro.
 
-Daarover IB plus Zvw, totaal effectief belasting van ongeveer 30 tot 33 procent. Netto houd je bij dit voorbeeld ongeveer 24.000 tot 25.000 euro over.
+Daarover IB plus Zvw, totaal effectief belasting van ongeveer 30 tot 33 procent. Netto houd je in dit rekenvoorbeeld ongeveer 24.000 tot 25.000 euro over.
 
 Voor een snelle check op jouw exacte situatie en welke AI-tools de meeste tijd besparen, begin met een [gratis AI-scan](/gratis-scan) waarin we jouw boekhoud-flow doornemen en de eerste 3 winsten benoemen.
 
@@ -154,7 +154,7 @@ Lease-auto: ja, leasekosten plus brandstof zijn volledig aftrekbaar. Eigen aanko
 
 ### Wat doe ik als een klant niet betaalt?
 
-Stuur na 14 dagen vervaldatum een vriendelijke herinnering, na 30 dagen een formele aanmaning met 8 procent rente, na 60 dagen overdracht aan incasso of kantongerecht. Voor structurele bescherming sluit je een debiteurenverzekering af (vanaf 30 euro per maand).
+Stuur na 14 dagen vervaldatum een vriendelijke herinnering, na 30 dagen een formele aanmaning met de wettelijke rente, na 60 dagen overdracht aan incasso of kantongerecht. Voor structurele bescherming sluit je een debiteurenverzekering af (vanaf 30 euro per maand).
 
 ### Heb ik een belastingadviseur nodig of kan ik het zelf?
 
