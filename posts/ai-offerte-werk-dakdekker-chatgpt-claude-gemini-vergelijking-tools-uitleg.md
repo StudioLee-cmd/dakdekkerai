@@ -10,14 +10,14 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- AI-tools besparen MKB-dakdekkers in 2026 12 tot 20 uur per week op offerte-werk, werkbon-invoer en lead-opvolging. Concrete benchmarks van Nederlandse MKB-cases (Prometheus21, Unify AI): offerte-tijd van 4 uur naar 10 minuten (75% besparing), werkbon-invoer 12 uur per week vrij, factuurfouten 90% omlaag.
+- AI-tools besparen MKB-dakdekkers in 2026 12 tot 20 uur per week op offerte-werk, werkbon-invoer en lead-opvolging. Volgens de benchmarks van Prometheus21 en Unify AI uit Nederlandse MKB-cases: offerte-tijd van 4 uur naar 10 minuten (75% besparing), werkbon-invoer 12 uur per week vrij, factuurfouten 90% omlaag.
 - Vier use-cases zijn voor dakdekkers direct relevant: foto-analyse van klant-dakfoto's, offerte-tekst genereren, chatbot voor lead-vragen, en spraak-naar-tekst voor werkbon-invoer in de auto.
 - Geen enkel AI-model wint alle vier categorieen: Gemini 2.5 Pro is sterkst op foto-analyse, Claude op natuurlijke NL-offerte-tekst, ChatGPT op spraak-naar-tekst via Whisper, alle drie vergelijkbaar op chatbot.
 - Kosten 2026: ChatGPT Plus €23/mnd, Claude Pro €18/mnd, Gemini Advanced €22/mnd. Total stack onder €70 per maand levert 12-20 uur/week productieve tijd.
 
 ## Waarom dakdekkers AI nu serieus moeten oppakken
 
-Het MKB in Nederland verspilt structureel tijd aan administratief werk dat AI-tools in 2026 grotendeels kan overnemen. Prometheus21 publiceerde benchmarks van Nederlandse MKB-cases: 72% van MKB-bedrijven verspilt meer dan 10 uur per week aan repetitief werk, en de gemiddelde ROI op AI-tooling ligt tussen 3 en 6 maanden. Voor dakdekker-bedrijven specifiek geeft Unify AI concrete cijfers: offerte-automatisering bespaart gemiddeld 12 uur per week (van 4 uur per offerte naar 10 minuten, ofwel 75% tijdsbesparing), en werkbon-digitalisering nog eens 12 uur per week.
+Het MKB in Nederland verspilt structureel tijd aan administratief werk dat AI-tools in 2026 grotendeels kan overnemen. Volgens de benchmarks van Prometheus21 uit Nederlandse MKB-cases verspilt 72% van MKB-bedrijven meer dan 10 uur per week aan repetitief werk, en ligt de gemiddelde ROI op AI-tooling tussen 3 en 6 maanden. Voor dakdekker-bedrijven specifiek geeft Unify AI concrete cijfers: offerte-automatisering bespaart gemiddeld 12 uur per week (van 4 uur per offerte naar 10 minuten, ofwel 75% tijdsbesparing), en werkbon-digitalisering nog eens 12 uur per week.
 
 Voor jou als dakdekker-business-owner met 8 tot 15 offertes per week en een vol werkbon-traject is dat het verschil tussen 60 uur per week werken en 40. De vraag is niet meer "moet ik AI gebruiken?" maar "welk AI-model voor welke taak?"
 
@@ -50,7 +50,7 @@ Een dakdekker schrijft per week 8-15 offertes. Elke offerte heeft uitvoering-bes
 
 **Derde: Gemini Advanced.** Goed maar zelden beter dan Claude of ChatGPT op NL-toon.
 
-Unify AI registreerde concrete benchmark bij Nederlandse MKB-aannemers: offerte-tijd ging van 4 uur naar 10 minuten (75% besparing) na implementatie van AI-offerte-template. Voor 10 offertes/week is dat 38 uur vrij per week. Dat is geen optimisme, dat is een gemeten cijfer.
+Volgens een benchmark van Unify AI bij Nederlandse MKB-aannemers ging de offerte-tijd van 4 uur naar 10 minuten (75% besparing) na implementatie van een AI-offerte-template. Voor 10 offertes/week is dat 38 uur vrij per week. Dat is geen optimisme, dat is een gemeten cijfer.
 
 [Onze tarieven-pagina](/tarieven) toont voor klanten welk service-pakket bij welke prijs hoort, en kan zelf grotendeels door AI gegenereerd worden zodat je elke maand prijsupdate snel doorvoert.
 
@@ -65,7 +65,7 @@ Een potentiele klant landt op je website om 22:00 's avonds met een vraag: "Hoe 
 - Claude Projects (€18/mnd voor Pro, of API)
 - Gemini Gems (€22/mnd voor Advanced, of API)
 
-Belangrijker dan modelkeuze: de prompt-engineering en de leads-flow naar je CRM. Een goede chatbot beantwoordt 60-80% van eerste vragen autonoom en kwalificeert de overige 20-40% als lead. Unify AI rapporteerde 10 uur per week tijdsbesparing voor MKB-bedrijven die een chatbot inzetten op hun website + WhatsApp.
+Belangrijker dan modelkeuze: de prompt-engineering en de leads-flow naar je CRM. Een goede chatbot beantwoordt het grootste deel van de eerste vragen autonoom en kwalificeert de rest als lead. Unify AI rapporteerde 10 uur per week tijdsbesparing voor MKB-bedrijven die een chatbot inzetten op hun website + WhatsApp.
 
 [Onze AI-chatbot-oplossing voor dakdekkers](/chatbot) is specifiek getraind op dakdekker-vragen en geintegreerd met je website + WhatsApp + CRM.
 
@@ -79,7 +79,7 @@ Een dakdekker zit na een klus in de auto en moet een werkbon invullen: wat is ge
 
 **Derde: Claude heeft geen native voice.** Je moet een externe spraak-naar-tekst-tool gebruiken (Whisper of ander) en dan de tekst in Claude plakken voor structurering. Werkt, maar omslachtiger.
 
-Prometheus21 publiceerde een Nederlandse case van een installatiebedrijf met 45 medewerkers: voice-memo-naar-werkbon bespaart 15-20 minuten per klus, factuurfouten 90% omlaag, doorlooptijd van 2 weken naar 2 dagen. Op jaarbasis 1.000+ manuren bespaard. Voor een 4-mans dakdekker-team is dat schaalbaar tot 250-400 uur per jaar.
+Volgens een Nederlandse case van Prometheus21 bij een installatiebedrijf met 45 medewerkers bespaart voice-memo-naar-werkbon 15-20 minuten per klus, gaan factuurfouten 90% omlaag en zakt de doorlooptijd van 2 weken naar 2 dagen. Op jaarbasis 1.000+ manuren bespaard. Voor een 4-mans dakdekker-team is dat schaalbaar tot 250-400 uur per jaar.
 
 ## Wat kost de hele stack en waar begin je morgen
 
