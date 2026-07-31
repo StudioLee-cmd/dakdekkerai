@@ -11,7 +11,7 @@ tags: ["Automatisering", "Dakdekker", "Bedrijfsvoering"]
 
 Als dakdekker wil je op het dak staan, niet achter een bureau. Maar de realiteit is dat je minstens een kwart van je werkweek kwijt bent aan administratieve taken: offertes schrijven, planning bijhouden, facturen versturen, materiaallijsten opstellen en klanten bellen over afspraken.
 
-Softwarebedrijven als Hero en Sidekick rapporteren dat bouwbedrijven gemiddeld 15 tot 20 procent van hun werkuren besteden aan taken die niets met het vakwerk te maken hebben. Voor eenmanszaken en kleine dakdekkersbedrijven is dat percentage vaak nog hoger, omdat er niemand anders is om het te doen.
+Volgens softwarebedrijven als Hero en Sidekick besteden bouwbedrijven gemiddeld 15 tot 20 procent van hun werkuren aan taken die niets met het vakwerk te maken hebben. Voor eenmanszaken en kleine dakdekkersbedrijven is dat percentage vaak nog hoger, omdat er niemand anders is om het te doen.
 
 ## De 5 grootste tijdvreters
 
@@ -56,7 +56,7 @@ Automatiseer dit:
 ## Wat levert automatisering op?
 
 - 8 tot 12 uur per week aan tijdwinst
-- 30 procent snellere offertes (van 2 uur naar 15 minuten)
+- Fors snellere offertes (van 2 uur naar 15 minuten)
 - 11 dagen snellere betaling bij digitale facturen
 - Minder gemiste afspraken door automatische herinneringen
 - Meer herhaalopdrachten door geautomatiseerd klantcontact
