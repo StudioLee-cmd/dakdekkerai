@@ -15,7 +15,7 @@ Specialiseren is het tegenovergestelde: kies één niche en word er de beste in.
 
 Een generalist concurreert altijd op prijs. Een specialist concurreert op expertise:
 
-- **Hogere marges** — specialisten vragen 20-40% meer
+- **Hogere marges** — specialisten vragen merkbaar meer
 - **Minder concurrentie** — minder dakdekkers in jouw niche
 - **Betere reviews** — experts leveren beter werk
 - **Doorverwijzingen** — collega's sturen klanten jouw kant op
@@ -24,7 +24,7 @@ Een generalist concurreert altijd op prijs. Een specialist concurreert op expert
 
 ### 1. Groene daken en sedumdaken
 
-De verduurzamingstrend maakt groene daken populair. Gemeenten bieden subsidies, woningcorporaties investeren erin, en particulieren willen het. De markt groeit jaarlijks met 15%.
+De verduurzamingstrend maakt groene daken populair. Gemeenten bieden subsidies, woningcorporaties investeren erin, en particulieren willen het. De markt groeit stevig door.
 
 ### 2. Zonnepaneel-integratie
 
