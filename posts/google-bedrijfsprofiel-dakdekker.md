@@ -52,7 +52,7 @@ Dakwerk is visueel. Klanten willen zien wat je kunt. Upload regelmatig:
 - Detailfoto's van afwerkingen
 - Foto's van je bedrijfsbus of materialen
 
-Bedrijven met meer dan 20 foto's krijgen 35% meer klikken naar hun website en 42% meer routebeschrijvingen.
+Bedrijven met meer dan 20 foto's krijgen merkbaar meer klikken naar hun website en meer routebeschrijvingen.
 
 ## Reviews verzamelen en beheren
 
