@@ -46,7 +46,7 @@ Een goede WhatsApp-herinnering bevat vier elementen: voornaam van de klant, jouw
 
 ## SMS: betrouwbaar voor oudere klanten en spoed
 
-SMS voelt ouderwets, en juist daar zit zijn kracht. Hij komt aan op elke telefoon, zonder app, zonder internet, zonder opt-in voor transactionele bevestigingen. 98 procent van SMS-berichten wordt binnen drie minuten gelezen. Voor klanten boven de 65, voor spoedklussen waar elke minuut telt, en voor noodgevallen waar WhatsApp om welke reden dan ook niet aankomt, is SMS de zekerste keuze.
+SMS voelt ouderwets, en juist daar zit zijn kracht. Hij komt aan op elke telefoon, zonder app, zonder internet, zonder opt-in voor transactionele bevestigingen. Vrijwel elk SMS-bericht wordt binnen enkele minuten gelezen. Voor klanten boven de 65, voor spoedklussen waar elke minuut telt, en voor noodgevallen waar WhatsApp om welke reden dan ook niet aankomt, is SMS de zekerste keuze.
 
 Beperkingen: 160 tekens per bericht (anders kost het dubbel), klanten antwoorden zelden terug, en het voelt minder warm dan WhatsApp. Een goed gefraseerde SMS van een lokale vakman wordt wel gewaardeerd, maar er is minder marge voor persoonlijkheid.
 
@@ -82,6 +82,6 @@ Wil je daarbij ook reactietijd op binnenkomende vragen automatiseren, dan combin
 
 ## Klaar om je no-shows te halveren?
 
-Een afspraakherinnering is geen marketing-extra, het is operationele basis. Dakdekkers die hun herinneringen op orde krijgen brengen no-shows van rond de 10 procent naar onder de 4 procent, gemiddeld 5 tot 8 extra afspraken per maand die wél doorgaan. Het kost weinig om in te richten en betaalt zichzelf binnen één maand terug.
+Een afspraakherinnering is geen marketing-extra, het is operationele basis. Dakdekkers die hun herinneringen op orde krijgen brengen hun no-show-percentage fors omlaag, gemiddeld 5 tot 8 extra afspraken per maand die wél doorgaan. Het kost weinig om in te richten en betaalt zichzelf binnen één maand terug.
 
 Wil je weten welke combinatie van kanalen voor jouw klantengroep het meeste oplevert? [Vraag een gratis AI-scan aan](https://www.dakdekkerai.nl/gratis-scan), we kijken samen naar je huidige no-show-ratio, je klantenbestand en welke setup voor jouw bedrijf het snelst zichzelf terugverdient. Geen verkooppraat, wel een eerlijke analyse. We werken met een **Groei-of-Geld-Terug Garantie** op het volledige Managed-pakket, dus de investering is gedekt. Of lees eerst hoe een dakdekker [no-shows structureel kan voorkomen](https://www.dakdekkerai.nl/blog/no-shows-voorkomen-dakdekker) voor de bredere context.
