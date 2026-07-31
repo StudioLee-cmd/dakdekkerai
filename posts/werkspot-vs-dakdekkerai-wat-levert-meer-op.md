@@ -45,10 +45,10 @@ Bekijk alle functies via onze [gratis scan](/gratis-scan).
 
 ## De rekening: wat kost Werkspot écht?
 
-Een gemiddelde dakdekker op Werkspot besteedt €200–€500 per maand aan credits. De conversie op leads is gemiddeld 15–25%. Dat betekent:
+Een gemiddelde dakdekker op Werkspot besteedt €200–€500 per maand aan credits. Reken met een conversie van 15–25% op leads. Dat betekent:
 
 - 20 leads × €15 = €300 aan credits
-- 4 klussen gewonnen (20% conversie)
+- 4 klussen gewonnen (in dit rekenvoorbeeld 20% conversie)
 - Kosten per klus via Werkspot: €75
 
 En die klant is niet van jou. Als de klant volgend jaar weer een dakprobleem heeft, gaat hij terug naar Werkspot — niet naar jou.
