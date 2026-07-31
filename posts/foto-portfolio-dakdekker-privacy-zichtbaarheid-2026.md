@@ -24,7 +24,7 @@ Op een [gratis website voor dakdekkers](/gratis-website) die wij bouwen zien we 
 
 ![Smartphone met portfolio-thumbnails leunend tegen Hollandse rode dakpannen, met lood-slabbe en oranje veiligheidsvest aan de rand van het dak](/images/blog/foto-portfolio-dakdekker-privacy-zichtbaarheid-2026-2.jpg)
 
-Hetzelfde geldt voor je Google Bedrijfsprofiel en Instagram. Wie geen recente werkfoto's deelt, oogt als een hobby-dakdekker — ook als je tien man personeel hebt en al 25 jaar bedrijf bent. De boodschap die de markt nu oppikt komt voor 80% binnen via beeld, niet via tekst.
+Hetzelfde geldt voor je Google Bedrijfsprofiel en Instagram. Wie geen recente werkfoto's deelt, oogt als een hobby-dakdekker — ook als je tien man personeel hebt en al 25 jaar bedrijf bent. De boodschap die de markt nu oppikt komt vooral binnen via beeld, niet via tekst.
 
 ## Welke foto's wel, welke beter niet
 
@@ -90,7 +90,7 @@ De portfolio-pagina op je website is geen Instagram-feed. Hij is een conversie-t
 - **Filter bovenaan** (daktype, stad, jaar). Geen filter, dan scrollt de bezoeker zes seconden en bouncet.
 - **Per project: één hero-foto, 2-3 detailshots, een korte 2-zinsbeschrijving** — wat, waar (op stad-niveau, geen adres), hoe lang. Geen hele verhalen; werk laat zich zien.
 - **CTA na elke 3-4 projecten**, niet alleen onderaan: *"Vergelijkbaar project in jouw buurt? Vraag een offerte aan."*
-- **Mobiel-first.** Meer dan 70% van je bezoekers komt binnen op telefoon. Test je portfolio op een 5-inch scherm voordat je live gaat.
+- **Mobiel-first.** Het merendeel van je bezoekers komt binnen op telefoon. Test je portfolio op een 5-inch scherm voordat je live gaat.
 - **Laadtijd onder 2 seconden.** Comprimeer foto's tot max 200 KB. Een trage portfolio = bezoeker weg.
 
 Een portfolio die op die vijf punten scoort tilt het sociale-bewijs van je [review management voor dakdekkers](/reviews) naar een aanvraagstroom — sterren zonder beeld blijven abstract; sterren naast een herkenbaar dak overtuigen.
