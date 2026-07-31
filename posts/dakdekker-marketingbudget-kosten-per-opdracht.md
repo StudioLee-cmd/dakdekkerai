@@ -10,14 +10,14 @@ cluster: "vindbaarheid"
 ---
 
 **In het kort:**
-- De gemiddelde Nederlandse MKB-dakdekker geeft 3 tot 7 procent van zijn omzet uit aan marketing, en haalt daarmee een CAC (cost per acquired customer) van 80 tot 350 euro per nieuwe klant. Bij een gemiddelde opdrachtwaarde van 2.500 euro is alles onder 200 euro CAC zeer winstgevend.
+- De gemiddelde Nederlandse MKB-dakdekker geeft een paar procent van zijn omzet uit aan marketing, en haalt daarmee een CAC (cost per acquired customer) van 80 tot 350 euro per nieuwe klant. Bij een gemiddelde opdrachtwaarde van 2.500 euro is alles onder 200 euro CAC zeer winstgevend.
 - Vier kanalen domineren de NL-dakdekker-markt in 2026: SEO/Google organisch (CAC 60-180), Google Ads (CAC 120-280), Werkspot (CAC 200-450, hoogste van de vier), en Google reviews-gedreven mond-tot-mond (CAC 30-90, laagste). De combinatie van SEO + reviews bouwt een zelfvoorzienend kanaal.
-- AI-tools verlagen de CAC structureel via twee mechanismen: snellere opvolging (90 procent kortere reactietijd verhoogt conversie van lead naar klant met 40-60 procent) en automatische kwalificatie (chatbot weegt offerte-aanvragen voor jij belt).
+- AI-tools verlagen de CAC structureel via twee mechanismen: snellere opvolging (een veel kortere reactietijd verhoogt de conversie van lead naar klant fors) en automatische kwalificatie (chatbot weegt offerte-aanvragen voor jij belt).
 - Een budget van 800 euro per maand verdeeld over SEO + AI-chatbot + automatische review-flow levert voor een MKB-dakdekker met 5+ opdrachten per week structureel meer omzet dan 2.500 euro per maand alleen op Werkspot.
 
 ## Wat een dakdekker realistisch aan marketing uitgeeft
 
-Marketingbudget bij Nederlandse MKB-dakdekkers ligt op 3 tot 7 procent van de omzet. Voor een bedrijf met 500.000 euro jaarlijkse omzet is dat 15.000 tot 35.000 euro per jaar. Voor een bedrijf met 1 miljoen omzet 30.000 tot 70.000 euro.
+Marketingbudget bij Nederlandse MKB-dakdekkers ligt op een paar procent van de omzet. Voor een bedrijf met 500.000 euro jaarlijkse omzet is dat 15.000 tot 35.000 euro per jaar. Voor een bedrijf met 1 miljoen omzet 30.000 tot 70.000 euro.
 
 Belangrijk om te weten: je betaalt niet alleen direct aan een marketingbureau of platform. De totale CAC bevat ook indirecte kosten:
 
@@ -39,15 +39,15 @@ Wie op de eerste pagina van Google staat voor "dakdekker [stad]" haalt structure
 
 ### 2. Google Ads (CAC 120-280 euro)
 
-Direct effect: betaalde klikken op zoekwoorden zoals "dakdekker spoed [stad]". Klikkost in 2026: 4 tot 12 euro per klik in dakdekker-niche. Conversie van klik naar offerte: 8 tot 15 procent. Conversie van offerte naar opdracht: 25 tot 40 procent. Reken bij 1.000 euro/maand budget op 8 tot 18 nieuwe opdrachten. Sneller resultaat dan SEO maar duurder per klant.
+Direct effect: betaalde klikken op zoekwoorden zoals "dakdekker spoed [stad]". Klikkost in 2026: 4 tot 12 euro per klik in dakdekker-niche. De conversie van klik naar offerte is een klein deel van het verkeer, en van offerte naar opdracht een stuk hoger. Reken bij 1.000 euro/maand budget op 8 tot 18 nieuwe opdrachten. Sneller resultaat dan SEO maar duurder per klant.
 
 ### 3. Werkspot (CAC 200-450 euro)
 
-Werkspot rekent gemiddeld 35 tot 75 euro per lead, plus een klein percentage op het uiteindelijke werk. Conversie van lead naar opdracht ligt op 15 tot 25 procent. Reken op een gemiddelde CAC van 250 euro per binnen-gehaalde klant. Voordeel: directe lead-stroom binnen een week. Nadeel: klanten zijn vaak prijsgevoelig en jij concurreert met 5 of 6 andere dakdekkers per offerte.
+Werkspot rekent gemiddeld 35 tot 75 euro per lead, plus een klein percentage op het uiteindelijke werk. De conversie van lead naar opdracht ligt een stuk lager dan bij een eigen, warme lead. Reken op een gemiddelde CAC van 250 euro per binnen-gehaalde klant. Voordeel: directe lead-stroom binnen een week. Nadeel: klanten zijn vaak prijsgevoelig en jij concurreert met 5 of 6 andere dakdekkers per offerte.
 
 ### 4. Google reviews + mond-tot-mond (CAC 30-90 euro)
 
-Het goedkoopste kanaal mits je actief reviews verzamelt. Investering: 1 tot 2 uur per week aan review-flow plus eventueel een review-platform (Trustpilot, of via [Google reviews-flow](/reviews) automatisering). Klanten van mond-tot-mond hebben de hoogste conversie naar opdracht (60 tot 80 procent), kortste sales-cycle, en de hoogste lifetime value. Nadeel: schaalt niet snel, je moet eerst een reputatie bouwen.
+Het goedkoopste kanaal mits je actief reviews verzamelt. Investering: 1 tot 2 uur per week aan review-flow plus eventueel een review-platform (Trustpilot, of via [Google reviews-flow](/reviews) automatisering). Klanten van mond-tot-mond hebben de hoogste conversie naar opdracht, kortste sales-cycle, en de hoogste lifetime value. Nadeel: schaalt niet snel, je moet eerst een reputatie bouwen.
 
 ## Hoe AI je CAC verlaagt
 
@@ -63,7 +63,7 @@ In plaats dat jij elke binnenkomende lead handmatig terugbelt, kwalificeert de A
 
 ### AI-telefonist voor avond/weekend
 
-Een [AI-telefonist op je voice-ai-pagina](/voice-ai) vangt belletjes buiten kantoortijd op. Van de leads die anders verloren gaan (gemiddeld 25 tot 40 procent voor MKB-dakdekkers in spoedklus-niche), wordt 60 tot 80 procent alsnog vastgelegd. Pure CAC-verlaging.
+Een [AI-telefonist op je voice-ai-pagina](/voice-ai) vangt belletjes buiten kantoortijd op. Van de leads die anders verloren gaan, wordt het merendeel alsnog vastgelegd. Pure CAC-verlaging.
 
 ![Dakdekker bekijkt marketing-dashboard op laptop met spreadsheet en gele post-it](/images/blog/dakdekker-marketingbudget-kosten-per-opdracht-2.jpg)
 
@@ -108,7 +108,7 @@ Voor een snelle scan van waar jouw CAC nu zit en welke AI-tools de grootste impa
 
 ### Wat is een acceptabele CAC voor een MKB-dakdekker?
 
-Reken een CAC tot 10 procent van de gemiddelde opdrachtwaarde als excellent (200 euro CAC bij 2.000 euro opdracht), tot 15 procent als goed, tot 20 procent als acceptabel, boven 20 procent als onhoudbaar.
+Reken een CAC tot 10 procent van de gemiddelde opdrachtwaarde als excellent (200 euro CAC bij 2.000 euro opdracht), iets daarboven als goed, tot een vijfde als acceptabel, daarboven als onhoudbaar.
 
 ### Hoe lang duurt het voordat SEO werkt voor een dakdekker?
 
