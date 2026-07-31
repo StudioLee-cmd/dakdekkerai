@@ -8,7 +8,7 @@ authorSlug: "tim-van-der-lee"
 tags: ["Website", "DIY", "Bureau", "AI", "Conversie"]
 cluster: "website"
 ---
-Een dakdekker zonder website mist klanten. Dat is niet meer ter discussie in 2026: 87 procent van particuliere opdrachtgevers checkt eerst je online aanwezigheid voordat ze de telefoon pakken, en spoeddiensten worden in toenemende mate via Google Maps en AI-zoekmachines gevonden. Maar de echte vraag is niet *of* je een website nodig hebt. De vraag is: hoe laat je hem bouwen, en wat kost het je over een heel jaar?
+Een dakdekker zonder website mist klanten. Dat is niet meer ter discussie in 2026: het overgrote deel van particuliere opdrachtgevers checkt eerst je online aanwezigheid voordat ze de telefoon pakken, en spoeddiensten worden in toenemende mate via Google Maps en AI-zoekmachines gevonden. Maar de echte vraag is niet *of* je een website nodig hebt. De vraag is: hoe laat je hem bouwen, en wat kost het je over een heel jaar?
 
 Dit artikel is voor jou als dakdekker-bedrijfseigenaar die overweegt om een nieuwe website te laten bouwen, of die ontevreden is over een bestaande site die geen klussen oplevert. We vergelijken drie routes — zelf bouwen (DIY), een webbureau inschakelen, of een AI-platform gebruiken dat speciaal is gemaakt voor dakdekkers. Kosten, snelheid, vindbaarheid in Google, onderhoud, en wat het je per jaar oplevert in extra opdrachten.
 
@@ -52,7 +52,7 @@ De prijs varieert per platform: tussen €49 en €149 per maand voor een dakdek
 
 Het sterke punt: snelheid + dakdekker-specifieke kennis. Een [AI-platform voor dakdekkers](https://www.dakdekkerai.nl/gratis-website) weet vooraf welke pagina's converteren (spoedreparatie, dakcheck, dakvervanging, isolatie), welke vertrouwenssignalen werken in de dakbranche (NEN-certificering, verzekeringscoverage, garantie), en hoe lokale Google-vindbaarheid eruit moet zien. Updates gaan automatisch — een nieuwe Google review verschijnt direct op de homepage, een seizoens-actie kan in drie minuten worden gepubliceerd, en de [SEO-optimalisatie](https://www.dakdekkerai.nl/seo) loopt op de achtergrond door.
 
-Het zwakke punt: minder volledig maatwerk. Als je een unieke designvisie hebt of een complexe meertalige site nodig hebt, zit je beter bij een bureau. Voor 95 procent van Nederlandse dakdekkers — kleine en middelgrote bedrijven met 1 tot 15 medewerkers en een lokale doelgroep — past het AI-platform precies.
+Het zwakke punt: minder volledig maatwerk. Als je een unieke designvisie hebt of een complexe meertalige site nodig hebt, zit je beter bij een bureau. Voor verreweg de meeste Nederlandse dakdekkers — kleine en middelgrote bedrijven met 1 tot 15 medewerkers en een lokale doelgroep — past het AI-platform precies.
 
 ## Kostenvergelijking: wat betaal je het eerste jaar
 
@@ -90,7 +90,7 @@ Drie scenario's:
 
 - **Kies DIY als** je technische skill hebt, twintig uur per week beschikbaar bent voor de bouw, en bereid bent om SEO en onderhoud zelf op te pakken. Realistisch voor één-mans-bedrijven met een rustige planning.
 - **Kies een webbureau als** je een uniek design wilt, een groter marketingbudget hebt (€5.000+ in jaar één), en een vast contactpersoon prefereert die elke maand met je sparrt over de site.
-- **Kies een AI-platform als** je snel een professionele dakdekker-website wilt zonder gedoe, een vaste maandprijs prefereert boven losse facturen, en automatische updates belangrijker vindt dan volledige design-vrijheid. Past voor 9 op de 10 Nederlandse dakdekkers.
+- **Kies een AI-platform als** je snel een professionele dakdekker-website wilt zonder gedoe, een vaste maandprijs prefereert boven losse facturen, en automatische updates belangrijker vindt dan volledige design-vrijheid. Past voor verreweg de meeste Nederlandse dakdekkers.
 
 Twijfel je nog? De meeste AI-platforms bieden een proefperiode of een gratis demo aan. Bekijk de [gratis website voor dakdekkers](https://www.dakdekkerai.nl/gratis-website) van DakdekkerAI om te zien of de aanpak bij je bedrijf past — geen bouwkosten, geen lange contracten, en een Groei-of-Geld-Terug Garantie als de site geen klussen oplevert.
 
