@@ -24,7 +24,7 @@ Doe ze in die volgorde, niet door elkaar. En neem niet meer dan een week per laa
 
 ## Laag 1: Google Bedrijfsprofiel (week 1)
 
-Het Google Bedrijfsprofiel is de gratis vermelding rechts in de zoekresultaten en op Google Maps. Voor een lokale dienstverlener zoals een dakdekker is dit het belangrijkste marketingitem dat bestaat. Niet de website, niet de social, dit. Reden: 80% van de zoekers die een dakdekker zoeken doet dat met een lokale intentie ("dakdekker Utrecht", "dakdekker bij mij in de buurt"), en Google laat dan eerst het kaartje met drie bedrijven zien, niet de organische resultaten.
+Het Google Bedrijfsprofiel is de gratis vermelding rechts in de zoekresultaten en op Google Maps. Voor een lokale dienstverlener zoals een dakdekker is dit het belangrijkste marketingitem dat bestaat. Niet de website, niet de social, dit. Reden: het overgrote deel van de zoekers die een dakdekker zoeken doet dat met een lokale intentie ("dakdekker Utrecht", "dakdekker bij mij in de buurt"), en Google laat dan eerst het kaartje met drie bedrijven zien, niet de organische resultaten.
 
 Wat je doet in week 1, in twee uur werk: maak een Google Bedrijfsprofiel aan via google.com/business, verifieer het via de ansichtkaart die binnen 5 tot 14 dagen op je adres komt, vul ALLES in (geen leeg veld), upload 10 echte foto's van je werk (geen stockfotos), en kies de juiste categorieën ("Dakdekker", "Aannemer", "Dakreparatie"). Doe dit op een rustige avond, het is een afvinkbare lijst. Voor de details over dit hele proces is er een complete [lokale seo voor dakdekkers](/seo) gids op deze site.
 
@@ -34,7 +34,7 @@ Wat veel starters fout doen: ze verifieren wel, maar vullen daarna alleen het ad
 
 Vanaf Google komt iemand op je website terecht. Wat hij daar in 5 seconden ziet bepaalt of hij belt of doorklikt naar de buurman. De website hoeft niet groot te zijn, hij moet kloppen. Vier elementen zijn niet onderhandelbaar.
 
-Eerst, mobielvriendelijk. Meer dan 70% van de bezoekers komt via mobiel binnen, een desktop-only site verliest die meteen. Tweede, een duidelijke USP boven de fold ("Dakdekker in [stad] sinds [jaar], geen voorrijkosten in de regio"), niet een algemene zin als "Welkom op onze website". Derde, een telefoonnummer dat klikt-om-te-bellen op mobiel, niet alleen visueel zichtbaar. Vierde, één of twee echte projectfotos, geen stockfoto's van Amerikaanse daken.
+Eerst, mobielvriendelijk. Het merendeel van de bezoekers komt via mobiel binnen, een desktop-only site verliest die meteen. Tweede, een duidelijke USP boven de fold ("Dakdekker in [stad] sinds [jaar], geen voorrijkosten in de regio"), niet een algemene zin als "Welkom op onze website". Derde, een telefoonnummer dat klikt-om-te-bellen op mobiel, niet alleen visueel zichtbaar. Vierde, één of twee echte projectfotos, geen stockfoto's van Amerikaanse daken.
 
 Voor een startende dakdekker die geen tijd of zin heeft om dit zelf op te zetten, is er een [gratis website voor dakdekkers](/gratis-website) inbegrepen in onze Managed Basis. Dat scheelt je drie tot vijf werkdagen aan WordPress-frustratie en je hebt een site die door iemand is gebouwd die specifiek voor dakdekker-conversie ontwerpt, niet voor iedereen tegelijk.
 
@@ -46,9 +46,9 @@ Een vraag die veel starters stellen: heb ik een dure website nodig om gevonden t
 
 Hier ligt het verschil tussen een starter die binnen drie maanden goedlopend draait en eentje die zes maanden blijft hangen. Google's lokale rangschikking weegt reviews zwaar mee, en een nieuwe dakdekker met 0 reviews valt onder concurrenten met 30+ reviews onmiddellijk weg uit het top-3-kaartje.
 
-Het goede nieuws: de eerste 10 reviews komen sneller dan je denkt, mits je systematisch vraagt. Het slechte nieuws: 95% van de starters vergeet te vragen, hoopt op een spontane review (gebeurt zelden), en heeft na drie maanden nog steeds 2 reviews. Het verschil is geen mond, het is een systeem.
+Het goede nieuws: de eerste 10 reviews komen sneller dan je denkt, mits je systematisch vraagt. Het slechte nieuws: bijna elke starter vergeet te vragen, hoopt op een spontane review (gebeurt zelden), en heeft na drie maanden nog steeds 2 reviews. Het verschil is geen mond, het is een systeem.
 
-Concreet: vraag na elke klus, dezelfde dag nog, via WhatsApp of SMS, met een directe link naar de Google-reviewpagina. Niet "wilt u ons reviewen", wel "stuur deze link gewoon door naar Google en zet er 1 of 2 zinnen bij over hoe je het vond". Een directe link converteert 8 tot 12 keer hoger dan een algemene "review ons" boodschap. Voor wie dit niet handmatig per klus wil doen is er [google reviews verzamelen als dakdekker](/reviews) waar dit automatisch gaat na elke afgesloten klus.
+Concreet: vraag na elke klus, dezelfde dag nog, via WhatsApp of SMS, met een directe link naar de Google-reviewpagina. Niet "wilt u ons reviewen", wel "stuur deze link gewoon door naar Google en zet er 1 of 2 zinnen bij over hoe je het vond". Een directe link converteert een veelvoud hoger dan een algemene "review ons" boodschap. Voor wie dit niet handmatig per klus wil doen is er [google reviews verzamelen als dakdekker](/reviews) waar dit automatisch gaat na elke afgesloten klus.
 
 Mik op 10 reviews in de eerste drie maanden. Dat is een realistisch tempo (1 review per week + losse extra's via tevreden eerste klanten), en met 10 reviews op een nieuwe dakdekker sta je al op een vergelijkbaar niveau met half-actieve concurrenten in je regio.
 
@@ -56,7 +56,7 @@ Mik op 10 reviews in de eerste drie maanden. Dat is een realistisch tempo (1 rev
 
 Je kunt nu gevonden worden op Google, je website klopt, je hebt je eerste reviews binnen. En dan gaat iemand 's avonds bellen omdat de regen door zijn slaapkamerplafond komt. Als je niet opneemt, belt hij de volgende. Een dakdekker die niet bereikbaar is op het urgente moment is online onzichtbaar, hoe goed zijn Google-positie ook is. Het vertrouwen wordt in dat ene gemiste oproep gewonnen of verloren.
 
-Dit is precies waar een [ai telefonist voor dakdekkers](/voice-ai) een onevenredig groot verschil maakt voor een starter: hij neemt buiten je werkuren op, vraagt het adres en de aard van de schade, en stuurt jou de samenvatting via WhatsApp. Geen call hoeft 's avonds gemist te worden terwijl je drie meter omhoog op een ladder staat. Tussen 17:00 en 22:00 komen volgens onze klantdata 30 tot 40% van de spoedaanvragen binnen, dus dit is niet een randzaak, dit is je avondinkomen.
+Dit is precies waar een [ai telefonist voor dakdekkers](/voice-ai) een onevenredig groot verschil maakt voor een starter: hij neemt buiten je werkuren op, vraagt het adres en de aard van de schade, en stuurt jou de samenvatting via WhatsApp. Geen call hoeft 's avonds gemist te worden terwijl je drie meter omhoog op een ladder staat. Tussen 17:00 en 22:00 komt een fors deel van de spoedaanvragen binnen, dus dit is niet een randzaak, dit is je avondinkomen.
 
 ## Wanneer komen je eerste klanten? Een eerlijke timeline
 
