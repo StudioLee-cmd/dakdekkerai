@@ -55,7 +55,7 @@ De offerte is verstuurd — en dan? Veel dakdekkers wachten af. Grote fout.
 
 **Dag 7**: als je niets hoort, bel even. Niet opdringerig, maar servicegericht: "Ik wilde even checken of alles duidelijk was in de offerte."
 
-Deze drie contactmomenten verhogen je conversie met 30-50%. De meeste concurrenten doen dit niet — dat is je voorsprong.
+Deze drie contactmomenten verhogen je conversie merkbaar. De meeste concurrenten doen dit niet — dat is je voorsprong.
 
 ## Van offerte naar vaste klant
 
