@@ -11,7 +11,7 @@ tags: ["Bereikbaarheid", "Voice AI", "Opdrachten"]
 
 Als dakdekker sta je het grootste deel van de dag op een dak. Je handen zitten vol kit, je draagt handschoenen en je telefoon zit in je broekzak of beneden in de bus. Als die rinkelt, neem je niet op. Logisch, je kunt niet halverwege een rij dakpannen stoppen om een telefoontje aan te nemen.
 
-Maar elke gemiste oproep is mogelijk een klant die een lekkage heeft, een offerte wil voor een dakrenovatie of een spoedklus nodig heeft na stormschade. De meeste bellers proberen het niet nog een keer. Ze googelen de volgende dakdekker op de lijst en bellen daar. Uit onderzoek naar lokale vakmensen blijkt dat 85 procent van de bellers die geen gehoor krijgen, binnen tien minuten een concurrent belt.
+Maar elke gemiste oproep is mogelijk een klant die een lekkage heeft, een offerte wil voor een dakrenovatie of een spoedklus nodig heeft na stormschade. De meeste bellers proberen het niet nog een keer. Ze googelen de volgende dakdekker op de lijst en bellen daar. Verreweg de meeste bellers die geen gehoor krijgen, bellen binnen enkele minuten een concurrent.
 
 Eén gemiste oproep op een drukke dag kan een klus van honderden of zelfs duizenden euro's betekenen die je nooit terugziet. Bij een dakrenovatie praat je al snel over 3.000 tot 10.000 euro. Zelfs een simpele lekkagereparatie is 200 tot 500 euro. Dat is omzet die naar de concurrent gaat, niet omdat hij beter is, maar omdat hij opnam.
 
@@ -25,7 +25,7 @@ Die berekening is conservatief. Bij storm- of regenperiodes verdubbelt het aanta
 
 ## Waarom een voicemail niet werkt
 
-Veel dakdekkers denken dat een voicemail het probleem oplost. De klant spreekt in, jij belt terug na werktijd. In theorie werkt dat. In de praktijk laat slechts 20 procent van de bellers een voicemail achter. De rest hangt op en belt door naar de volgende dakdekker.
+Veel dakdekkers denken dat een voicemail het probleem oplost. De klant spreekt in, jij belt terug na werktijd. In theorie werkt dat. In de praktijk laat maar een klein deel van de bellers een voicemail achter. De rest hangt op en belt door naar de volgende dakdekker.
 
 Bovendien: tegen de tijd dat jij om 17:00 terugbelt, heeft die klant al een afspraak met een concurrent die om 10:30 direct opnam. Bij spoedklussen als lekkages na een storm is snelheid alles. De eerste dakdekker die reageert, krijgt de klus. Wachten tot na werktijd is te laat.
 
@@ -41,7 +41,7 @@ Jij ontvangt direct een samenvatting via WhatsApp, inclusief het telefoonnummer,
 
 **Automatische WhatsApp-opvolging bij gemiste oproepen.** Als iemand belt en je neemt niet op, stuurt het systeem automatisch een WhatsApp: "Je hebt gebeld met [bedrijfsnaam]. We zijn momenteel op een klus. Beschrijf kort je probleem en we nemen zo snel mogelijk contact op."
 
-Meer dan 70 procent van de bellers reageert hierop. Ze typen hun probleem, vaak met een foto van de lekkage of de schade. Jij leest het wanneer het je uitkomt en je reageert met een prioriteit die past bij de urgentie. De lead is behouden zonder dat je van het dak hoefde te komen.
+Het merendeel van de bellers reageert hierop. Ze typen hun probleem, vaak met een foto van de lekkage of de schade. Jij leest het wanneer het je uitkomt en je reageert met een prioriteit die past bij de urgentie. De lead is behouden zonder dat je van het dak hoefde te komen.
 
 **Een chatbot op je website voor buiten kantooruren.** Veel klanten zoeken 's avonds online naar een dakdekker, na het ontdekken van een lekkage of het zien van schade aan het dak. Een [chatbot](/chatbot) vangt die bezoekers op, stelt de juiste vragen en verzamelt contactgegevens. De volgende ochtend heb je een lijst met warme leads klaarliggen.
 
