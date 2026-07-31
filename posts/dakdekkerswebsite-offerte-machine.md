@@ -11,13 +11,13 @@ tags: ["Website", "Conversie", "Leads"]
 
 Je website krijgt bezoekers. Google Analytics laat zien dat er elke week tientallen mensen op je site komen. Maar het telefoon gaat niet vaker, de inbox blijft stil en het offerteformulier verzamelt stof. Het probleem zit niet in je vakmanschap. Het probleem zit in hoe je website die bezoekers opvangt.
 
-De gemiddelde website van een dakdekker converteert minder dan 2 procent van de bezoekers naar een aanvraag. Dat betekent dat 98 van de 100 bezoekers vertrekken zonder iets te doen. Bij 200 bezoekers per maand zijn dat 196 potentiele klanten die verdwijnen. Met een paar gerichte aanpassingen kun je dat percentage verdubbelen of verdrievoudigen.
+De gemiddelde website van een dakdekker converteert maar een fractie van de bezoekers naar een aanvraag. Verreweg de meeste bezoekers vertrekken zonder iets te doen. Bij 200 bezoekers per maand zijn dat bijna tweehonderd potentiele klanten die verdwijnen. Met een paar gerichte aanpassingen kun je dat percentage verdubbelen of verdrievoudigen.
 
 ## 1. Zet je telefoonnummer groot en klikbaar bovenaan
 
 De belangrijkste actie op een dakdekkerswebsite is bellen. Klanten met een lekkage of stormschade willen nu iemand spreken, niet een formulier invullen. Toch zetten veel dakdekkers hun telefoonnummer alleen in de footer of op de contactpagina.
 
-Plaats je telefoonnummer bovenaan elke pagina, in een opvallende kleur, en maak het klikbaar op mobiel. Meer dan 60 procent van je bezoekers komt via een telefoon. Eén tik en ze bellen. Hoe minder stappen, hoe meer oproepen. Een [AI telefonist](/voice-ai) vangt de oproepen op die je zelf niet kunt beantwoorden.
+Plaats je telefoonnummer bovenaan elke pagina, in een opvallende kleur, en maak het klikbaar op mobiel. Het merendeel van je bezoekers komt via een telefoon. Eén tik en ze bellen. Hoe minder stappen, hoe meer oproepen. Een [AI telefonist](/voice-ai) vangt de oproepen op die je zelf niet kunt beantwoorden.
 
 ## 2. Toon voor-en-na foto's op je homepage
 
@@ -29,7 +29,7 @@ Vervang die stockfoto door je eigen projectfoto's. Drie tot vijf voor-en-na verg
 
 Niet alleen op de contactpagina. Op elke dienstenpagina. Als iemand leest over dakrenovatie en wil boeken, moet het formulier daar staan. Niet drie klikken verderop.
 
-Houd het formulier kort: naam, telefoonnummer, type klus en een vrij tekstveld. Vier velden is het maximum. Elk extra veld dat je toevoegt, verlaagt het aantal inzendingen met 10 tot 15 procent. Je kunt altijd meer informatie vragen tijdens het eerste telefoontje.
+Houd het formulier kort: naam, telefoonnummer, type klus en een vrij tekstveld. Vier velden is het maximum. Elk extra veld dat je toevoegt, verlaagt het aantal inzendingen merkbaar. Je kunt altijd meer informatie vragen tijdens het eerste telefoontje.
 
 ![Dakpannen en gereedschap op een dakkap](/images/blog/dakdekkerswebsite-offerte-machine-2.jpg)
 
@@ -51,6 +51,6 @@ Nog geen professionele website? Bekijk de mogelijkheden voor een [website op maa
 
 Je hoeft niet alles tegelijk te doen. Begin met de aanpassing die het snelst oplevert: je telefoonnummer groot en klikbaar bovenaan elke pagina. Dat kost je vijf minuten en levert direct meer oproepen op.
 
-Daarna voeg je projectfoto's toe aan je homepage en plaats je het offerteformulier op je dienstenpagina's. Na een maand vergelijk je het aantal aanvragen met de maand ervoor. De meeste dakdekkers die deze stappen zetten, zien een toename van 30 tot 50 procent in offerteaanvragen.
+Daarna voeg je projectfoto's toe aan je homepage en plaats je het offerteformulier op je dienstenpagina's. Na een maand vergelijk je het aantal aanvragen met de maand ervoor. De meeste dakdekkers die deze stappen zetten, zien een duidelijke toename in offerteaanvragen.
 
 Wil je weten hoe je website nu presteert? Vraag een [gratis scan](/gratis-scan) aan.
