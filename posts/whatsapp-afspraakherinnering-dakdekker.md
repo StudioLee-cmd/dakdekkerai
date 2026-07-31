@@ -26,15 +26,15 @@ Een gemiste offerteafspraak is niet "alleen" verspilde tijd. Reken het door:
 
 Totaal per gemiste afspraak: 180 tot 320 euro netto-verlies. Bij twee no-shows per week is dat al snel 1.500 tot 2.500 euro per maand verbrand. Bij een gemiste klusdag (team van twee, materiaal al geleverd, steiger geplaatst) loopt het nog harder op: 600 tot 1.200 euro per dag dat je dak leeg blijft.
 
-Een WhatsApp-herinnering kost je nul euro per bericht en haalt het no-show-percentage van rond de 18 procent (industrie-gemiddelde voor lokale dienstverleners) naar onder de 6 procent. Op de cijfers hierboven betekent dat 1.000 tot 1.800 euro netto per maand terugverdiend, alleen door op tijd één bericht te sturen.
+Een WhatsApp-herinnering kost je nul euro per bericht en haalt je no-show-percentage fors omlaag. Op de cijfers hierboven betekent dat 1.000 tot 1.800 euro netto per maand terugverdiend, alleen door op tijd één bericht te sturen.
 
-## Waarom WhatsApp wint van bellen, sms en e-mail (98% open rate)
+## Waarom WhatsApp wint van bellen, sms en e-mail
 
 Drie kanalen, drie open-rates:
 
-- E-mail: 21 procent gemiddeld geopend, 8 procent geklikt.
-- SMS: 78 procent geopend, 18 procent geklikt.
-- WhatsApp: 98 procent geopend, 53 procent geklikt.
+- E-mail: wordt door een minderheid geopend, en nog minder vaak aangeklikt.
+- SMS: wordt vrijwel altijd geopend, en regelmatig aangeklikt.
+- WhatsApp: wordt vrijwel altijd geopend, en veruit het vaakst aangeklikt.
 
 Voor een afspraakherinnering wil je open en klikken. Bellen werkt ook, maar dan moet jij of je secretaresse 's ochtends 6 huizen langs voordat de eerste klus start. Niet schaalbaar.
 
@@ -50,7 +50,7 @@ Binnen vijf minuten na het inplannen krijgt de klant een bevestiging met datum, 
 
 ### 24 uur voor de afspraak
 
-De avond ervoor om 18:00 een herinnering met de optie om te bevestigen of te verzetten. 90 procent reageert binnen drie uur. Wie niet kan, krijgt direct een verzetlink en jij kunt de plek vrijgeven of inplannen voor iemand op de wachtlijst.
+De avond ervoor om 18:00 een herinnering met de optie om te bevestigen of te verzetten. Vrijwel iedereen reageert binnen enkele uren. Wie niet kan, krijgt direct een verzetlink en jij kunt de plek vrijgeven of inplannen voor iemand op de wachtlijst.
 
 ### Ochtend van de klus of inspectie
 
@@ -72,7 +72,7 @@ Pas deze aan op je toon, maar houd de structuur intact.
 
 "Hoi [naam], ik vertrek nu vanuit [plaats] richting [adres] voor de start van het werk aan [type dak]. Verwachte aankomst rond [tijd]. We zijn met [aantal] man en blijven tot ongeveer [eindtijd]. Tot zo!"
 
-Drie templates, drie momenten, en je no-show-percentage zakt binnen vier weken van rond de 15-20 procent naar onder de 5.
+Drie templates, drie momenten, en je no-show-percentage zakt binnen vier weken naar een fractie van wat het was.
 
 ## Weerafhankelijk verzetten: omgaan met regen en wind
 
