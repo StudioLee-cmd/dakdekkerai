@@ -128,7 +128,7 @@ Meer opdrachten, minder gemiste kansen, geen marketinggedoe. Zo werkt het.
 | Actie | Impact | Tijdsinvestering |
 |-------|--------|-----------------|
 | Google Bedrijfsprofiel optimaliseren | Direct meer zichtbaarheid in Maps | 2 uur eenmalig |
-| Review-opvolging automatiseren | 3-5x meer reviews | Eenmalige setup |
+| Review-opvolging automatiseren | Structureel meer reviews | Eenmalige setup |
 | Website met aparte dienst-paginas | Meer organisch verkeer per dienst | 1 dag |
 | AI Voice Agent instellen | Nul gemiste oproepen | Eenmalige setup |
 | Branche-vermeldingen aanmaken | Meer lokale autoriteit | 1 uur |
