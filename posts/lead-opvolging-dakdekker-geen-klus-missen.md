@@ -19,7 +19,7 @@ Het frustrerende is dat je het niet ziet gebeuren. Je weet niet hoeveel klanten 
 
 ## De eerste 5 minuten bepalen alles
 
-Onderzoek toont aan dat 78 procent van de klanten kiest voor het bedrijf dat als eerste reageert. Niet het goedkoopste, niet het beste beoordeelde — het snelste. Bij dakwerk is dit extra relevant: een lekkend dak kan niet wachten.
+Klanten kiezen in de regel voor het bedrijf dat als eerste reageert. Niet het goedkoopste, niet het beste beoordeelde — het snelste. Bij dakwerk is dit extra relevant: een lekkend dak kan niet wachten.
 
 Een huiseigenaar die vier dakdekkers belt, kiest degene die opneemt. De andere drie krijgen niet eens de kans om een offerte uit te brengen.
 
@@ -68,7 +68,7 @@ Spoedlekkages buiten werktijden zijn vaak je meest winstgevende klussen. Klanten
 
 ## Meer klussen zonder meer marketing
 
-De meeste dakdekkers denken dat ze meer marketing nodig hebben. In werkelijkheid missen ze 30 tot 50 procent van hun bestaande aanvragen. Los dat eerst op, en je agenda zit vol zonder een cent extra aan advertenties uit te geven.
+De meeste dakdekkers denken dat ze meer marketing nodig hebben. In werkelijkheid missen ze een fors deel van hun bestaande aanvragen. Los dat eerst op, en je agenda zit vol zonder een cent extra aan advertenties uit te geven.
 
 Doe de rekensom voor je eigen situatie: hoeveel gemiste oproepen heb je per week? Vermenigvuldig dat met je gemiddelde opdrachtwaarde en je conversiepercentage. Het bedrag dat je verliest aan gemiste leads is bijna altijd hoger dan je marketingbudget.
 
