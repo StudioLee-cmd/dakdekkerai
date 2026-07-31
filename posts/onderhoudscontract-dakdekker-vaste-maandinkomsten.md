@@ -11,14 +11,14 @@ cluster: "automatisering"
 
 **In het kort:**
 - Eenmalige reparaties zijn pieken en dalen. Onderhoudscontracten geven elke maand voorspelbare omzet.
-- Drie pakketniveaus dekken 80% van de markt: Basic (€8 tot €12 per m² per jaar), Preferred (€12 tot €18) en All-in (€18 tot €25).
+- Drie pakketniveaus dekken het gros van de markt: Basic (€8 tot €12 per m² per jaar), Preferred (€12 tot €18) en All-in (€18 tot €25).
 - Pitch het contract direct ná een eerste reparatie. Dat is het moment dat klanten meest open staan.
 - Met een eenvoudige CRM-tag en een jaarlijkse herinnering houd je 60 tot 80 contracten naast je losse werk draaiende.
 - Eén dakdekker met 100 contracten haalt €60.000 tot €120.000 voorspelbare omzet binnen voordat hij in maart aan zijn eerste echte klus begint.
 
 ## Waarom seizoenswerk je marges plat slaat
 
-Een gemiddelde dakdekker draait 60 tot 70% van zijn jaaromzet tussen maart en oktober. December en januari zijn dood: twee weken sneeuw, zes weken stilte, en de salarissen lopen door. Dat patroon kost je niet alleen omzet, het kost je goede medewerkers die in januari elders gaan kijken.
+Een gemiddelde dakdekker draait het leeuwendeel van zijn jaaromzet tussen maart en oktober. December en januari zijn dood: twee weken sneeuw, zes weken stilte, en de salarissen lopen door. Dat patroon kost je niet alleen omzet, het kost je goede medewerkers die in januari elders gaan kijken.
 
 [Klantbehoud is daar één antwoord op](/blog/klantbehoud-dakdekker-vaste-opdrachtgevers), want vaste opdrachtgevers vangen seizoensschommelingen op. Maar er bestaat een sterker mechanisme: een onderhoudscontract waar klanten elke maand of elk jaar voor betalen, ongeacht of het regent of vriest. Dat is geen retentie, dat is recurring revenue.
 
@@ -28,7 +28,7 @@ Een onderhoudscontract is een meerjarenafspraak waarin de klant betaalt voor per
 
 Voor de klant: zekerheid dat het dak niet verwaarloosd raakt, korting op spoedklussen, voorrang bij stormschade. Voor jou: een planbaar werkpakket in de stille maanden en een terugkerende factuurregel.
 
-Voor VvE's en bedrijfspanden zit dit al ingebouwd in een meerjarenonderhoudsplan. Daar concurreer je niet, daar lever je. Voor particuliere woningen ligt de markt nog grotendeels open: minder dan 10% van de huiseigenaren heeft een vast onderhoudscontract met een dakdekker. De ruimte zit dus bij de honderden klanten die je in de afgelopen jaren al een keer hebt geholpen.
+Voor VvE's en bedrijfspanden zit dit al ingebouwd in een meerjarenonderhoudsplan. Daar concurreer je niet, daar lever je. Voor particuliere woningen ligt de markt nog grotendeels open: maar een kleine minderheid van de huiseigenaren heeft een vast onderhoudscontract met een dakdekker. De ruimte zit dus bij de honderden klanten die je in de afgelopen jaren al een keer hebt geholpen.
 
 ![Dakdekker controleert dakgoot en noteert bevindingen op een tablet voor een onderhoudsrapportage](/images/blog/onderhoudscontract-dakdekker-vaste-maandinkomsten-2.jpg)
 
@@ -50,8 +50,8 @@ De fout die ik veel zie: dakdekkers prijzen het contract op basis van wat ze den
 
 1. **Tijd per jaarinspectie.** Voor een gemiddeld dak: 45 minuten op het dak, 15 minuten rapportage. Reken €70 tot €90 per uur intern.
 2. **Materiaal voor preventief onderhoud.** Schuim, kit, een paar pannen, vogelschroten. Gemiddeld €25 tot €40 per inspectie.
-3. **Reservering kleine reparaties (Preferred + All-in).** Zet 30% van de premie apart als claim-budget. Niet uitgegeven? Marge.
-4. **Marge.** Tel daar 35 tot 50% bovenop. Recurring revenue mag duurder zijn dan losse klussen, want je verkoopt zekerheid, niet uren.
+3. **Reservering kleine reparaties (Preferred + All-in).** Zet een vast deel van de premie apart als claim-budget. Niet uitgegeven? Marge.
+4. **Marge.** Tel daar een stevige marge bovenop. Recurring revenue mag duurder zijn dan losse klussen, want je verkoopt zekerheid, niet uren.
 5. **Prijscheck.** Bel drie collega's in een andere regio en vraag wat zij rekenen. Niet om te kopiëren, maar om je eigen prijs te valideren.
 
 [Onze tarieven-pagina](/tarieven) laat hetzelfde principe zien aan de AI-kant: een vaste maandprijs die de klant exact weet, en een margestructuur die het werk in stilte doet betalen. Recurring werkt op precies hetzelfde mechaniek.
@@ -84,7 +84,7 @@ Een contract zonder herinnering verkommert. Je vergeet de jaarinspectie, de klan
 
 ### Hoe houd je intake-vragen onder controle?
 
-Korte vraag, kort antwoord: zet een [AI-telefonist voor dakdekkers](/voice-ai) of een online formulier voor de meest gestelde contract-vragen ("zit dakgoot reinigen in Basic?") zodat je niet drie keer per dag dezelfde vraag beantwoordt. Een chatbot op je website die de drie pakketten uitlegt vangt 60 tot 70% van de oriëntatie-vragen op. Pas als de klant écht wil tekenen krijg je hem aan de telefoon.
+Korte vraag, kort antwoord: zet een [AI-telefonist voor dakdekkers](/voice-ai) of een online formulier voor de meest gestelde contract-vragen ("zit dakgoot reinigen in Basic?") zodat je niet drie keer per dag dezelfde vraag beantwoordt. Een chatbot op je website die de drie pakketten uitlegt vangt het leeuwendeel van de oriëntatie-vragen op. Pas als de klant écht wil tekenen krijg je hem aan de telefoon.
 
 ## Veelgemaakte fouten bij contracten
 
