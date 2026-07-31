@@ -96,7 +96,7 @@ Posten zonder meten is een klusje dat onmerkbaar leeg loopt. Drie cijfers vertel
 
 **1. Posts-views per post (Google Bedrijfsprofiel Insights).** Een gezonde dakdekker met 1500-3000 maandelijkse profiel-bezoekers haalt 200-600 views per post in de eerste 7 dagen. Onder de 100 betekent meestal dat je openingsregel niet pakt of je foto te generiek is. Test verschillende openingen.
 
-**2. Click-through-rate naar je website.** Hoeveel mensen klikken op je actieknop? Voor dakdekkers ligt een gezonde CTR tussen 4 en 9 procent. Onder de 2 procent betekent dat de combinatie van post-content en knop-tekst niet aansluit bij wat de lezer wil — hij kijkt en gaat weg.
+**2. Click-through-rate naar je website.** Hoeveel mensen klikken op je actieknop? Blijft die CTR heel laag, dan betekent dat de combinatie van post-content en knop-tekst niet aansluit bij wat de lezer wil — hij kijkt en gaat weg.
 
 **3. 90-dagen Maps-ranking-trend.** Houd je gemiddelde positie voor je drie belangrijkste zoekopdrachten ("dakdekker [stad]", "platte daken [stad]", "spoeddakdekker [regio]") elke maand bij. Een consistente posting-strategie levert binnen 60-90 dagen een meetbare positie-stijging op. Geen verbetering na 90 dagen betekent dat ofwel je posts te zwak zijn, of dat je concurrenten dezelfde slag aan het maken zijn.
 
