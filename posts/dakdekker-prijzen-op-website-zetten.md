@@ -12,7 +12,7 @@ cluster: "website"
 
 Vraag tien dakdekkers of ze prijzen op hun [website](/gratis-website) zetten en je krijgt tien verschillende antwoorden. De een zweert erbij: "Het filtert de serieuze klanten eruit." De ander is faliekant tegen: "Elke klus is anders, je kunt geen standaardprijs geven."
 
-Beide standpunten hebben gelijk. Maar de data laat iets interessants zien: websites van dakdekkers met richtprijzen krijgen gemiddeld 40% meer offerte-aanvragen dan websites zonder enige prijsindicatie.
+Beide standpunten hebben gelijk. Maar de praktijk laat iets interessants zien: websites van dakdekkers met richtprijzen krijgen merkbaar meer offerte-aanvragen dan websites zonder enige prijsindicatie.
 
 ## Waarom klanten prijzen willen zien
 
@@ -79,7 +79,7 @@ Een simpele calculator op je website: "Vul je dakoppervlakte in en ontvang direc
 ## De impact op je website
 
 Dakdekkers die richtprijzen toevoegen rapporteren:
-- **40% meer offerte-aanvragen** — klanten weten wat ze kunnen verwachten
+- **Merkbaar meer offerte-aanvragen** — klanten weten wat ze kunnen verwachten
 - **Hogere conversie** — minder verrassingen bij de offerte
 - **Minder tijdverspilling** — klanten met een budget van €500 voor een klus van €5.000 bellen niet
 - **Meer vertrouwen** — transparantie wordt gewaardeerd in een branche waar dat niet altijd vanzelfsprekend is
