@@ -41,7 +41,7 @@ Een website die lokaal goed scoort heeft een paar specifieke kenmerken:
 
 **Snelle laadtijd**: Google straft langzame websites af. Comprimeer foto's, gebruik geen zware scripts. Een website die binnen 2 seconden laadt scoort beter.
 
-**Mobiel-vriendelijk**: 70 procent van de lokale zoekopdrachten komt van een telefoon. Je website moet perfect werken op elk schermformaat.
+**Mobiel-vriendelijk**: het merendeel van de lokale zoekopdrachten komt van een telefoon. Je website moet perfect werken op elk schermformaat.
 
 ## Google Maps en het kaartresultaat
 
