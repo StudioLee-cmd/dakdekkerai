@@ -8,13 +8,13 @@ image: "/images/blog/dakdekker-google-maps-ranking-factoren.jpg"
 tags: ["Google Maps", "Local SEO", "Dakdekker"]
 cluster: "vindbaarheid"
 ---
-Iemand in jouw stad Googelt "dakdekker [plaatsnaam]". De eerste drie bedrijven op Google Maps krijgen samen 70 procent van de klikken. De nummer vier, vijf en zes: bij elkaar ongeveer 15 procent. Staat jouw dakdekkersbedrijf niet in de top-3, dan mis je structureel leads, zonder dat je het in de gaten hebt.
+Iemand in jouw stad Googelt "dakdekker [plaatsnaam]". De eerste drie bedrijven op Google Maps krijgen samen het leeuwendeel van de klikken. Wat overblijft voor nummer vier, vijf en zes is een fractie daarvan. Staat jouw dakdekkersbedrijf niet in de top-3, dan mis je structureel leads, zonder dat je het in de gaten hebt.
 
 De goede kans: Google Maps-ranking is niet willekeurig. Het algoritme weegt 7 factoren zwaarder dan andere. Als je die 7 factoren goed invult, klim je binnen 2-3 maanden naar de lokale top-3. Dit artikel legt elke factor uit en zegt concreet wat je moet doen.
 
 **In het kort:**
 
-- De Google Maps lokale top-3 krijgt 70 procent van alle klikken in een zoekopdracht.
+- De Google Maps lokale top-3 krijgt het leeuwendeel van alle klikken in een zoekopdracht.
 - Afstand tot de zoeker, reviews en je bedrijfsprofiel-volledigheid zijn de 3 zwaarste signalen.
 - Consistent NAP-gegevens (Naam, Adres, Telefoon) op alle externe sites telt meer dan je denkt.
 - Elke maand een nieuwe recensie beantwoorden boost je ranking meer dan elke SEO-hack.
@@ -60,7 +60,7 @@ Google beloont complete profielen zwaar. Elk leeg veld = een gemiste ranking-boo
 
 Must-have invullingen:
 
-- **Openingstijden** (exact, inclusief feestdagen). Lege openingstijden = -20% ranking.
+- **Openingstijden** (exact, inclusief feestdagen). Lege openingstijden kosten je ranking.
 - **Telefoonnummer** (klikbaar op mobiel).
 - **Website-URL** (https, laadt snel).
 - **Minimaal 25 foto's**: van je team op locatie, voor/na-foto's van klussen, werkbusjes, kantoor. Update elke maand.
@@ -112,7 +112,7 @@ Voor veel dakdekkers is dit de enige factor die ze nog niet hebben, en tegelijk 
 Van al deze 7 factoren heb je de meeste invloed op:
 
 1. **Reviews** (factor 3), begin hier, grootste impact op korte termijn.
-2. **Volledigheid van je profiel** (factor 4), in één middag 90% af te tikken.
+2. **Volledigheid van je profiel** (factor 4), in één middag vrijwel helemaal af te tikken.
 3. **NAP-consistentie** (factor 5), eenmalig corrigeren = blijvende winst.
 4. **Relevantie categorieën** (factor 1), 5 minuten werk, directe impact.
 
