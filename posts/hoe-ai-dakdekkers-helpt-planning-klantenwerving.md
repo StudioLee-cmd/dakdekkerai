@@ -34,11 +34,11 @@ In de dakdekkersbranche wint vaak het bedrijf dat het snelst met een professione
 
 Met AI-gestuurde offertetools maak je in 10 minuten een gedetailleerde offerte die er professioneel uitziet. De tool leert van historische projecten en past automatisch prijzen aan op basis van materiaalprijzen, regio en projecttype.
 
-Dakdekkersbedrijven die dit inzetten, rapporteren 20–30% hogere conversie op offertes — simpelweg door sneller en professioneler te reageren dan de concurrent.
+Dakdekkersbedrijven die dit inzetten, rapporteren een hogere conversie op offertes — simpelweg door sneller en professioneler te reageren dan de concurrent.
 
 ## Google-zichtbaarheid en reviews automatiseren
 
-Meer dan 80% van de dakdekkersopdrachten begint met een Google-zoekopdracht. Een hoge beoordeling met recente [reviews](/reviews) is je beste verkoopargument.
+Verreweg de meeste dakdekkersopdrachten beginnen met een Google-zoekopdracht. Een hoge beoordeling met recente [reviews](/reviews) is je beste verkoopargument.
 
 Na elke afgeronde opdracht stuurt een geautomatiseerd bericht de klant een reviewverzoek via WhatsApp. Tevreden klanten plaatsen in 30 seconden een review — en jouw Google-profiel groeit structureel. DakdekkerAI helpt je dit proces volledig te automatiseren, zodat je reviewstroom nooit meer droogvalt.
 
