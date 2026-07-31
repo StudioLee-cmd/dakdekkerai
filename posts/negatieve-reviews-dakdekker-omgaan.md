@@ -12,7 +12,7 @@ tags: ["Reviews", "Dakdekker", "Klantcommunicatie"]
 
 Je opent Google en ziet 'm staan: één ster, een kwade tekst over een dak dat lekt na drie weken, en de naam van een klant die je nog goed herinnert. Je eerste reactie? Boos worden. Tweede reactie? Negeren en hopen dat-ie wegzakt.
 
-Beide reacties zijn fout. Een negatieve review is op zich geen probleem. Onbeantwoorde negatieve reviews zijn het probleem. Onderzoek laat zien dat 89 procent van de potentiële klanten leest hoe een bedrijf reageert op kritiek voordat ze contact opnemen. Een goede reactie kan een negatieve review zelfs in een verkoopargument veranderen.
+Beide reacties zijn fout. Een negatieve review is op zich geen probleem. Onbeantwoorde negatieve reviews zijn het probleem. Verreweg de meeste potentiële klanten lezen hoe een bedrijf reageert op kritiek voordat ze contact opnemen. Een goede reactie kan een negatieve review zelfs in een verkoopargument veranderen.
 
 In dit artikel: hoe je binnen 24 uur reageert, welke woorden je beter wel en niet gebruikt, wanneer je een review kunt laten verwijderen, en hoe je negatieve reviews structureel voorkomt.
 
@@ -23,8 +23,8 @@ Vier vrouwen en mannen lezen jouw Google reviews voordat ze je bellen. Eén nega
 De cijfers achter dit gedrag:
 
 - Bedrijven met een gemiddelde van 4,2 sterren krijgen meer aanvragen dan bedrijven met 4,9 sterren — omdat 4,9 onnatuurlijk lijkt en 4,2 menselijk
-- 70 procent van de mensen die een negatieve review zonder reactie zien, kiest voor een ander bedrijf
-- 45 procent van de mensen die een nette reactie op een negatieve review zien, kiest juist wel voor jou
+- Wie een negatieve review zonder reactie ziet, kiest in de regel voor een ander bedrijf
+- Een nette reactie op een negatieve review haalt een flink deel van die twijfelaars juist wel over
 
 De les: het probleem is niet de review zelf. Het probleem is wat je ermee doet.
 
