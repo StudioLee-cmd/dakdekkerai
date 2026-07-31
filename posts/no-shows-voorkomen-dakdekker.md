@@ -40,7 +40,7 @@ Geef een duidelijke optie om te verzetten. Liever een verschoven afspraak dan ee
 
 ### Aanbetaling bij grote klussen
 
-Bij werkzaamheden boven de €1.000 is een aanbetaling van 25% gangbaar en professioneel. Klanten die betaald hebben, zijn er ook.
+Bij werkzaamheden boven de €1.000 is een aanbetaling van een kwart gangbaar en professioneel. Klanten die betaald hebben, zijn er ook.
 
 ### Wachtlijst bijhouden
 
