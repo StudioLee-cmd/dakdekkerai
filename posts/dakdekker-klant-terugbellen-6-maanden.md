@@ -13,11 +13,11 @@ Een dakdekker met vijftien jaar op de teller heeft gemiddeld zo'n 800 klanten in
 
 Dat is geen gebrek aan klanttevredenheid. Dat is een gebrek aan systeem. Het verschil tussen een dakdekker die elke maand opnieuw moet jagen op nieuwe leads en een dakdekker met een agenda die zichzelf vult, zit niet in marketingbudget. Het zit in één belletje, op precies het juiste moment, met precies de juiste reden.
 
-In dit artikel: welk moment, welk script, hoe je het automatiseert via [workflow automatisering voor dakdekkers](/automatisering), en wat 30% retentie op je bestaande klantenbestand concreet oplevert. Niet als marketingtruc, als [klantcommunicatie automatiseren als dakdekker](/automatisering) die eenmalig opgezet is en daarna stilletjes door blijft draaien.
+In dit artikel: welk moment, welk script, hoe je het automatiseert via [workflow automatisering voor dakdekkers](/automatisering), en wat structurele retentie op je bestaande klantenbestand concreet oplevert. Niet als marketingtruc, als [klantcommunicatie automatiseren als dakdekker](/automatisering) die eenmalig opgezet is en daarna stilletjes door blijft draaien.
 
-## Waarom 70% van je oude klanten een keer terug zou willen
+## Waarom veel van je oude klanten een keer terug zouden willen
 
-Onderzoek op Nederlandse MKB-dienstverleners (Stripe NL retention 2026, Fingerspitz klantretentie-onderzoek 2024) laat steeds dezelfde cijfers zien: bestaande klanten reactiveren is 5 tot 7 keer goedkoper dan een nieuwe klant binnenhalen, en de gemiddelde herhaalaankoop ligt 30 tot 65% hoger in marge dan een acquisitie-klus.
+Uit onderzoek van Stripe NL (retention 2026) en Fingerspitz (klantretentie-onderzoek 2024) onder Nederlandse MKB-dienstverleners komt steeds hetzelfde beeld: bestaande klanten reactiveren is 5 tot 7 keer goedkoper dan een nieuwe klant binnenhalen, en de gemiddelde herhaalaankoop ligt 30 tot 65% hoger in marge dan een acquisitie-klus.
 
 Voor een dakdekker werkt dat als volgt. Een klant heeft jou ooit zijn dak laten doen. Je hebt geleverd, hij heeft betaald, je bent verder gegaan. Hij denkt niet dagelijks na over zijn dak. Maar hij denkt wel: "die ene gast die toen mijn dakgoot heeft hersteld, dat ging goed, hoe heette die ook alweer." Als je hem dán belt, voor er een lekkage komt, dan ben je top-of-mind voor het volgende klusje. En het volgende. En de doorverwijzing naar zijn zwager met het problematische platte dak.
 
@@ -69,7 +69,7 @@ En als je écht geen tijd hebt om zelf te bellen, koppel je dezelfde flow aan ee
 
 ## Wat je ophaalt: review op exact het juiste moment
 
-Na zo'n belletje vraagt 60 tot 70% van de klanten geen vervolgwerk, maar zegt wel iets als "wat fijn dat je belt." Dat is je review-moment.
+Na zo'n belletje vraagt een groot deel van de klanten geen vervolgwerk, maar zegt wel iets als "wat fijn dat je belt." Dat is je review-moment.
 
 Tweede helft van het belletje, na de drie vragen: "Mag ik je nog vragen, als je ooit even tijd hebt, om een Google-review achter te laten? Het hoeft niet nu, ik stuur je zo een linkje via WhatsApp." Eén tap, klaar.
 
@@ -81,9 +81,9 @@ Wat dit concreet oplevert, met dakdekkers-realistische cijfers.
 
 Stel: je hebt 200 klanten in je bestand. Je belt iedereen één keer per jaar op het zes-maanden-moment. Conversiecijfers uit eigen klantdata van de [dakdekkers op het DakdekkerAI platform](/) en aanvullend Stripe NL retention-onderzoek: rond de 30% van die gesprekken levert binnen 6 maanden een vervolgklus op, doorverwijzing of betaald onderhoud. Gemiddelde herhaal-orderwaarde voor een kleine reparatie of jaarlijkse check is conservatief tussen 400 en 1.200 euro, voor een grotere klus richting de 5.000.
 
-Voor het minimum-scenario: 200 klanten × 30% conversie × 400 euro = 24.000 euro extra omzet uit het bestaande klantenbestand. Voor 12 belletjes per maand werk. Hierbij komt nog de Google-review-uplift die je lokale zichtbaarheid voedt en nieuwe leads naar je [website voor dakdekker](/gratis-website) brengt. Dat is wat [lead-opvolging automatiseren dakdekker](/automatisering) doet wanneer je het toepast op je bestaande klantenbestand in plaats van alleen op nieuwe binnenkomende leads.
+In dit rekenvoorbeeld: 200 klanten × 30% conversie × 400 euro = 24.000 euro extra omzet uit het bestaande klantenbestand. Voor 12 belletjes per maand werk. Hierbij komt nog de Google-review-uplift die je lokale zichtbaarheid voedt en nieuwe leads naar je [website voor dakdekker](/gratis-website) brengt. Dat is wat [lead-opvolging automatiseren dakdekker](/automatisering) doet wanneer je het toepast op je bestaande klantenbestand in plaats van alleen op nieuwe binnenkomende leads.
 
-Als je dezelfde tijd in nieuwe leads had gestopt: gemiddeld 70 tot 250 euro per Werkspot-lead, met een conversie van 10 tot 20%. Dezelfde omzet kost dan tussen de 8.000 en 25.000 euro aan leadkosten. De [tarieven van DakdekkerAI](/tarieven) op het automatiserings-pakket zitten daar ruim onder, wat een rekensom is die jezelf moet maken zodra je weet hoeveel klanten in je bestand staan.
+Als je dezelfde tijd in nieuwe leads had gestopt: gemiddeld 70 tot 250 euro per Werkspot-lead, met een aanzienlijk lagere conversie. Dezelfde omzet kost dan tussen de 8.000 en 25.000 euro aan leadkosten. De [tarieven van DakdekkerAI](/tarieven) op het automatiserings-pakket zitten daar ruim onder, wat een rekensom is die jezelf moet maken zodra je weet hoeveel klanten in je bestand staan.
 
 ## Klaar om dit op te zetten
 
