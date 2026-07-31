@@ -17,7 +17,7 @@ Je hebt acht jaar geleden een plat dak gelegd in Apeldoorn. De klant belt op een
 
 - Een dakdekker met tien jaar bedrijfsgeschiedenis heeft tussen de 80 en 250 uitstaande garanties op materiaal (10 jaar), uitvoering (15 jaar) en bitumen-systemen (25 jaar). Excel breekt rond rij 60 — niet door de techniek, maar omdat je nooit meer proactief kunt zoeken.
 - De acht velden die elke garantie-rij moet bevatten: klant-ID, adres, uitvoeringsdatum, dak-type, materiaal-batchnummer, garantie-termijn (per onderdeel), foto-archief-link, en de eindgaranta-datum als gecalculeerd veld. Zonder die laatste twee val je terug op handmatig zoeken.
-- De recall-flow waar het echt om draait: een [cyclus-opvolging automatiseren dakdekker](/automatisering)-trigger op T-min-6 maanden vóór elke eindgaranta-datum. Wie z'n garantie nog vier maanden heeft, krijgt een inspectie-aanbod — 18-30% zegt ja. Dat is jaarlijks 15-50 extra opdrachten uit je bestaande klantenbestand.
+- De recall-flow waar het echt om draait: een [cyclus-opvolging automatiseren dakdekker](/automatisering)-trigger op T-min-6 maanden vóór elke eindgaranta-datum. Wie z'n garantie nog vier maanden heeft, krijgt een inspectie-aanbod — een substantieel deel zegt ja. Dat zijn jaarlijks tientallen extra opdrachten uit je bestaande klantenbestand.
 - GDPR vereist dat je klantgegevens 25 jaar mag bewaren mits de juridische grondslag (overeenkomst + bewijslast garantie) is gedocumenteerd. Excel-bestanden op een lokale schijf voldoen niet aan "passende technische maatregelen" — een echte tool wel.
 - Vier reële opties voor de tool zelf: Notion (laagdrempelig, €8/maand), Pipedrive (CRM met automation, €30/maand), branche-specifieke pakketten zoals Taklo of Sidekick (€50-75/maand), of een [crm voor dakdekkers](/crm) dat de hele klantcommunicatie meeneemt (€95/maand). Welke past, hangt af van hoeveel garanties je hebt en of je de recall-flow wilt automatiseren of zelf doen.
 
@@ -55,16 +55,16 @@ In Excel kun je de berekening typen. Wat je niet krijgt is een notificatie op T-
 
 ## De recall-flow: T-6 maanden vóór de eindgaranta-datum
 
-Hier zit de echte omzet. Een dakdekker die alleen reactief antwoordt op garantie-vragen ("kun je even komen kijken, het lekt") laat 80% van z'n garantie-administratie ongebruikt. De dakdekker die proactief belt op T-min-6-maanden vóór de eindgaranta-datum, verandert een juridische verplichting in een herhalingsopdracht-funnel.
+Hier zit de echte omzet. Een dakdekker die alleen reactief antwoordt op garantie-vragen ("kun je even komen kijken, het lekt") laat het grootste deel van z'n garantie-administratie ongebruikt. De dakdekker die proactief belt op T-min-6-maanden vóór de eindgaranta-datum, verandert een juridische verplichting in een herhalingsopdracht-funnel.
 
 Wat de flow doet:
 
 1. Tracker draait elke nacht een query: welke garanties verlopen binnen 6 maanden?
 2. Voor elke hit: trigger een [automatische herinneringen voor dakdekkers](/automatisering)-bericht naar de klant. WhatsApp of email, afhankelijk van het oorspronkelijke kanaal.
 3. Inhoud van het bericht: "Hé [voornaam], jullie dak in [stad] hebben we in [maand-jaar] opgeleverd. De garantie loopt nog [4-6] maanden door. We adviseren een eindinspectie vóór die datum — gratis, 30 minuten. Past [voorgestelde datum] of plan zelf via [link]?"
-4. 18-30% van de klanten zegt ja. Bij een inspectie vind je in ~40% van de gevallen iets dat onderhoud of vernieuwing nodig heeft. Die opdracht is een herhalingsklant, geen leadgen-kost, en de marge is doorgaans 15-25% hoger dan bij een koud-binnengekomen klus.
+4. Een substantieel deel van de klanten zegt ja. Bij een inspectie vind je regelmatig iets dat onderhoud of vernieuwing nodig heeft. Die opdracht is een herhalingsklant, geen leadgen-kost, en de marge is doorgaans hoger dan bij een koud-binnengekomen klus.
 
-Reken het terug: 100 uitstaande garanties × 33% vervalt in de komende vijf jaar (= 20 per jaar) × 24% response × 40% conversie naar opdracht = bijna 2 herhalingsopdrachten per maand uit je bestaande administratie. Dat is omzet die zonder de tracker letterlijk niet bestaat — niet omdat de klanten niet wilden, maar omdat niemand ze op het juiste moment had aangetikt.
+Reken het terug: van je uitstaande garanties vervalt elk jaar een deel, van die klanten reageert een deel op een tijdig inspectie-aanbod, en daarvan wordt weer een deel een opdracht. Uit een bestand van honderd garanties komen zo structureel herhalingsopdrachten uit je bestaande administratie. Dat is omzet die zonder de tracker letterlijk niet bestaat — niet omdat de klanten niet wilden, maar omdat niemand ze op het juiste moment had aangetikt.
 
 Dezelfde flow [klantcommunicatie automatiseren als dakdekker](/automatisering) heeft een variant voor 5-jaars-onderhoudscheck (op de helft van een 10-jaars garantie). Die vangt klanten die nog niet aan eind-garantie zitten maar wel aan structureel onderhoud. Twee triggers, één tabel.
 
@@ -109,7 +109,7 @@ Dat is het verschil tussen een tracker (statisch) en een [workflow automatiserin
 
 Onder de motorkap hangt dit op je [klantgegevens centraliseren als dakdekker](/blog/crm-dakdekker-klantgegevens-herhaalopdrachten) — zonder die centrale klant-records werken de triggers niet, omdat de tracker dan niet weet welke klant via WhatsApp moet en welke via email. Eerst data-laag op orde, dan de workflow.
 
-<div class="my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekker-klant-terugbellen-6-maanden" class="text-dark fw-semibold">Dakdekker klant terugbellen na 6 maanden: 30% komt terug</a> →</div>
+<div class="my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekker-klant-terugbellen-6-maanden" class="text-dark fw-semibold">Dakdekker klant terugbellen na 6 maanden: wat het oplevert</a> →</div>
 
 ## Wat een dakdekker met 87 garanties in z'n eerste maand merkt
 
