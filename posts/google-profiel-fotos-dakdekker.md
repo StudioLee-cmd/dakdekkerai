@@ -9,7 +9,7 @@ tags: ["Google", "Bedrijfsprofiel", "Vindbaarheid"]
 ---
 ## Waarom foto's op je Google profiel ertoe doen
 
-Wanneer iemand zoekt op "dakdekker in de buurt" verschijnt je Google Bedrijfsprofiel met een foto bovenaan. Die foto bepaalt in een fractie van een seconde of de zoeker doorklikt naar jouw profiel of naar dat van de concurrent ernaast. Profielen met foto's krijgen 42 procent meer routebeschrijvingen en 35 procent meer klikken naar de website dan profielen zonder.
+Wanneer iemand zoekt op "dakdekker in de buurt" verschijnt je Google Bedrijfsprofiel met een foto bovenaan. Die foto bepaalt in een fractie van een seconde of de zoeker doorklikt naar jouw profiel of naar dat van de concurrent ernaast. Profielen met foto's krijgen merkbaar meer routebeschrijvingen en meer klikken naar de website dan profielen zonder.
 
 Toch zien we dagelijks dakdekkerprofielen met nul foto's, een wazig logo of een stockfoto van een dak. Dat wekt geen vertrouwen. De klant zoekt een vakman die hij zijn dak toevertrouwt. Ze willen bewijs zien dat je weet wat je doet. Foto's bieden dat bewijs op een manier die geen enkele tekst kan evenaren.
 
