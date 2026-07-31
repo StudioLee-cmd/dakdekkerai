@@ -8,7 +8,7 @@ tags: ["Spoedklussen", "Bereikbaarheid", "AI Telefonist"]
 cluster: "voice-ai"
 ---
 
-De economische waarde van een spoedklus als dakdekker is onmiskenbaar: gemiddeld 180 tot 650 euro per klus, bijna zonder onderhandeling, en meestal met vervolgwerk in de pijplijn. Het probleem is dat spoedklussen zich niet aan je werktijden aanpassen. Ze komen 's avonds na een regenbui, op een zaterdag, om 22:00 als een nok-lek zich bij de buurman openbaart. Je hebt twee keuzes: permanent zelf paraat staan (wat op de lange termijn je relatie, je slaap en je vakmanschap ondermijnt) of die klussen structureel laten lopen (wat direct 15 tot 30 procent van je potentiële omzet kost). Er is een derde weg: een systeem dat die oproepen overneemt zodat jij niet aan de telefoon hoeft te zitten, maar wél elke klus binnenhaalt die het waard is.
+De economische waarde van een spoedklus als dakdekker is onmiskenbaar: gemiddeld 180 tot 650 euro per klus, bijna zonder onderhandeling, en meestal met vervolgwerk in de pijplijn. Het probleem is dat spoedklussen zich niet aan je werktijden aanpassen. Ze komen 's avonds na een regenbui, op een zaterdag, om 22:00 als een nok-lek zich bij de buurman openbaart. Je hebt twee keuzes: permanent zelf paraat staan (wat op de lange termijn je relatie, je slaap en je vakmanschap ondermijnt) of die klussen structureel laten lopen (wat direct een fors deel van je potentiële omzet kost). Er is een derde weg: een systeem dat die oproepen overneemt zodat jij niet aan de telefoon hoeft te zitten, maar wél elke klus binnenhaalt die het waard is.
 
 Dit artikel legt uit welk systeem concreet werkt voor een Nederlandse MKB-dakdekker, hoe het onderscheid tussen spoed en plan-werk wordt gemaakt zonder jouw tussenkomst, en wat het per maand oplevert in euros en in vrije avonden.
 
@@ -60,8 +60,8 @@ Een goede AI telefonist weegt deze signalen per gesprek en komt binnen 30 second
 
 Voor een MKB-dakdekker die deze oplossing heeft geïmplementeerd, zien we na drie maanden:
 
-- **Pick-up rate** (percentage oproepen beantwoord) stijgt van 45-55 procent naar 90-95 procent
-- **Spoed-conversie** stijgt van 40 procent (veel gaan naar concurrent die sneller opneemt) naar 80+ procent
+- **Pick-up rate** (percentage oproepen beantwoord) stijgt van ongeveer de helft naar bijna alles
+- **Spoed-conversie** stijgt fors (nu gaan er veel naar de concurrent die sneller opneemt)
 - **Gewonnen extra opdrachten per maand**: 8 tot 16 voor een typische éénmansdakdekker, grotendeels uit de avond/weekend-piek
 - **Gemiddelde extra omzet per maand**: 2.500 tot 5.500 euro
 - **Vrije avonden per week**: je telefoon rinkelt alleen nog bij écht-spoed, dus effectief 4 tot 6 extra rustige avonden per week
@@ -97,7 +97,7 @@ Een invoeringstraject in drie weken:
 
 - **Week 1:** noteer een week lang per inkomende oproep het tijdstip, het probleem, de uitkomst (geboekt of niet). Dit is je nulmeting.
 - **Week 2:** kies een leverancier met dakdekkers-specifieke training en lokale ondersteuning, zet de eerste intake-flow op
-- **Week 3:** zachte live — AI pakt 80 procent op, jij nog een deel zelf voor vergelijking. Monitor de eerste 30 gesprekken.
+- **Week 3:** zachte live — AI pakt het merendeel op, jij nog een deel zelf voor vergelijking. Monitor de eerste 30 gesprekken.
 - **Week 4 en verder:** volledig actief, maandelijkse review
 
 Wil je dat STUDIOLEE de volledige AI telefonist voor jouw dakdekkersbedrijf opzet, inclusief training op jouw taalgebruik, agenda-integratie en maandelijkse optimalisatie? Doe onze [gratis AI-scan](/gratis-scan) voor een concrete berekening van hoeveel extra maandomzet je kunt halen uit de oproepen die je nu mist. Binnen vijf minuten een realistisch plan, zonder verplichting.
