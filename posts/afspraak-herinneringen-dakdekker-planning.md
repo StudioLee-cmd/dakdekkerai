@@ -34,7 +34,7 @@ Het resultaat: de klant weet precies wanneer je komt, kan makkelijk verzetten al
 
 Dakdekkers die automatische herinneringen gebruiken, zien gemiddeld:
 
-- **60 tot 70 procent minder no-shows.** Van drie per week naar een per week of minder.
+- **Fors minder no-shows.** Van drie per week naar een per week of minder.
 - **Twee uur per dag bespaard** aan handmatig bellen en appen om afspraken te bevestigen.
 - **Betere dagplanning:** je weet 's ochtends al welke afspraken doorgaan en kun je gaten opvullen met andere klussen.
 
@@ -42,7 +42,7 @@ Bij een gemiddelde kluswaarde van €300 en drie no-shows per week praat je over
 
 ## Welke kanalen werken het beste?
 
-**WhatsApp** is veruit het effectiefst. Het heeft een openingspercentage van meer dan 90 procent, de klant leest het bericht vrijwel altijd, en kan direct reageren. SMS werkt als backup voor klanten zonder WhatsApp.
+**WhatsApp** is veruit het effectiefst. Vrijwel elk bericht wordt geopend, de klant leest het bericht bijna altijd, en kan direct reageren. SMS werkt als backup voor klanten zonder WhatsApp.
 
 E-mail is minder geschikt voor [afspraakherinneringen](/blog/afspraakherinnering-dakdekker-whatsapp-sms-email). De meeste mensen checken hun mail niet vlak voor een afspraak, en herinneringen belanden regelmatig in de spamfolder.
 
