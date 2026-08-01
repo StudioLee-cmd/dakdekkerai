@@ -14,7 +14,7 @@ Wat doet die klant met lekkage? Belt hij later terug? Vaak niet. In onze branche
 
 ## Veiligheid Eerst (En Arbo-proof)
 
-Laten we ook eerlijk zijn over veiligheid. Bellen op het dak is vragen om ongelukken. Met Dakdekker AI hoef je nooit meer die keuze te maken tussen je veiligheid en je omzet. Je telefoon blijft in je zak. Jij blijft gefocust op je werk. Dat werkt niet alleen prettiger, het is ook veiliger.
+Laten we ook eerlijk zijn over veiligheid. Bellen op het dak is vragen om ongelukken. Met DakdekkerAI hoef je nooit meer die keuze te maken tussen je veiligheid en je omzet. Je telefoon blijft in je zak. Jij blijft gefocust op je werk. Dat werkt niet alleen prettiger, het is ook veiliger.
 
 ## Voice AI: Je nieuwe planner die nooit pauze heeft
 

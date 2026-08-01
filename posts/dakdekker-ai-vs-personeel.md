@@ -1,6 +1,6 @@
 ---
-title: "Dakdekker AI vs. Kantoorpersoneel: Waarom meer betalen als het minder oplevert?"
-seoTitle: "Dakdekker AI vs. Kantoorpersoneel"
+title: "DakdekkerAI vs. Kantoorpersoneel: Waarom meer betalen als het minder oplevert?"
+seoTitle: "DakdekkerAI vs. Kantoorpersoneel"
 excerpt: "De harde cijfers. Waarom zou je €3000 per maand betalen aan personeel als AI het beter kan voor een fractie van de prijs?"
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
@@ -23,7 +23,7 @@ Laten we de feiten eens op een rij zetten. Een parttime kantoormedewerker (24 uu
 
 En dan? Dan heb je iemand die er van 9 tot 5 is. Niet in het weekend. Niet tijdens vakanties. En als ze ziek is, ligt je planning stil.
 
-### Dakdekker AI: Het Alternatief
+### DakdekkerAI: Het Alternatief
 
 Vergelijk dat eens met ons Elite pakket (€297 / maand). Voor een fractie van die kosten krijg je:
 - **24/7 [Bereikbaarheid](/voice-ai):** AI slaapt nooit, is nooit ziek en neemt ook op zondagavond op bij stormschade.

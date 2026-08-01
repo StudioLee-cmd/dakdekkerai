@@ -22,7 +22,7 @@ Dit patroon is de doodsteek voor je groei. Je kunt simpelweg niet méér daken l
 
 ### Stormschade: De Ultieme Test
 
-Elke dakdekker kent de chaos na een zware herfststorm. De telefoon staat roodgloeiend. Normaal gesproken is dit niet bij te benen. Je mist oproepen, klanten worden boos en bellen de concurrent. Met Dakdekker AI is dit verleden tijd. Het systeem kan oneindig veel gesprekken tegelijk aan. Terwijl jij het eerste noodverband legt, heeft de AI al 20 andere klanten te woord gestaan, gerustgesteld en ingepland. Jij pakt de krenten uit de pap.
+Elke dakdekker kent de chaos na een zware herfststorm. De telefoon staat roodgloeiend. Normaal gesproken is dit niet bij te benen. Je mist oproepen, klanten worden boos en bellen de concurrent. Met DakdekkerAI is dit verleden tijd. Het systeem kan oneindig veel gesprekken tegelijk aan. Terwijl jij het eerste noodverband legt, heeft de AI al 20 andere klanten te woord gestaan, gerustgesteld en ingepland. Jij pakt de krenten uit de pap.
 
 ## Wat vervangt dit systeem precies?
 

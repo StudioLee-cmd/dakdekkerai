@@ -59,7 +59,7 @@ const HomePage: React.FC = () => {
         <Section
           id="testimonials"
           title="Wat Onze Klanten Zeggen"
-          description="Ervaringen van bedrijven die al werken met Dakdekker AI."
+          description="Ervaringen van bedrijven die al werken met DakdekkerAI."
         >
           <Testimonials />
         </Section>

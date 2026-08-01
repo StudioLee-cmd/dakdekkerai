@@ -18,7 +18,7 @@ Je hebt een prachtig nieuw bitumendak opgeleverd, de klant is blij. Dit is hét 
 
 Of je stuurt 's avonds een factuur, en zet er in kleine lettertjes bij "laat een review achter". De klant ziet het niet, of vergeet het. Het resultaat? Je levert topkwaliteit, maar online ziet niemand dat. Je concurrent, die minder goed werk levert maar wel reviews verzamelt, pakt de klus.
 
-## De Oplossing: Volledige Automatisering met Dakdekker AI
+## De Oplossing: Volledige Automatisering met DakdekkerAI
 
 Onze Reputatie Manager AI lost dit op door het proces volledig uit jouw handen te nemen. Direct na oplevering (gekoppeld aan je facturatie of wanneer jij de klus afmeldt in de app) krijgt de klant een berichtje. Geen standaard mailtje, maar een persoonlijk Whatsappje.
 

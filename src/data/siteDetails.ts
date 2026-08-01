@@ -4,7 +4,7 @@ export const siteDetails = {
     siteUrl: 'https://www.dakdekkerai.nl/',
     metadata: {
         title: 'DakdekkerAI - AI voor jouw dakdekkersbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch.',
+        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. DakdekkerAI regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-NL',
     locale: 'nl-NL',

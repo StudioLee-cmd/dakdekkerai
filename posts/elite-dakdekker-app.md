@@ -16,7 +16,7 @@ Deze partijen hebben vaak tientallen panden in beheer. Ze worden gek van bellen,
 
 Stel je voor. Je gaat naar een grote beheerder in jouw regio. Je zegt niet: "Bel me als er wat is." Nee, je zegt: "Hier is mijn app. Als er lekkage is, maak je een foto in de app, en wij lossen het op."
 
-Als 'Elite' gebruiker van Dakdekker AI krijg je een eigen app met **jouw logo en jouw kleuren**. Jouw klanten kunnen die installeren op hun telefoon.
+Als 'Elite' gebruiker van DakdekkerAI krijg je een eigen app met **jouw logo en jouw kleuren**. Jouw klanten kunnen die installeren op hun telefoon.
 
 ### Wat kan de klant in de app?
 - **Direct Melden:** Lekkage? Foto maken, locatie doorgeven, en verzenden. Het staat direct in jouw systeem als werkbon. Geen telefoontjes meer nodig.

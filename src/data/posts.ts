@@ -127,17 +127,17 @@ export const posts: IPost[] = [
     },
     {
         slug: 'dakdekker-ai-vs-personeel',
-        title: 'Dakdekker AI vs. Kantoorpersoneel: Waarom meer betalen als het minder oplevert?',
+        title: 'DakdekkerAI vs. Kantoorpersoneel: Waarom meer betalen als het minder oplevert?',
         excerpt: 'Waarom zou je €3000 per maand betalen aan personeel als AI het beter kan voor een fractie van de prijs?',
         content: `
             <p>Als je als dakdekker wilt groeien, heb je ondersteuning nodig. Vaak neem je dan iemand aan voor op kantoor. Dure contracten, ziekteverzuim, gedoe.</p>
-            <p>Maar laten we eerlijk zijn: is dat nodig? Met Dakdekker AI kan dit anders.</p>
+            <p>Maar laten we eerlijk zijn: is dat nodig? Met DakdekkerAI kan dit anders.</p>
             
             <h2>De Vergelijking</h2>
             <p>Waarom zou je teveel betalen?</p>
             <ul>
                 <li><strong>Snelheid:</strong> Personeel is niet altijd bereikbaar. AI is direct. Heb je stormschade meldingen? De AI verwerkt ze direct, 24/7.</li>
-                <li><strong>Kosten:</strong> Voor personeel betaal je salaris, pensioen, werkplek. Bij Dakdekker AI betaal je voor resultaat. Onze <strong>Elite Managed Service</strong> is goedkoper dan een parttime kracht.</li>
+                <li><strong>Kosten:</strong> Voor personeel betaal je salaris, pensioen, werkplek. Bij DakdekkerAI betaal je voor resultaat. Onze <strong>Elite Managed Service</strong> is goedkoper dan een parttime kracht.</li>
                 <li><strong>Schaalbaarheid:</strong> Bij stormdrukte kan één persoon het niet aan. De AI schaalt oneindig mee.</li>
             </ul>
             
