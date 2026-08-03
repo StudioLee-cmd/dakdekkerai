@@ -108,4 +108,4 @@ Houd het kort, functioneel en altijd met een actie. Dat is alles.
 
 De magie zit in de combinatie. Eén afspraak in je agenda, drie automatische WhatsApp-momenten, één weerproof verzettrigger, en een AI-laag die het gesprek opvangt als de klant terug-antwoordt met een vraag of probleem. Jij hoeft alleen klussen, niet plannen, niet bevestigen, niet napellen.
 
-Wil je dit voor je eigen dakdekkersbedrijf laten opzetten? Plan een [gratis scan van je huidige werkwijze](/gratis-scan) en we tonen wat je per maand verliest aan no-shows en hoe een geautomatiseerd systeem dat dichthaalt. Werkt het niet, dan krijg je je geld terug binnen 90 dagen. Dat is de Groei-of-Geld-Terug Garantie.
+Wil je dit voor je eigen dakdekkersbedrijf laten opzetten? Plan een [gratis scan van je huidige werkwijze](/gratis-scan) en we tonen wat je per maand verliest aan no-shows en hoe een geautomatiseerd systeem dat dichthaalt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

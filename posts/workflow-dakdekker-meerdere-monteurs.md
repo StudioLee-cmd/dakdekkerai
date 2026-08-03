@@ -138,6 +138,6 @@ Werk verdelen over meerdere monteurs is geen planningsprobleem, het is een vastl
 
 Schrijf de drie eigenschappen op. Cluster op postcode. Houd ruimte vrij. Zorg dat de ploeg alles ziet voordat de bus wegrijdt. Dat is het hele systeem, en je kunt er morgen mee beginnen op een whiteboard.
 
-En als je wilt weten waar in jouw bedrijf de uren precies weglekken, doe dan een [gratis ai scan voor dakdekkers](/gratis-scan). Die laat zien welke stappen in je huidige proces handwerk zijn dat niet handmatig hoeft. Bij DakdekkerAI loopt de begeleiding met de Groei-of-Geld-Terug Garantie: levert het niks op, dan betaal je niet.
+En als je wilt weten waar in jouw bedrijf de uren precies weglekken, doe dan een [gratis ai scan voor dakdekkers](/gratis-scan). Die laat zien welke stappen in je huidige proces handwerk zijn dat niet handmatig hoeft. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Jij dekt het dak, wij regelen de rest. Met [workflow automatisering voor je dakdekkersbedrijf](/automatisering) hoef jij om kwart voor zeven alleen nog te bepalen of je zelf mee het dak op gaat.

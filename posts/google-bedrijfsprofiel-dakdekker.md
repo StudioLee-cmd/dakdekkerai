@@ -95,6 +95,6 @@ Combineer je Google Bedrijfsprofiel met [mond-tot-mondreclame](/blog/mond-tot-mo
 
 Bij DakdekkerAI helpen we dakdekkers met het optimaliseren van hun Google Bedrijfsprofiel en het automatiseren van reviewverzoeken. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe jouw bedrijfsprofiel er voor staat.

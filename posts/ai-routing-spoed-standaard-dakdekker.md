@@ -84,6 +84,6 @@ De winst is het grootst op piekdagen, maar routing werkt het hele jaar. Ook in e
 
 Op een piekdag win je geen klussen door harder te lopen, maar door je aanvragen op de juiste volgorde te zetten. Scheid de acute spoed van de planbare vragen, laat de standaardaanvragen automatisch opvolgen, en zorg dat het echte werk altijd als eerste bij jou binnenkomt. Dat is het verschil tussen een chaotische ochtend na de storm en een dag waarop je precies de goede klussen aanneemt.
 
-Wil je zien hoeveel aanvragen jouw bedrijf nu verkeerd prioriteert of helemaal mist? Vraag een [gratis AI-scan voor dakdekkers](/gratis-scan) aan en je krijgt zwart op wit waar je bereikbaarheid lekt. Ben je eenmaal klant, dan werken we met een Groei-of-Geld-Terug Garantie: levert het systeem geen betere opvolging op, dan krijg je je geld terug.
+Wil je zien hoeveel aanvragen jouw bedrijf nu verkeerd prioriteert of helemaal mist? Vraag een [gratis AI-scan voor dakdekkers](/gratis-scan) aan en je krijgt zwart op wit waar je bereikbaarheid lekt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voice-ai-vs-voicemail-dakdekker" class="text-dark fw-semibold">Voice AI vs voicemail: waarom dakdekkers overstappen</a> →</p>

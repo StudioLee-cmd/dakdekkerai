@@ -114,7 +114,7 @@ Eén foto, drie kanalen, drie subtiel andere versies. Dat is de stack die wij dr
 - **Facebook:** zelfde foto, iets uitgebreidere tekst met een vraag eronder ("Welke kleur dakpan zou jij kiezen?"). Lokale buurtgroepen pakken dit goed op.
 - **TikTok / Reels:** time-lapse van dakopbouw, 15-30 seconden. Telefoonstatief op de bus, hele dag aan, achteraf knippen.
 
-Wil je niet handmatig posten en alsnog een actieve feed? Een [gratis ai scan voor dakdekkers](/gratis-scan) bekijkt je huidige aanwezigheid en levert een 3-maands plan dat je portfolio over alle drie kanalen uitrolt. Met de Groei-of-Geld-Terug Garantie van DakdekkerAI weet je: rendement of geld terug.
+Wil je niet handmatig posten en alsnog een actieve feed? Een [gratis ai scan voor dakdekkers](/gratis-scan) bekijkt je huidige aanwezigheid en levert een 3-maands plan dat je portfolio over alle drie kanalen uitrolt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Zet je portfolio in als asset, niet als afterthought
 

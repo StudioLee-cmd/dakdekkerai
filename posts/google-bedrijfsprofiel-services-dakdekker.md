@@ -65,6 +65,6 @@ En vergeet de sociale proof niet: een service-module trekt de klik, maar de ster
 
 Je services-tab invullen kost een halfuur en is gratis. Het is een van de weinige dingen in lokale vindbaarheid waar je vandaag aan kunt beginnen en waarvan het effect over een paar weken zichtbaar wordt in je aanvragen. Begin met de vijf modules hierboven, schrijf per module twee zinnen, en zet spoed-reparatie er zeker bij.
 
-Wil je weten welke diensten in jouw regio het meeste worden gezocht en hoe je profiel ervoor staat? Vraag een [gratis ai scan voor dakdekkers](/gratis-scan) aan bij DakdekkerAI, dan kijken we met je mee. We werken met een Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niets op, dan krijg je je geld terug. Jij dekt het dak, wij regelen de vindbaarheid.
+Wil je weten welke diensten in jouw regio het meeste worden gezocht en hoe je profiel ervoor staat? Vraag een [gratis ai scan voor dakdekkers](/gratis-scan) aan bij DakdekkerAI, dan kijken we met je mee. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij dekt het dak, wij regelen de vindbaarheid.
 
 **Lees ook:** [Dakdekkersbedrijf starten: gevonden worden vanaf dag 1](/blog/dakdekkersbedrijf-starten-gevonden-worden-vanaf-dag-1), de drie pijlers om vanaf dag 1 zichtbaar te zijn in Google.

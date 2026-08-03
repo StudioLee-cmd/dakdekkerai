@@ -51,7 +51,7 @@ Zo hoef je niet meer te kiezen tussen je werk op het dak en de telefoon beneden.
 
 Reken het eens nuchter door. Stel dat je tijdens één stevige storm-week vijftien oproepen mist die je normaal wel had opgepakt. Een deel daarvan zijn kleine klussen, maar er zit ook een dakrenovatie tussen. Eén verloren grote klus is al snel enkele duizenden euro's. Daar staan de kosten van een AI telefonist niet in verhouding toe. Je verdient het systeem terug op de eerste storm die je normaal deels aan je neus voorbij had zien gaan.
 
-Het punt is niet dat je nooit meer een oproep mag missen. Het punt is dat je geen omzet meer verliest omdat je toevallig op een dak stond of omdat een beller een andere taal sprak. Wil je zwart op wit zien wat het voor jouw bedrijf betekent, kijk dan naar [wat kost ai voor dakdekkers](/tarieven), of laat eerst gratis doorrekenen waar bij jou de meeste opdrachten weglekken. En omdat we achter het systeem staan: er zit een Groei-of-Geld-Terug Garantie op. Levert het je geen meetbare groei op, dan krijg je je geld terug.
+Het punt is niet dat je nooit meer een oproep mag missen. Het punt is dat je geen omzet meer verliest omdat je toevallig op een dak stond of omdat een beller een andere taal sprak. Wil je zwart op wit zien wat het voor jouw bedrijf betekent, kijk dan naar [wat kost ai voor dakdekkers](/tarieven), of laat eerst gratis doorrekenen waar bij jou de meeste opdrachten weglekken. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 
