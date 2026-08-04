@@ -23,6 +23,7 @@ const nextConfig = {
             { source: '/blog/no-shows-dakdekker-voorkomen', destination: '/blog/no-shows-voorkomen-dakdekker', permanent: true },
             { source: '/blog/google-mijn-bedrijf-dakdekker-profiel', destination: '/seo', permanent: true },
             { source: '/blog/social-media-voor-dakdekkers', destination: '/social-media', permanent: true },
+            { source: '/blog/meer-klussen-met-ai', destination: '/blog/meer-google-reviews-als-dakdekker', permanent: true },
         ];
     },
 };
