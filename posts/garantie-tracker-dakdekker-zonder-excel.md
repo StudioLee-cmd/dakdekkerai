@@ -95,7 +95,7 @@ Vier opties die ik in de praktijk getoetst zie bij dakdekkers tussen de 20 en 40
 
 Welke je kiest, hangt af van of de recall-flow het belangrijkste is (dan een CRM-achtige tool) of de werkbon-integratie (dan branche-specifiek). Het ergste is niet "verkeerde tool" maar "nog steeds Excel". Twijfel je tussen twee? Begin met de goedkoopste. Verhuizen van Notion naar Pipedrive duurt een halve dag — verhuizen van zes Excel-tabbladen met overlappende kolomnamen naar wat dan ook duurt een week.
 
-## Een [workflow automatisering voor dakdekkers](/automatisering) is meer dan een tracker
+## Een workflow automatisering voor dakdekkers is meer dan een tracker
 
 De tracker zelf is het minimum. Wat je echt wil is dat de hele cyclus loopt zonder dat jij hem aan moet duwen. Concreet:
 
