@@ -75,7 +75,7 @@ Een MKB-dakdekker met 80 inkomende stormschade-leads per maand (gemiddelde regio
 | 1-4 uur (telefoon overdag goed bereikbaar) | reken met 28% | 22 | €33.600 |
 | 5 minuten (AI-telefonist + WhatsApp-stack) | reken met 42% | 34 | €50.400 |
 
-Het verschil tussen 4 uur en 5 minuten: €28.800 extra omzet per maand, oftewel €345.000 op jaarbasis. De stack-kosten (AI-telefonist + WhatsApp Business + chatbot) liggen tussen €180 en €450 per maand. ROI is direct.
+Het verschil tussen 4 uur en 5 minuten: €28.800 extra omzet per maand, oftewel €345.000 op jaarbasis. De stack-kosten (AI-telefonist + WhatsApp Business + chatbot) vallen daarbij in het niet. ROI is direct.
 
 [Onze tarieven-pagina](/tarieven) toont aan welk service-niveau bij welke pakketprijs hoort, zodat je vooraf weet welke investering past bij jouw lead-volume.
 
