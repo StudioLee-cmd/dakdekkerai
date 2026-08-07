@@ -1,154 +1,146 @@
 ---
-title: "Google Bedrijfsprofiel Q&A invullen als dakdekker"
+title: "Google Q&A dakdekker: weg, en waar het antwoord nu hoort"
 slug: google-bedrijfsprofiel-qa-dakdekker-vragen-klanten
 date: "2026-04-29"
 cluster: "vindbaarheid"
-excerpt: "De Q&A-sectie op je Google Bedrijfsprofiel als dakdekker invullen met de vragen die klanten echt stellen plus 12 kant-en-klare antwoord-templates."
+excerpt: "De Q&A-sectie op je Google Bedrijfsprofiel is verdwenen. Hier staan de 12 vragen die klanten van een dakdekker stellen en waar het antwoord nu thuishoort."
 image: "/images/blog/google-bedrijfsprofiel-qa-dakdekker-vragen-klanten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel", "Q&A", "Lokale SEO", "Dakdekker"]
 ---
 
-# Google Bedrijfsprofiel Q&A invullen als dakdekker: vragen die klanten echt stellen
+Zoek je eigen bedrijf eens op in Google. Dat blok "Vragen en antwoorden" onderaan je vermelding staat er niet meer. Ook niet bij de dakdekker in de volgende plaats. Google heeft de Q&A-sectie van het Bedrijfsprofiel afgeschaft, en alles wat erin stond is niet meer zichtbaar.
 
-De Q&A-sectie op je Google Bedrijfsprofiel is een van de meest onderschatte plekken om als dakdekker meer klussen binnen te halen. Bezoekers stellen daar vragen die ze niet via de telefoon willen stellen: prijzen, beschikbaarheid bij stormschade, of je ook plat dak doet, of je een offerte op locatie maakt. Wie die vragen nooit zelf invult, laat het over aan willekeurige Google-gebruikers, die soms verkeerd antwoorden of helemaal niet reageren.
+Voor dakdekkers is dat een grotere verandering dan het lijkt. De vragen die daar binnenkwamen waren de duurste vragen die je krijgt: prijzen, spoed bij stormschade, of je ook plat dak doet, of je met de verzekering meewerkt. Die vragen zijn niet weg. Alleen beantwoordt Google ze nu zelf, met wat het over jou kan vinden. Wie niets te vinden heeft, valt uit dat antwoord.
 
-Wat de meeste dakdekkers niet weten: je mag zelf vragen plaatsen op je profiel en zelf beantwoorden. Google ziet dat als legitieme content en gebruikt die antwoorden om te bepalen voor welke zoekopdrachten je verschijnt. In dit artikel staan 12 vragen die klanten van een dakdekker echt stellen, met antwoord-templates die je direct kunt aanpassen aan je eigen bedrijf.
+Dit artikel loopt de 12 vragen langs die klanten van een dakdekker echt stellen, en zet er per vraag bij waar het antwoord vanaf nu moet staan om opgepikt te worden. De antwoorden zelf blijven bruikbaar. Alleen de bestemming verandert. Voor de bredere context staat de hele profiel-strategie in ons [Google Bedrijfsprofiel als dakdekker pillar artikel](/blog/google-bedrijfsprofiel-dakdekker), en hoe dit samenhangt met de rest van je vindbaarheid lees je bij [lokale seo voor dakdekkers](/seo).
 
-## Waar je de Q&A vindt op je Google Bedrijfsprofiel
+## Wat er precies is gebeurd
 
-De Q&A-sectie zit niet in het beheerdersdashboard van Google Bedrijfsprofiel. Je vindt hem alleen door je eigen bedrijf op te zoeken in Google. Type je bedrijfsnaam, klik op je vermelding (rechts in beeld op desktop, of in de Maps-pin op mobiel), scroll naar beneden en je ziet "Vragen en antwoorden". Daar kun je vragen plaatsen, beantwoorden en bestaande vragen rapporteren als ze ongepast zijn.
+Twee momenten, allebei door Google zelf aangekondigd.
 
-Belangrijk: je beheerdersdashboard zelf heeft géén overzicht van Q&A. Je krijgt wel meldingen via e-mail als iemand een vraag stelt, maar het beheren gaat alleen via de openbare zoekresultaten. Plan dus elke maandag 10 minuten in om je profiel op te zoeken en te checken op nieuwe vragen.
+Op 3 november 2025 zette Google de koppeling uit waarmee software vragen en antwoorden kon lezen en plaatsen. In zijn eigen documentatie voor ontwikkelaars staat dat de Q&A-API is stopgezet en dat je er geen vragen en antwoorden meer mee kunt lezen of posten. Vanaf 3 december 2025 verdween daarna de publieke sectie van de profielen zelf, verspreid over de maanden erna.
 
-## Waarom je zelf vragen moet stellen op je profiel
+Er komt geen vervangende sectie waarin je zelf vragen kunt plaatsen. Wat er ooit in stond is onzichtbaar. Had je er twaalf nette antwoorden in staan, dan zijn die weg. Stond er een verkeerd antwoord van een voorbijganger, dan is dat ook weg.
 
-Klinkt misschien gek, maar je mag op je eigen Google Bedrijfsprofiel vragen plaatsen die je vervolgens zelf beantwoordt. Dit is geen trucje, het is een manier om proactief informatie te delen die anders verstopt blijft op je website.
+## Wie er nu antwoord geeft namens jouw bedrijf
 
-Drie redenen om dit te doen als dakdekker:
+Google zelf. Als iemand zoekt of jij bij stormschade dezelfde dag komt, stelt Google daar een antwoord op samen. In Nederland zie je dat in de AI-overzichten boven de zoekresultaten, sinds mei 2025 ook in het Nederlands, en in de AI-modus die hier sinds oktober 2025 wordt uitgerold.
 
-1. **Vragen krijgen meer leesgewicht dan je profiel-tekst.** Een Q&A-paar staat prominenter in de zoekresultaten dan de algemene beschrijving. Klanten die jouw bedrijfsnaam zoeken zien deze info als eerste.
-2. **Het wordt opgepakt door Google's algoritme als ranking-signaal.** Vragen en antwoorden bevatten zoekwoorden die Google koppelt aan zoekopdrachten. Een vraag als "Doen jullie ook plat dak vervangen?" met een goed antwoord helpt je verschijnen voor "plat dak dakdekker [stad]".
-3. **Het scheelt telefoontjes.** Vragen die anders via de telefoon binnenkwamen ("Werken jullie ook in het weekend bij spoed?") worden direct beantwoord op je profiel. Klanten die de info hebben, bellen sneller om af te spreken in plaats van om vragen te stellen.
+Dat antwoord komt uit drie bronnen, en dat zijn precies de plekken waar jij nog aan de knoppen zit:
 
-Wij beschrijven dit voor de bredere context in ons [Google Bedrijfsprofiel als dakdekker pillar artikel](/blog/google-bedrijfsprofiel-dakdekker), waar we de hele profiel-strategie samenbrengen.
+- **Je Bedrijfsprofiel.** Je diensten, je werkgebied, je openingstijden, je bedrijfsomschrijving, je kenmerken.
+- **Je website.** De pagina's waarop je uitlegt wat je doet, waar, hoe snel en wat het kost.
+- **Je reviews.** De woorden die klanten gebruiken, niet alleen het aantal sterren.
 
-## 12 vragen die klanten van een dakdekker echt stellen (met antwoord-templates)
+De omkering zit hierin: vroeger typte je het antwoord letterlijk in een vakje. Nu vul je de bronnen en vertelt Google het na. Een dakdekker die nergens noemt dat hij EPDM doet, krijgt geen antwoord waarin EPDM voorkomt.
 
-Dit zijn de vragen die wij keer op keer terugzien op profielen van dakdekkers. Pas de antwoorden aan op jouw bedrijf, plaats ze op je profiel en beantwoord ze zelf. Antwoord max 500 tekens per item, vraag max 40 tekens.
+## De 12 vragen, en waar het antwoord nu hoort
+
+De antwoorden hieronder zijn dezelfde als voorheen. Wat verandert is waar je ze neerzet. In vrijwel alle gevallen is dat je eigen website, met de bijbehorende profielvelden ingevuld.
 
 **1. Doen jullie ook spoedklussen bij stormschade?**
-
-Antwoord: Ja. Bij acute lekkage of stormschade nemen wij dezelfde dag of de volgende ochtend op. Bel ons op [nummer] of stuur een WhatsApp met foto's. Wij komen langs in [postcodegebied] en regio's eromheen.
+*Waar: je spoedpagina, plus je openingstijden en je werkgebied op je profiel.*
+Bij acute lekkage of stormschade nemen wij dezelfde dag of de volgende ochtend op. Bel [nummer] of stuur een WhatsApp met foto's. Wij komen in [postcodegebied] en de regio eromheen.
 
 **2. Werken jullie aan platte daken én hellende daken?**
-
-Antwoord: Ja. Wij doen dakpannen, leien, zink, EPDM en bitumen. Voor renovatie of nieuwbouw, particulier én zakelijk. Stuur ons een foto en wij geven binnen 24 uur een eerste prijsindicatie.
+*Waar: als aparte diensten in je profiel, en als eigen pagina per daktype op je site.*
+Wij doen dakpannen, leien, zink, EPDM en bitumen. Voor renovatie of nieuwbouw, particulier én zakelijk.
 
 **3. Wat zijn jullie tarieven voor een dakinspectie?**
-
-Antwoord: Een eerste inspectie is gratis voor klanten die binnen [postcodegebied] wonen. Onze monteur kijkt het dak na, maakt foto's en stuurt een offerte. Geen voorrijkosten als de klus doorgaat.
+*Waar: je tarievenpagina. Een prijs die nergens staat kan Google niet noemen.*
+Een eerste inspectie is gratis voor klanten binnen [postcodegebied]. Onze monteur kijkt het dak na, maakt foto's en stuurt een offerte. Geen voorrijkosten als de klus doorgaat.
 
 **4. Kunnen jullie zonder steiger werken?**
-
-Antwoord: Ja, voor reparaties tot 6 meter werken we vaak met ladder en harnas. Voor grotere klussen plaatsen we een rolsteiger of kleine vaste steiger. Steigerkosten staan apart op de offerte zodat je weet wat je betaalt.
+*Waar: je pagina over hoe je werkt, of je veelgestelde-vragenpagina.*
+Voor reparaties tot 6 meter werken we vaak met ladder en harnas. Voor grotere klussen plaatsen we een rolsteiger of vaste steiger. Steigerkosten staan apart op de offerte.
 
 **5. Hoe snel kunnen jullie komen?**
-
-Antwoord: Voor spoed (lekkage) binnen 24 uur. Voor reguliere reparaties binnen 1-2 weken. Voor renovaties plannen we 4-8 weken vooruit afhankelijk van het seizoen. In december-februari zijn we drukker, plan dus vroeg.
+*Waar: je spoedpagina en je contactpagina, met echte termijnen.*
+Voor spoed binnen 24 uur. Voor reguliere reparaties binnen 1-2 weken. Voor renovaties plannen we 4-8 weken vooruit, afhankelijk van het seizoen.
 
 **6. Werken jullie ook in [naburige stad]?**
-
-Antwoord: Ja, ons werkgebied is [stad + 30 km eromheen]. We werken dagelijks in [stad 1], [stad 2], [stad 3], [stad 4]. Voor klussen verder weg rekenen we een kleine reistoeslag, dat staat altijd vooraf op de offerte.
+*Waar: je werkgebied op je profiel, plus een eigen pagina per plaats waar je echt werkt.*
+Ons werkgebied is [stad] en 30 km eromheen. We werken dagelijks in [stad 1], [stad 2], [stad 3]. Voor klussen verder weg rekenen we een reistoeslag, altijd vooraf op de offerte.
 
 **7. Doen jullie ook isolatie en zonnepanelen?**
-
-Antwoord: Wij doen dakisolatie als onderdeel van een renovatie (PIR, EPS, glaswol). Zonnepanelen zelf installeren wij niet, maar wij werken samen met [installateur] zodat je één dakdekker hebt voor de hele klus.
+*Waar: in je dienstenlijst op je profiel, en op je renovatiepagina.*
+Wij doen dakisolatie als onderdeel van een renovatie (PIR, EPS, glaswol). Zonnepanelen installeren wij niet zelf, maar wij werken samen met [installateur].
 
 **8. Geven jullie garantie?**
+*Waar: een eigen garantiepagina. Dit is de vraag die het vaakst het verschil maakt.*
+Op nieuwe dakbedekking 10 jaar materiaalgarantie en 5 jaar werkgarantie. Op reparaties 1 jaar. Bij garantieklachten komen we binnen 5 werkdagen langs zonder kosten.
 
-Antwoord: Ja. Op nieuwe dakbedekking 10 jaar materiaalgarantie en 5 jaar werkgarantie. Op reparaties 1 jaar. Bij garantieklachten komen we binnen 5 werkdagen langs zonder kosten.
-
-**9. Werken jullie met verzekering bij stormschade?**
-
-Antwoord: Ja. Wij maken offerte direct in het format dat je verzekering accepteert (uitgebreid met foto's, oorzaak, herstelmethode). De meeste verzekeraars vergoeden een groot deel tot het volledige bedrag bij plotselinge schade, vraag ons om hulp bij de claim.
+**9. Werken jullie met de verzekering bij stormschade?**
+*Waar: je spoed- of schadepagina, in gewone taal.*
+Ja. Wij maken de offerte direct in het format dat je verzekering accepteert, met foto's, oorzaak en herstelmethode, en helpen bij de claim.
 
 **10. Hoe ziet de offerte eruit?**
-
-Antwoord: Wij maken na inspectie een offerte met foto's, materiaalspecificatie, werkuren, eventuele steigerkosten en garantie. Geen verrassingen achteraf. Vraagprijs vaste prijs of richtprijs, dat staat duidelijk op het document.
+*Waar: je offerte- of werkwijzepagina.*
+Na inspectie krijg je een offerte met foto's, materiaalspecificatie, werkuren, eventuele steigerkosten en garantie. Vaste prijs of richtprijs staat duidelijk op het document.
 
 **11. Wat doen jullie bij een dak dat asbest bevat?**
-
-Antwoord: Wij hebben gecertificeerde sloop-partners voor asbestverwijdering. Voor jouw klus regelen wij de melding bij de gemeente, het transport en de gecertificeerde sloop. Daarna leggen wij de nieuwe dakbedekking. Eén aanspreekpunt voor de hele klus.
+*Waar: een eigen pagina over asbest. Hier zoeken mensen expliciet op.*
+Wij werken met gecertificeerde sloop-partners. Wij regelen de melding bij de gemeente, het transport en de gecertificeerde sloop, en leggen daarna de nieuwe dakbedekking.
 
 **12. Hoe vraag ik een offerte aan?**
-
-Antwoord: Stuur ons een WhatsApp met je adres en 2-3 foto's van je dak via [WhatsApp-link]. Of bel [nummer]. Wij plannen binnen 48 uur een gratis inspectie. Na de inspectie krijg je binnen 24 uur de schriftelijke offerte.
-
-Pas deze antwoorden aan op jouw werkgebied, garantie en werkwijze. Halve antwoorden ("dat hangt ervan af") halen alle waarde weg, dus durf concreet te zijn met getallen, dagen en bedragen.
+*Waar: je contactpagina, in de eerste zin.*
+Stuur een WhatsApp met je adres en 2-3 foto's van je dak, of bel [nummer]. Wij plannen binnen 48 uur een gratis inspectie en sturen daarna de schriftelijke offerte.
 
 ![Werkbank-close-up: smartphone met Google Bedrijfsprofiel-melding (geblurde tekst), bouwhelm, schroevendraaier en mok koffie op een houten plank, late namiddagzon](/images/blog/google-bedrijfsprofiel-qa-dakdekker-vragen-klanten-2.jpg)
 
-## Vragen plaatsen die je website helpt ranken
+Halve antwoorden ("dat hangt ervan af") halen alle waarde weg. Dat gold in de oude sectie en het geldt nu dubbel: een pagina zonder feiten levert geen antwoord op dat Google kan doorgeven.
 
-Vragen op je profiel kunnen ook strategisch zijn. Door zoekwoorden in de vraag én het antwoord te verwerken, koppelt Google jouw profiel aan meer zoekopdrachten. Drie tips:
+## Zo schrijf je iets op dat Google kan gebruiken
 
-- **Verwerk je hoofddiensten.** Een vraag als "Doen jullie ook plat dak met EPDM in [stad]?" met antwoord ja, gevolgd door uitleg, koppelt je profiel aan EPDM-zoekopdrachten in jouw stad.
-- **Gebruik plaatsnamen.** Klanten zoeken op "dakdekker [stadsdeel]" of "dakdekker [postcode]". Vermeld die expliciet in vraag en antwoord.
-- **Combineer urgentie + locatie.** "Spoed dakdekker [stad] in het weekend?" is een echte zoekopdracht. Beantwoord het op je profiel en je vergroot je kans om in lokale spoed-resultaten te verschijnen.
+- **Beantwoord de vraag in de eerste zin.** "Ja, wij komen bij stormschade dezelfde dag." Daarna pas de nuance.
+- **Gebruik de woorden van je klant.** Zij zoeken op "lekkend plat dak", niet op "bitumineuze dakbedekkingsproblematiek".
+- **Zet het feit erin.** Een bedrag, een aantal jaren garantie, een straal in kilometers, een termijn in uren.
+- **Eén onderwerp, één pagina.** Drie pagina's die half hetzelfde zeggen zijn slechter dan één die het goed zegt.
+- **Vul je profielvelden af.** Diensten, werkgebied, openingstijden, kenmerken. Dat is aanvinkwerk en het is de bron die Google het makkelijkst leest.
 
-Voor de bredere [lokale seo voor dakdekkers](/seo) strategie hangen Q&A's, openingstijden en categorieën aan dezelfde lokale-ranking-machine. Q&A's zijn een laag bovenop je basisprofiel, niet een vervanging.
+## Waarom je reviews ineens zwaarder wegen
 
-## Wat te doen als iemand anders een rare vraag stelt
+Reviews en vragen waren twee gescheiden dingen. Nu zijn je reviews een van de drie bronnen waaruit Google het antwoord samenstelt. Dat verandert wat een waardevolle review is: vijf sterren zonder tekst zegt niets over spoed, garantie of werkgebied. Vijf sterren met de zin "binnen een dag na de storm het dak dichtgemaakt" is inhoud die doorwerkt.
 
-Iedereen met een Google-account mag op jouw profiel een vraag plaatsen, en iedereen mag erop antwoorden. Dat betekent dat ook willekeurige bezoekers, ontevreden klanten of grappenmakers vragen kunnen plaatsen. Drie regels:
+Vraag klanten dus te benoemen waarvoor ze kwamen. Hoe je dat structureel aanpakt staat in ons overzicht over [review management voor dakdekkers](/reviews). Sinds deze verandering zijn reviews geen los kanaal meer, maar onderdeel van je vindbaarheid.
 
-1. **Beantwoord altijd zelf eerst.** Een vraag van een derde wordt minder snel verkeerd beantwoord als jij er al onder staat met een professioneel antwoord.
-2. **Rapporteer wat ongepast is.** Klik op de drie puntjes naast een vraag of antwoord en kies "Markeren als ongepast". Voor scheldwoorden, valse beschuldigingen of spam haalt Google dat meestal binnen 48 uur weg.
-3. **Reageer professioneel op kritische vragen.** Een vraag als "waarom hebben jullie nooit teruggebeld?" verdient geen verdediging maar een korte oprechte reactie ("Excuses, dit is bij ons fout gegaan, neem contact op via [nummer] zodat we het rechtzetten"). Klanten die kritische reacties zien, beoordelen vaak hoe je ermee omgaat.
+## Wat je hier vooral niet moet doen
 
-Voor de bredere review-aanpak schreven wij een [review management voor dakdekkers](/reviews) overzicht. Q&A's en reviews komen samen in hoe je profiel als dakdekker overkomt op een potentiële klant.
+**1. De prijsvraag overslaan.** "Wat kost dat?" is de meest gestelde vraag. Zelfs een grove range is beter dan stilte. Staat er nergens een bedrag, dan kan Google er ook geen noemen.
 
-## Hoeveel vragen plaats je en hoe vaak update je ze?
+**2. Corporate-antwoorden schrijven.** "Voor meer informatie kunt u contact opnemen" is geen antwoord en levert geen bron op.
 
-Tien tot vijftien Q&A-paren is genoeg voor een gemiddeld dakdekker-profiel. Meer is niet beter — Google toont alleen de drie meest "geliket" of meest relevante vragen op de samenvattingspagina, dus extra Q&A's verdwijnen sowieso onder een "Meer vragen weergeven"-knop.
+**3. Vraagvormen door je site strooien.** Overal "Wat kost X in Y?" plaatsen in de hoop opgepikt te worden, las een mens vroeger al als reclame en helpt nu net zo min.
 
-Ritme:
+**4. Je foto's vergeten.** Een opgeleverd EPDM-dak in beeld doet meer dan een zin erover. Zie ook de gids over [GBP foto's als dakdekker](/blog/google-profiel-fotos-dakdekker).
 
-- **Eerste week:** plaats de 12 templates uit dit artikel, aangepast aan je bedrijf.
-- **Maandelijks:** check op nieuwe vragen van bezoekers, beantwoord binnen 48 uur.
-- **Per kwartaal:** review je eigen 12 antwoorden, update prijsranges, garantie-termijnen of werkgebied als die zijn veranderd.
+**5. Alleen je hoofdvestiging bijwerken.** Heb je meerdere vestigingen met aparte profielen, vul ze dan allemaal af. Een bezoeker in [stad B] krijgt het antwoord dat bij [stad B] hoort.
 
-Een goed gevulde Q&A-sectie scheelt gemiddeld 4-6 telefoontjes per week voor een dakdekker met 1.000+ profiel-weergaven per maand. Dat is meer dan een uur aan eenvoudige vragen die je nu kunt voorkomen, voor een eenmalige investering van ongeveer 90 minuten Q&A-werk. De [ai telefonist voor dakdekkers](/voice-ai) is voor de telefoontjes die overblijven, en die ook buiten kantoortijden binnenkomen.
+## Wat dit aan werk kost
 
-## Veelgemaakte fouten
+**Eén keer:** loop de 12 vragen hierboven langs en zorg dat elk antwoord ergens echt staat. Het meeste is aanvinken in je profiel; alleen wat nergens op je site staat kost schrijfwerk.
 
-**1. Vragen overslaan over prijs.** "Wat kost dat?" is de meest gestelde vraag. Zelfs een grove range ("renovaties tussen 4.500 euro en 18.000 euro afhankelijk van oppervlak en materiaal") is beter dan stilte. Klanten die nul prijsinformatie zien, klikken weg.
+**Per kwartaal:** lees je eigen pagina's na. Prijzen, garantietermijnen en werkgebied veranderen, en een verouderd feit dat Google netjes doorgeeft aan een klant is schadelijker dan geen feit.
 
-**2. Standaard-corporate-antwoorden.** "Voor meer informatie kunt u contact opnemen" is een gemiste kans. Beantwoord echt, met getallen, dagen en concrete acties.
-
-**3. Vragen plaatsen en daarna nooit meer kijken.** Iemand die bij jouw profiel landt en ziet dat de laatste vraag uit 2024 is, vraagt zich af of je nog actief bent.
-
-**4. Q&A foto's vergeten.** Bij sommige vragen kun je een foto toevoegen als bijlage. Bijvoorbeeld bij "doen jullie ook EPDM-daken?" met een foto van een opgeleverd EPDM-dak. Foto's krijgen meer aandacht dan tekst alleen, zie ook de [GBP foto's als dakdekker](/blog/google-profiel-fotos-dakdekker) gids.
-
-**5. Geen Q&A op secundaire profielen.** Heb je meerdere vestigingen of werkgebieden met aparte profielen? Vul ze allemaal apart in. Bezoekers in [stad B] zien de Q&A van [stad A] niet.
+Er is geen sectie meer om wekelijks te bewaken, dus dit is minder onderhoud dan voorheen. Wat wel blijft: de vragen die je aan de telefoon krijgt zijn je beste graadmeter. Elke vraag die nog gebeld wordt, is een vraag waarop Google bij jou geen antwoord kon vinden. De [ai telefonist voor dakdekkers](/voice-ai) vangt op wat er dan alsnog binnenkomt, ook buiten kantoortijden.
 
 ## Veelgestelde vragen
 
-### Mag ik echt zelf vragen plaatsen op mijn eigen profiel?
+### Komt de vragensectie nog terug?
 
-Ja, Google staat dit expliciet toe. Het wordt gezien als manier om informatie proactief te delen, vergelijkbaar met een FAQ-sectie op je website.
+Nee. Google heeft de functie in november en december 2025 uitgezet en geen vervanger aangekondigd waarin je zelf vragen kunt plaatsen. De vervanging zit in de antwoorden die Google zelf samenstelt.
 
-### Hoeveel tijd kost het om dit op te zetten?
+### Zijn mijn oude antwoorden nog te zien?
 
-Reken op 90 minuten voor de eerste 12 vragen, inclusief het personaliseren van de templates. Daarna 5-10 minuten per maand om bij te werken.
+Nee. Die zijn met de sectie verdwenen. Stond daar informatie die nergens anders staat, dan is dat nu een gat op je website of in je profiel.
 
-### Wat als een vraag van een bezoeker niet over mijn bedrijf gaat?
+### Hoe zie ik wat Google over mijn bedrijf vertelt?
 
-Klik op de drie puntjes en rapporteer als "Niet relevant voor dit bedrijf". Google haalt off-topic vragen meestal binnen een paar dagen weg.
+Zoek je bedrijf en je belangrijkste diensten op zoals een klant dat zou doen, op je telefoon en niet ingelogd. Wat je dan boven de resultaten leest, is wat zij lezen.
 
 ## Aan de slag
 
-Q&A invullen op je Google Bedrijfsprofiel kost je een ochtend, scheelt je vier tot zes telefoontjes per week en helpt je profiel ranken voor zoekopdrachten waar je anders nooit zou verschijnen. De 12 templates hierboven zijn een startpunt, niet een eindpunt — pas ze aan, voeg je eigen specialiteit toe en update ze ieder kwartaal.
+De twaalf vragen hierboven zijn nog steeds de juiste twaalf. Wat veranderd is, is dat het antwoord niet meer in een vakje op je profiel past maar op je eigen site en in je profielvelden moet staan. Dat is meer werk dan vroeger, en het werkt breder door: dezelfde pagina bedient het AI-antwoord, de zoekresultaten en de bezoeker die alsnog doorklikt.
 
-Wil je weten waar jouw GBP nu staat en welke punten nog leeg zijn? Plan een [gratis ai scan voor dakdekkers](/gratis-scan) via [cal.com/studiolee](https://cal.com/studiolee). Wij doen een live audit op je profiel, laten zien welke vragen ontbreken en geven een concreet 30-dagenplan. Met onze Groei-of-Geld-Terug Garantie weet je zeker dat de investering rendement oplevert, of we storten het terug.
+Wil je weten waar jouw profiel nu staat en welke van deze twaalf antwoorden nergens te vinden zijn? Plan een [gratis ai scan voor dakdekkers](/gratis-scan) via [cal.com/studiolee](https://cal.com/studiolee). Wij lopen je profiel en je site na en laten zien welke antwoorden ontbreken. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
