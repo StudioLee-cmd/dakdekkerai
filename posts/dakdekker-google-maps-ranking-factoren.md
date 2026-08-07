@@ -66,7 +66,7 @@ Must-have invullingen:
 - **Minimaal 25 foto's**: van je team op locatie, voor/na-foto's van klussen, werkbusjes, kantoor. Update elke maand.
 - **Berichten aan** (zodat klanten direct via GBP kunnen chatten).
 - **Afspraken-URL** of offerteformulier-link.
-- **Q&A sectie**: voeg zelf 5-10 veelgestelde vragen toe met antwoorden. Dit content-signaal is onderschat.
+- **Bedrijfsomschrijving en kenmerken**: schrijf specifiek op wat je doet en vink de kenmerken aan die kloppen. Uit die velden stelt Google het antwoord samen als iemand iets over je bedrijf vraagt.
 
 ## Factor 5: NAP-consistentie op externe sites
 
@@ -124,6 +124,6 @@ Daarna:
 
 ## Hoe je dit als vakman uitbesteedt
 
-Als je eerlijk bent: dit is 15-20 uur werk om goed op te zetten, plus ongeveer 2 uur per maand om het bij te houden. Tijd die je waarschijnlijk liever aan daken besteedt. Wij regelen complete Google Bedrijfsprofiel-optimalisatie voor dakdekkers binnen ons [SEO-pakket](/seo), inclusief review-automatisering, content-updates, en maandelijkse Q&A-aanvullingen.
+Als je eerlijk bent: dit is 15-20 uur werk om goed op te zetten, plus ongeveer 2 uur per maand om het bij te houden. Tijd die je waarschijnlijk liever aan daken besteedt. Wij regelen complete Google Bedrijfsprofiel-optimalisatie voor dakdekkers binnen ons [SEO-pakket](/seo), inclusief review-automatisering, content-updates, en het maandelijks bijwerken van je diensten, kenmerken en bedrijfsomschrijving.
 
 Wil je weten waar jouw profiel nu staat? Vraag een [gratis AI-scan aan](/gratis-scan), we analyseren je huidige Google Bedrijfsprofiel, vergelijken met je 3 naaste concurrenten, en geven concrete verbeterpunten.

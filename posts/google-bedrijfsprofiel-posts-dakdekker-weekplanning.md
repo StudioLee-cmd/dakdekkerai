@@ -27,11 +27,13 @@ Prominentie wordt bepaald door reviews, links, vermeldingen op andere sites, en 
 
 Daar komt bij dat Posts vaak verschijnen in de Maps-knowledge-panel (rechterzijde van Google Search bij lokale zoekopdrachten). Klikt een potentiële klant op zo'n post, dan registreert Google die interactie als positieve engagement-data. Voor een dakdekker betekent dat: regelmatige Posts vergroten niet alleen je zichtbaarheid maar ook je klikbaarheid, en die twee voeden elkaar op.
 
-## Het verschil tussen Posts, Updates en Q&A op je profiel
+## Het verschil tussen Posts en Updates op je profiel
 
-Veel dakdekkers gebruiken die termen door elkaar, en dat leidt tot verkeerd ingerichte profielen. Een **Post** is wat we hier bedoelen: een tekst (max 1500 tekens), eventueel met foto en een actieknop, die 7 dagen op je profiel staat. **Updates** is de bredere term Google soms gebruikt voor alle activiteit (Posts, foto's, openingstijden-wijzigingen). **Q&A** is een aparte sectie waar bezoekers vragen kunnen stellen die jij of andere bezoekers kunnen beantwoorden — geen plek voor jouw eigen marketingberichten.
+Veel dakdekkers gebruiken die termen door elkaar, en dat leidt tot verkeerd ingerichte profielen. Een **Post** is wat we hier bedoelen: een tekst (max 1500 tekens), eventueel met foto en een actieknop, die 7 dagen op je profiel staat. **Updates** is de bredere term Google soms gebruikt voor alle activiteit (Posts, foto's, openingstijden-wijzigingen).
 
-In de praktijk: gebruik Posts voor je marketing en aankondigingen, gebruik Q&A actief om de meest gestelde vragen pre-emptief te beantwoorden (en voorkom dat anderen verkeerde antwoorden geven), en houd je foto-secties up-to-date met recent werk. De drie versterken elkaar maar hebben elk hun eigen rol.
+De derde term die je in oudere uitleg nog tegenkomt is **Q&A**, de vragensectie waar bezoekers een vraag op je profiel konden stellen. Die bestaat niet meer. Google stopte op 3 november 2025 de koppeling waarmee software vragen en antwoorden kon lezen en plaatsen, en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen zelf zijn niet weg, alleen het vak waarin jij ze beantwoordde. Wat daarvoor in de plaats kwam staat in [Google Q&A dakdekker: weg, en waar het antwoord nu hoort](/blog/google-bedrijfsprofiel-qa-dakdekker-vragen-klanten).
+
+In de praktijk: gebruik Posts voor je marketing en aankondigingen, houd je foto-secties up-to-date met recent werk, en zorg dat het antwoord op je meest gestelde vragen echt ergens staat, in je bedrijfsomschrijving, je dienstenlijst en op je site. De drie versterken elkaar maar hebben elk hun eigen rol.
 
 ## 5 post-types die voor dakdekkers consistent werken
 
