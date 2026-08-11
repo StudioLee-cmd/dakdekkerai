@@ -19,7 +19,7 @@ Je hebt acht jaar geleden een plat dak gelegd in Apeldoorn. De klant belt op een
 - De acht velden die elke garantie-rij moet bevatten: klant-ID, adres, uitvoeringsdatum, dak-type, materiaal-batchnummer, garantie-termijn (per onderdeel), foto-archief-link, en de eindgaranta-datum als gecalculeerd veld. Zonder die laatste twee val je terug op handmatig zoeken.
 - De recall-flow waar het echt om draait: een [cyclus-opvolging automatiseren dakdekker](/automatisering)-trigger op T-min-6 maanden vóór elke eindgaranta-datum. Wie z'n garantie nog vier maanden heeft, krijgt een inspectie-aanbod — een substantieel deel zegt ja. Dat zijn jaarlijks tientallen extra opdrachten uit je bestaande klantenbestand.
 - GDPR vereist dat je klantgegevens 25 jaar mag bewaren mits de juridische grondslag (overeenkomst + bewijslast garantie) is gedocumenteerd. Excel-bestanden op een lokale schijf voldoen niet aan "passende technische maatregelen" — een echte tool wel.
-- Vier reële opties voor de tool zelf: Notion (laagdrempelig, €8/maand), Pipedrive (CRM met automation, €30/maand), branche-specifieke pakketten zoals Taklo of Sidekick (€50-75/maand), of een [crm voor dakdekkers](/crm) dat de hele klantcommunicatie meeneemt (€95/maand). Welke past, hangt af van hoeveel garanties je hebt en of je de recall-flow wilt automatiseren of zelf doen.
+- Vier reële opties voor de tool zelf: Notion (laagdrempelig, €8/maand), Pipedrive (CRM met automation, €30/maand), branche-specifieke pakketten zoals Taklo of Sidekick (€50-75/maand), of een [crm voor dakdekkers](/crm) dat de hele klantcommunicatie meeneemt (bedragen op /tarieven). Welke past, hangt af van hoeveel garanties je hebt en of je de recall-flow wilt automatiseren of zelf doen.
 
 ## Waarom Excel breekt bij 60 rijen
 
@@ -91,7 +91,7 @@ Vier opties die ik in de praktijk getoetst zie bij dakdekkers tussen de 20 en 40
 
 **Branche-specifieke pakketten (Taklo, Sidekick, Gilde — €50-75/maand)** — gebouwd voor de bouw. Werkbon-integratie, planning, garantie-administratie in één. Sweet spot: 100-300 garanties, vooral als je ook de werkbon-flow erbij wilt automatiseren.
 
-**Alles-in-één AI-platform (€95-150/maand)** — voor dakdekkers met 200+ garanties die de hele klantcommunicatie willen automatiseren. De tracker is dan één module naast je [voice-AI-bereikbaarheid](/voice-ai), [chatbot](/chatbot), [review management voor dakdekkers](/reviews) en facturatie. Hogere maandlasten, maar één systeem in plaats van vier abonnementen.
+**Alles-in-één AI-platform** — voor dakdekkers met 200+ garanties die de hele klantcommunicatie willen automatiseren. De tracker is dan één module naast je [voice-AI-bereikbaarheid](/voice-ai), [chatbot](/chatbot), [review management voor dakdekkers](/reviews) en facturatie. Hogere maandlasten dan een losse tracker, maar één systeem in plaats van vier abonnementen; wat het bij ons kost staat op /tarieven.
 
 Welke je kiest, hangt af van of de recall-flow het belangrijkste is (dan een CRM-achtige tool) of de werkbon-integratie (dan branche-specifiek). Het ergste is niet "verkeerde tool" maar "nog steeds Excel". Twijfel je tussen twee? Begin met de goedkoopste. Verhuizen van Notion naar Pipedrive duurt een halve dag — verhuizen van zes Excel-tabbladen met overlappende kolomnamen naar wat dan ook duurt een week.
 
