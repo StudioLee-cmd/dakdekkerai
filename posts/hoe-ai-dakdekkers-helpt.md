@@ -28,7 +28,7 @@ Elke dakdekker kent de chaos na een zware herfststorm. De telefoon staat roodglo
 
 Veel ondernemers denken dat AI hun vakmanschap wil vervangen. Dat is onzin. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
 - **De Telefoniste/Planner:** Een kracht op kantoor kost je al snel €35.000 per jaar. Onze Voice AI (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over voorrijkosten.
-- **Het Marketingbureau:** Wil je meer renovatieklussen? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & Tekstschrijver AI regelen je zichtbaarheid. Ze posten je mooiste projecten op Instagram en schrijven blogs.
+- **Het Marketingbureau:** Wil je meer renovatieklussen? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & SEO Blog AI regelen je zichtbaarheid. Ze posten je mooiste projecten op Instagram en schrijven blogs.
 - **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Facturatie AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer.
 
 ## Waarom het een No-Brainer is voor elke dakdekker
