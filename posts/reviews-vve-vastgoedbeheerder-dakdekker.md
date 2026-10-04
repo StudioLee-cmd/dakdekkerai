@@ -27,69 +27,65 @@ De conclusie is niet dat het niet kan. De conclusie is dat je erom moet vragen, 
 
 ## Wie er binnen een VvE eigenlijk over gaat
 
-Dit is het stuk waar de meeste dakdekkers de verkeerde deur kloppen. Binnen één VvE zitten drie soorten mensen, en ze mogen niet hetzelfde zeggen.
+Begin bij degene die het werk heeft meegemaakt. Een functietitel bewijst niet dat iemand namens de VvE of het beheerkantoor mag spreken. Vraag dus eerst of die persoon een eigen ervaring wil delen en, bij een zakelijke referentie, of publicatie namens de organisatie is afgestemd.
 
-**De vastgoedbeheerder.** Werkt bij een beheerkantoor en beheert vaak tientallen complexen. Dit is degene die jou belde, jouw offerte beoordeelde en jouw factuur doorzette. Hij mag over de uitvoering praten: kwam je op tijd, was de communicatie helder, hoe ging het met de bewoners. Dit is jouw persoon.
+**De vastgoedbeheerder.** Dit kan degene zijn die de offerte beoordeelde, de planning afstemde en de factuur doorzette. Vraag naar diens eigen ervaring met het contact en de uitvoering. Laat de beheerder zelf bepalen wat hij kan en wil vertellen.
 
-**Het VvE-bestuur.** Bewoners die vrijwillig in het bestuur zitten. Zij mogen namens de vereniging spreken, maar ze zijn niet dagelijks bij het werk. Een bestuurslid kan een prachtige aanbeveling geven over het resultaat en het contact met bewoners, maar niet over jouw planning of facturatie.
+**Het VvE-bestuur.** Een bestuurslid kan de communicatie met bewoners of het resultaat hebben meegemaakt. Dat maakt hem een mogelijke gesprekspartner, maar geen automatische woordvoerder voor alle bewoners. Voor een citaat namens de vereniging spreek je afzonderlijk af wie de tekst mag goedkeuren.
 
-**De technisch beheerder of onderhoudsadviseur.** Soms een externe partij die het meerjarenonderhoudsplan opstelt. Als die je goed vindt, is dat commercieel het meest waard, want hij adviseert over complexen waar jij nog nooit geweest bent. Alleen mag hij vaak formeel niets openbaars zeggen, omdat hij onafhankelijk hoort te zijn.
+**De technisch beheerder of onderhoudsadviseur.** Die kan zicht hebben op de uitvoering, maar heeft mogelijk eigen beroeps- of organisatieregels over aanbevelingen. Neem niet aan dat een referentie is toegestaan omdat jullie prettig samenwerkten. Een weigering vraagt geen andere formulering om er alsnog omheen te komen.
 
-Vraag dus aan de beheerder, en vraag hem naar de uitvoering. Leg meteen vast wie je gesproken hebt en welke rol hij had, op de klantkaart in je [crm voor dakdekkers](/crm). Bij het volgende complex van hetzelfde kantoor scheelt dat je een halve dag uitzoekwerk.
+Leg vast wie je gesproken hebt en welke rol die persoon had, op de klantkaart in je [crm voor dakdekkers](/crm). Noteer daar ook of er toestemming is voor een referentie, welke tekst is afgesproken en waar die gebruikt mag worden. Dat voorkomt dat een collega een persoonlijk compliment later voor een openbare aanbeveling aanziet.
 
 ## Het juiste moment in een meerjarig contract
 
-Bij een particulier vraag je binnen achtenveertig uur na oplevering, en daar is [het beste moment om een review te vragen na een dakklus](/blog/review-vragen-timing-dakdekker) een kwestie van uren. Bij een VvE is dat het slechtste moment dat er is.
+Een langlopend onderhoudscontract vraagt om een duidelijk contactmoment. In [het beste moment om een review te vragen na een dakklus](/blog/review-vragen-timing-dakdekker) gaat het over die timing; bij een VvE kun je een uitnodiging koppelen aan een afgesproken evaluatie in plaats van aan een los bericht na de laatste werkdag.
 
-Vlak na oplevering loopt de nazorgperiode nog, is de eindafrekening nog niet rond en durft een beheerder zich niet vast te leggen. Vraag je dan, dan krijg je een vriendelijk "laten we dat straks doen", en straks komt nooit.
+Kies dat moment vooraf voor vergelijkbare klanten, ongeacht of je een positieve of negatieve reactie verwacht. Bijvoorbeeld na de opleverbespreking of na een vaste onderhoudsronde. Maak contractverlenging of een compliment geen voorwaarde om iemand een Google-reviewlink te geven. Anders selecteer je op tevredenheid in plaats van op een werkelijk afgerond contactmoment.
 
-Er zijn drie momenten die wel werken.
+Spreek tijdens het project af wie de contactpersoon is en welk kanaal die prettig vindt. Een evaluatie over de werkzaamheden en een verzoek om een openbare review zijn verschillende vragen: de eerste hoort bij het project, de tweede is vrijwillig. Koppel betaling, nazorg of het oplossen van een klacht nooit aan het achterlaten of aanpassen van een beoordeling.
 
-1. **Na de eerste onderhoudsronde die volgt op de klus.** Meestal een jaar later. Het dak heeft een winter doorstaan, er is niets gebeurd, en dat is precies het bewijs waar een beheerder zich prettig bij voelt.
-2. **Bij de verlenging van het onderhoudscontract.** Hij heeft net besloten met jou door te gaan. Dat besluit staat op papier, dus de aanbeveling is een kleine stap.
-3. **Direct nadat jij iets hebt opgelost dat niet jouw schuld was.** Een verstopte afvoer na een storm, een lekkage bij de buren. Dat blijft hangen, want jij hebt hem een vergadering bespaard.
-
-Zet die momenten in je systeem op het moment dat je de klus afrondt, niet later. Dat is hetzelfde mechanisme als [automatisch reviews verzamelen voor dakdekkers](/reviews) bij particulieren, alleen met een horizon van een jaar in plaats van twee dagen. Een [reviewverzoek dat automatisch komt](/reviews) op een datum die je een jaar geleden hebt gepland is het enige wat hier standhoudt, want je gaat er zelf niet aan denken.
+Zet de gekozen timing in je systeem. Dat is hetzelfde planningsmechanisme als [automatisch reviews verzamelen voor dakdekkers](/reviews), met een contactmoment dat bij het contract past. Controleer vlak voor een [reviewverzoek dat automatisch komt](/reviews) of de contactpersoon nog klopt en of die verdere berichten heeft afgewezen. De ontvanger mag het verzoek overslaan zonder dat je dienstverlening verandert.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reviews-hergebruiken-dakdekker-website-offerte-social" class="text-dark fw-semibold">Reviews hergebruiken als dakdekker: website, offerte, social</a> →</p>
 
-## Waarom naam en functie zwaarder wegen
+## Een Google-review is iets anders dan een zakelijke referentie
 
-Bij een particuliere review telt het cijfer. Vijf sterren, korte tekst, klaar. Bij een zakelijke review is het cijfer bijna niet interessant en de ondertekening alles.
+Bij een Google-review bepaalt de klant zelf de woorden en de beoordeling. Stuur een neutrale uitnodiging met de directe reviewlink, zonder voorbeeldreview, verplichte naam of functie, objectdetails of gewenste sterren. [Google verbiedt het vragen om specifieke reviewinhoud en het selectief uitnodigen voor positieve reviews](https://support.google.com/contributionpolicy/answer/7400114?hl=nl).
 
-Denk aan wie het leest. De volgende beheerder die jouw naam googelt zoekt geen sterrengemiddelde, hij zoekt of iemand in zijn eigen vak jou al eens vertrouwd heeft. "Vastgoedbeheerder bij een beheerkantoor in Utrecht, 12 complexen" zegt hem meer dan tien anonieme vijven. Het is dezelfde persoon met hetzelfde probleem, en dat is de enige sociale bewijskracht die in dit segment werkt.
+Een uitnodiging kan bijvoorbeeld zijn: "Wil je jouw ervaring met ons delen op Google? Dat kan via deze link. Een beoordeling achterlaten is vrijwillig." Je schrijft hiermee het verzoek, niet de beoordeling die de klant zou moeten plaatsen.
 
-Vraag daarom altijd om drie dingen: de naam, de functie en het soort object. Geen adressen, geen complexnamen zonder toestemming. Een regel als "onderhoud plat dak, complex van 48 appartementen" is genoeg context om het echt te laten voelen.
+Voor een **aparte zakelijke referentie** op je eigen website of in een offerte stel je een andere vraag. Wil de contactpersoon een ervaring delen die je daar mag gebruiken? Bespreek vervolgens de exacte tekst, eventuele naam en functie, de omschrijving van het werk en de plaatsen waar het citaat verschijnt. Laat het complete voorstel bevestigen voordat je het gebruikt. Zonder die afspraak blijft een ontvangen compliment privé.
 
-Dit is meteen de reden dat [review-hardware zoals NFC-kaarten en QR-bordjes](/review-pakket) hier niet werkt, terwijl het bij particulieren uitstekend is. Een kaartje achterlaten werkt als de klant ter plaatse is en emotioneel betrokken. Een beheerder zit twintig kilometer verderop achter een bureau, komt jouw kaartje nooit tegen, en zou er sowieso niet ter plekke op tikken. Voor hem is de route een mail met een directe link en een voorgeschreven zin die hij mag aanpassen.
+Ook [review-hardware zoals NFC-kaarten en QR-bordjes](/review-pakket) kan alleen naar de vrije Google-review leiden. Bij een beheerder die niet op locatie is, kan een link per mail praktischer zijn. Het kanaal verandert niets aan het onderscheid tussen een openbare beoordeling en toestemming voor een eigen referentie.
 
 ## Waar je die referentie daarna inzet
 
-Een zakelijke review die alleen op je Google-profiel staat doet de helft van zijn werk. Hij hoort op drie plekken.
+Houd de twee routes ook bij het hergebruik uit elkaar. Een openbare review is niet automatisch een vrijbrief om de tekst, naam of contactgegevens overal opnieuw te plaatsen.
 
-**Op je Google Bedrijfsprofiel.** Dat blijft de basis, en zakelijke beoordelingen tellen daar even zwaar mee voor je lokale positie als particuliere. Ze helpen je [gevonden worden als dakdekker](/seo) op zoekopdrachten waar VvE-beheerders zelf beginnen, want ook zij googelen gewoon op stad plus dienst.
+**Op je Google Bedrijfsprofiel.** De klant plaatst daar zelf zijn beoordeling van de eigen ervaring. Een verwijzing naar je profiel kan helpen bij [gevonden worden als dakdekker](/seo), maar schrijf of bewerk de review niet namens de klant.
 
-**In je offerte.** Een offerte voor een VvE gaat langs een bestuur dat jou niet kent. Eén blok met een aanbeveling van een collega-beheerder, met naam en functie, doet daar meer dan een extra pagina uitleg.
+**In je offerte.** Gebruik een afzonderlijk afgesproken citaat dat past bij het soort werk. Geef alleen de naam, functie en projectcontext weer die de contactpersoon voor dat gebruik heeft bevestigd. Controleer of de toestemming ook het doorgeven aan potentiële opdrachtgevers omvat.
 
-**Op je website, bij het soort werk waar hij over gaat.** Niet allemaal op één verzamelde referentiepagina die niemand opent, maar bij de dienst zelf. Wie op je pagina over onderhoudscontracten komt, moet daar de beheerder-aanbevelingen zien staan. Een [gratis website voor dakdekkers](/gratis-website) van ons zet dat blok standaard op de juiste plek, zodat je het niet zelf hoeft in te richten.
+**Op je website, bij het soort werk waar hij over gaat.** Hetzelfde geldt voor het referentieblok bij een dienst. Bij een [gratis website voor dakdekkers](/gratis-website) hoort dus ook een werkwijze voor de tekst die je in dat blok zet: wie heeft hem bevestigd, voor welke plaats en in welke vorm? Laat een ontvangen mail niet automatisch in dat blok belanden.
 
-Kijk ook nog even naar wat je al hebt liggen. De meeste dakdekkers hebben minstens één zakelijke mail met een compliment erin die nooit ergens terecht is gekomen. Vraag of je die als citaat mag gebruiken, met naam en functie. Dat is een mail sturen, geen campagne.
+Kijk naar wat je al hebt liggen. Een zakelijke mail met een compliment kan het begin van een gesprek over een referentie zijn. Stuur de beoogde tekst en het beoogde gebruik terug ter bevestiging; neem stilzwijgen niet als toestemming. Bewaar de afspraak bij het citaat, zodat een volgende medewerker dezelfde grenzen ziet.
 
 ## Veelgestelde vragen
 
 **Mag een beheerder zomaar een review over ons schrijven?**
-Over de uitvoering wel, dat is zijn eigen ervaring. Over geld, contractvoorwaarden of een oordeel namens de vereniging wordt het gevoeliger. Formuleer je verzoek daarom expliciet: je vraagt naar hoe de samenwerking verliep, niet naar een aanbeveling namens de VvE.
+Vraag om een eigen, vrijwillige ervaring. Of iemand namens een organisatie kan spreken, kun je niet uit de functietitel afleiden. Laat de contactpersoon eventuele interne afspraken controleren en vraag niet om vertrouwelijke projectinformatie openbaar te maken.
 
 **Wat als het beheerkantoor een beleid heeft dat het verbiedt?**
-Dat komt voor. Vraag dan om een interne referentie: of je zijn naam en nummer mag doorgeven aan een andere beheerder die twijfelt. Dat mag bijna altijd wel, en in dit segment is het minstens zo krachtig als een openbare review.
+Respecteer dat beleid. Vraag niet alsnog om naam en nummer voor een andere opdrachtgever alsof dat vanzelf wel kan. Alleen als de organisatie een andere referentievorm toestaat en de betrokkene daarmee instemt, leg je die afspraak vast.
 
 **Hoeveel zakelijke reviews heb ik eigenlijk nodig?**
-Minder dan je denkt. Drie tot vijf met naam en functie zijn genoeg om het patroon te laten zien. Het gaat hier niet om volume maar om herkenning: één naam die de lezer plaatst weegt zwaarder dan dertig anonieme.
+Er is hier geen vast aantal dat succes garandeert. Gebruik een consistente, neutrale uitnodiging en laat klanten zelf kiezen of ze reageren. Bouw je eigen referenties daarnaast op uit concrete, bevestigde ervaringen die passen bij het werk dat je aanbiedt.
 
-## Conclusie: één beheerder opent het volgende complex
+## Conclusie: maak twee duidelijke verzoeken
 
-Het rekensommetje is simpel. Wie alleen op [google reviews verzamelen als dakdekker](/reviews) bij particulieren stuurt, laat de helft van zijn markt liggen. Een particuliere review levert je misschien één klus op. Een vastgoedbeheerder die tevreden over je praat beheert nog twintig complexen, en die hebben allemaal een dak.
+Wie alleen bij particulieren om een ervaring vraagt, kan zakelijke klantrelaties over het hoofd zien. Ook [google reviews verzamelen als dakdekker](/reviews) bij zakelijke klanten begint met een vrije, eerlijke uitnodiging.
 
-Dus doe deze drie dingen bij je volgende zakelijke klus. Noteer bij oplevering wie de beheerder is en wat zijn rol is. Zet meteen een herinnering klaar voor het moment dat wel werkt, niet voor volgende week. En vraag om naam, functie en objecttype in plaats van om sterren.
+Noteer bij oplevering wie de contactpersoon is. Plan een vast evaluatiemoment voor vergelijkbaar werk. Stuur de Google-reviewlink zonder voorgeschreven tekst. Wil je daarnaast een referentie voor je site of offerte, vraag dan apart naar toestemming voor die concrete tekst en dat gebruik.
 
-De rest kun je laten lopen. Bij DakdekkerAI richten we het [review management voor dakdekkers](/reviews) zo in dat het verzoek op de geplande datum vanzelf de deur uit gaat, in de juiste toon voor een zakelijke ontvanger, en dat de binnengekomen tekst meteen op je site en in je offerte terechtkomt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij DakdekkerAI richten we het [review management voor dakdekkers](/reviews) zo in dat timing, uitnodiging en referentietoestemming uit elkaar blijven. Een ontvangen tekst gaat pas naar je site of offerte nadat het afgesproken gebruik is gecontroleerd. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
