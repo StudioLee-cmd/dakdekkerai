@@ -5,7 +5,7 @@ date: "2026-10-14"
 excerpt: "Leg als dakdekker openingstijden, spoedbereikbaarheid en werkgebied duidelijk vast in schema markup. Met een voorbeeld en controles voor je webbouwer."
 image: "/images/blog/schema-markup-dakdekker-spoeduren-werkgebied.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Schema Markup", "Dakdekker Tips"]
+tags: ["Vindbaarheid", "Schema"]
 cluster: "vindbaarheid"
 ---
 
@@ -41,30 +41,38 @@ Binnen [lokale SEO voor dakdekkers](/seo) is consistentie belangrijker dan de ru
 
 Dit fictieve fragment laat uitsluitend de besproken velden zien. Het is geen volledig Google-geschikt bedrijfsprofiel. Vervang naam, domein, tijden en plaatsen door je eigen gecontroleerde gegevens en voeg het in het bestaande bedrijfsobject in. Plaats het niet als een tweede, los profiel naast je huidige markup.
 
-```json
-{
+<pre style="max-width:100%;overflow-x:auto;" tabindex="0" aria-label="JSON-voorbeeld voor openingstijden"><code class="language-json">{
   "@context": "https://schema.org",
   "@type": "RoofingContractor",
-  "@id": "https://dakbedrijf.example/#bedrijf",
+  "@id":
+  "https://dakbedrijf.example/#bedrijf",
   "name": "Voorbeeld Dakbedrijf",
   "url": "https://dakbedrijf.example/",
   "openingHoursSpecification": [
     {
       "@type": "OpeningHoursSpecification",
-      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
       "opens": "08:00",
       "closes": "17:00"
     },
     {
       "@type": "OpeningHoursSpecification",
-      "dayOfWeek": ["Saturday", "Sunday"],
+      "dayOfWeek": [
+        "Saturday",
+        "Sunday"
+      ],
       "opens": "00:00",
       "closes": "00:00"
     }
   ],
   "areaServed": ["Leiden", "Leiderdorp"]
-}
-```
+}</code></pre>
 
 Voor de uren volgt dit fragment de [voorbeelden van Google voor LocalBusiness](https://developers.google.com/search/docs/appearance/structured-data/local-business). Daar betekent `00:00` bij zowel openen als sluiten dat het bedrijf die dag gesloten is. Voor de hele dag geopend gebruikt Google `00:00` tot `23:59`. Zet gesloten dagen dus niet per ongeluk op een volledig etmaal geopend.
 
