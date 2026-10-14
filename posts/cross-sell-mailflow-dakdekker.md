@@ -5,7 +5,7 @@ date: "2026-10-14"
 excerpt: "Maak van een dakgootklus een passend vervolggesprek. Zo richt je als dakdekker een mailflow in met echte aanleiding, duidelijke opvolging en stopregels."
 image: "/images/blog/cross-sell-mailflow-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "E-mail", "Dakdekker Tips"]
+tags: ["Automatisering", "E-mail"]
 cluster: "automatisering"
 ---
 
