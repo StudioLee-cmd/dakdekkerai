@@ -290,7 +290,7 @@ export default function TarievenContent() {
       {/* CTA */}
       <section className="py-16 px-4">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om te starten?</h2>
+          <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om je dakdekkersbedrijf te laten groeien?</h2>
           <p className="text-foreground-accent mb-8">
             Begin met een gratis website design of plan een vrijblijvend gesprek. Geen verplichtingen, geen druk.
           </p>
