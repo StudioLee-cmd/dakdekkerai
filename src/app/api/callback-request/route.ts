@@ -16,7 +16,7 @@ export async function POST(request: Request) {
     phone: text(body.phone, 40),
     niche: text(body.niche, 80),
     site: text(body.site, 80),
-    source: "callback_page",
+    source: body.source === "demo_page" ? "demo_page" : "callback_page",
     consent_contact: true,
     consent_promotion: body.consent_promotion === true,
     consent_moment: new Date().toISOString(),

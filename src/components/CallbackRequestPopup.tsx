@@ -4,11 +4,11 @@ import { siteDetails } from "@/data/siteDetails";
 import { demoAanvraagUrl } from "@/data/voice-demos";
 import { CONSENT_TEXT, CONSENT_VERSION, PROMOTION_TEXT } from "@/data/callback";
 
-interface Props { onClose: () => void; onSent: () => void; }
+interface Props { onClose: () => void; onSent: () => void; inline?: boolean; source?: "callback_page" | "demo_page"; }
 
 // Details first: only the e-mail address and one unticked consent are required (owner 31-07). The
 // optional promotion tick is separate, and the booking link appears only after the request is in.
-export default function CallbackRequestPopup({ onClose, onSent }: Props) {
+export default function CallbackRequestPopup({ onClose, onSent, inline = false, source = "callback_page" }: Props) {
   const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
   const [consent, setConsent] = useState(false);
@@ -19,12 +19,13 @@ export default function CallbackRequestPopup({ onClose, onSent }: Props) {
   const first = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
+    if (inline) return;
     first.current?.focus();
     const onKey = (e: KeyboardEvent) => { if (e.key === "Escape") onClose(); };
     document.addEventListener("keydown", onKey);
     document.body.style.overflow = "hidden";
     return () => { document.removeEventListener("keydown", onKey); document.body.style.overflow = "unset"; };
-  }, [onClose]);
+  }, [onClose, inline]);
 
   async function submit(e: React.FormEvent) {
     e.preventDefault();
@@ -35,7 +36,7 @@ export default function CallbackRequestPopup({ onClose, onSent }: Props) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          email, phone, website, niche: siteDetails.niche, site: siteDetails.siteName,
+          email, phone, website, niche: siteDetails.niche, site: siteDetails.siteName, source,
           consent_contact: consent, consent_promotion: promotion,
           consent_text: CONSENT_TEXT, consent_version: CONSENT_VERSION,
         }),
@@ -50,14 +51,14 @@ export default function CallbackRequestPopup({ onClose, onSent }: Props) {
 
   const veld = "mt-1 w-full rounded-lg border border-[var(--card-border)] bg-[var(--background)] p-3 text-foreground";
   return (
-    <div role="dialog" aria-modal="true" aria-labelledby="callback-popup-titel" data-callback-popup
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4" onClick={onClose}>
-      <div className="w-full max-w-md max-h-[90vh] overflow-y-auto rounded-2xl bg-[var(--background)] p-6" onClick={(e) => e.stopPropagation()}>
+    <div role={inline ? undefined : "dialog"} aria-modal={inline ? undefined : true} aria-labelledby="callback-popup-titel" data-callback-popup={inline ? "inline" : "popup"}
+      className={inline ? "flex justify-center" : "fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4"} onClick={inline ? undefined : onClose}>
+      <div className={inline ? "w-full max-w-md rounded-2xl border border-[var(--card-border)] bg-[var(--background)] p-6" : "w-full max-w-md max-h-[90vh] overflow-y-auto rounded-2xl bg-[var(--background)] p-6"} onClick={(e) => e.stopPropagation()}>
         <div className="flex items-start justify-between gap-4">
           <h2 id="callback-popup-titel" className="text-2xl font-bold font-heading text-foreground">
             {state === "sent" ? "Je aanvraag is binnen" : "Vraag je demo aan"}
           </h2>
-          <button type="button" onClick={onClose} aria-label="Sluiten" className="text-2xl leading-none text-foreground/60">×</button>
+          {!inline && <button type="button" onClick={onClose} aria-label="Sluiten" className="text-2xl leading-none text-foreground/60">×</button>}
         </div>
         {state === "sent" ? (
           <div data-callback-sent className="mt-4 text-foreground">
