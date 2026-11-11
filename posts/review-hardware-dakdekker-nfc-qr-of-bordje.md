@@ -65,7 +65,7 @@ En dat rendement is niet zacht. Meer en vooral recente reviews duwen je hoger in
 
 ## Meer reviews, zonder dat je er zelf achteraan zit
 
-Het middel maakt minder uit dan je denkt: NFC en QR doen allebei prima hun werk. Wat het verschil maakt, is dat je het op het juiste moment vraagt en de rest automatisch laat opvolgen. Wij zetten die complete review-flow voor je op: een geprogrammeerde kaart, de QR op je factuur, en een automatische herinnering na elke klus. Zo lopen de sterren binnen terwijl jij gewoon je werk doet, met onze **Groei-of-Geld-Terug Garantie**, dus je zit nergens aan vast als het niet werkt. Zie hoe [automatisch reviews verzamelen als dakdekker](/reviews) er voor jouw bedrijf uitziet.
+Het middel maakt minder uit dan je denkt: NFC en QR doen allebei prima hun werk. Wat het verschil maakt, is dat je het op het juiste moment vraagt en de rest automatisch laat opvolgen. Wij zetten die complete review-flow voor je op: een geprogrammeerde kaart, de QR op je factuur, en een automatische herinnering na elke klus. Zie hoe [automatisch reviews verzamelen als dakdekker](/reviews) er voor jouw bedrijf uitziet.
 
 ## Veelgestelde vragen
 

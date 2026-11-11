@@ -57,4 +57,4 @@ Reken niet op 52 volle werkweken. Reken op 40 tot 42 productieve buitenweken en 
 
 Elke dakdekker werkt met hetzelfde weer. Het verschil zit in hoe je ermee omgaat. Degene die proactief communiceert, binnenklussen als buffer heeft en regenuren productief besteedt, draait aan het eind van het jaar dezelfde omzet als in een droog jaar.
 
-Wil je weten hoe je je hele werkplanning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je planning, je communicatie en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele werkplanning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je planning, je communicatie en concrete verbeterpunten.

@@ -76,6 +76,6 @@ De eerste opgevangen avond-aanvraag is meestal een kwestie van dagen, geen maand
 
 Terug naar die nieuwe kracht in de bus: je neemt niemand aan omdat hij kan zeggen waar de ladder ligt. Je neemt hem aan omdat hij werk uit handen neemt op momenten dat jij je handen vol hebt. Leg elke chatbot die je overweegt langs deze zeven functies, en je weet binnen een kwartier of je met een voorman of een folderhouder praat.
 
-Wil je weten wat er op jouw website nu blijft liggen? Vraag de [gratis ai scan voor dakdekkers](/gratis-scan) aan. Je ziet zwart op wit welke aanvragen je site laat lopen en wat een [website chatbot voor dakdekkers](/chatbot) daarvan oppakt. DakdekkerAI levert met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons en niet bij jou. Jij dekt het dak, wij regelen de rest.
+Wil je weten wat er op jouw website nu blijft liggen? Vraag de [gratis ai scan voor dakdekkers](/gratis-scan) aan. Je ziet zwart op wit welke aanvragen je site laat lopen en wat een [website chatbot voor dakdekkers](/chatbot) daarvan oppakt. Jij dekt het dak, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/live-chat-of-ai-chatbot-dakdekker-website" class="text-dark fw-semibold">Live chat of AI chatbot op je dakdekker-website?</a> →</p></div></div></div>

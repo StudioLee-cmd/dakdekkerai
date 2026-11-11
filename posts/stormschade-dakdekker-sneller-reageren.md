@@ -80,7 +80,7 @@ Seizoenswerk hoeft niet te betekenen dat je inkomen ook seizoensgebonden is.
 
 Stormschade is niet te voorkomen — maar gemiste klussen wél. De dakdekker die snel reageert, bereikbaar is en georganiseerd werkt, pakt het merendeel van de opdrachten.
 
-Met [DakdekkerAI](/) zorg je dat elke oproep wordt opgevangen, ook als jij op het dak staat. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [DakdekkerAI](/) zorg je dat elke oproep wordt opgevangen, ook als jij op het dak staat. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer stormklussen pakt.
 

@@ -64,8 +64,6 @@ De slimste strategie: gebruik Werkspot als supplement en investeer tegelijk in j
 
 SEO kost tijd en consistentie. Een managed service als [StudioLee](/tarieven) neemt het volledige traject over: website-optimalisatie, [content creatie](/blog), [review-automatisering](/reviews) en [social media](/social-media). Jij besteedt er [15 minuten per maand](/gratis-scan) aan voor een korte update.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 ## Veelgestelde vragen
 
 ### Hoe lang duurt het voordat ik hoger in Google kom?

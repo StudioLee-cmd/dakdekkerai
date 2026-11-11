@@ -156,6 +156,6 @@ Voor-na fotos zijn een van de sterkste verkoop-tools die een dakdekker bezit, ma
 
 Wie deze workflow standaardiseert, bouwt een professioneel portfolio op zonder zorgen, en kan voor-na fotos vrijuit inzetten op website, social media en Google. Wie het overslaat, loopt risico op klachten, AVG-boetes (max 20.000 euro voor MKB-bedrijven), en imagoschade.
 
-Wil je weten of jouw huidige website-portfolio juridisch in orde is? Plan een [gratis ai-scan](/gratis-scan) en we doen een audit van je portfolio-pagina, je toestemmings-flow en je AVG-positie. We werken met de Groei-of-Geld-Terug Garantie, dus je weet vooraf wat je investering oplevert.
+Wil je weten of jouw huidige website-portfolio juridisch in orde is? Plan een [gratis ai-scan](/gratis-scan) en we doen een audit van je portfolio-pagina, je toestemmings-flow en je AVG-positie.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voor-na-fotos-dakdekker-website-conversie" class="text-dark fw-semibold">Voor-na fotos op je dakdekker-website: conversie-impact</a> →</p></div></div></div>

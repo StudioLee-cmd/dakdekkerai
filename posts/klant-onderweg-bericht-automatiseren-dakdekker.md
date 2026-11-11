@@ -64,7 +64,7 @@ Daartegenover staat een eenmalige inrichting van je berichten en een maandbedrag
 
 *Lees ook: [Klantcommunicatie als dakdekker: updates die vertrouwen opbouwen](/blog/klantcommunicatie-dakdekker-vertrouwen).*
 
-Jij dekt het dak, wij regelen de rest. Met DakdekkerAI zet je je onderweg-berichten, herinneringen en opvolging op de automatische piloot, en wij doen dat met een Groei-of-Geld-Terug Garantie: levert het je geen meetbare tijdwinst en rust op, dan krijg je je investering terug.
+Jij dekt het dak, wij regelen de rest.
 
 ## Veelgestelde vragen
 

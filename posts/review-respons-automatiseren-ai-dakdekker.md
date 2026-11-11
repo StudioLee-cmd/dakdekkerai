@@ -92,4 +92,4 @@ Zeker. Reviews tot ongeveer een jaar oud zijn het antwoorden nog waard. Het laat
 
 ## Klaar om je reviews op de automatische piloot te zetten?
 
-Jij dekt het dak, wij regelen de rest. Wil je weten hoeveel reviews er in jouw praktijk blijven liggen en hoe snel je dat kunt automatiseren? Vraag een [gratis ai scan voor dakdekkers](/gratis-scan) aan en je krijgt een concreet beeld van je online reputatie en de eerste winst die te pakken is. We werken met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou.
+Jij dekt het dak, wij regelen de rest. Wil je weten hoeveel reviews er in jouw praktijk blijven liggen en hoe snel je dat kunt automatiseren? Vraag een [gratis ai scan voor dakdekkers](/gratis-scan) aan en je krijgt een concreet beeld van je online reputatie en de eerste winst die te pakken is.

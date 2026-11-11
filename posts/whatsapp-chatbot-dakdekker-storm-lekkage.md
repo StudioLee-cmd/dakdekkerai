@@ -69,7 +69,7 @@ Wil je eerst weten waar voor jouw bedrijf de meeste winst zit, in de chat-intake
 
 *Lees ook: [AI chatbot voor dakdekkers](/chatbot), de pagina waar alle functies en koppelingen op een rij staan.*
 
-Jij dekt het dak, wij regelen de rest. Met DakdekkerAI staat je chat-intake, opvolging en review-verzoek op de automatische piloot, en dat doen we met een Groei-of-Geld-Terug Garantie: levert het je geen meetbaar extra werk en rust op, dan krijg je je investering terug.
+Jij dekt het dak, wij regelen de rest.
 
 ## Veelgestelde vragen
 

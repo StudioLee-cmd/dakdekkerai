@@ -63,7 +63,7 @@ Drie dingen regel je daarvoor. Eén: zet in elke caption een duidelijke volgende
 
 Je filmt op het terrein van een klant, en soms staan er mensen, kentekens of huisnummers in beeld. Vraag de klant vooraf even of het oké is dat je filmt voor social media, het liefst met een berichtje dat je kunt bewaren. Film bij twijfel het dak, niet de mensen. Dat scheelt gedoe en het hoort gewoon netjes.
 
-Jij dekt het dak, wij regelen de rest. Wil je dat de hele social media van je dakbedrijf op de automatische piloot draait, van het filmen tot de planning en de opvolging? Dan kun je dat met DakdekkerAI [social media uitbesteden voor dakdekkers](/social-media), met een Groei-of-Geld-Terug Garantie: levert het je geen meetbaar extra werk op, dan krijg je je investering terug. Weet je nog niet waar je moet beginnen, doe dan eerst de [gratis ai scan voor dakdekkers](/gratis-scan) en zie waar jouw online zichtbaarheid blijft liggen.
+Jij dekt het dak, wij regelen de rest. Wil je dat de hele social media van je dakbedrijf op de automatische piloot draait, van het filmen tot de planning en de opvolging? Weet je nog niet waar je moet beginnen, doe dan eerst de [gratis ai scan voor dakdekkers](/gratis-scan) en zie waar jouw online zichtbaarheid blijft liggen.
 
 ## Veelgestelde vragen
 

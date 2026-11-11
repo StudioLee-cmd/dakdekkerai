@@ -75,7 +75,7 @@ Daarna begint het echte voordeel: opvolging. Een terugbelverzoek kan automatisch
 
 Voicemail bewaart berichten. Een Voice AI voert gesprekken. Zolang je klanten allemaal bekenden zijn, is dat verschil klein. Zodra er spoed en nieuwe klanten in het spel zijn, is het het verschil tussen een volle en een halfvolle agenda. Geen gemiste oproepen meer, dat is het doel.
 
-Bij DakdekkerAI zetten we de [virtuele telefonist](/voice-ai) voor je op, getraind op de dakbranche, gekoppeld aan je agenda en WhatsApp, met onze Groei-of-Geld-Terug Garantie. Jij dekt het dak, wij regelen de rest.
+Jij dekt het dak, wij regelen de rest.
 
 Wil je eerst weten waar jouw bereikbaarheid nu lekt? Vraag de [gratis ai scan voor dakdekkers](/gratis-scan) aan en je ziet het binnen een paar minuten.
 

@@ -71,7 +71,7 @@ Daarna breid je uit naar voren (de chatbot-intake) en naar achteren (het review-
 
 Weet je niet zeker waar jouw grootste lek zit? Doe dan de [gratis ai scan voor dakdekkers](/gratis-scan). Daarin zie je precies hoeveel aanvragen nu blijven liggen en welke stap van de flow je als eerste moet dichtzetten.
 
-Jij dekt het dak, wij regelen de rest. Met DakdekkerAI staat je hele klantflow, van de eerste chat tot het review-verzoek, op de automatische piloot. En dat doen we met een Groei-of-Geld-Terug Garantie: levert het je geen meetbaar extra werk en rust op, dan krijg je je investering terug.
+Jij dekt het dak, wij regelen de rest. Met DakdekkerAI staat je hele klantflow, van de eerste chat tot het review-verzoek, op de automatische piloot.
 
 ## Veelgestelde vragen
 

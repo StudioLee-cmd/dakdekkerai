@@ -76,7 +76,7 @@ Wie zegt dat je sneller kunt, liegt of doet betaalde advertenties (Google Ads) e
 
 Een startende dakdekker heeft drie dingen tegelijk te doen: het vak uitoefenen, de administratie regelen, en zichtbaar worden. Het derde valt meestal als eerste van de tafel, omdat het minder urgent voelt dan het werk zelf. En precies daarom blijft de agenda leeg.
 
-Wij regelen voor een vaste maandprijs (vanaf €79) het hele zichtbaarheidsdeel als managed service. Concreet: we zetten je Google Bedrijfsprofiel goed op (of pakken het op als het er al staat), bouwen een nieuwe website die voor dakdekkers geconfigureerd is, automatiseren het review-vragen na elke klus, zetten een AI-telefonist op die je oproepen buiten werkuren afhandelt, en houden de SEO bij. Plus de [Groei-of-Geld-Terug Garantie](/tarieven) op Managed Groei Pro, dus als de groei na drie maanden uitblijft is het op ons risico.
+Wij regelen voor een vaste maandprijs (vanaf €79) het hele zichtbaarheidsdeel als managed service. Concreet: we zetten je Google Bedrijfsprofiel goed op (of pakken het op als het er al staat), bouwen een nieuwe website die voor dakdekkers geconfigureerd is, automatiseren het review-vragen na elke klus, zetten een AI-telefonist op die je oproepen buiten werkuren afhandelt, en houden de SEO bij.
 
 Wat we niet doen: het vak overnemen, je rapportages dubbel laten controleren, of beloven dat je in week 2 al 10 klussen per week binnenhaalt. Wel: het systeem opzetten dat in maand 6 met 15 tot 30 organische leads draait, en in maand 24 nog steeds. Plan een [gratis ai scan voor dakdekkers](/gratis-scan) als startpunt, dan zien we waar je nu staat en wat de eerstvolgende drie acties zijn.
 

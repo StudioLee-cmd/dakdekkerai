@@ -83,8 +83,6 @@ Je hoeft niet alle andere klussen te weigeren. De strategie is:
 
 Bij StudioLee helpen we dakdekkers met hun online positionering als specialist. Van [email marketing](/blog/email-marketing-dakdekker-inspectie) tot content die jouw expertise laat zien. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je je als specialist kunt profileren.
 
 ## Conclusie

@@ -102,6 +102,6 @@ Het kan, maar doe het niet. Een overstap in het hoogseizoen leidt tot half ingev
 
 Een goede migratie is geen technisch project, het is een kwestie van de juiste volgorde aanhouden: exporteren, controleren, parallel draaien, opzeggen. Doe je dat, dan ruil je vier rammelende tools in voor één overzicht waarin niets meer tussen wal en schip valt. Meer opdrachten, minder gedoe.
 
-Wil je weten welke stappen voor jouw bedrijf het meeste opleveren? Vraag een [gratis ai scan voor dakdekkers](/gratis-scan) aan. We kijken mee naar je huidige stack en je krijgt een concreet overstapplan, inclusief onze Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niets op, dan krijg je je investering terug.
+Wil je weten welke stappen voor jouw bedrijf het meeste opleveren? Vraag een [gratis ai scan voor dakdekkers](/gratis-scan) aan.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/garantie-tracker-dakdekker-zonder-excel" class="text-dark fw-semibold">Garantie-tracker dakdekker: 100+ dakgaranties zonder Excel</a> →</p>

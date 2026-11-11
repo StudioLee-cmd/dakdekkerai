@@ -123,6 +123,4 @@ Concreet: dakdekkers die deze zeven velden vastleggen en automatische signalen o
 
 Wij bouwen deze CRM-setup in onze [managed service](/blog/dakdekker-ai-vs-personeel) voor dakdekkers. Gebaseerd op jouw bestaande klantenbestand, jouw materialen en jouw voorkeursplatform. Binnen twee tot drie weken draait het in de achtergrond en zie je de eerste rebook-nudges uitgaan.
 
-## Groei-of-Geld-Terug Garantie
-
-Als de herhaalopdrachten na zes maanden niet meetbaar gestegen zijn, krijg je je investering terug. Wil je eerst zien wat dit voor jouw bedrijf kan betekenen, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven) voor het complete pakket. We zetten het systeem live, jij dekt de daken.
+Wil je eerst zien wat dit voor jouw bedrijf kan betekenen, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven) voor het complete pakket. We zetten het systeem live, jij dekt de daken.

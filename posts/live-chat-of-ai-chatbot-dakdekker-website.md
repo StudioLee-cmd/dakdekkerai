@@ -79,7 +79,7 @@ Twijfel je nog tussen beide? Kies dan het hybride model: de [klantenservice chat
 
 De keuze tussen live chat en een AI chatbot is voor een dakdekker vooral een keuze over tijd. Jouw uren horen op het dak, niet achter een chatvenster. Laat het venster daarom draaien op software die elke aanvraag direct opvangt, en stap zelf in op het moment dat het om vakmanschap gaat.
 
-Bij DakdekkerAI zetten we die chatbot voor je op, getraind op de dakbranche en gekoppeld aan je agenda en WhatsApp, met onze Groei-of-Geld-Terug Garantie. Jij dekt het dak, wij regelen de rest. Begin bij de basis en vraag een [gratis website voor dakdekkers](/gratis-website) aan, dan bouwen we de chat-opvang er meteen in.
+Jij dekt het dak, wij regelen de rest. Begin bij de basis en vraag een [gratis website voor dakdekkers](/gratis-website) aan, dan bouwen we de chat-opvang er meteen in.
 
 ### Kan een chatbot spoed-aanvragen herkennen?
 
