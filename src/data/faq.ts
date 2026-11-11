@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Kan ik de AI koppelen aan mijn eigen software?",
-        answer: "Ja, wij integreren naadloos met systemen zoals Google Calendar, Outlook, Syntess, Exact en vele anderen. Via ons open platform kunnen we vrijwel elke koppeling realiseren om jouw workflow te automatiseren.",
+        answer: "Aanvragen en spoedmeldingen komen direct in je agenda of planning. Gripp en HERO koppelen we automatisch, net als Moneybird, e-Boekhouden en Exact Online. Werk je met een ander pakket, dan regelen we het met een export die wij inladen, of komt de aanvraag als bericht bij je planner.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
