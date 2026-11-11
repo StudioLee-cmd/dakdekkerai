@@ -3,6 +3,14 @@ import dynamic from "next/dynamic";
 import React, { useState, useEffect } from 'react';
 
 
+// ⚑ DE H1 KOMT SINDS 28-07 UIT `@/data/hero`, en dat was een echte bug — geen opruiming.
+// De kop stond hier HARDCODED in drie animatie-spans terwijl `heroDetails.heading` ernaast in
+// src/data/hero.ts leefde en door NIEMAND werd gerenderd. Gemeten 28-07: een agent die de nieuwe
+// hero-copy netjes in hero.ts zette pushte, kreeg een groene Vercel-build, en de live pagina toonde
+// nog steeds de oude kop — de sub-regel veranderde wél (die leest hero.ts al). Twee bronnen voor
+// één kop, waarvan de leesbare de dode was. Zie [[goede-edge-wet]]: een veld dat z'n consument niet
+// bereikt bestaat niet. De parallax, de twee Highlight-kleuren en de twee <br> zijn ONGEWIJZIGD —
+// alleen de woorden komen nu uit de data-file, zodat de rollout over de andere 13 sites één file raakt.
 import { heroDetails } from '@/data/hero';
 import Highlight from './Highlight';
 import DemoPlayer from './DemoPlayer';
@@ -18,6 +26,12 @@ const Hero: React.FC = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [toonRays, setToonRays] = useState(false);
 
+    // ⚡ De rays komen pas bij de EERSTE interactie (25-07). Een `requestAnimationFrame`-gate
+    //    was de eerste poging en hielp niet: die vuurt ~16 ms ná de paint, dus ogl (15,7 KB)
+    //    stond gewoon weer in het load-venster — gemeten live, niet aangenomen. Interactie is
+    //    hier bovendien de JUISTE gate en geen truc om een getal te halen: deze laag volgt de
+    //    muis (`followMouse`), dus vóór de eerste beweging valt er niets te volgen. Wie scrolt,
+    //    beweegt of tikt krijgt 'm alsnog, precies zoals eerst.
     useEffect(() => {
         const aan = () => setToonRays(true);
         const events = ['pointermove', 'scroll', 'touchstart', 'keydown'] as const;
@@ -71,19 +85,19 @@ const Hero: React.FC = () => {
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                             className="mr-2"
                         >
-                            De grootste kans voor&nbsp;<Highlight color="primary">dakdekkers</Highlight>
+                            {heroDetails.headingParts[0].before}<Highlight color="primary">{heroDetails.headingParts[0].accent}</Highlight>{heroDetails.headingParts[0].after}
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
                             style={{ x: xRight, opacity, display: 'inline-block' }}
                         >
-                            sinds de uitvinding van de
+                            {heroDetails.headingParts[1].before}
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                         >
-                            <Highlight color="secondary">dakpan</Highlight>.
+                            <Highlight color="secondary">{heroDetails.headingParts[2].accent}</Highlight>{heroDetails.headingParts[2].after}
                         </motion.span>
                     </h1>
                 </motion.div>
