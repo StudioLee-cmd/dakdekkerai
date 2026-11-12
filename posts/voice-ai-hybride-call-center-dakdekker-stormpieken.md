@@ -31,8 +31,6 @@ Wat het niet is: een callcenter dat de telefoon overneemt zodra het druk wordt. 
 
 ## Hoe een stormpiek eruitziet aan de telefoon
 
-![Hoe een stormpiek eruitziet aan de telefoon](/images/blog/voice-ai-hybride-call-center-dakdekker-stormpieken-2.jpg)
-
 Op een gewone werkdag is je telefoonverkeer goed te voorspellen: een paar offerteaanvragen, een vraag over onderhoud, iemand die wil weten hoe laat je komt. Na een storm ontstaat de schade bij iedereen tegelijk, dus de telefoontjes komen ook tegelijk. En jij bent juist dan het minst bereikbaar, want je staat de hele dag op daken.
 
 ### Stel: 60 bellers tussen 07:00 en 11:00
@@ -99,6 +97,8 @@ De medewerker van het callcenter ziet de samenvatting van de AI voordat hij opne
 Dan begint het gesprek bij "Ik zie dat je belt over de dakgoot aan de achterkant" en niet bij "Waarmee kan ik je helpen vandaag?". Dat scheelt per gesprek 1 tot 2 minuten.
 
 ## Drie standen: normaal, stand-by en storm
+
+![Drie standen: normaal, stand-by en storm](/images/blog/voice-ai-hybride-call-center-dakdekker-stormpieken-2.jpg)
 
 Een overloop die je pas op de stormochtend regelt, staat er niet. Werk daarom met 3 vaste standen en spreek met het callcenter af hoe snel ze schakelen. Je schakelt op de weerswaarschuwing van het KNMI voor jouw provincie, niet op het moment dat je telefoon al roodgloeiend staat.
 
