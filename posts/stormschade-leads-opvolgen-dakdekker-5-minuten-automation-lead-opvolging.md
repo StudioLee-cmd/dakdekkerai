@@ -5,7 +5,7 @@ date: "2026-05-07"
 excerpt: "Stormschade-leads opvolgen als dakdekker: de 5-minuten stack met AI-telefonist en WhatsApp die het verschil maakt tussen klus winnen of verliezen."
 image: "/images/blog/stormschade-leads-opvolgen-dakdekker-5-minuten-automation-lead-opvolging.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lead opvolging", "Storm", "Leads"]
+tags: ["Storm", "Reactietijd"]
 cluster: "automatisering"
 ---
 

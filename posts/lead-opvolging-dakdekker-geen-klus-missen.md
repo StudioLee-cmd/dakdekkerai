@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom de eerste 5 minuten bepalen of je een dakklus wint en ho
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-dakdekker-geen-klus-missen.jpg"
-tags: ["Lead opvolging", "Groei"]
+tags: ["Lead opvolging"]
 cluster: "automatisering"
 ---
 ## Waarom dakdekkers de meeste leads verliezen

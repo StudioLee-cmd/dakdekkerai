@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Dakdekker website laten maken in 2026? Vergelijk DIY, webbureau en AI-platform: kosten, snelheid, vindbaarheid en wat het oplevert."
 image: "/images/blog/dakdekker-website-diy-bureau-of-ai.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website", "AI", "Conversie"]
+tags: ["DIY", "Bureau", "Conversie"]
 cluster: "website"
 ---
 Een dakdekker zonder website mist klanten. Dat is niet meer ter discussie in 2026: het overgrote deel van particuliere opdrachtgevers checkt eerst je online aanwezigheid voordat ze de telefoon pakken, en spoeddiensten worden in toenemende mate via Google Maps en AI-zoekmachines gevonden. Maar de echte vraag is niet *of* je een website nodig hebt. De vraag is: hoe laat je hem bouwen, en wat kost het je over een heel jaar?

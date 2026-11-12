@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Storm gehad en 40 aanvragen terwijl jij op het dak staat? Zo vangt een WhatsApp chatbot als dakdekker storm- en lekkage-meldingen automatisch op."
 image: "/images/blog/whatsapp-chatbot-dakdekker-storm-lekkage.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Storm"]
+tags: ["Chatbot", "Spoed-aanvragen"]
 cluster: "chatbot"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Zo houd je als dakdekker per adres bij wanneer een dak weer aan onderhoud toe is, zodat terugkerende klussen vanzelf bovenkomen in plaats van weglopen."
 image: "/images/blog/onderhoudscycli-per-adres-crm-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM"]
+tags: ["CRM", "Onderhoud"]
 cluster: "automatisering"
 ---
 

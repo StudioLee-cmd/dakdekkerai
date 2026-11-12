@@ -5,7 +5,7 @@ date: "2026-04-25"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-posts-dakdekker-weekplanning.jpg"
-tags: ["Google Bedrijfsprofiel"]
+tags: ["Lokale SEO", "Content"]
 ---
 De meeste dakdekkers hebben hun Google Bedrijfsprofiel aangemaakt, ingevuld en daarna nooit meer aangeraakt. Drie categorieën, een paar foto's, openingstijden — klaar. En dan blijven ze zich afvragen waarom de concurrent uit de buurgemeente bovenaan staat in Google Maps en zij ergens op positie 7 of 8 hangen. Dat antwoord is bijna altijd hetzelfde: die concurrent post wekelijks via de Posts-functie van zijn profiel, en jij doet dat niet.
 

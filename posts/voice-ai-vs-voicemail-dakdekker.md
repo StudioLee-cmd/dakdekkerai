@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Voicemail vangt spoedbellers niet op: ze haken af en bellen de volgende dakdekker. Vergelijk voicemail met een Voice AI telefonist en reken zelf mee."
 image: "/images/blog/voice-ai-vs-voicemail-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "AI"]
+tags: ["Voicemail", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 Vrijdagavond, 19:40. De storm van vanmiddag is net gaan liggen en ergens in jouw werkgebied belt een huiseigenaar met een kapotte nokvorst drie dakdekkers achter elkaar. Bij de eerste hoort hij: spreek uw boodschap in na de piep. Hij hangt op. Bij de tweede hetzelfde verhaal. De derde neemt op, en die rijdt maandag het dak op. Jij was nummer één in zijn lijstje, maar je voicemail heeft het gesprek voor je gevoerd.

@@ -7,7 +7,7 @@ excerpt: "De meeste dakdekkers focussen op nieuwe klanten, maar bestaande klante
 image: "/images/blog/klantbehoud-dakdekker-vaste-opdrachtgevers.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantbehoud", "Groei"]
+tags: ["Klantbehoud"]
 cluster: "automatisering"
 ---
 ## Waarom terugkerende klanten goud waard zijn

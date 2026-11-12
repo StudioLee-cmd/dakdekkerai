@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-opvolgen-dakdekker-meer-opdrachten.jpg"
-tags: ["Leads", "Offertes", "Groei"]
+tags: ["Leads", "Offertes"]
 ---
 ## De meeste offertes sterven in stilte
 

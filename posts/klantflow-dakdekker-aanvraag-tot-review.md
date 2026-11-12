@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Aanvraag, afspraak, herinnering en review als losse stappen? Zo verbind je ze tot een chatbot-flow die als dakdekker geen lead meer laat vallen."
 image: "/images/blog/klantflow-dakdekker-aanvraag-tot-review.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Automatisering"]
+tags: ["Chatbot", "Klantreis", "WhatsApp"]
 cluster: "chatbot"
 ---
 

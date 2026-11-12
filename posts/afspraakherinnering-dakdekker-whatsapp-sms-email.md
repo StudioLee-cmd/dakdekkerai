@@ -5,7 +5,7 @@ date: "2026-04-28"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinnering-dakdekker-whatsapp-sms-email.jpg"
-tags: ["WhatsApp", "Automatisering"]
+tags: ["Afspraakherinneringen", "SMS"]
 ---
 
 Een dakdekker plant op vrijdag drie inspecties voor maandag. Maandagochtend om 8:00 sta je voor de eerste klus, niemand thuis. De tweede klant blijkt het vergeten te zijn, de derde dacht dat de afspraak op dinsdag was. Een halve dag rijden voor niets. Het probleem is niet dat klanten je vergeten, het is dat jij vergeet ze te herinneren. Welk kanaal werkt nu het beste: WhatsApp, SMS of e-mail?

@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-communiceren-dakdekker.jpg"
-tags: ["Prijzen", "Website"]
+tags: ["Prijzen", "Verkoop"]
 ---
 ## "Wat kost een nieuw dak?"
 

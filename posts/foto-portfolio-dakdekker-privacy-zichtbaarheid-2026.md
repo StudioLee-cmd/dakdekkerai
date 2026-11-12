@@ -5,7 +5,7 @@ date: "2026-05-27"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/foto-portfolio-dakdekker-privacy-zichtbaarheid-2026.jpg"
-tags: ["Portfolio", "Website"]
+tags: ["Portfolio", "Website", "Privacy"]
 ---
 
 ## Een dakklus binnenhalen of niet — vaak hangt het op één foto

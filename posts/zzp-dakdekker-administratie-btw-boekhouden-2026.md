@@ -5,7 +5,7 @@ date: "2026-05-13"
 excerpt: "Wat een ZZP dakdekker in 2026 minimaal moet weten over BTW, zelfstandigenaftrek, gereedschap-afschrijving en welke AI-tools de boekhouding draaien."
 image: "/images/blog/zzp-dakdekker-administratie-btw-boekhouden-2026.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Administratie"]
+tags: ["ZZP", "BTW", "Boekhouden"]
 cluster: "automatisering"
 ---
 **In het kort:**

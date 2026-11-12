@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Een AI-chatbot is zo goed als de data waarop hij draait. Ontdek de 4 manieren om je chatbot te trainen op je eigen dakdekker-gegevens en werkwijze."
 image: "/images/blog/chatbot-trainen-dakdekker-data-4-manieren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "AI"]
+tags: ["Chatbot"]
 cluster: "chatbot"
 ---
 

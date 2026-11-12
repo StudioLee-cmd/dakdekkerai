@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als dakdekker met goede communicatie voor, tijdens en na
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-dakdekker-vertrouwen.png"
-tags: ["Klantcommunicatie"]
+tags: ["Klantbeheer", "Vertrouwen"]
 cluster: "automatisering"
 ---
 
