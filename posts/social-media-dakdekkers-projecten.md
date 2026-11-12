@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe dakdekkers social media inzetten om meer klanten te bereike
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-dakdekkers-projecten.png"
-tags: ["Social Media", "Marketing", "Groei"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 ## Waarom social media onmisbaar is voor dakdekkers

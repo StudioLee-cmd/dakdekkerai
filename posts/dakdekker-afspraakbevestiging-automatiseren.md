@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-afspraakbevestiging-automatiseren.jpg"
-tags: ["Automatisering", "Planning", "Groei"]
+tags: ["Automatisering", "Planning"]
 ---
 ## De verborgen kosten van vergeten afspraken
 

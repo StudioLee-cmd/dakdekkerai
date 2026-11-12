@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-afspraakherinnering-dakdekker.jpg"
-tags: ["WhatsApp", "Herinneringen", "Dakdekker"]
+tags: ["WhatsApp", "Automatisering"]
 ---
 ## Waarom een dakdekker meer no-shows heeft dan je denkt
 

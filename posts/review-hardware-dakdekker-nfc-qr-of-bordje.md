@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "NFC-kaart, QR-sticker of een fysiek review-kaartje: welk middel levert een dakdekker echt meer Google reviews op? Een eerlijke vergelijking plus de valkuil."
 image: "/images/blog/review-hardware-dakdekker-nfc-qr-of-bordje.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Google reviews", "NFC", "Dakdekker"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

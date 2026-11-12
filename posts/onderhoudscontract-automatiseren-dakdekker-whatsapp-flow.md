@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Seizoensklanten terughalen zonder belrondje: automatiseer de onderhoudscontract-uitnodiging als dakdekker met een WhatsApp-flow op je klanthistorie."
 image: "/images/blog/onderhoudscontract-automatiseren-dakdekker-whatsapp-flow.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "WhatsApp", "Onderhoudscontracten"]
+tags: ["Automatisering", "WhatsApp"]
 cluster: "automatisering"
 ---
 

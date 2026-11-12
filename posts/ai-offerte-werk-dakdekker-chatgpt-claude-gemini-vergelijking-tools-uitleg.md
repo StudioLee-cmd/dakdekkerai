@@ -5,7 +5,7 @@ date: "2026-05-09"
 excerpt: "AI in offerte-werk voor dakdekkers: 4 use-cases met ChatGPT, Claude en Gemini vergeleken op tijdsbesparing per week, kosten per maand en concrete ROI."
 image: "/images/blog/ai-offerte-werk-dakdekker-chatgpt-claude-gemini-vergelijking-tools-uitleg.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Tools-uitleg", "AI", "ChatGPT", "Claude", "Gemini", "Offerte", "Dakdekker"]
+tags: ["Tools", "AI", "Offertes"]
 cluster: "automatisering"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Welke software past bij jouw dakdekkersbedrijf? We vergelijken de popu
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-software-voor-dakdekkers-2026.png"
-tags: ["Software", "Vergelijking", "Tools"]
+tags: ["Software", "Vergelijking"]
 cluster: "automatisering"
 ---
 Als dakdekker draait alles om opdrachten binnenhalen, goed plannen en op tijd factureren. Maar welke software helpt je daar écht mee? Het aanbod groeit, en niet elke tool is geschikt voor de dakbedekkingsbranche.

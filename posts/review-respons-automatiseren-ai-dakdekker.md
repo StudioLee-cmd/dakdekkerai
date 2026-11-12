@@ -5,7 +5,7 @@ date: "2026-07-15"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-respons-automatiseren-ai-dakdekker.jpg"
-tags: ["Reviews", "Automatisering", "Dakdekker Tips"]
+tags: ["Reviews", "Automatisering"]
 ---
 
 Een review zonder antwoord is als een klant die je op de bouwmarkt gedag zegt terwijl jij straal doorloopt. Diegene heeft de moeite genomen, en jij laat het langs je heen gaan. Op Google gebeurt precies hetzelfde, alleen kijken er tientallen potentiële opdrachtgevers mee. Die zien niet alleen de sterren, maar ook of jij reageert. En als je dat niet doet, denken ze: druk of onverschillig?

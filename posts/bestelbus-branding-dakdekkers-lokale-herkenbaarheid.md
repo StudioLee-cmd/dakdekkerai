@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "Wat kost bestelbus-branding voor dakdekkers en wat levert het op? 4 niveaus, ROI per buurt, ontwerp-checklist en de 4 fouten die geld verbranden."
 image: "/images/blog/bestelbus-branding-dakdekkers-lokale-herkenbaarheid.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Bestelbus", "Marketing", "Dakdekker"]
+tags: ["Branding", "Marketing"]
 cluster: "branding"
 ---
 

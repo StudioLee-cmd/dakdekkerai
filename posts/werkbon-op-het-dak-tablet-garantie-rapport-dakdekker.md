@@ -5,7 +5,7 @@ date: "2026-05-12"
 excerpt: "Hoe een dakdekker met een tablet en de juiste software een werkbon plus garantie-rapport invult op het dak, in 5 stappen en met concrete tools."
 image: "/images/blog/werkbon-op-het-dak-tablet-garantie-rapport-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Administratie", "Werkbon", "Tablet", "Dakdekker", "Garantie"]
+tags: ["Administratie", "Garantie"]
 cluster: "automatisering"
 ---
 **In het kort:**

@@ -5,7 +5,7 @@ date: "2026-05-25"
 excerpt: "Wat je in een 4-minuten belletje na een halfjaar tegen je oude dakdekker-klanten zegt om 30% van je klantenbestand terug te halen, plus de CRM-trigger."
 image: "/images/blog/dakdekker-klant-terugbellen-6-maanden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Dakdekker", "Klantbehoud", "Automatisering", "CRM"]
+tags: ["Klantbehoud", "CRM"]
 cluster: "automatisering"
 ---
 

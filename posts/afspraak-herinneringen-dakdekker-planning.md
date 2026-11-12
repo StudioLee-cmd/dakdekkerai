@@ -6,7 +6,7 @@ date: "2026-04-15"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-herinneringen-dakdekker-planning.jpg"
-tags: ["Planning", "No-shows", "Automatisering"]
+tags: ["Planning", "No-shows"]
 ---
 Je hebt de hele ochtend vrijgehouden voor een dakinspectie. Materiaal in de bus, ladder op het rek, route uitgestippeld. Je belt de klant twintig minuten van tevoren. Voicemail. Bij aankomst is er niemand. Drie uur verspild aan een afspraak die de klant simpelweg vergeten was.
 

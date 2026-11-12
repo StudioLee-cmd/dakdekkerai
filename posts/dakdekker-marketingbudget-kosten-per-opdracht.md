@@ -5,7 +5,7 @@ date: "2026-05-14"
 excerpt: "Vier marketingkanalen voor dakdekkers vergeleken op kosten per opdracht (CAC), met realistische cijfers voor 2026 en hoe AI je CAC verlaagt."
 image: "/images/blog/dakdekker-marketingbudget-kosten-per-opdracht.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Marketing", "CAC", "Dakdekker"]
+tags: ["Vindbaarheid", "Marketing"]
 cluster: "vindbaarheid"
 ---
 

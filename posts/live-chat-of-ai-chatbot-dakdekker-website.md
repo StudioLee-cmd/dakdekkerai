@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Live chat of een AI chatbot op je dakdekker-website? Vergelijk reactietijd, kosten en spoed-opvang, en kies wat past bij jouw dakbedrijf."
 image: "/images/blog/live-chat-of-ai-chatbot-dakdekker-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Live chat", "Website", "Spoed-aanvragen", "Dakdekker"]
+tags: ["Chatbot", "Website", "AI"]
 cluster: "chatbot"
 ---
 Het is dinsdagavond 21:30. Een huiseigenaar met een lekkend dak zit op je website en ziet rechtsonder een chatvenster. Hij typt zijn vraag, wacht drie minuten, krijgt niets terug en klikt door naar de volgende dakdekker. Die klus was van jou geweest, als dat venster had geantwoord.

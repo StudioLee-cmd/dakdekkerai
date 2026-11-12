@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "Discussie over je spoedtoeslag op vrijdagavond? Zo legt een AI-telefonist je spoedtarief automatisch en helder uit aan elke storm-beller, nog voor je rijdt."
 image: "/images/blog/spoedtarief-automatiseren-dakdekker-storm-oproepen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Spoedtarief", "Storm", "Tarieven"]
+tags: ["Voice AI", "Storm"]
 cluster: "voice-ai"
 ---
 

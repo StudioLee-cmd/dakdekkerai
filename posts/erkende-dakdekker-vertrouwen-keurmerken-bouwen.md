@@ -5,7 +5,7 @@ date: "2026-05-11"
 excerpt: "Welke 5 keurmerken consumenten echt checken voordat ze een dakdekker kiezen, hoe je ze op je site toont, en welke trust-signalen geld kosten."
 image: "/images/blog/erkende-dakdekker-vertrouwen-keurmerken-bouwen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Vertrouwen", "Keurmerken", "Dakdekker"]
+tags: ["Branding", "Website"]
 cluster: "website"
 ---
 **In het kort:**

@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-online-leads-genereren.jpg"
-tags: ["Leads", "Dakdekker", "Marketing"]
+tags: ["Leads", "Marketing"]
 ---
 ## Weg van de afhankelijkheid: zelf leads genereren
 

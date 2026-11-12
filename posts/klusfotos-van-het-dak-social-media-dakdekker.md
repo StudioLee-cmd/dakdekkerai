@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "De foto van elke klus staat al op een telefoon in de bus. Zo krijg je hem eruit en vult je social media zichzelf, zonder dat je erom hoeft te vragen."
 image: "/images/blog/klusfotos-van-het-dak-social-media-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Contentcreatie", "Werkproces"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Twee ploegen en elf klussen: wie gaat waarheen? Zo leg je de werkverdeling van je dakdekkersbedrijf vast, zodat de dag zichzelf plant."
 image: "/images/blog/workflow-dakdekker-meerdere-monteurs.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Werkplanning", "Automatisering", "Meerdere monteurs", "Routeplanning"]
+tags: ["Planning", "Automatisering"]
 cluster: "automatisering"
 ---
 

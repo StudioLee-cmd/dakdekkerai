@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer twijfelen wat je post. Een kant-en-klare Instagram contentkalender van 30 dagen voor dakdekkers, plus hoe je alles in een uur inplant."
 image: "/images/blog/instagram-contentkalender-dakdekkers.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Instagram", "Contentkalender", "Dakdekker marketing"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

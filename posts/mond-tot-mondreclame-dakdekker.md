@@ -5,7 +5,7 @@ excerpt: "De krachtigste marketing voor dakdekkers is nog altijd mond-tot-mondre
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-dakdekker.png"
-tags: ["Mond-tot-mond", "Klantwerving", "Groei"]
+tags: ["Groei", "Branding"]
 cluster: "branding"
 ---
 Vraag een succesvolle dakdekker waar zijn beste klanten vandaan komen, en het antwoord is bijna altijd hetzelfde: via via. Een buurman die je dak heeft gerepareerd vertelt het aan drie straten verderop. Een tevreden klant stuurt haar schoonzus door. Mond-tot-mondreclame is en blijft het krachtigste marketingkanaal voor dakdekkers.

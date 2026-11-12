@@ -5,7 +5,7 @@ excerpt: "Na een storm zoeken honderden mensen tegelijk een dakdekker. Wie het s
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stormschade-dakdekker-sneller-reageren.png"
-tags: ["Dakdekker", "Stormschade", "Seizoenswerk"]
+tags: ["Storm", "Seizoenswerk"]
 cluster: "automatisering"
 ---
 ## Na de storm: het gouden uur voor dakdekkers

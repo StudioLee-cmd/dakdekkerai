@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Welke Instagram Reels leveren als dakdekker echt opdrachten op? Vijf formats, van voor-en-na tot storm-response, plus hoe je kijkers omzet naar werk."
 image: "/images/blog/instagram-reels-dakdekkers-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Instagram", "Marketing", "Reels", "Dakdekker"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

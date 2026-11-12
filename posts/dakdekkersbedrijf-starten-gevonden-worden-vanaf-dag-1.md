@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Een dakdekkersbedrijf starten zonder Google-zichtbaarheid is broodjes bakken met de luiken dicht. Lees de drie pijlers om vanaf dag 1 gevonden te worden."
 image: "/images/blog/dakdekkersbedrijf-starten-gevonden-worden-vanaf-dag-1.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google", "Starten"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 Een nieuwe bakker opent zijn winkel met de luiken nog dicht. De broodjes zijn vers, het assortiment klopt, het koffiezetapparaat brandt. Maar er staat geen bordje op de deur en het raam zit gesloten. De buurt loopt door, ziet niets, en stopt bij de bakker drie deuren verderop die zijn raam al jaren open heeft staan.

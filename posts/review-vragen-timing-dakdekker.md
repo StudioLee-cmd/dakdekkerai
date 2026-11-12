@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-timing-dakdekker.jpg"
-tags: ["Reviews", "Klantrelatie", "Dakdekker Tips"]
+tags: ["Reviews"]
 ---
 ## Waarom timing alles is bij reviews
 

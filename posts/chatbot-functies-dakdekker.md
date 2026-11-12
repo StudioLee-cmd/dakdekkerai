@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Een chatbot die alleen vragen beantwoordt kost je klussen. Deze 7 functies maken het verschil tussen een FAQ-widget en een digitale voorman."
 image: "/images/blog/chatbot-functies-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Dakdekker"]
+tags: ["Chatbot"]
 cluster: "chatbot"
 ---
 

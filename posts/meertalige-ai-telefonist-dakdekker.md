@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Tijdens een storm-piek belt half Nederland tegelijk, en niet iedereen in het Nederlands. Zo vangt een meertalige AI telefonist NL, EN, PL en TR op."
 image: "/images/blog/meertalige-ai-telefonist-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Storm", "Meertalig"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 De eerste najaarsstorm rolt binnen en je telefoon staat roodgloeiend. Losgewaaide pannen, een lekkage boven de babykamer, een ondernemer wiens bedrijfshal onder water loopt. Je staat zelf op een dak met een harnas om, je handen zitten vol, en ondertussen tikt de teller van gemiste oproepen door. Elke gemiste beller is een klus die naar de dakdekker gaat die wel opnam.

@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voor-na-fotos-dakdekker-website-conversie.jpg"
 cluster: "website"
-tags: ["Website Conversie", "Portfolio", "Dakdekker Marketing"]
+tags: ["Portfolio", "Marketing"]
 ---
 Een huiseigenaar staart al twee maanden naar dakpannen die zoek zijn na de novemberstorm. Hij Googled vier dakdekkers, opent vier websites, en sluit drie binnen tien seconden. De ene die hij open laat staat is degene met een rij voor-en-na foto's bovenaan de homepage. Niet omdat de tekst beter is. Omdat hij in vijf seconden ziet dat deze dakdekker hetzelfde probleem als zijn eigen dak al eens heeft opgelost.
 

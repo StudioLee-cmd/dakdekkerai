@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "AI-telefonist als eerste lijn, een call center als overloop bij storm. Wie welk gesprek pakt, waar de overdracht ligt en wat het je als dakdekker kost."
 image: "/images/blog/voice-ai-hybride-call-center-dakdekker-stormpieken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Storm", "Dakdekker"]
+tags: ["Voice AI", "Storm"]
 cluster: "voice-ai"
 ---
 

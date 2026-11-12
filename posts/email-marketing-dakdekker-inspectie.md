@@ -7,7 +7,7 @@ excerpt: "Elk dak heeft onderhoud nodig, maar huiseigenaren vergeten dat. Met e-
 image: "/images/blog/email-marketing-dakdekker-inspectie.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["email marketing", "dakdekker", "inspectie"]
+tags: ["E-mail", "Automatisering"]
 cluster: "automatisering"
 ---
 ## Waarom email marketing werkt voor dakdekkers

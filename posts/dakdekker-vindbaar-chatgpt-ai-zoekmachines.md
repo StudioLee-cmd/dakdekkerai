@@ -5,7 +5,7 @@ excerpt: "Steeds meer klanten zoeken een dakdekker via ChatGPT en AI. Zo zorg je
 date: "2026-06-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-vindbaar-chatgpt-ai-zoekmachines.jpg"
-tags: ["AI", "Vindbaarheid", "Dakdekker"]
+tags: ["AI", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

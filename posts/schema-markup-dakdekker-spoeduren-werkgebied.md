@@ -5,7 +5,7 @@ date: "2026-10-14"
 excerpt: "Leg als dakdekker openingstijden, spoedbereikbaarheid en werkgebied duidelijk vast in schema markup. Met een voorbeeld en controles voor je webbouwer."
 image: "/images/blog/schema-markup-dakdekker-spoeduren-werkgebied.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Schema"]
+tags: ["Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

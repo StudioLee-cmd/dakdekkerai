@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensgebonden-lead-opvolging-dakdekker.jpg"
-tags: ["Lead opvolging", "Dakdekker", "Seizoenswerk"]
+tags: ["Lead opvolging"]
 ---
 ## Waarom seizoenen je lead opvolging bepalen
 

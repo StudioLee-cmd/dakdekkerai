@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Je FAQ-pagina geeft antwoord maar legt niets vast. Zo bepaal je als dakdekker welke vraag naar je FAQ gaat en welke naar een chatbot."
 image: "/images/blog/chatbot-of-faq-pagina-dakdekker-spoed.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Website", "Spoed-aanvragen", "Dakdekker"]
+tags: ["Chatbot", "Website"]
 cluster: "chatbot"
 ---
 
