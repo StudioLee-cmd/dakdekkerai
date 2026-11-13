@@ -8,7 +8,7 @@ import { getAuthorBySlug } from '@/data/authors';
 import { siteDetails } from '@/data/siteDetails';
 import Container from '@/components/Container';
 import BlogContent from '@/components/BlogContent';
-import { FiArrowLeft, FiClock } from 'react-icons/fi';
+import { FiArrowLeft, FiArrowRight, FiClock } from 'react-icons/fi';
 
 const SITE_URL = 'https://www.dakdekkerai.nl';
 
@@ -46,6 +46,36 @@ export async function generateMetadata(
         },
     };
 }
+
+// Experiment artikel-scanblok (worker-1715, 2026-11-11): one free-scan block in the article, before its third
+// section, so a reader meets the next step while reading instead of only in the last sentence. The UTM tags
+// let Vercel Web Analytics count the visits it brings to /gratis-scan per article.
+const nthH2 = (html: string, n: number): number => {
+    let at = -1;
+    for (let k = 0; k < n; k++) {
+        at = html.indexOf('<h2', at + 1);
+        if (at < 0) return -1;
+    }
+    return at;
+};
+
+const ScanBlock = ({ slug }: { slug: string }) => (
+    <aside className="my-12 p-6 md:p-8 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)] shadow-sm">
+        <p className="text-xl md:text-2xl font-bold text-[var(--foreground)] mb-3">
+            Gratis AI-scan voor {siteDetails.niche.toLowerCase()}
+        </p>
+        <p className="text-[var(--foreground-accent)] mb-6">
+            Je krijgt een cijfer op SEO, conversie, AI-vindbaarheid en lokale signalen, plus één verbetering die je vandaag zelf doorvoert.
+        </p>
+        <Link
+            href={`/gratis-scan?utm_source=blog&utm_medium=artikel-scanblok&utm_campaign=${slug}`}
+            className="inline-flex items-center gap-2 bg-primary text-black font-bold py-3 px-6 rounded-full hover:scale-105 transition-transform"
+        >
+            Vraag de gratis scan aan
+            <FiArrowRight />
+        </Link>
+    </aside>
+);
 
 const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) => {
     const { slug } = await params;
@@ -148,7 +178,19 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                         </div>
                     </div>
 
-                    <BlogContent content={contentHtml} />
+                    {(() => {
+                        const split = nthH2(contentHtml, 3);
+                        if (split <= 0) {
+                            return (<><BlogContent content={contentHtml} /><ScanBlock slug={slug} /></>);
+                        }
+                        return (
+                            <>
+                                <BlogContent content={contentHtml.slice(0, split)} />
+                                <ScanBlock slug={slug} />
+                                <BlogContent content={contentHtml.slice(split)} />
+                            </>
+                        );
+                    })()}
 
                     {author && (
                         <div className="mt-12 p-6 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">
