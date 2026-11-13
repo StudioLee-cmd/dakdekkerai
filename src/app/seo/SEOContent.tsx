@@ -195,7 +195,7 @@ export default function SEOContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/seo-hero.jpg"
-              alt="SEO voor dakdekkers — Google ranking dashboard op laptop"
+              alt="SEO voor dakdekkers: Google ranking dashboard op laptop"
               fill
               priority
               className="object-cover"
@@ -520,7 +520,7 @@ export default function SEOContent() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Link href="/reviews" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Reviews</h3>
-                <p className="text-foreground-accent text-sm mb-3">Reviews zijn de #1 ranking-factor in Google Maps — combineer voor maximale lokale zichtbaarheid.</p>
+                <p className="text-foreground-accent text-sm mb-3">Reviews zijn de #1 ranking-factor in Google Maps, combineer voor maximale lokale zichtbaarheid.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/gratis-website" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
@@ -530,7 +530,7 @@ export default function SEOContent() {
               </Link>
               <Link href="/social-media" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Social Media</h3>
-                <p className="text-foreground-accent text-sm mb-3">Social signals versterken je lokale SEO — combineer voor maximale Google-zichtbaarheid.</p>
+                <p className="text-foreground-accent text-sm mb-3">Social signals versterken je lokale SEO, combineer voor maximale Google-zichtbaarheid.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
           </div>
