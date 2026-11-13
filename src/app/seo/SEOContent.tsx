@@ -165,8 +165,9 @@ export default function SEOContent() {
           <motion.p
             className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10 sl-reveal sl-reveal-1"
           >
-            Meer klanten via Google, zonder dure advertenties. {siteDetails.siteName} regelt je
-            volledige SEO-strategie: van keyword research tot publicatie.
+            Online marketing voor {nichePlural} die klanten oplevert via Google, zonder dure
+            advertenties. {siteDetails.siteName} regelt je volledige SEO-strategie: van keyword
+            research tot publicatie.
           </motion.p>
           <motion.div
             className="flex flex-col sm:flex-row items-center justify-center gap-4 sl-reveal sl-reveal-1"
