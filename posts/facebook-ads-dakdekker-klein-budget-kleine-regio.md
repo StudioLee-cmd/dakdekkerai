@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Adviezen over Facebook-budget gaan uit van heel Nederland. Jij werkt in drie gemeenten. Zo reken je uit wat een klein dagbudget in jouw regio doet."
 image: "/images/blog/facebook-ads-dakdekker-klein-budget-kleine-regio.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Adverteren", "Leadgeneratie"]
+tags: ["Social Media", "Adverteren"]
 cluster: "social-media"
 ---
 

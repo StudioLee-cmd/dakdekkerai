@@ -7,7 +7,7 @@ excerpt: "De dakdekker die het snelst reageert, wint de klus. Leer hoe je je off
 image: "/images/blog/offertes-dakdekker-sneller-reageren.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["offertes", "dakdekker", "bedrijfsvoering"]
+tags: ["Offertes", "Bedrijfsvoering"]
 cluster: "automatisering"
 ---
 

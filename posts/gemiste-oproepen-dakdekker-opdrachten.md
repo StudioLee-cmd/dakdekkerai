@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-oproepen-dakdekker-opdrachten.jpg"
-tags: ["Bereikbaarheid", "Voice AI", "Opdrachten"]
+tags: ["Bereikbaarheid", "Opdrachten"]
 ---
 ## Op het dak ben je niet bereikbaar
 

@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Denk je dat TikTok niks voor een dakdekker is? Een voor-en-na video van een dakklus laat in 20 seconden zien wat je kunt en trekt lokale opdrachten aan."
 image: "/images/blog/tiktok-dakdekkers-voor-na-videos.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "TikTok", "Dakdekker", "Leadgeneratie"]
+tags: ["Social Media", "TikTok", "Leads"]
 cluster: "social-media"
 ---
 

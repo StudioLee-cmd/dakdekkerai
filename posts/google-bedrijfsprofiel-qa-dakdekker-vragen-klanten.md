@@ -6,7 +6,7 @@ cluster: "vindbaarheid"
 excerpt: "De Q&A-sectie op je Google Bedrijfsprofiel is verdwenen. Hier staan de 12 vragen die klanten van een dakdekker stellen en waar het antwoord nu thuishoort."
 image: "/images/blog/google-bedrijfsprofiel-qa-dakdekker-vragen-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel", "Q&A", "Lokale SEO", "Dakdekker"]
+tags: ["Q&A", "Lokale SEO"]
 ---
 
 Zoek je eigen bedrijf eens op in Google. Dat blok "Vragen en antwoorden" onderaan je vermelding staat er niet meer. Ook niet bij de dakdekker in de volgende plaats. Google heeft de Q&A-sectie van het Bedrijfsprofiel afgeschaft, en alles wat erin stond is niet meer zichtbaar.

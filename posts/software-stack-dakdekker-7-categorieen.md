@@ -5,7 +5,7 @@ date: "2026-05-24"
 excerpt: "Software stack voor dakdekkers: welke 7 categorieën je echt nodig hebt, in welke volgorde je ze bouwt en wat past per teamgrootte."
 image: "/images/blog/software-stack-dakdekker-7-categorieen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software", "Stack", "Dakdekker"]
+tags: ["Software", "Stack"]
 cluster: "automatisering"
 ---
 De gemiddelde dakdekker met 2 tot 5 medewerkers gebruikt zonder het door te hebben tien tot vijftien losse tools. WhatsApp voor klantcontact, Excel voor planning, een papieren werkbon, Moneybird voor facturen, het Google Bedrijfsprofiel los daarvan, een mailbox waar offertes in verdwijnen. Het werkt, totdat één van die schakels breekt: een klant belt twee jaar later voor garantie en niemand kan de werkbon vinden. Een steiger staat in de buurt maar de medewerker krijgt de adresgegevens pas op de ochtend van de klus zelf. Een review-verzoek na de klus blijft drie weken liggen.

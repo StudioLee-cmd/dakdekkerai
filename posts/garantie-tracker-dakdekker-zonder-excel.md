@@ -5,7 +5,7 @@ date: "2026-05-26"
 excerpt: "Je hebt 100+ dakgaranties uitstaan van 10, 15 en 25 jaar. Excel kraakt. Hoe je een garantie-tracker opzet die de juiste klant op het juiste moment terugbelt."
 image: "/images/blog/garantie-tracker-dakdekker-zonder-excel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Dakdekker", "Garantie", "CRM", "Administratie"]
+tags: ["Garantie", "CRM", "Administratie"]
 cluster: "automatisering"
 ---
 

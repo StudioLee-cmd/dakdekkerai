@@ -6,7 +6,7 @@ date: "2026-04-22"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/crm-dakdekker-klantgegevens-herhaalopdrachten.jpg"
-tags: ["Dakdekker", "CRM", "Automatisering", "Klantbeheer"]
+tags: ["CRM", "Klantbeheer"]
 ---
 Een klant belt. Hij is drie jaar geleden bij je geweest voor een bitumen-reparatie op een plat dak in Rotterdam. Weet je nog welke rol bitumen je hebt gelegd? Welke garantie erop zit? Wanneer het onderhoud aanbevolen is? De meeste dakdekkers moeten dan door hun WhatsApp scrollen, een oude factuur zoeken of simpelweg gokken. Dat is geen slechte administratie, dat is een ontbrekend systeem.
 

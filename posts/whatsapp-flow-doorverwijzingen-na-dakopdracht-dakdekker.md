@@ -5,7 +5,7 @@ date: "2026-05-15"
 excerpt: "Vraag systematisch om doorverwijzingen via WhatsApp na elke dakopdracht. 3 momenten, 4 scripts en CRM-tracking voor 5+ extra leads per maand."
 image: "/images/blog/whatsapp-flow-doorverwijzingen-na-dakopdracht-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Mond-tot-mondreclame", "WhatsApp", "Marketing", "Dakdekker"]
+tags: ["Mond-tot-mondreclame"]
 cluster: "branding"
 ---
 

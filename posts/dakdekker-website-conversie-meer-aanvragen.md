@@ -5,7 +5,7 @@ excerpt: "Je dakdekker-website krijgt bezoekers, maar geen aanvragen? Het proble
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-website-conversie-meer-aanvragen.png"
-tags: ["Dakdekker", "Website", "Conversie"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 ## Je website trekt bezoekers, maar geen klanten

@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Je reviews staan op precies een plek en bereiken daar maar een deel van je klanten. Zo zet je dezelfde tekst ook op je website, in je offerte en op social."
 image: "/images/blog/reviews-hergebruiken-dakdekker-website-offerte-social.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Website", "Dakdekker Tips"]
+tags: ["Reviews", "Website"]
 cluster: "reviews"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Overstappen naar nieuwe bedrijfssoftware als dakdekker? Zo zet je klan
 date: "2026-05-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bedrijfssoftware-migreren-dakdekker.jpg"
-tags: ["Automatisering", "Software", "Bedrijfsvoering"]
+tags: ["Software", "Bedrijfsvoering"]
 cluster: "automatisering"
 ---
 

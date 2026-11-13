@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Benchmark je lokale dakdekker-concurrenten in 30 minuten met 6 datapunten: review-aantal, GBP-score, response-snelheid, services, posts en ads."
 image: "/images/blog/concurrenten-benchmarken-dakdekker-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Concurrentie", "SEO"]
+tags: ["Vindbaarheid", "Concurrentie"]
 cluster: "vindbaarheid"
 ---
 

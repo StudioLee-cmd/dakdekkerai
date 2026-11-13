@@ -6,7 +6,7 @@ excerpt: "Op piekdagen verdrinkt de echte spoed tussen de offertevragen. Zo laat
 seoTitle: "AI-routing dakdekker: spoed vs. standaardvragen"
 image: "/images/blog/ai-routing-spoed-standaard-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Automatisering"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

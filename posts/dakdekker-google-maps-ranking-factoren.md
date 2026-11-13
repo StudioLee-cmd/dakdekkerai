@@ -5,7 +5,7 @@ excerpt: "Waarom staat jouw dakdekkersbedrijf niet in de Google Maps top-3 en ho
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-google-maps-ranking-factoren.jpg"
-tags: ["Google Maps", "Local SEO", "Dakdekker"]
+tags: ["Google Maps", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 Iemand in jouw stad Googelt "dakdekker [plaatsnaam]". De eerste drie bedrijven op Google Maps krijgen samen het leeuwendeel van de klikken. Wat overblijft voor nummer vier, vijf en zes is een fractie daarvan. Staat jouw dakdekkersbedrijf niet in de top-3, dan mis je structureel leads, zonder dat je het in de gaten hebt.

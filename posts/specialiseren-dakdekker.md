@@ -4,7 +4,7 @@ excerpt: "Als dakdekker kun je meer verdienen door je te specialiseren. Ontdek w
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-dakdekker.png"
-tags: ["specialisatie", "dakdekker", "niche"]
+tags: ["Specialisatie", "Niche"]
 cluster: "branding"
 ---
 De meeste dakdekkers doen alles: platte daken, schuine daken, reparaties, nieuwbouw. Ze zijn de allrounder van de branche. Maar juist die breedte maakt het lastig om je te onderscheiden en hogere prijzen te vragen.

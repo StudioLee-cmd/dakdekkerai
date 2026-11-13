@@ -5,7 +5,7 @@ excerpt: "Een CRM invoeren als dakdekker zonder een week werk te verliezen? Dit 
 date: "2026-07-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/crm-implementatie-dakdekker-5-dagen.jpg"
-tags: ["CRM", "Automatisering", "Klantbeheer"]
+tags: ["CRM", "Klantbeheer"]
 cluster: "automatisering"
 ---
 

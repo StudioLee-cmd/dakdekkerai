@@ -4,7 +4,7 @@ excerpt: "Spoedklussen komen 's avonds en in het weekend, maar permanent paraat 
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-spoedklussen-opvangen-zonder-24-7-zelf.jpg"
-tags: ["Spoedklussen", "Bereikbaarheid", "AI Telefonist"]
+tags: ["Spoed-aanvragen", "Voice AI"]
 cluster: "voice-ai"
 ---
 

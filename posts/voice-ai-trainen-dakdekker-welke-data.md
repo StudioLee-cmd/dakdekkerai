@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Een AI telefonist is zo goed als de informatie die je hem geeft. Dit zijn de zes soorten bedrijfsdata die je als dakdekker eerst klaar moet zetten."
 image: "/images/blog/voice-ai-trainen-dakdekker-welke-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Dakdekker"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

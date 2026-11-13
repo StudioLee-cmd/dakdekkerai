@@ -5,7 +5,7 @@ excerpt: "Onderscheid jezelf van beunhazen. Met de Client App in het Elite plan 
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-dakdekker-app.png"
-tags: ["Elite Plan", "Client App", "Innovatie"]
+tags: ["Elite Plan", "Client App"]
 cluster: "website"
 ---
 Als je voor particulieren werkt is snelheid belangrijk. Maar werk je voor zakelijke klanten? VvE-beheerders, vastgoedbeleggers, aannemers of woningbouwverenigingen? Dan draait alles om **GEMAK** en **INZICHT**.

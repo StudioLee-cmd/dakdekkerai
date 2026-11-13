@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-dakdekker.jpg"
-tags: ["No-shows", "Dakdekker", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## De rit voor niks
 

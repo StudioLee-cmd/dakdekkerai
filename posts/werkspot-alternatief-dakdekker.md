@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom steeds meer dakdekkers stoppen met Werkspot en kiezen vo
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-alternatief-dakdekker.jpg"
-tags: ["Vergelijking", "Werkspot", "Groei"]
+tags: ["Vergelijking", "Werkspot"]
 cluster: "automatisering"
 ---
 ## Het Werkspot-model: wat het je echt kost

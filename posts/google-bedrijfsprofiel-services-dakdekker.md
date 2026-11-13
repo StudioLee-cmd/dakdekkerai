@@ -5,7 +5,7 @@ date: "2026-05-28"
 excerpt: "De services-tab in je Google Bedrijfsprofiel laten de meeste dakdekkers leeg. Zo zet je dakreparatie, zinkwerk en spoed apart in voor meer lokale klussen."
 image: "/images/blog/google-bedrijfsprofiel-services-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "Lokale SEO"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

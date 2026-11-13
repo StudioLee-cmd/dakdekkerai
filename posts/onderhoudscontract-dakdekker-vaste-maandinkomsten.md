@@ -5,7 +5,7 @@ date: "2026-05-05"
 excerpt: "Hoe je als dakdekker eenmalige reparaties omzet in vaste maandinkomsten via onderhoudscontracten: drie pakketten, prijzen, en hoe je ze verkoopt."
 image: "/images/blog/onderhoudscontract-dakdekker-vaste-maandinkomsten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Onderhoudscontract", "Recurring", "Seizoenswerk", "Klantbehoud"]
+tags: ["Recurring", "Seizoenswerk"]
 cluster: "automatisering"
 ---
 

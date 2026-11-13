@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-dakdekker-google.jpg"
-tags: ["SEO", "Vindbaarheid", "Dakdekker"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom online vindbaarheid cruciaal is voor dakdekkers
 

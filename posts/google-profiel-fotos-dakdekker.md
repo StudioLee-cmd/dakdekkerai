@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-profiel-fotos-dakdekker.jpg"
-tags: ["Google", "Bedrijfsprofiel", "Vindbaarheid"]
+tags: ["Google", "Vindbaarheid"]
 ---
 ## Waarom foto's op je Google profiel ertoe doen
 

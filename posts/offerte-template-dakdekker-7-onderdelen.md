@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Een offerte die de klant laat tekenen bestaat uit zeven vaste blokken. Zo bouw je er een sjabloon van dat je per dakklus in tien minuten invult."
 image: "/images/blog/offerte-template-dakdekker-7-onderdelen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Offertes", "Automatisering", "Dakdekker"]
+tags: ["Offertes", "Automatisering"]
 cluster: "automatisering"
 ---
 

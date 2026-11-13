@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-dakdekker-gemiste-afspraak.jpg"
-tags: ["No-shows", "Dakdekker", "Kosten"]
+tags: ["No-shows", "Kosten"]
 ---
 ## Wat kost een no-show je als dakdekker echt
 

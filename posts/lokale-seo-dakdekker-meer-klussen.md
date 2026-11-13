@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als dakdekker beter vindbaar wordt in Google voor lokale
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-dakdekker-meer-klussen.jpg"
-tags: ["Vindbaarheid", "Lokale SEO", "Groei"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 ## Waarom lokale vindbaarheid alles bepaalt voor dakdekkers

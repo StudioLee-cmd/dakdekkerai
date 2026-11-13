@@ -4,7 +4,7 @@ excerpt: "Welke gesprekken voert een AI telefonist voor dakdekkers eigenlijk? De
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefonist-dakdekker-welke-gesprekken.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Dakdekker"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Als dakdekker heb je geen tijd voor marketing. Toch is online zichtbaa
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen.png"
-tags: ["Vindbaarheid", "Google", "Opdrachten", "Lokale SEO"]
+tags: ["Google", "Opdrachten"]
 cluster: "vindbaarheid"
 ---
 ## De realiteit: Google beslist wie de klus krijgt

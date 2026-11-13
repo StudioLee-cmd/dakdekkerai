@@ -5,7 +5,7 @@ excerpt: "Richtprijzen op je website: meer vertrouwen of meer prijsjagers? De vo
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-prijzen-op-website-zetten.png"
-tags: ["Dakdekker", "Prijzen", "Website"]
+tags: ["Prijzen", "Website"]
 cluster: "website"
 ---
 ## De eeuwige discussie: prijzen wel of niet tonen?

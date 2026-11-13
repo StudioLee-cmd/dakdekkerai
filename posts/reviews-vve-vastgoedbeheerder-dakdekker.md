@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Een VvE laat nooit spontaan een review achter. Zo vraag je er toch een, bij wie je moet zijn en waarom naam en functie zwaarder wegen dan sterren."
 image: "/images/blog/reviews-vve-vastgoedbeheerder-dakdekker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Zakelijk", "Dakdekker Tips"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

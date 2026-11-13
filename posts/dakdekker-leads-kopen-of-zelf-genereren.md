@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "Een gekochte dakdekker-lead kost rond 20 euro, maar wat kost een lead die je zelf binnenhaalt? De volledige rekensom, plus een keuzeregel per bedrijf."
 image: "/images/blog/dakdekker-leads-kopen-of-zelf-genereren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Leads", "Marketing", "Vindbaarheid", "Dakdekker"]
+tags: ["Leads", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

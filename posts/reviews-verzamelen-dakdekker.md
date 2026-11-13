@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-dakdekker.jpg"
-tags: ["Reviews", "Dakdekker", "Google"]
+tags: ["Reviews", "Google"]
 ---
 ## Waarom reviews het verschil maken bij dakdekkers
 

@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-reviews-dakdekker-omgaan.jpg"
-tags: ["Reviews", "Dakdekker", "Klantcommunicatie"]
+tags: ["Reviews", "Klantcommunicatie"]
 ---
 ## Waarom een negatieve review niet het einde is
 
