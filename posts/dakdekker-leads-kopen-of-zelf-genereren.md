@@ -93,7 +93,7 @@ De dakdekkers die dit twee jaar geleden begonnen, betalen vandaag bijna niets me
 
 ## Zelf leads binnenhalen, zonder het gedoe
 
-Je eigen leadmachine bouwen kost tijd die je niet hebt als je de hele dag op het dak staat. Daarom bouwen wij bij DakdekkerAI het hele systeem voor je: een converterende website, lokale vindbaarheid, automatische reviews en opvolging, zodat de aanvragen vanzelf binnenkomen. Jij dekt het dak, wij regelen de rest. Twijfel je of het rendeert? We werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Bekijk gerust [wat AI voor dakdekkers kost](/tarieven) of start met een gratis scan.
+Je eigen leadmachine bouwen kost tijd die je niet hebt als je de hele dag op het dak staat. Daarom bouwen wij bij DakdekkerAI het hele systeem voor je: een converterende website, lokale vindbaarheid, automatische reviews en opvolging, zodat de aanvragen vanzelf binnenkomen. Jij dekt het dak, wij regelen de rest. Twijfel je of het rendeert? Bekijk gerust [wat AI voor dakdekkers kost](/tarieven) of start met een gratis scan.
 
 ## Veelgestelde vragen
 

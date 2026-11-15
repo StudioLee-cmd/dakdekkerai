@@ -112,4 +112,4 @@ Controleer vooral de punten waarop je dienstverlening verandert. Verandert allee
 
 De opdracht past op één pagina: bestaande bedrijfsmarkup inventariseren, gewone uren en spoedcontact scheiden, echt werkgebied vastleggen, de code testen en een eigenaar voor wijzigingen benoemen. Jij levert de bedrijfsafspraken; je webbouwer vertaalt ze naar de juiste velden.
 
-Wil je je website daarop laten inrichten? Bekijk de [gratis website voor dakdekkers](/gratis-website) van DakdekkerAI. Jij dekt het dak, wij regelen de rest. De Groei-of-Geld-Terug Garantie hoort bij apart betaalde SEO- of resultaat-add-ons, met een afgesproken resultaat, termijn en bewijswijze. Het basisabonnement valt daarbuiten. Deze schema-inrichting belooft geen specifieke Google-weergave.
+Wil je je website daarop laten inrichten? Bekijk de [gratis website voor dakdekkers](/gratis-website) van DakdekkerAI. Jij dekt het dak, wij regelen de rest. Het basisabonnement valt daarbuiten. Deze schema-inrichting belooft geen specifieke Google-weergave.

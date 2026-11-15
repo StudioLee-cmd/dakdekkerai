@@ -97,7 +97,7 @@ Vijf sterke stadspagina's bouw je in een paar avonden, mits je de zes bouwstenen
 
 Daar komt [ai seo voor dakdekkers](/seo) van pas. Bij DakdekkerAI bouwen en onderhouden we je stadspagina's mét unieke lokale content, koppelen we de reviews per plaats automatisch aan de juiste pagina, en houden we je ranking op "dakdekker [stad]" in de gaten zodat je weet waar je terrein wint of verliest. Een [gratis seo scan voor dakdekkers](/gratis-scan) laat in een paar minuten zien in welke plaatsen je nu al meedoet en waar de makkelijkste winst ligt.
 
-Voor dakdekkers die deze stap zetten geldt onze Groei-of-Geld-Terug Garantie: meetbare beweging op je lokale [zoekmachine optimalisatie voor dakdekkers](/seo) binnen 90 dagen, of je krijgt de investering volledig terug. Want [gevonden worden als dakdekker](/seo) hoort geen gok te zijn, in geen enkele plaats waar je werkt.
+Want [gevonden worden als dakdekker](/seo) hoort geen gok te zijn, in geen enkele plaats waar je werkt.
 
 Jij dekt het dak, wij regelen de rest. Dat is letterlijk de hele afspraak.
 

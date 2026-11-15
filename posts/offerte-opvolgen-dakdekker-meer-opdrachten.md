@@ -55,4 +55,4 @@ Reageer altijd positief. "Geen probleem, mocht je in de toekomst dakwerk nodig h
 
 Je hoeft niet meer leads te genereren. Je hoeft alleen de leads die je al hebt beter op te volgen. Consequent opvolgen verhoogt je conversie fors zonder dat je een euro extra aan marketing uitgeeft.
 
-Wil je inzicht in je offerteproces en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je inzicht in je offerteproces en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan.

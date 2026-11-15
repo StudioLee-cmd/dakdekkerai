@@ -90,6 +90,6 @@ Een goed ingerichte bot geeft dat eerlijk toe en draagt het gesprek over aan jou
 
 Terug naar die nieuwe kracht in de bus: je hebt niets aan zijn vakmanschap zolang hij jouw bedrijf niet kent. Trainen is dat inwerken, en de vier lagen samen bepalen of je een folderhouder of een collega op je website hebt staan. Begin met je FAQ en je site, vul aan met je documenten, en koppel je systemen als je eraan toe bent.
 
-Wil je eerst zien welke aanvragen je website nu laat lopen? Vraag de [gratis ai scan voor dakdekkers](/gratis-scan) aan. Je krijgt zwart op wit te zien wat een goed getrainde chatbot bij jou zou oppakken. DakdekkerAI levert met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons en niet bij jou. Jij dekt het dak, wij regelen de rest.
+Wil je eerst zien welke aanvragen je website nu laat lopen? Vraag de [gratis ai scan voor dakdekkers](/gratis-scan) aan. Je krijgt zwart op wit te zien wat een goed getrainde chatbot bij jou zou oppakken. Jij dekt het dak, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-functies-dakdekker" class="text-dark fw-semibold">Wat moet een dakdekker-chatbot kunnen? 7 functies</a> →</p></div></div></div>

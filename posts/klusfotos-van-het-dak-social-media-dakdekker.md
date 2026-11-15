@@ -134,4 +134,4 @@ Je hebt geen ideeëntekort. Je hebt vier daken per week, een ploeg met telefoons
 
 Wil je weten waar het bij jou nu vastloopt, begin dan met een [gratis ai scan voor dakdekkers](/gratis-scan). Daarin kijken we naar je vindbaarheid, je website en je kanalen, en zie je zwart op wit wat er blijft liggen.
 
-En zie je het zelf niet zitten om die vier setjes elke week de deur uit te doen, dan nemen wij het hele traject over: opmaak, planning, plaatsen en meten. Dat is precies wat de [social media voor dakdekkers](/social-media) van DakdekkerAI inhoudt, met de Groei-of-Geld-Terug Garantie erop. Jij dekt het dak, wij regelen de rest.
+En zie je het zelf niet zitten om die vier setjes elke week de deur uit te doen, dan nemen wij het hele traject over: opmaak, planning, plaatsen en meten. Jij dekt het dak, wij regelen de rest.

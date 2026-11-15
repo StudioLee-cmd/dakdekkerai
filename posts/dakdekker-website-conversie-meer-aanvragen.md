@@ -57,7 +57,7 @@ Hoe lang duurt een dakrenovatie? Hebben jullie garantie? Stormschade?
 
 Je dakdekker-website moet drie dingen doen: vertrouwen wekken, je werk laten zien en het makkelijk maken om contact op te nemen.
 
-Met [DakdekkerAI](/) helpen we dakdekkers bij hun online presentatie en leadgeneratie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [DakdekkerAI](/) helpen we dakdekkers bij hun online presentatie en leadgeneratie. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel aanvragen je nu mist.
 

@@ -88,4 +88,4 @@ Wie alleen bij particulieren om een ervaring vraagt, kan zakelijke klantrelaties
 
 Noteer bij oplevering wie de contactpersoon is. Plan een vast evaluatiemoment voor vergelijkbaar werk. Stuur de Google-reviewlink zonder voorgeschreven tekst. Wil je daarnaast een referentie voor je site of offerte, vraag dan apart naar toestemming voor die concrete tekst en dat gebruik.
 
-Bij DakdekkerAI richten we het [review management voor dakdekkers](/reviews) zo in dat timing, uitnodiging en referentietoestemming uit elkaar blijven. Een ontvangen tekst gaat pas naar je site of offerte nadat het afgesproken gebruik is gecontroleerd. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij DakdekkerAI richten we het [review management voor dakdekkers](/reviews) zo in dat timing, uitnodiging en referentietoestemming uit elkaar blijven. Een ontvangen tekst gaat pas naar je site of offerte nadat het afgesproken gebruik is gecontroleerd.

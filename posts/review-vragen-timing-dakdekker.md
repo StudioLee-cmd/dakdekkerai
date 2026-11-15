@@ -70,4 +70,4 @@ Het verschil tussen een bedrijf met 10 reviews en een bedrijf met 80 reviews is 
 
 Reviews zijn het sterkste wapen voor lokale vindbaarheid. Elke tevreden klant die geen review achterlaat, is een gemiste kans om je concurrent te verslaan op Google. Het verschil zit niet in het vragen, maar in het juiste moment kiezen.
 
-Wil je weten hoe jouw reviewstrategie er nu voorstaat? Vraag een [gratis scan](/gratis-scan) aan en ontdek binnen een week waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw reviewstrategie er nu voorstaat? Vraag een [gratis scan](/gratis-scan) aan en ontdek binnen een week waar je kansen liggen.

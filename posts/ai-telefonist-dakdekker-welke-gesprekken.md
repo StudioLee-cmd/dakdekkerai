@@ -139,4 +139,4 @@ Een AI telefonist voor dakdekkers is geen science fiction meer. Hij voert prima 
 
 De vraag is niet "kan hij echt een gesprek voeren?", maar "hoeveel oproepen wil je nog missen?" Voor een dakdekker met 5 gemiste oproepen per week en een gemiddelde dealwaarde van 800 euro betekent dat 2 tot 4 extra opdrachten per maand. Daarmee is de keuze eenvoudig.
 
-Wil je weten hoe dit voor jouw bedrijf werkt? Vraag een [gratis scan](/gratis-scan) aan en we laten zien op welke gesprekken je nu omzet misloopt, met onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe dit voor jouw bedrijf werkt?

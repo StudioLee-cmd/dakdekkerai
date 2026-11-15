@@ -126,7 +126,6 @@ Bij DakdekkerAI helpen we dakdekker-bedrijven hun branding professioneel opzette
 - Een [gratis website voor dakdekkers](/gratis-website) met EXACT dezelfde branding als je bus (kleuren, logo, lettertype)
 - Een merkbeleving-document (kleur-codes, lettertype, logo-versies) dat je leveranciers krijgen
 - Een [chatbot voor dakdekkers](/chatbot) met QR-code geintegreerd in je bus-design
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor dakdekkers](/gratis-scan) of bekijk onze [tarieven DakdekkerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

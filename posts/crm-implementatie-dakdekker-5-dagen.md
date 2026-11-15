@@ -98,6 +98,6 @@ Dat hangt af van of je het zelf inricht of laat inrichten, en welke opvolging je
 
 Een CRM invoeren is geen groot IT-project, het is vijf avonden en een gewoonte. Zet de blokjes deze week in je agenda, kies een systeem dat op je telefoon werkt, en begin bij je 20 beste klanten. Vrijdag staat je klantbeheer live en werkt je opvolging voor je terwijl jij op het dak staat.
 
-Wil je dit niet zelf uitzoeken maar in één keer goed laten neerzetten? DakdekkerAI richt het complete systeem voor je in, inclusief de automatische opvolging, met een Groei-of-Geld-Terug Garantie. Jij dekt het dak, wij regelen de rest.
+Wil je dit niet zelf uitzoeken maar in één keer goed laten neerzetten? Jij dekt het dak, wij regelen de rest.
 
 <p class="lees-ook" style="background-color:rgba(230,126,34,0.12);border-radius:8px;padding:12px 16px;margin:2rem 0;"><strong>Lees ook:</strong> <a href="/blog/crm-dakdekker-klantgegevens-herhaalopdrachten">CRM voor dakdekkers: welke klantgegevens leveren herhaalopdrachten op</a> →</p>

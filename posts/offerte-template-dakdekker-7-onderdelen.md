@@ -135,4 +135,4 @@ Een dak-offerte wordt zelden verloren op de prijs. Hij wordt verloren op de vrag
 
 Zeven blokken dekken dat af. Afbakening, prijsopbouw, meerwerk, voorbehoud, garantie, bewijs en de akkoord-stap. Vier daarvan zijn vaste tekst die je één keer schrijft. De rest vul je per klus in.
 
-Jij dekt het dak, wij regelen de rest. Wil je weten waar in jouw huidige proces de aanvragen weglekken tussen binnenkomst en akkoord, vraag dan een [gratis ai scan voor dakdekkers](/gratis-scan) aan. We kijken mee naar je opvolging en je offertestroom, en je hoort concreet waar het misgaat. Werken we samen, dan geldt onze Groei-of-Geld-Terug Garantie, zodat je niet betaalt voor beloftes maar voor resultaat.
+Jij dekt het dak, wij regelen de rest. Wil je weten waar in jouw huidige proces de aanvragen weglekken tussen binnenkomst en akkoord, vraag dan een [gratis ai scan voor dakdekkers](/gratis-scan) aan. We kijken mee naar je opvolging en je offertestroom, en je hoort concreet waar het misgaat.

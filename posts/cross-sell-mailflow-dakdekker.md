@@ -87,4 +87,4 @@ Loop met een testcontact de volledige route door: goedgekeurde aanleiding, eerst
 
 Zo wordt [lead-opvolging automatiseren dakdekker](/automatisering) een hulpmiddel bij je vakwerk. De automatisering bewaakt het afgesproken contactmoment. Jij beslist welk vervolg bij het dak en de klant past.
 
-Wil je weten waar deze overgang in jouw bedrijf blijft hangen? Vraag een [gratis AI-scan voor dakdekkers](/gratis-scan) aan. DakdekkerAI kijkt mee naar de aansluiting tussen werkbon, klantkaart en opvolging. De Groei-of-Geld-Terug Garantie spreken we apart af voor betaalde SEO- of resultaat-add-ons: welk resultaat telt, binnen welke termijn en hoe we dat aantonen. De standaard maandprijs valt daarbuiten. Er is geen belofte over renovatieopdrachten of omzet.
+Wil je weten waar deze overgang in jouw bedrijf blijft hangen? Vraag een [gratis AI-scan voor dakdekkers](/gratis-scan) aan. DakdekkerAI kijkt mee naar de aansluiting tussen werkbon, klantkaart en opvolging. De standaard maandprijs valt daarbuiten. Er is geen belofte over renovatieopdrachten of omzet.
