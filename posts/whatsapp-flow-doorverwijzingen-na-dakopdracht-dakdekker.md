@@ -132,7 +132,6 @@ Bij DakdekkerAI helpen we dakdekkers hun referral-flow professioneel inrichten m
 - Een [voice ai voor dakdekkers](/voice-ai) die warme doorverwijzingen kan opbellen wanneer jij geen tijd hebt
 - Een review-tracking dashboard dat per klant ziet wie heeft beoordeeld én doorverwezen
 - Een beloningssjabloon voor referral-rewards (cadeaubon, korting, of niks) zodat klanten weten wat ze krijgen
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor dakdekkers](/gratis-scan) of bekijk onze [tarieven DakdekkerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

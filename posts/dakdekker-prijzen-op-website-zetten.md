@@ -90,7 +90,7 @@ Dakdekkers die richtprijzen toevoegen rapporteren:
 
 Prijzen tonen op je website is geen risico — het is een kans. Met slimme richtprijzen, duidelijke voorwaarden en voorbeeldprojecten trek je serieuze klanten aan die al weten wat ze kunnen verwachten.
 
-Met [DakdekkerAI](/) helpen we je bij een professionele online aanwezigheid die vertrouwen wekt. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [DakdekkerAI](/) helpen we je bij een professionele online aanwezigheid die vertrouwen wekt. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer opdrachten binnenhaalt.
 

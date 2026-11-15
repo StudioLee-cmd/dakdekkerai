@@ -92,7 +92,7 @@ Drie scenario's:
 - **Kies een webbureau als** je een uniek design wilt, een groter marketingbudget hebt (€5.000+ in jaar één), en een vast contactpersoon prefereert die elke maand met je sparrt over de site.
 - **Kies een AI-platform als** je snel een professionele dakdekker-website wilt zonder gedoe, een vaste maandprijs prefereert boven losse facturen, en automatische updates belangrijker vindt dan volledige design-vrijheid. Past voor verreweg de meeste Nederlandse dakdekkers.
 
-Twijfel je nog? De meeste AI-platforms bieden een proefperiode of een gratis demo aan. Bekijk de [gratis website voor dakdekkers](https://www.dakdekkerai.nl/gratis-website) van DakdekkerAI om te zien of de aanpak bij je bedrijf past — geen bouwkosten, geen lange contracten, en een Groei-of-Geld-Terug Garantie als de site geen klussen oplevert.
+Twijfel je nog? De meeste AI-platforms bieden een proefperiode of een gratis demo aan.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/foto-portfolio-dakdekker-privacy-zichtbaarheid-2026" class="text-dark fw-semibold">Foto-portfolio dakdekker: privacy + zichtbaarheid 2026</a> →</p></div></div></div>
 

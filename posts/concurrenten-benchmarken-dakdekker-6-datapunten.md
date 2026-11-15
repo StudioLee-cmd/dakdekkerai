@@ -83,7 +83,7 @@ In de praktijk zien we drie patronen terugkomen bij dakdekkers die dit voor het 
 
 De hele benchmark hierboven kost je 30 minuten, en herhaal je idealiter elk kwartaal. Dat is doenbaar maar wordt vergeten zodra het zomerseizoen losbarst. Bij DakdekkerAI doen we exact deze zes datapunten continu voor je in de achtergrond. Een [gratis ai scan voor dakdekkers](/gratis-scan) vergelijkt jouw beweging met die van je drie grootste concurrenten, en stuurt je een appje zodra er iets verandert. Een concurrent die ineens 12 reviews wint in twee weken, een nieuwe dakdekker die opduikt in jouw top-10, een ranking-zakking op je kernterm.
 
-Het verschil tussen handmatig en automatisch: de 30 minuten benchmark vertelt je wat er nú is. De continue scan vertelt je wat er beweegt, dus waar je vóór de concurrent moet zijn. Voor dakdekkers die deze stap zetten, geldt onze Groei-of-Geld-Terug Garantie: meetbare beweging op je [ai seo voor dakdekkers](/seo) binnen 90 dagen, of je krijgt de investering volledig terug.
+Het verschil tussen handmatig en automatisch: de 30 minuten benchmark vertelt je wat er nú is. De continue scan vertelt je wat er beweegt, dus waar je vóór de concurrent moet zijn.
 
 Jij dekt het dak, wij regelen de rest. Dat is letterlijk de hele afspraak.
 

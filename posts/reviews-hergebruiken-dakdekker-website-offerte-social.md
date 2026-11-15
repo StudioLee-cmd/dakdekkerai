@@ -126,6 +126,6 @@ Nee, en dat is precies waar het bij de meeste dakdekkers misgaat. Het verzamelen
 
 Je reviews zijn geen scorebord, ze zijn verkoopmateriaal dat je al betaald hebt. Zet ze op je website als tekst en niet als plaatje. Zet er twee in elke offerte, onder je prijsopbouw. En maak er elke twee weken een social post van bij een foto van de klus.
 
-Wil je dat dit vanzelf gaat, dan zijn er twee dingen nodig: het [automatisch reviews verzamelen voor dakdekkers](/reviews) na elke afgeronde klus, en een site die ze fatsoenlijk toont. Bij DakdekkerAI zit dat in één systeem, inclusief de [gratis website voor dakdekkers](/gratis-website) waarop je beoordelingen meteen goed staan. Alles onder onze Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast als het je niets oplevert.
+Wil je dat dit vanzelf gaat, dan zijn er twee dingen nodig: het [automatisch reviews verzamelen voor dakdekkers](/reviews) na elke afgeronde klus, en een site die ze fatsoenlijk toont. Bij DakdekkerAI zit dat in één systeem, inclusief de [gratis website voor dakdekkers](/gratis-website) waarop je beoordelingen meteen goed staan.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-ai-dakdekker" class="text-dark fw-semibold">Review-respons automatiseren met AI voor dakdekkers</a> →</p>

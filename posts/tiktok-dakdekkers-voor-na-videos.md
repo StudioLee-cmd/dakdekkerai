@@ -73,6 +73,6 @@ Heb je dat halfuur niet, of blijft het er steevast bij inschieten? Dan is dit pr
 
 Je hoeft niet viraal te gaan. Je hoeft niet grappig te zijn. Je hoeft alleen te laten zien wat je elke dag al doet, aan de mensen in jouw regio die binnenkort een dakdekker nodig hebben. De eerste video is altijd de moeilijkste. Daarna is het gewoon je telefoon pakken voor je van het dak komt.
 
-Wil je dat het meteen goed staat en dat de leads die binnenkomen ook echt landen? Bij DakdekkerAI regelen we je social media, je website en je opvolging als één geheel, zodat elke view een kans wordt in plaats van een gemiste opdracht. We werken met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou. Kijk wat er mogelijk is met een [gratis website voor dakdekkers](/gratis-website) en zet vandaag de eerste stap.
+Wil je dat het meteen goed staat en dat de leads die binnenkomen ook echt landen? Bij DakdekkerAI regelen we je social media, je website en je opvolging als één geheel, zodat elke view een kans wordt in plaats van een gemiste opdracht. Kijk wat er mogelijk is met een [gratis website voor dakdekkers](/gratis-website) en zet vandaag de eerste stap.
 
 Jij dekt het dak, wij regelen de rest.

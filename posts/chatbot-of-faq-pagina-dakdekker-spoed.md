@@ -104,6 +104,6 @@ Begin met twintig echte vragen uit je eigen berichten. Dat dekt het overgrote de
 
 Je FAQ-pagina is geen fout. Hij is alleen af als hij ophoudt waar het interessant wordt. Alles wat kan wachten hoort daar te staan, want dat scheelt je telefoontjes en het maakt je vindbaar. Alles wat vanavond speelt hoort in een gesprek dat eindigt met een naam, een postcode en een nummer, want anders staat die bezoeker zo bij je concurrent.
 
-Wil je zien wat jouw site nu doet met een spoedbezoeker om tien uur 's avonds? Kijk dan eerst naar het fundament: een [gratis website voor dakdekkers](/gratis-website) die het gesprek aankan, met je FAQ en je bot op dezelfde set antwoorden. DakdekkerAI levert met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons en niet bij jou. Jij dekt het dak, wij regelen de rest.
+Wil je zien wat jouw site nu doet met een spoedbezoeker om tien uur 's avonds? Kijk dan eerst naar het fundament: een [gratis website voor dakdekkers](/gratis-website) die het gesprek aankan, met je FAQ en je bot op dezelfde set antwoorden. Jij dekt het dak, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-trainen-dakdekker-data-4-manieren" class="text-dark fw-semibold">AI-chatbot trainen op je dakdekker-data: 4 manieren</a> →</p></div></div></div>
