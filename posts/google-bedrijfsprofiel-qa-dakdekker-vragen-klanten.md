@@ -143,4 +143,4 @@ Zoek je bedrijf en je belangrijkste diensten op zoals een klant dat zou doen, op
 
 De twaalf vragen hierboven zijn nog steeds de juiste twaalf. Wat veranderd is, is dat het antwoord niet meer in een vakje op je profiel past maar op je eigen site en in je profielvelden moet staan. Dat is meer werk dan vroeger, en het werkt breder door: dezelfde pagina bedient het AI-antwoord, de zoekresultaten en de bezoeker die alsnog doorklikt.
 
-Wil je weten waar jouw profiel nu staat en welke van deze twaalf antwoorden nergens te vinden zijn? Plan een [gratis ai scan voor dakdekkers](/gratis-scan) via [cal.com/studiolee](https://cal.com/studiolee). Wij lopen je profiel en je site na en laten zien welke antwoorden ontbreken.
+Wil je weten waar jouw profiel nu staat en welke van deze twaalf antwoorden nergens te vinden zijn? Plan een [gratis ai scan voor dakdekkers](/gratis-scan) via [de demo-aanvraag](/demo). Wij lopen je profiel en je site na en laten zien welke antwoorden ontbreken.
