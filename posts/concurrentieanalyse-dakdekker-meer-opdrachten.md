@@ -12,13 +12,13 @@ cluster: "branding"
 
 De dakdekkersbranche is competitief. Er zijn veel bedrijven die vergelijkbare diensten aanbieden, en klanten kiezen vaak op basis van prijs, snelheid of online reputatie. Zonder goed inzicht in je concurrentie loop je het risico om opdrachten te missen die je had kunnen winnen.
 
-Een concurrentieanalyse helpt je om strategische keuzes te maken. Je ontdekt waar je concurrenten sterk zijn, waar ze tekort schieten, en waar jij kunt inspringen. Het is de basis voor groei — niet harder werken, maar slimmer positioneren.
+Een concurrentieanalyse helpt je om strategische keuzes te maken. Je ontdekt waar je concurrenten sterk zijn, waar ze tekort schieten, en waar jij kunt inspringen. Het is de basis voor groei: niet harder werken, maar slimmer positioneren.
 
 De meeste dakdekkers doen dit niet structureel. Dat betekent dat je met relatief weinig moeite al een voorsprong kunt opbouwen.
 
 ## Lokale concurrentie in kaart brengen
 
-Begin met een Google-zoekopdracht op "dakdekker [jouw regio]". Noteer de eerste 10 resultaten — dat zijn je directe concurrenten online.
+Begin met een Google-zoekopdracht op "dakdekker [jouw regio]". Noteer de eerste 10 resultaten. Dat zijn je directe concurrenten online.
 
 Kijk ook op platforms zoals Werkspot waar veel dakdekkers actief zijn. Bekijk per concurrent:
 - Hoe ziet hun website eruit? Is er een offerte-formulier?
@@ -71,7 +71,7 @@ Dit zijn dingen die klanten onthouden en doorvertellen. En doorverwijzingen zijn
 
 1. **Analyseer de top 5 concurrenten** in jouw regio op website, reviews en diensten.
 2. **Verbeter je Google Bedrijfsprofiel** met projectfoto's en een compleet profiel.
-3. **Verzamel meer reviews** — streef naar minimaal 25 met een 4.5+ score.
+3. **Verzamel meer reviews**: streef naar minimaal 25 met een 4.5+ score.
 4. **Kies een specialisatie** om mee naar buiten te treden.
 5. **Verbeter je responstijd** op offerte-aanvragen. Snelheid wint opdrachten.
 

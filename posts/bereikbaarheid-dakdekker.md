@@ -8,7 +8,7 @@ image: "/images/blog/bereikbaarheid-dakdekker.png"
 tags: ["Klantenservice"]
 cluster: "voice-ai"
 ---
-Het stormt. Tientallen huiseigenaren ontdekken lekkages en losse dakpannen. Ze pakken hun telefoon en bellen de eerste dakdekker die ze vinden. Als jij niet opneemt, belt de volgende. Die klant ben je kwijt — definitief.
+Het stormt. Tientallen huiseigenaren ontdekken lekkages en losse dakpannen. Ze pakken hun telefoon en bellen de eerste dakdekker die ze vinden. Als jij niet opneemt, belt de volgende. Die klant ben je kwijt, definitief.
 
 [Bereikbaarheid](/voice-ai) is voor dakdekkers geen luxe, het is een bedrijfskritische vaardigheid. In dit artikel lees je hoe je het organiseert.
 
@@ -20,7 +20,7 @@ Gemiste telefoontjes kosten je direct omzet:
 
 - Een gemiddelde dakreparatie levert EUR 500-2.000 op
 - Een gemist telefoontje in het stormseizoen = een gemiste klant
-- Die klant belt nooit terug — ze vinden iemand anders
+- Die klant belt nooit terug: ze vinden iemand anders
 
 ## De uitdaging: op het dak en aan de telefoon
 
@@ -62,7 +62,7 @@ Je [website](/blog/dakdekker-website-conversie-meer-aanvragen) moet klanten ook 
 
 ## Bereikbaarheid en je reputatie
 
-Klanten die snel geholpen worden, laten betere [Google reviews](/blog/meer-google-reviews-als-dakdekker) achter. "Snel gereageerd", "dezelfde dag nog langs" — dat soort reviews trekt meer klanten aan dan welke advertentie ook.
+Klanten die snel geholpen worden, laten betere [Google reviews](/blog/meer-google-reviews-als-dakdekker) achter. "Snel gereageerd", "dezelfde dag nog langs": dat soort reviews trekt meer klanten aan dan welke advertentie ook.
 
 ## Seizoenspieken beheersen
 
@@ -74,6 +74,6 @@ In het stormseizoen (oktober-maart) is de vraag het hoogst. Bereid je voor:
 
 ## Hulp nodig?
 
-Bij DakdekkerAI helpen we dakdekkers met het verbeteren van hun bereikbaarheid via slimme automatisering. Van AI-telefoonassistenten tot automatische terugbelberichten — alles voor slechts 15 minuten per maand van jouw tijd.
+Bij DakdekkerAI helpen we dakdekkers met het verbeteren van hun bereikbaarheid via slimme automatisering. Van AI-telefoonassistenten tot automatische terugbelberichten: alles voor slechts 15 minuten per maand van jouw tijd.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

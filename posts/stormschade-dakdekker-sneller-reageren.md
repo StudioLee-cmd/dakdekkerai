@@ -18,9 +18,9 @@ Het verschil tussen een volle agenda voor de komende maand en een gemiste kans? 
 
 Stormschade is niet te plannen, maar wél te voorspellen. Het KNMI geeft waarschuwingen dagen van tevoren af. Slimme dakdekkers bereiden zich voor:
 
-- **Code geel/oranje** — de telefoon gaat binnen 24 uur ontploffen
-- **Nazomer en herfst** — september tot december is traditioneel stormpiek
-- **Februari-maart** — de laatste winterstormen leveren opnieuw veel klussen op
+- **Code geel/oranje**: de telefoon gaat binnen 24 uur ontploffen
+- **Nazomer en herfst**: september tot december is traditioneel stormpiek
+- **Februari-maart**: de laatste winterstormen leveren opnieuw veel klussen op
 
 Wie voorbereid is, hoeft niet te improviseren als het zover is.
 
@@ -40,7 +40,7 @@ Maak een pagina specifiek voor stormschade. Beschrijf wat klanten moeten doen bi
 
 ### 3. Automatiseer je telefonische bereikbaarheid
 
-Tijdens een storm word je platgebeld — maar je kunt niet tien telefoontjes tegelijk aannemen. Met AI-telefonie wordt elke beller professioneel te woord gestaan:
+Tijdens een storm word je platgebeld, maar je kunt niet tien telefoontjes tegelijk aannemen. Met AI-telefonie wordt elke beller professioneel te woord gestaan:
 
 - Wat is het probleem? (lekkage, dakpannen los, goot afgebroken)
 - Waar? (adres en postcode)
@@ -78,7 +78,7 @@ Seizoenswerk hoeft niet te betekenen dat je inkomen ook seizoensgebonden is.
 
 ## Conclusie
 
-Stormschade is niet te voorkomen — maar gemiste klussen wél. De dakdekker die snel reageert, bereikbaar is en georganiseerd werkt, pakt het merendeel van de opdrachten.
+Stormschade is niet te voorkomen, maar gemiste klussen wél. De dakdekker die snel reageert, bereikbaar is en georganiseerd werkt, pakt het merendeel van de opdrachten.
 
 Met [DakdekkerAI](/) zorg je dat elke oproep wordt opgevangen, ook als jij op het dak staat. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

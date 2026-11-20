@@ -22,7 +22,7 @@ Vier vrouwen en mannen lezen jouw Google reviews voordat ze je bellen. Eén nega
 
 De cijfers achter dit gedrag:
 
-- Bedrijven met een gemiddelde van 4,2 sterren krijgen meer aanvragen dan bedrijven met 4,9 sterren — omdat 4,9 onnatuurlijk lijkt en 4,2 menselijk
+- Bedrijven met een gemiddelde van 4,2 sterren krijgen meer aanvragen dan bedrijven met 4,9 sterren, omdat 4,9 onnatuurlijk lijkt en 4,2 menselijk
 - Wie een negatieve review zonder reactie ziet, kiest in de regel voor een ander bedrijf
 - Een nette reactie op een negatieve review haalt een flink deel van die twijfelaars juist wel over
 
@@ -40,7 +40,7 @@ Drie regels voor het schrijven van die eerste reactie:
 
 3. **Houd het kort.** Drie tot vier zinnen. Lange defensieve reacties lezen als excuses. Korte oplossingsgerichte reacties lezen als professionaliteit.
 
-## Een professioneel publiek antwoord — voorbeeldsjabloon
+## Een professioneel publiek antwoord: voorbeeldsjabloon
 
 Hier een sjabloon dat in vrijwel elke situatie werkt:
 
@@ -88,7 +88,7 @@ Hoe je een review laat verwijderen:
 3. Klik op "Markeer als ongepast"
 4. Kies de juiste categorie
 
-Google beoordeelt het verzoek meestal binnen een week. Zorg wel dat je een legitieme reden hebt — gewoon een negatieve review die je niet leuk vindt is geen verwijderingsgrond.
+Google beoordeelt het verzoek meestal binnen een week. Zorg wel dat je een legitieme reden hebt, want gewoon een negatieve review die je niet leuk vindt is geen verwijderingsgrond.
 
 Voor reviews waar je echt last van hebt en die niet worden verwijderd, kun je via je Google Bedrijfsprofielmanager nog een formeel verzoek indienen of een vraag stellen via Google Support.
 

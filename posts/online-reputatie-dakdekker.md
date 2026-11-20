@@ -24,8 +24,8 @@ Een dakdekker met sterke reviews trekt:
 
 | Platform | Belang |
 |----------|--------|
-| Google | Zeer hoog — eerste zoekresultaat |
-| Werkspot | Hoog — veel dakdekkers actief |
+| Google | Zeer hoog, eerste zoekresultaat |
+| Werkspot | Hoog, veel dakdekkers actief |
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dakdekker) is je belangrijkste digitale visitekaartje.
 
@@ -37,7 +37,7 @@ Het beste moment: wanneer de klant het afgewerkte dak voor het eerst ziet. De te
 
 ### Na het stormseizoen
 
-Klanten die je hebt geholpen met [stormschade](/blog/stormschade-dakdekker-sneller-reageren), zijn het meest dankbaar. Vraag hen expliciet om een review — de urgentie en opluchting maken sterke reviews.
+Klanten die je hebt geholpen met [stormschade](/blog/stormschade-dakdekker-sneller-reageren), zijn het meest dankbaar. Vraag hen expliciet om een review, want de urgentie en opluchting maken sterke reviews.
 
 ### Automatiseer het
 
@@ -45,21 +45,21 @@ Met een systeem dat na elke klus automatisch een reviewverzoek stuurt, bouw je s
 
 ## Omgaan met negatieve reviews
 
-Dakwerk is weerafhankelijk. Vertragingen door regen, onverwachte schade onder bestaande lagen — klachten kunnen voorkomen. Reageer altijd professioneel en bied een oplossing.
+Dakwerk is weerafhankelijk. Vertragingen door regen, onverwachte schade onder bestaande lagen: klachten kunnen voorkomen. Reageer altijd professioneel en bied een oplossing.
 
 Combineer een sterke reviewscore met projectfoto's en actieve [social media](/blog/social-media-dakdekkers-projecten) voor een compleet professioneel beeld.
 
 ## Reviews en prijsstelling
 
-Dakdekkers met meer dan 40 positieve reviews kunnen hogere tarieven hanteren. Klanten betalen graag meer voor een dakdekker die bewezen betrouwbaar is. Reviews zijn het bewijs — ze verminderen prijsonderhandeling en versterken je [offerteproces](/blog/offertes-dakdekker-sneller-reageren).
+Dakdekkers met meer dan 40 positieve reviews kunnen hogere tarieven hanteren. Klanten betalen graag meer voor een dakdekker die bewezen betrouwbaar is. Reviews zijn het bewijs: ze verminderen prijsonderhandeling en versterken je [offerteproces](/blog/offertes-dakdekker-sneller-reageren).
 
 ## Seizoensgebonden reputatiestrategie
 
-In het najaar en de winter zijn dakdekkers het drukst. Vraag in deze periode actief om reviews. In het voorjaar — wanneer klanten preventief onderhoud plannen — staat je reviewscore sterk en trek je nieuwe klanten aan. Plan je reviewstrategie zoals je je projecten plant: structureel en vooruit.
+In het najaar en de winter zijn dakdekkers het drukst. Vraag in deze periode actief om reviews. In het voorjaar, wanneer klanten preventief onderhoud plannen, staat je reviewscore sterk en trek je nieuwe klanten aan. Plan je reviewstrategie zoals je je projecten plant: structureel en vooruit.
 
 ## Reviews als concurrentievoordeel
 
-In een markt met veel aanbieders is je reviewscore vaak het doorslaggevende verschil. Twee dakdekkers met vergelijkbare prijzen en ervaring — de een met 50 reviews en 4,9 sterren, de ander met 5 reviews en geen score. De keuze is duidelijk. Begin vandaag met het opbouwen van dat voorsprong.
+In een markt met veel aanbieders is je reviewscore vaak het doorslaggevende verschil. Twee dakdekkers met vergelijkbare prijzen en ervaring: de een met 50 reviews en 4,9 sterren, de ander met 5 reviews en geen score. De keuze is duidelijk. Begin vandaag met het opbouwen van dat voorsprong.
 
 ## Hulp nodig?
 

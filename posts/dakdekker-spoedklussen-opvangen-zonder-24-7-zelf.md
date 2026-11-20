@@ -39,7 +39,7 @@ Lees onze volledige aanpak voor [een AI telefonist voor dakdekkers](/voice-ai) v
 
 ## Hoe het onderscheid tussen spoed en plan-werk gemaakt wordt
 
-De kern van een goede dakdekkers-AI zit in het spoed-filter. Het is niet genoeg om alleen op woorden als "spoed" of "lek" te triggeren — de meeste bellers gebruiken die woorden niet letterlijk. Het filter werkt op een combinatie van signalen.
+De kern van een goede dakdekkers-AI zit in het spoed-filter. Het is niet genoeg om alleen op woorden als "spoed" of "lek" te triggeren, want de meeste bellers gebruiken die woorden niet letterlijk. Het filter werkt op een combinatie van signalen.
 
 Typische spoed-signalen:
 - Actieve werkwoorden: "stroomt", "loopt", "drijft", "schiet"
@@ -72,7 +72,7 @@ Investering: 60 tot 200 euro per maand voor de AI telefonist, 500 tot 1.500 euro
 
 Een paar dingen die dakdekkers proberen en die slecht werken:
 
-**Voicemail met professionele tekst.** Werkt niet bij spoed. De klant met een lek luistert dat niet af — ze hangen op en bellen de volgende naam. Jouw professionele tekst is een lege poging.
+**Voicemail met professionele tekst.** Werkt niet bij spoed. De klant met een lek luistert dat niet af. Ze hangen op en bellen de volgende naam. Jouw professionele tekst is een lege poging.
 
 **Generieke callcenter-dienst zonder dakdekkers-context.** Vraagt vijf minuten je naam en telefoonnummer maar heeft geen idee wat "nok-lek" of "rietdak" is, kan geen zinnig onderscheid maken tussen spoed en plan. Klant voelt zich niet serieus genomen, haakt af, gaat naar de volgende.
 
@@ -97,7 +97,7 @@ Een invoeringstraject in drie weken:
 
 - **Week 1:** noteer een week lang per inkomende oproep het tijdstip, het probleem, de uitkomst (geboekt of niet). Dit is je nulmeting.
 - **Week 2:** kies een leverancier met dakdekkers-specifieke training en lokale ondersteuning, zet de eerste intake-flow op
-- **Week 3:** zachte live — AI pakt het merendeel op, jij nog een deel zelf voor vergelijking. Monitor de eerste 30 gesprekken.
+- **Week 3:** zachte live (AI pakt het merendeel op, jij nog een deel zelf voor vergelijking). Monitor de eerste 30 gesprekken.
 - **Week 4 en verder:** volledig actief, maandelijkse review
 
 Wil je dat STUDIOLEE de volledige AI telefonist voor jouw dakdekkersbedrijf opzet, inclusief training op jouw taalgebruik, agenda-integratie en maandelijkse optimalisatie? Doe onze [gratis AI-scan](/gratis-scan) voor een concrete berekening van hoeveel extra maandomzet je kunt halen uit de oproepen die je nu mist. Binnen vijf minuten een realistisch plan, zonder verplichting.

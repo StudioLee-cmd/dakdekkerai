@@ -8,13 +8,13 @@ image: "/images/blog/google-bedrijfsprofiel-dakdekker.png"
 tags: ["Lokale marketing"]
 cluster: "vindbaarheid"
 ---
-Wanneer iemand zoekt op "dakdekker in de buurt" of "daklekkage reparatie [stad]", toont Google eerst de kaartresultaten. Daar staan drie bedrijven — met sterren, afstand en een directe belknop. Als jij daar niet tussen staat, mis je de meest waardevolle leads die er zijn.
+Wanneer iemand zoekt op "dakdekker in de buurt" of "daklekkage reparatie [stad]", toont Google eerst de kaartresultaten. Daar staan drie bedrijven, met sterren, afstand en een directe belknop. Als jij daar niet tussen staat, mis je de meest waardevolle leads die er zijn.
 
 Je Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is gratis en machtiger dan welke advertentie ook. In dit artikel leer je hoe je het als dakdekker maximaal benut.
 
 ## Waarom het Google Bedrijfsprofiel zo belangrijk is
 
-Google toont lokale bedrijfsresultaten boven de reguliere [zoekresultaten](/seo). Dat betekent dat je Google Bedrijfsprofiel zichtbaarder is dan je eigen website. Voor dakdekkers is dit extra relevant omdat klanten vaak acuut zoeken — bij stormschade, lekkages of geplande renovaties.
+Google toont lokale bedrijfsresultaten boven de reguliere [zoekresultaten](/seo). Dat betekent dat je Google Bedrijfsprofiel zichtbaarder is dan je eigen website. Voor dakdekkers is dit extra relevant omdat klanten vaak acuut zoeken: bij stormschade, lekkages of geplande renovaties.
 
 Een goed geoptimaliseerd profiel levert:
 
@@ -28,11 +28,11 @@ Google beloont volledigheid. Hoe meer informatie je invult, hoe hoger je scoort 
 
 ### De basis
 
-- **Bedrijfsnaam** — exact zoals klanten je kennen
-- **Adres** — je vestigingsadres of servicegebied
-- **Telefoonnummer** — direct bereikbaar, geen doorschakelnummers
-- **Openingstijden** — inclusief weekend en avonden als je die werkt
-- **Website** — link naar je [geoptimaliseerde website](/blog/dakdekker-website-conversie-meer-aanvragen)
+- **Bedrijfsnaam**: exact zoals klanten je kennen
+- **Adres**: je vestigingsadres of servicegebied
+- **Telefoonnummer**: direct bereikbaar, geen doorschakelnummers
+- **Openingstijden**: inclusief weekend en avonden als je die werkt
+- **Website**: link naar je [geoptimaliseerde website](/blog/dakdekker-website-conversie-meer-aanvragen)
 
 ### Categorieeen kiezen
 
@@ -66,7 +66,7 @@ Reviews zijn de belangrijkste rankingfactor voor lokale zoekresultaten. Hoe meer
 
 ### Reageren op reviews
 
-Reageer op elke review — positief en negatief. Google ziet dit als een teken van een actief, betrokken bedrijf.
+Reageer op elke review, positief en negatief. Google ziet dit als een teken van een actief, betrokken bedrijf.
 
 ## Google Posts gebruiken
 

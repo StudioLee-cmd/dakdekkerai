@@ -9,7 +9,7 @@ cluster: "vindbaarheid"
 ---
 ## De realiteit: Google beslist wie de klus krijgt
 
-Iemand heeft een lekkend dak. Het regent. Ze pakken hun telefoon en zoeken "dakdekker spoed [stad]". Ze klikken op het eerste resultaat dat betrouwbaar oogt — en bellen. De dakdekker die bovenaan staat, krijgt de klus. De rest weet van niks.
+Iemand heeft een lekkend dak. Het regent. Ze pakken hun telefoon en zoeken "dakdekker spoed [stad]". Ze klikken op het eerste resultaat dat betrouwbaar oogt, en bellen. De dakdekker die bovenaan staat, krijgt de klus. De rest weet van niks.
 
 Zo werkt het in 2026. Mond-tot-mondreclame is niet genoeg meer. De meeste klanten zoeken online, vergelijken snel, en bellen de eerste die er goed uitziet. Als jij daar niet tussen staat, gaat die opdracht naar de concurrent die het wel goed heeft geregeld.
 
@@ -19,24 +19,24 @@ Het goede nieuws: de meeste dakdekkers hebben hun online aanwezigheid nog niet o
 
 ## Stap 1: Wees zichtbaar op Google Maps voor spoedklussen
 
-Voor urgente zoekopdrachten — lekkage, stormschade, dakinspectie — kijken mensen altijd eerst naar [Google](/seo) Maps. Ze willen een dakdekker in de buurt die snel kan komen, betrouwbaar is en goede reviews heeft.
+Voor urgente zoekopdrachten (lekkage, stormschade, dakinspectie) kijken mensen altijd eerst naar [Google](/seo) Maps. Ze willen een dakdekker in de buurt die snel kan komen, betrouwbaar is en goede reviews heeft.
 
 **Optimaliseer je Google Bedrijfsprofiel:**
 
 - Kies de juiste categorieën: "Dakdekker", "Dakbedekkingsbedrijf", "Dakreparatie"
 - Voeg alle diensten toe die je aanbiedt: daklekkage, dakrenovatie, plat dak, pannen leggen, zink
 - Vermeld je werkgebied duidelijk in de beschrijving (stad en omliggende gemeenten)
-- Upload foto's van je werk — voor en na, materialen, je bus voor een klus
+- Upload foto's van je werk: voor en na, materialen, je bus voor een klus
 - Zet je spoednummer prominent vermeld
 - Reageer op elke review binnen 24 uur
 
-Een volledig Google Bedrijfsprofiel staat hoger in de lokale resultaten dan een half afgemaakt profiel. Het kost je twee uur om het goed in te richten — en levert je daarna structureel meer zichtbaarheid op.
+Een volledig Google Bedrijfsprofiel staat hoger in de lokale resultaten dan een half afgemaakt profiel. Het kost je twee uur om het goed in te richten, en levert je daarna structureel meer zichtbaarheid op.
 
 ---
 
 ## Stap 2: Haal reviews op, ook als je druk bent
 
-Reviews zijn het bewijs dat jij te vertrouwen bent. Een profiel met 50 reviews en een 4,8-score wint het altijd van een profiel met 5 reviews — ook als die 5 allemaal perfect zijn.
+Reviews zijn het bewijs dat jij te vertrouwen bent. Een profiel met 50 reviews en een 4,8-score wint het altijd van een profiel met 5 reviews, ook als die 5 allemaal perfect zijn.
 
 Het probleem voor dakdekkers: je bent de hele dag op het dak of onderweg. Aan het einde van de dag denk je niet meer aan reviews. En de klant ook niet.
 
@@ -54,7 +54,7 @@ Met [automatisering](/blog/review-respons-automatiseren-ai-dakdekker) hoef je er
 
 Een van de grootste verliesposten voor dakdekkers: gemiste oproepen. Iemand belt terwijl jij op het dak staat, of na 17:00. Je neemt niet op. Ze bellen de volgende dakdekker. Die klus is weg.
 
-Een AI Voice Agent pakt de telefoon op als jij dat niet kunt. Hij beantwoordt de basisvragen (werkgebied, spoedreparaties, tarieven), vraagt het contactnummer en de situatie op — en stuurt jou een samenvatting via WhatsApp.
+Een AI Voice Agent pakt de telefoon op als jij dat niet kunt. Hij beantwoordt de basisvragen (werkgebied, spoedreparaties, tarieven), vraagt het contactnummer en de situatie op, en stuurt jou een samenvatting via WhatsApp.
 
 Zo mis je nooit meer een lead, ook niet op een drukke dag of in het weekend.
 
@@ -67,13 +67,13 @@ Je Google-profiel trekt bezoekers aan. Je website moet ze overtuigen om te belle
 **Wat een goede dakdekker-website nodig heeft:**
 
 - Telefoonnummer bovenaan, groot en klikbaar (ook op mobiel)
-- Duidelijk werkgebied vermeld — stad en regio
+- Duidelijk werkgebied vermeld: stad en regio
 - Aparte pagina's per dienst: daklekkage, dakrenovatie, plat dak, zinkwerk, goten
-- Voor-en-na foto's van je werk — echte foto's, geen stockmateriaal
+- Voor-en-na foto's van je werk: echte foto's, geen stockmateriaal
 - Google-reviews zichtbaar op de homepage
 - Laadtijd onder de 3 seconden
 
-Elke aparte dienst-pagina is een extra kans om gevonden te worden. "Plat dak repareren [stad]" is een andere zoekopdracht dan "dakdekker [stad]" — en allebei kun je winnen.
+Elke aparte dienst-pagina is een extra kans om gevonden te worden. "Plat dak repareren [stad]" is een andere zoekopdracht dan "dakdekker [stad]", en allebei kun je winnen.
 
 ---
 
@@ -85,10 +85,10 @@ Denk aan zoekopdrachten die mensen stellen bij dakreparatie:
 
 - "Wat kost een daklekkage repareren?"
 - "Hoe weet ik of mijn dak aan vervanging toe is?"
-- "Dakreparatie of nieuw dak — wanneer is renovatie beter?"
+- "Dakreparatie of nieuw dak: wanneer is renovatie beter?"
 - "Wat doet een dakdekker precies bij stormschade?"
 
-Een artikel van 1.000 woorden dat deze vragen beantwoordt, trekt bezoekers die al klaar zijn om te bellen. Dit zijn warme leads — iemand die zoekt op "wat kost daklekkage repareren" heeft een probleem dat opgelost moet worden.
+Een artikel van 1.000 woorden dat deze vragen beantwoordt, trekt bezoekers die al klaar zijn om te bellen. Dit zijn warme leads: iemand die zoekt op "wat kost daklekkage repareren" heeft een probleem dat opgelost moet worden.
 
 ---
 
@@ -100,7 +100,7 @@ Google kijkt niet alleen naar je eigen website en profiel. Het kijkt ook of je n
 
 - Zet je bedrijf op Yelp, Mijnbedrijfspagina.nl en lokale gidsen
 - Vraag tevreden klanten of ze je ook op Facebook willen aanbevelen
-- Meld je aan bij brancheverenigingen (VDN, IKOB-BKB) — die vermeldingen tellen mee
+- Meld je aan bij brancheverenigingen (VDN, IKOB-BKB), want die vermeldingen tellen mee
 - Zorg dat je NAW-gegevens (naam, adres, website) overal hetzelfde zijn
 
 Consistentie in je bedrijfsgegevens is een signaal aan Google dat je een betrouwbaar, lokaal bedrijf bent.
@@ -112,9 +112,9 @@ Consistentie in je bedrijfsgegevens is een signaal aan Google dat je een betrouw
 Jij hebt geen tijd om dit allemaal zelf te doen. Dat snappen we. DakdekkerAI regelt je volledige online aanwezigheid:
 
 - **Google Bedrijfsprofiel** volledig ingericht en bijgehouden
-- **Automatische reviews** na elke klus — via WhatsApp, volledig vanzelf
+- **Automatische reviews** na elke klus: via WhatsApp, volledig vanzelf
 - **AI Voice Agent** die oproepen beantwoordt als jij op het dak staat
-- **AI Chatbot** voor leadopvang via je website — ook 's avonds en in het weekend
+- **AI Chatbot** voor leadopvang via je website, ook 's avonds en in het weekend
 - **SEO-content** die spoedklanten naar jou toe trekt
 
 Meer opdrachten, minder gemiste kansen, geen marketinggedoe. Zo werkt het.

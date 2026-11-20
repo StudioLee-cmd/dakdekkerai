@@ -12,7 +12,7 @@ cluster: "automatisering"
 ---
 ## Waarom terugkerende klanten goud waard zijn
 
-Een nieuwe klant binnenhalen kost vijf tot zeven keer meer dan een bestaande klant behouden. Voor dakdekkers is dat verschil nog groter, want de meeste opdrachten komen via [Google](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen) of [Werkspot](/blog/werkspot-vs-dakdekkerai-wat-levert-meer-op) — kanalen waar je concurreert op prijs.
+Een nieuwe klant binnenhalen kost vijf tot zeven keer meer dan een bestaande klant behouden. Voor dakdekkers is dat verschil nog groter, want de meeste opdrachten komen via [Google](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen) of [Werkspot](/blog/werkspot-vs-dakdekkerai-wat-levert-meer-op), kanalen waar je concurreert op prijs.
 
 Maar een klant die eerder tevreden was over je werk, belt jou direct. Geen vergelijking met drie concurrenten, geen prijsonderhandeling, geen acquisitiekosten. Die klant vertrouwt je al.
 
@@ -20,11 +20,11 @@ En daken hebben onderhoud nodig. Goten moeten schoongemaakt worden, dakpannen ve
 
 ## Nazorg als strategie
 
-De meeste dakdekkers leveren het project op en gaan door naar de volgende klus. Dat is begrijpelijk — je hebt werk te doen. Maar die paar minuten nazorg na een project zijn de beste investering die je kunt doen.
+De meeste dakdekkers leveren het project op en gaan door naar de volgende klus. Dat is begrijpelijk, want je hebt werk te doen. Maar die paar minuten nazorg na een project zijn de beste investering die je kunt doen.
 
 **Eindinspectie samen met de klant**. Loop na oplevering samen over het dak (of laat foto's zien). Wijs aan wat je hebt gedaan, waar de aandachtspunten zitten en wat de klant zelf in de gaten kan houden. Dit toont vakmanschap en bouwt vertrouwen.
 
-**Schriftelijke garantie meegeven**. Niet een standaard A4-tje, maar een duidelijk document met wat er onder de garantie valt, hoe lang die geldt en hoe de klant je kan bereiken. Dit is ook goed voor je [online reputatie](/blog/meer-google-reviews-als-dakdekker) — klanten noemen garantie vaak in reviews.
+**Schriftelijke garantie meegeven**. Niet een standaard A4-tje, maar een duidelijk document met wat er onder de garantie valt, hoe lang die geldt en hoe de klant je kan bereiken. Dit is ook goed voor je [online reputatie](/blog/meer-google-reviews-als-dakdekker), want klanten noemen garantie vaak in reviews.
 
 **Foto's van het eindresultaat delen**. Stuur de klant een paar nette foto's van het afgewerkte dak. Ze gebruiken het om aan buren en vrienden te laten zien, wat leidt tot mond-tot-mondreclame.
 
@@ -67,6 +67,6 @@ Tevreden klanten zijn je beste marketing. Maar ze verwijzen alleen door als je h
 
 Klantbehoud begint bij goed werk en eindigt bij goede communicatie. Lever kwaliteit, bied nazorg, houd contact en maak doorverwijzen makkelijk.
 
-De dakdekker die dit consequent doet, bouwt een [klantenbestand](/crm) op dat jaar na jaar groeit — zonder steeds opnieuw te moeten concurreren op prijs.
+De dakdekker die dit consequent doet, bouwt een [klantenbestand](/crm) op dat jaar na jaar groeit, zonder steeds opnieuw te moeten concurreren op prijs.
 
 Wil je ontdekken hoe je als dakdekker online beter zichtbaar wordt? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.
