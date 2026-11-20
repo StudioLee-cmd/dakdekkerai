@@ -9,7 +9,7 @@ cluster: "vindbaarheid"
 ---
 ## Waarom lokale vindbaarheid alles bepaalt voor dakdekkers
 
-Als dakdekker werk je lokaal. Je klanten zitten in je regio — huiseigenaren met lekkages, storm­schade of een dak dat aan vervanging toe is. Ze zoeken op Google: "dakdekker [plaatsnaam]" of "daklekkage repareren in de buurt."
+Als dakdekker werk je lokaal. Je klanten zitten in je regio: huiseigenaren met lekkages, storm­schade of een dak dat aan vervanging toe is. Ze zoeken op Google: "dakdekker [plaatsnaam]" of "daklekkage repareren in de buurt."
 
 Als je niet verschijnt bij die zoekopdrachten, bestaan je niet voor deze klanten. Ze bellen de dakdekker die wél bovenaan staat. Lokale SEO is het verschil tussen een volle agenda en wachten op klussen.
 
@@ -27,7 +27,7 @@ De meest waardevolle zoekwoorden voor dakdekkers:
 - **"dakpannen vervangen [plaatsnaam]"**: specifiek, minder concurrentie
 - **"plat dak isoleren"**: specialistisch, laat je expertise zien
 
-Gebruik deze zoekwoorden op je website — in titels, koppen en bodytekst. Niet volproppen, maar natuurlijk verwerken.
+Gebruik deze zoekwoorden op je website: in titels, koppen en bodytekst. Niet volproppen, maar natuurlijk verwerken.
 
 ![Nederlandse daken met dakpannen](/images/blog/lokale-seo-dakdekker-meer-klussen-2.jpg)
 
@@ -35,7 +35,7 @@ Gebruik deze zoekwoorden op je website — in titels, koppen en bodytekst. Niet 
 
 Een website die lokaal goed scoort heeft een paar specifieke kenmerken:
 
-**Locatiepagina's**: als je in meerdere steden werkt, maak dan een pagina per stad. "Dakdekker in Amsterdam", "Dakdekker in Haarlem" — elk met unieke content over je werkzaamheden in dat gebied.
+**Locatiepagina's**: als je in meerdere steden werkt, maak dan een pagina per stad. "Dakdekker in Amsterdam", "Dakdekker in Haarlem": elk met unieke content over je werkzaamheden in dat gebied.
 
 **Contactgegevens overal zichtbaar**: je adres, telefoonnummer en werkgebied moeten op elke pagina staan. Gebruik hetzelfde format als op je Google Bedrijfsprofiel.
 
@@ -50,9 +50,9 @@ Het kaartresultaat (map pack) is de heilige graal van lokale SEO. De drie dakdek
 Hoe je hier terechtkomt:
 
 - **Google Bedrijfsprofiel** volledig invullen met alle specialisaties
-- **Reviews** actief verzamelen — minimaal 20, liefst 50+
+- **Reviews** actief verzamelen: minimaal 20, liefst 50+
 - **Consistente NAP** (Naam, Adres, Telefoonnummer) op alle online platforms
-- **Regelmatige updates** — post foto's van afgeronde projecten, reageer op reviews
+- **Regelmatige updates**: post foto's van afgeronde projecten, reageer op reviews
 
 Google weegt ook je fysieke locatie mee. Je verschijnt eerder in kaartresultaten voor zoekopdrachten dicht bij je vestigingsadres. Daarom is het belangrijk om je werkgebied goed in te stellen.
 

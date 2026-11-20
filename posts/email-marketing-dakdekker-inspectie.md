@@ -12,9 +12,9 @@ cluster: "automatisering"
 ---
 ## Waarom email marketing werkt voor dakdekkers
 
-Een dak is iets waar huiseigenaren pas aan denken als er iets mis is — een lekkage, een losgewaaide dakpan, verstopte goten. Maar preventief onderhoud voorkomt dure reparaties. De meeste klanten weten dat; ze vergeten het alleen.
+Een dak is iets waar huiseigenaren pas aan denken als er iets mis is: een lekkage, een losgewaaide dakpan, verstopte goten. Maar preventief onderhoud voorkomt dure reparaties. De meeste klanten weten dat; ze vergeten het alleen.
 
-Een jaarlijkse inspectieherinnering van jou lost dat op. Het is relevant, het is behulpzaam en het levert je werk op dat je kunt plannen in rustige periodes. Geen acquisitiekosten, geen concurrentie op prijs — gewoon een bestaande klant die terugkomt.
+Een jaarlijkse inspectieherinnering van jou lost dat op. Het is relevant, het is behulpzaam en het levert je werk op dat je kunt plannen in rustige periodes. Geen acquisitiekosten, geen concurrentie op prijs: gewoon een bestaande klant die terugkomt.
 
 ## Je klantenlijst opbouwen
 
@@ -28,9 +28,9 @@ Een jaarlijkse inspectieherinnering van jou lost dat op. Het is relevant, het is
 
 De kern van email marketing voor dakdekkers zijn inspectieherinneringen. Twee momenten per jaar zijn ideaal:
 
-**September/oktober — voor het stormseizoen**. "De herfst begint — is je dak klaar voor regen en wind? Een jaarlijkse inspectie voorkomt dure verrassingen. Plan nu je dakinspectie in." Dit is urgent en seizoensgebonden.
+**September/oktober, voor het stormseizoen**. "De herfst begint. Is je dak klaar voor regen en wind? Een jaarlijkse inspectie voorkomt dure verrassingen. Plan nu je dakinspectie in." Dit is urgent en seizoensgebonden.
 
-**Maart/april — na de winter**. "De winter is voorbij. Tijd om je dak te controleren op schade door vorst, wind en regen. Een korte inspectie geeft je gemoedsrust voor het hele jaar."
+**Maart/april, na de winter**. "De winter is voorbij. Tijd om je dak te controleren op schade door vorst, wind en regen. Een korte inspectie geeft je gemoedsrust voor het hele jaar."
 
 Beide emails genereren direct afspraken. Klanten waarderen de proactiviteit en het gevoel dat je meedenkt.
 
@@ -38,9 +38,9 @@ Beide emails genereren direct afspraken. Klanten waarderen de proactiviteit en h
 
 Naast inspectieherinneringen zijn er meer seizoensmomenten:
 
-- **Na een storm**: "Zware storm gehad? Laat je dak controleren — kleine schade nu repareren voorkomt grote kosten later." Stuur deze mail binnen 48 uur na een storm
+- **Na een storm**: "Zware storm gehad? Laat je dak controleren, want kleine schade nu repareren voorkomt grote kosten later." Stuur deze mail binnen 48 uur na een storm
 - **Zomer**: "Zonnepanelen overwogen? Een goede dakconditie is essentieel. Laat eerst je dak checken"
-- **December**: "Goten schoonmaken voor de winter — voorkom waterschade door verstopte afvoeren"
+- **December**: "Goten schoonmaken voor de winter: voorkom waterschade door verstopte afvoeren"
 
 Elke mail sluit aan bij een natuurlijk moment waarop klanten nadenken over hun dak.
 
@@ -48,12 +48,12 @@ Elke mail sluit aan bij een natuurlijk moment waarop klanten nadenken over hun d
 
 Houd het beheerbaar:
 
-- **Twee seizoensmails per jaar** (september + maart) — ingepland voor het hele jaar
+- **Twee seizoensmails per jaar** (september + maart), ingepland voor het hele jaar
 - **Na elke klus**: tevredenheidsvraag (dag 3) + [reviewverzoek](/blog/meer-google-reviews-als-dakdekker) (dag 7)
 - **Na storm**: handmatige mail naar je hele lijst (snel, hoeft niet perfect)
-- **Maximaal vier mails per jaar** — klanten melden zich anders af
+- **Maximaal vier mails per jaar**, want klanten melden zich anders af
 
-Plan een ochtend in januari om alle mails voor het jaar te schrijven en in te plannen. Vier mails schrijven kost je twee uur — en levert het hele jaar opdrachten op.
+Plan een ochtend in januari om alle mails voor het jaar te schrijven en in te plannen. Vier mails schrijven kost je twee uur en levert het hele jaar opdrachten op.
 
 Een gratis tool als MailerLite is voldoende. Tot 500 contacten is het gratis, inclusief [automatisering](/automatisering).
 

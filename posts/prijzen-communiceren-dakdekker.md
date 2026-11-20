@@ -12,7 +12,7 @@ tags: ["Prijzen", "Verkoop"]
 
 Het is de eerste vraag die elke potentiële klant stelt. En het is de vraag waar de meeste dakdekkers mee worstelen. Te laag en je werkt jezelf in de verliezen. Te hoog en de klant belt de volgende. Geen antwoord geven en ze haken af.
 
-Het probleem is niet de prijs zelf — het is hoe je hem communiceert.
+Het probleem is niet de prijs zelf. Het is hoe je hem communiceert.
 
 ## Waarom "hangt ervan af" niet werkt
 
@@ -45,11 +45,11 @@ In plaats van alleen een getal, vertel wat de factoren zijn: dakoppervlakte, typ
 
 ### 3. Vergelijk niet met de goedkoopste
 
-Positioneer jezelf op kwaliteit, niet op prijs. "Onze dakpannen gaan 50 jaar mee — de goedkopere variant slechts 20." Laat de klant zelf de rekensom maken.
+Positioneer jezelf op kwaliteit, niet op prijs. "Onze dakpannen gaan 50 jaar mee, de goedkopere variant slechts 20." Laat de klant zelf de rekensom maken.
 
 ### 4. Maak offertes visueel
 
-Een kale prijslijst zegt niks. Een offerte met foto's van vergelijkbaar werk, een duidelijke opsomming van wat er gedaan wordt, en een tijdlijn — dat overtuigt.
+Een kale prijslijst zegt niks. Een offerte met foto's van vergelijkbaar werk, een duidelijke opsomming van wat er gedaan wordt, en een tijdlijn: dat overtuigt.
 
 ### 5. Bied opties aan
 
@@ -61,12 +61,12 @@ Geef drie opties: basis, standaard en premium. De meeste klanten kiezen het midd
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als dakdekker.
 
-Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [tarieven](/tarieven) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [tarieven](/tarieven) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 
-Transparant zijn over prijzen kost je geen klanten — het trekt juist de goede klanten aan. Klanten die weten wat iets kost en toch bellen, zijn serieuze kopers. Klanten die afhaken op prijs, hadden je toch niet ingehuurd.
+Transparant zijn over prijzen kost je geen klanten. Het trekt juist de goede klanten aan. Klanten die weten wat iets kost en toch bellen, zijn serieuze kopers. Klanten die afhaken op prijs, hadden je toch niet ingehuurd.
 
 Wil je je website optimaliseren met duidelijke prijscommunicatie? [Vraag een gratis scan aan](/gratis-scan) en we helpen je meer aanvragen binnen te halen.

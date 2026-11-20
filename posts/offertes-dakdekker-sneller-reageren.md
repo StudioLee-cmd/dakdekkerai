@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom snelheid alles is bij dakwerk
 
-Bij dakwerk speelt urgentie vaak een rol. Een lekkage, stormschade of een dak dat dringend onderhoud nodig heeft — klanten willen snel weten wat het kost en wanneer het kan. De dakdekker die als eerste een duidelijke offerte stuurt, wint in de meeste gevallen de klus.
+Bij dakwerk speelt urgentie vaak een rol. Een lekkage, stormschade of een dak dat dringend onderhoud nodig heeft: klanten willen snel weten wat het kost en wanneer het kan. De dakdekker die als eerste een duidelijke offerte stuurt, wint in de meeste gevallen de klus.
 
 Uit onderzoek blijkt dat bedrijven die binnen 24 uur reageren op een aanvraag, vijf keer meer kans hebben om de opdracht te krijgen dan bedrijven die er langer over doen. Bij [dakdekkers](/blog/hoe-dakdekkers-meer-opdrachten-binnenhalen) is dat effect nog sterker, omdat klanten vaak meerdere offertes tegelijk aanvragen.
 
@@ -47,7 +47,7 @@ Een offerte die er professioneel uitziet, converteert beter. Een PDF met je logo
 
 ## Opvolging die werkt
 
-De offerte is verstuurd — en dan? Veel dakdekkers wachten af. Grote fout.
+De offerte is verstuurd, en dan? Veel dakdekkers wachten af. Grote fout.
 
 **Dag 1**: stuur de offerte met een kort begeleidend bericht. Benoem dat je beschikbaar bent voor vragen.
 
@@ -55,7 +55,7 @@ De offerte is verstuurd — en dan? Veel dakdekkers wachten af. Grote fout.
 
 **Dag 7**: als je niets hoort, bel even. Niet opdringerig, maar servicegericht: "Ik wilde even checken of alles duidelijk was in de offerte."
 
-Deze drie contactmomenten verhogen je conversie merkbaar. De meeste concurrenten doen dit niet — dat is je voorsprong.
+Deze drie contactmomenten verhogen je conversie merkbaar. De meeste concurrenten doen dit niet, en dat is je voorsprong.
 
 ## Van offerte naar vaste klant
 

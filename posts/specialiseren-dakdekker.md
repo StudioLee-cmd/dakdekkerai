@@ -15,10 +15,10 @@ Specialiseren is het tegenovergestelde: kies één niche en word er de beste in.
 
 Een generalist concurreert altijd op prijs. Een specialist concurreert op expertise:
 
-- **Hogere marges** — specialisten vragen merkbaar meer
-- **Minder concurrentie** — minder dakdekkers in jouw niche
-- **Betere reviews** — experts leveren beter werk
-- **Doorverwijzingen** — collega's sturen klanten jouw kant op
+- **Hogere marges**: specialisten vragen merkbaar meer
+- **Minder concurrentie**: minder dakdekkers in jouw niche
+- **Betere reviews**: experts leveren beter werk
+- **Doorverwijzingen**: collega's sturen klanten jouw kant op
 
 ## De meest winstgevende specialisaties
 
@@ -54,9 +54,9 @@ Verzamel projectfoto's van je beste werk in die niche. Maak voor-en-na foto's, d
 ### Stap 3: Communiceer je expertise
 
 Update al je online kanalen:
-- [Google Bedrijfsprofiel](/blog/meer-google-reviews-als-dakdekker) — vermeld je specialisatie
-- Website — maak een aparte pagina per specialisatie
-- [Social media](/blog/social-media-dakdekkers-projecten) — deel alleen specialistisch werk
+- [Google Bedrijfsprofiel](/blog/meer-google-reviews-als-dakdekker): vermeld je specialisatie
+- Website: maak een aparte pagina per specialisatie
+- [Social media](/blog/social-media-dakdekkers-projecten): deel alleen specialistisch werk
 
 ### Stap 4: Netwerk binnen je niche
 
@@ -66,9 +66,9 @@ Sluit je aan bij brancheorganisaties, volg opleidingen, haal certificeringen. El
 
 Je hoeft niet alle andere klussen te weigeren. De strategie is:
 
-- **Market als specialist** — al je marketing richt zich op je niche
-- **Accepteer breed** — als er capaciteit is, pak je ook generalist-klussen
-- **Verwijs door** — klussen buiten je specialisatie verwijs je naar collega's (zij doen hetzelfde terug)
+- **Market als specialist**: al je marketing richt zich op je niche
+- **Accepteer breed**: als er capaciteit is, pak je ook generalist-klussen
+- **Verwijs door**: klussen buiten je specialisatie verwijs je naar collega's (zij doen hetzelfde terug)
 
 ## Wat levert het concreet op?
 
@@ -87,4 +87,4 @@ Bij StudioLee helpen we dakdekkers met hun online positionering als specialist. 
 
 ## Conclusie
 
-Specialiseren als dakdekker is niet minder werk doen — het is slimmer werk doen. Door je te richten op een niche, bouw je expertise, [reputatie](/reviews) en een klantenkring die bereid is meer te betalen voor kwaliteit. Begin met het kiezen van je niche en communiceer die keuze overal.
+Specialiseren als dakdekker is niet minder werk doen. Het is slimmer werk doen. Door je te richten op een niche, bouw je expertise, [reputatie](/reviews) en een klantenkring die bereid is meer te betalen voor kwaliteit. Begin met het kiezen van je niche en communiceer die keuze overal.

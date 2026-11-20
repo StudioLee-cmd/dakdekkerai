@@ -14,13 +14,13 @@ Maar de meeste dakdekkers laten dit aan het toeval over. Ze doen goed werk, hope
 
 ## Waarom mond-tot-mondreclame zo goed werkt voor dakdekkers
 
-Dakwerk is een vertrouwensdienst. Klanten laten niet zomaar iemand op hun dak klimmen — ze willen weten dat de vakman betrouwbaar is, kwaliteit levert en eerlijke prijzen hanteert. En dat vertrouwen wordt het sterkst opgebouwd door aanbevelingen van mensen die ze kennen.
+Dakwerk is een vertrouwensdienst. Klanten laten niet zomaar iemand op hun dak klimmen. Ze willen weten dat de vakman betrouwbaar is, kwaliteit levert en eerlijke prijzen hanteert. En dat vertrouwen wordt het sterkst opgebouwd door aanbevelingen van mensen die ze kennen.
 
 De psychologie hierachter is simpel:
 
-- **Sociale bewijskracht** — als je buurman zegt dat een dakdekker goed is, geloof je dat eerder dan een advertentie
-- **Laag risico** — de aanbeveler heeft het al meegemaakt en het was goed
-- **Hogere conversie** — doorverwezen leads converteren een stuk beter dan koude leads
+- **Sociale bewijskracht**: als je buurman zegt dat een dakdekker goed is, geloof je dat eerder dan een advertentie
+- **Laag risico**: de aanbeveler heeft het al meegemaakt en het was goed
+- **Hogere conversie**: doorverwezen leads converteren een stuk beter dan koude leads
 
 ## Wanneer praten klanten over je?
 
@@ -40,13 +40,13 @@ Het oplevermoment is je gouden kans. Een korte rondgang waarin je uitlegt wat je
 
 ### Na de klus
 
-De meeste dakdekkers verdwijnen na de factuur. Maar een simpel telefoontje of berichtje twee weken later — "Alles naar wens? Nog vragen?" — maakt een onuitwisbare indruk. Dit is het moment waarop klanten besluiten je aan te bevelen. Lees ook hoe je [klantbehoud als dakdekker](/blog/klantbehoud-dakdekker-vaste-opdrachtgevers) structureel aanpakt.
+De meeste dakdekkers verdwijnen na de factuur. Maar een simpel telefoontje of berichtje twee weken later ("Alles naar wens? Nog vragen?") maakt een onuitwisbare indruk. Dit is het moment waarop klanten besluiten je aan te bevelen. Lees ook hoe je [klantbehoud als dakdekker](/blog/klantbehoud-dakdekker-vaste-opdrachtgevers) structureel aanpakt.
 
 ## 5 manieren om mond-tot-mondreclame te stimuleren
 
 ### 1. Vraag erom (op het juiste moment)
 
-De simpelste strategie is ook de meest effectieve: vraag je klant om je aan te bevelen. Doe dit niet bij de factuur, maar bij het oplevermoment — wanneer de klant het meest tevreden is.
+De simpelste strategie is ook de meest effectieve: vraag je klant om je aan te bevelen. Doe dit niet bij de factuur, maar bij het oplevermoment, wanneer de klant het meest tevreden is.
 
 Een zin als: *"Mocht u iemand kennen die ook iets aan het dak moet laten doen, ik hoor het graag"* is niet pushy en werkt verrassend goed.
 
@@ -56,7 +56,7 @@ Geef klanten iets concreets om te delen. Dit kan een visitekaartje zijn, maar in
 
 ### 3. Beloon doorverwijzingen
 
-Een klein gebaar voor een succesvolle doorverwijzing versterkt het effect enorm. Denk aan een flesje wijn, een cadeaubon van €25, of korting op de volgende dakonderhoud. Het hoeft niet groot te zijn — het is het gebaar dat telt.
+Een klein gebaar voor een succesvolle doorverwijzing versterkt het effect enorm. Denk aan een flesje wijn, een cadeaubon van €25, of korting op de volgende dakonderhoud. Het hoeft niet groot te zijn, want het is het gebaar dat telt.
 
 ### 4. Zet Google Reviews in als digitale mond-tot-mond
 
@@ -66,21 +66,21 @@ Vraag actief om reviews na elke afgeronde klus. Stuur een WhatsApp-berichtje met
 
 ### 5. Werk samen met aanverwante vakmensen
 
-Schilders, metselaars, loodgieters — zij komen regelmatig bij huiseigenaren die ook dakwerk nodig hebben. Bouw een netwerk van vakmensen die elkaar doorverwijzen. Dit is mond-tot-mondreclame via professionals en levert vaak de grootste projecten op.
+Schilders, metselaars, loodgieters: zij komen regelmatig bij huiseigenaren die ook dakwerk nodig hebben. Bouw een netwerk van vakmensen die elkaar doorverwijzen. Dit is mond-tot-mondreclame via professionals en levert vaak de grootste projecten op.
 
 ## Online mond-tot-mondreclame versterken
 
 In 2026 is mond-tot-mondreclame niet meer beperkt tot gesprekken aan de keukentafel. Het speelt zich ook online af:
 
-- **Buurtgroepen op Facebook en WhatsApp** — hier vragen bewoners regelmatig om aanbevelingen voor vakmensen
-- **Nextdoor** — een platform specifiek voor buurtvragen, inclusief vakmanaanbevelingen
-- **Google Bedrijfsprofiel** — zichtbaar voor iedereen die zoekt
+- **Buurtgroepen op Facebook en WhatsApp**: hier vragen bewoners regelmatig om aanbevelingen voor vakmensen
+- **Nextdoor**: een platform specifiek voor buurtvragen, inclusief vakmanaanbevelingen
+- **Google Bedrijfsprofiel**: zichtbaar voor iedereen die zoekt
 
 Zorg dat je op al deze plekken vindbaar bent, zodat wanneer iemand je naam noemt, de volgende stap (je profiel bekijken, bellen, website bezoeken) eenvoudig is. [Optimaliseer ook je sociale media](/blog/social-media-dakdekkers-projecten) om projecten te tonen die klanten kunnen delen.
 
 ## De managed-service aanpak
 
-Alles zelf regelen naast je daadwerkelijke dakwerk is lastig. Met een managed service hoef je slechts **15 minuten per maand** te besteden aan een kort gesprek. Reviews verzamelen, [online zichtbaarheid](/social-media), social media — het wordt allemaal voor je geregeld.
+Alles zelf regelen naast je daadwerkelijke dakwerk is lastig. Met een managed service hoef je slechts **15 minuten per maand** te besteden aan een kort gesprek. Reviews verzamelen, [online zichtbaarheid](/social-media), social media: het wordt allemaal voor je geregeld.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je meer opdrachten uit mond-tot-mondreclame kunt halen.
 

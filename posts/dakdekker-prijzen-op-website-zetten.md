@@ -20,7 +20,7 @@ Zet je in de schoenen van een huiseigenaar met een lekkend dak:
 - Ze hebben geen idee wat een dakreparatie kost (€200? €2.000? €20.000?)
 - Ze willen weten of het binnen hun budget past voordat ze bellen
 - Ze vergelijken 3-5 dakdekkers tegelijk
-- Een website zonder prijzen voelt ondoorzichtig — "wat hebben ze te verbergen?"
+- Een website zonder prijzen voelt ondoorzichtig: "wat hebben ze te verbergen?"
 
 In een wereld waar je op elke webshop direct een prijs ziet, voelt een website zonder enige indicatie verouderd.
 
@@ -42,7 +42,7 @@ Integendeel. Klanten die prijzen zien en dan contact opnemen, weten al wat ze ku
 
 ### "Mijn concurrent kan mijn prijzen zien"
 
-Je concurrent kent je prijzen al — ze zitten in dezelfde markt. Transparantie is geen zwakte, het is een vertrouwenssignaal.
+Je concurrent kent je prijzen al, want ze zitten in dezelfde markt. Transparantie is geen zwakte, het is een vertrouwenssignaal.
 
 ## Hoe je richtprijzen slim presenteert
 
@@ -70,25 +70,25 @@ Een simpele calculator op je website: "Vul je dakoppervlakte in en ontvang direc
 
 ## Wat je altijd moet vermelden bij prijzen
 
-- **"Richtprijs — exacte prijs na inspectie"** — beschermt je tegen prijsdiscussies
-- **Inclusief/exclusief** — materiaal, arbeid, afvoer, steigerwerk
-- **BTW** — altijd vermelden of het inclusief of exclusief is
-- **Geldigheid** — "Prijzen geldig voor 2026"
-- **Spoedtoeslag** — als je een apart tarief hebt voor noodgevallen
+- **"Richtprijs, exacte prijs na inspectie"**: beschermt je tegen prijsdiscussies
+- **Inclusief/exclusief**: materiaal, arbeid, afvoer, steigerwerk
+- **BTW**: altijd vermelden of het inclusief of exclusief is
+- **Geldigheid**: "Prijzen geldig voor 2026"
+- **Spoedtoeslag**: als je een apart tarief hebt voor noodgevallen
 
 ## De impact op je website
 
 Dakdekkers die richtprijzen toevoegen rapporteren:
-- **Merkbaar meer offerte-aanvragen** — klanten weten wat ze kunnen verwachten
-- **Hogere conversie** — minder verrassingen bij de offerte
-- **Minder tijdverspilling** — klanten met een budget van €500 voor een klus van €5.000 bellen niet
-- **Meer vertrouwen** — transparantie wordt gewaardeerd in een branche waar dat niet altijd vanzelfsprekend is
+- **Merkbaar meer offerte-aanvragen**: klanten weten wat ze kunnen verwachten
+- **Hogere conversie**: minder verrassingen bij de offerte
+- **Minder tijdverspilling**: klanten met een budget van €500 voor een klus van €5.000 bellen niet
+- **Meer vertrouwen**: transparantie wordt gewaardeerd in een branche waar dat niet altijd vanzelfsprekend is
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dakdekkerswebsite-offerte-machine" class="text-dark fw-semibold">Je dakdekkerswebsite als offerte-machine: 5 verbeteringen</a> →</p></div></div></div>
 
 ## Conclusie
 
-Prijzen tonen op je website is geen risico — het is een kans. Met slimme richtprijzen, duidelijke voorwaarden en voorbeeldprojecten trek je serieuze klanten aan die al weten wat ze kunnen verwachten.
+Prijzen tonen op je website is geen risico. Het is een kans. Met slimme richtprijzen, duidelijke voorwaarden en voorbeeldprojecten trek je serieuze klanten aan die al weten wat ze kunnen verwachten.
 
 Met [DakdekkerAI](/) helpen we je bij een professionele online aanwezigheid die vertrouwen wekt. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

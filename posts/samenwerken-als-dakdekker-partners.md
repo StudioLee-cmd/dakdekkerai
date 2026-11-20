@@ -11,7 +11,7 @@ Een dak is nooit alleen een dak. Er zitten zonnepanelen op, isolatie onder en ee
 
 ## Waarom samenwerkingen werken voor dakdekkers
 
-Dakwerk raakt andere disciplines. Een isolatiebedrijf dat het dak niet kan dichten. Een zonnepaneelinstallateur die het dak eerst moet laten vernieuwen. Een loodgieter die daklekkage constateert. Al deze situaties zijn kansen — als je de juiste partners hebt.
+Dakwerk raakt andere disciplines. Een isolatiebedrijf dat het dak niet kan dichten. Een zonnepaneelinstallateur die het dak eerst moet laten vernieuwen. Een loodgieter die daklekkage constateert. Al deze situaties zijn kansen, als je de juiste partners hebt.
 
 Voordelen:
 - Meer klussen via doorverwijzingen
@@ -23,11 +23,11 @@ Voordelen:
 
 | Partner | Samenwerking | Kans |
 |---------|-------------|------|
-| Zonnepaneelbedrijf | Dak vernieuwen voor installatie | Hoog — elk zonnepaneelproject begint bij het dak |
-| Isolatiebedrijf | Dakisolatie + dakbedekking | Hoog — vaak gecombineerd |
+| Zonnepaneelbedrijf | Dak vernieuwen voor installatie | Hoog: elk zonnepaneelproject begint bij het dak |
+| Isolatiebedrijf | Dakisolatie + dakbedekking | Hoog, vaak gecombineerd |
 | Loodgieter | Doorverwijzing bij dakdoorvoeren en lekkage | Gemiddeld-hoog |
 | Makelaar | Dakinspectie bij woningverkoop | Gemiddeld |
-| Gemeente | Verduurzamingssubsidies en collectieve inkoop | Hoog — steeds meer gemeenten stimuleren dakvernieuwing |
+| Gemeente | Verduurzamingssubsidies en collectieve inkoop | Hoog: steeds meer gemeenten stimuleren dakvernieuwing |
 
 ## Een concreet plan
 
@@ -61,7 +61,7 @@ Houd bij welke partners hoeveel klussen opleveren. Bespreek elk kwartaal de resu
 
 ## De lange termijn voordelen
 
-Dakdekkers die hun samenwerkingsnetwerk structureel opbouwen, ervaren na een jaar een fundamentele verandering. In plaats van elke klus zelf te moeten binnenhalen, komen projecten via partners binnen. Dat geeft rust, voorspelbaarheid en de mogelijkheid om selectiever te zijn in welke klussen je aanneemt. De beste dakdekkers kiezen hun projecten — ze hoeven niet meer elke offerte te sturen om werk te hebben. Dat begint bij het opbouwen van een sterk partnernetwerk.
+Dakdekkers die hun samenwerkingsnetwerk structureel opbouwen, ervaren na een jaar een fundamentele verandering. In plaats van elke klus zelf te moeten binnenhalen, komen projecten via partners binnen. Dat geeft rust, voorspelbaarheid en de mogelijkheid om selectiever te zijn in welke klussen je aanneemt. De beste dakdekkers kiezen hun projecten. Ze hoeven niet meer elke offerte te sturen om werk te hebben. Dat begint bij het opbouwen van een sterk partnernetwerk.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/specialiseren-dakdekker" class="text-dark fw-semibold">Specialiseren als dakdekker: nichekennis die meer oplevert</a> →</p></div></div></div>
 

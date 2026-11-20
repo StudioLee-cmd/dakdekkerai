@@ -11,16 +11,16 @@ tags: ["Vindbaarheid"]
 
 Een lekkend dak wacht niet. Wanneer een huiseigenaar waterschade ontdekt, pakt hij de telefoon en zoekt op 'dakdekker in de buurt' of 'daklekkage reparatie spoed'. Wie bovenaan staat in Google Maps, krijgt de klus. Wie er niet staat, wordt niet eens overwogen.
 
-Mond-tot-mondreclame is waardevol, maar onvoldoende. Het bereik is beperkt en je hebt geen controle over het moment. Online vindbaarheid werkt 24/7 — ook 's avonds om 22:00 wanneer iemand het plafond ziet druipen.
+Mond-tot-mondreclame is waardevol, maar onvoldoende. Het bereik is beperkt en je hebt geen controle over het moment. Online vindbaarheid werkt 24/7, ook 's avonds om 22:00 wanneer iemand het plafond ziet druipen.
 
 ## Google Bedrijfsprofiel: de eerste stap
 
 Voor dakdekkers is het Google Bedrijfsprofiel extra belangrijk omdat veel opdrachten urgentiegedreven zijn. Zorg dat:
 
-- **Telefoonnummer direct zichtbaar is** — klanten bellen, ze willen niet mailen
-- **Werkgebied correct staat** — vermeld alle gemeenten waar je werkt
-- **Diensten specifiek zijn** — "dakreparatie", "dakvervanging", "gootonderhoud", "dakisolatie"
-- **Beschikbaarheid duidelijk is** — als je spoedservice biedt, vermeld dat
+- **Telefoonnummer direct zichtbaar is**: klanten bellen, ze willen niet mailen
+- **Werkgebied correct staat**: vermeld alle gemeenten waar je werkt
+- **Diensten specifiek zijn**: "dakreparatie", "dakvervanging", "gootonderhoud", "dakisolatie"
+- **Beschikbaarheid duidelijk is**: als je spoedservice biedt, vermeld dat
 
 ### Seizoensupdates
 
@@ -30,15 +30,15 @@ Dakwerk is seizoensgebonden. Post in het voorjaar over onderhoud, in de herfst o
 
 De waardevolste zoektermen:
 
-- **"dakdekker [stad]"** — basis, hoog volume
-- **"daklekkage repareren [stad]"** — urgent, hoge conversie
-- **"dakisolatie kosten"** — informatief, leidt tot offerteaanvraag
-- **"dakpannen vervangen prijs per m2"** — specifiek, koopintentie
-- **"plat dak laten vernieuwen"** — grote opdracht
+- **"dakdekker [stad]"**: basis, hoog volume
+- **"daklekkage repareren [stad]"**: urgent, hoge conversie
+- **"dakisolatie kosten"**: informatief, leidt tot offerteaanvraag
+- **"dakpannen vervangen prijs per m2"**: specifiek, koopintentie
+- **"plat dak laten vernieuwen"**: grote opdracht
 
 ![Professioneel gereedschap voor dakdekkers](/images/blog/lokale-vindbaarheid-dakdekker-google-2.jpg)
 
-Verwerk deze termen op je website — op dienstenpagina's, in blogartikelen en in de beschrijving van je Google Bedrijfsprofiel.
+Verwerk deze termen op je website: op dienstenpagina's, in blogartikelen en in de beschrijving van je Google Bedrijfsprofiel.
 
 ## Een website die klanten overtuigt
 
@@ -46,9 +46,9 @@ Een goede dakdekker-website bevat:
 
 - **Dienstenpagina's** per specialisatie (hellend dak, plat dak, dakgoten, isolatie)
 - **Een 'Over ons' pagina** met je ervaring, certificeringen en werkgebied
-- **Projectfoto's** — voor-en-na foto's van afgeronde klussen zijn overtuigend
-- **Prijsindicaties** — klanten willen een globaal idee voordat ze bellen
-- **Een klikbaar telefoonnummer** — geen contactformulier als enige optie
+- **Projectfoto's**: voor-en-na foto's van afgeronde klussen zijn overtuigend
+- **Prijsindicaties**: klanten willen een globaal idee voordat ze bellen
+- **Een klikbaar telefoonnummer**, geen contactformulier als enige optie
 
 ## De rol van reviews voor dakdekkers
 
@@ -72,7 +72,7 @@ De eerste resultaten zijn na 4-8 weken zichtbaar. Een dominante positie in je re
 
 ### Moet ik kiezen tussen Werkspot en eigen SEO?
 
-Nee. De slimste dakdekkers doen beide — Werkspot voor directe leads en SEO voor langetermijngroei. Naarmate je SEO sterker wordt, verschuift het zwaartepunt vanzelf naar directe klanten.
+Nee. De slimste dakdekkers doen beide: Werkspot voor directe leads en SEO voor langetermijngroei. Naarmate je SEO sterker wordt, verschuift het zwaartepunt vanzelf naar directe klanten.
 
 ### Wat als mijn concurrent ook aan SEO doet?
 
@@ -82,4 +82,4 @@ Dan win je op consistentie. De meeste dakdekkers starten met SEO maar stoppen na
 
 Als dakdekker is lokale [vindbaarheid](/blog/stadspaginas-dakdekker-zonder-duplicate-content) je meest rendabele investering. Een geoptimaliseerd Google Bedrijfsprofiel, een sterke website, structurele reviews en regelmatige content brengen je bovenaan bij de klanten die je het hardst nodig hebben.
 
-Start een [gratis scan](/gratis-scan) en ontdek wat je online zichtbaarheid je nu kost — en wat het kan opleveren.
+Start een [gratis scan](/gratis-scan) en ontdek wat je online zichtbaarheid je nu kost, en wat het kan opleveren.
