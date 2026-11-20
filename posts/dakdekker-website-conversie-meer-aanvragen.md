@@ -1,7 +1,7 @@
 ---
 title: "Je dakdekker-website laten converteren: van bezoeker naar aanvraag"
 seoTitle: "Je dakdekker-website laten converteren"
-excerpt: "Je dakdekker-website krijgt bezoekers, maar geen aanvragen? Het probleem zit niet in je SEO — het zit in je conversie. Vijf snelle fixes."
+excerpt: "Je dakdekker-website krijgt bezoekers, maar geen aanvragen? Het probleem zit niet in je SEO. Het zit in je conversie. Vijf snelle fixes."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dakdekker-website-conversie-meer-aanvragen.png"
@@ -14,9 +14,9 @@ Veel dakdekkers investeren in een [website](/gratis-website) en SEO, krijgen bez
 
 ## Wat een bezoeker zoekt in 5 seconden
 
-1. **Wat doe je?** — "Dakdekker in [regio]"
-2. **Waarom jij?** — "[X] jaar ervaring, [X] Google reviews"
-3. **Wat moet ik doen?** — "Vraag een gratis inspectie aan"
+1. **Wat doe je?** "Dakdekker in [regio]"
+2. **Waarom jij?** "[X] jaar ervaring, [X] Google reviews"
+3. **Wat moet ik doen?** "Vraag een gratis inspectie aan"
 
 ## De 7 elementen die converteren
 
@@ -27,7 +27,7 @@ Google review-score prominent, branche-certificeringen, verzekeringsinformatie, 
 Minimaal 10-15 projecten met voor-en-na foto's en bijschriften.
 
 ### 3. Prijsindicaties
-"Pannendak vervangen: vanaf €80 per m2" — indicaties helpen.
+"Pannendak vervangen: vanaf €80 per m2". Indicaties helpen.
 
 ### 4. Een simpel contactformulier
 Naam, telefoonnummer, postcode, type dak, korte omschrijving. Meer dan 5 velden en je verliest een fors deel van de invullers.

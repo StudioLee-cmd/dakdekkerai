@@ -38,7 +38,7 @@ Drie kanalen, drie open-rates:
 
 Voor een afspraakherinnering wil je open en klikken. Bellen werkt ook, maar dan moet jij of je secretaresse 's ochtends 6 huizen langs voordat de eerste klus start. Niet schaalbaar.
 
-WhatsApp heeft nog twee voordelen die specifiek voor dakdekkers tellen: foto's stuurt de klant direct terug ("hier zie je het lekgebied"), en bevestigen kan met één klik via knoppen. Dat is precies wat je wilt: zekerheid dat de klant er morgen is, zonder dat jij hem moet bereiken. Een [Voice AI telefonist](/voice-ai) vangt de spoedoproepen op die buiten kantooruren binnenkomen — WhatsApp doet de planmatige communicatie.
+WhatsApp heeft nog twee voordelen die specifiek voor dakdekkers tellen: foto's stuurt de klant direct terug ("hier zie je het lekgebied"), en bevestigen kan met één klik via knoppen. Dat is precies wat je wilt: zekerheid dat de klant er morgen is, zonder dat jij hem moet bereiken. Een [Voice AI telefonist](/voice-ai) vangt de spoedoproepen op die buiten kantooruren binnenkomen; WhatsApp doet de planmatige communicatie.
 
 ## De drie momenten waarop je als dakdekker moet herinneren
 
@@ -60,15 +60,15 @@ Op de dag zelf, een uur voordat je vertrekt: "Ik ben over een uur bij je voor de
 
 Pas deze aan op je toon, maar houd de structuur intact.
 
-### Template 1 — Offerteafspraak aan huis
+### Template 1: Offerteafspraak aan huis
 
 "Hoi [naam], dit is [jouw naam] van [bedrijf]. Bevestiging van je offerteafspraak: [datum] om [tijd] op [adres]. Ik kom naar boven kijken voor [type werk]. Kost je ongeveer 30 tot 45 minuten van je tijd. Klopt het nog? Antwoord JA om te bevestigen of klik hier om te verzetten."
 
-### Template 2 — Dakinspectie of schouwbezoek
+### Template 2: Dakinspectie of schouwbezoek
 
 "Hoi [naam], even een herinnering: morgen [datum] om [tijd] kom ik voor de dakinspectie op [adres]. Ik klim het dak op en maak foto's, je hoeft zelf niets klaar te zetten. Kun je zorgen dat ik bij de meterkast kan? Tot morgen!"
 
-### Template 3 — Klusstart en vrachtwagen onderweg
+### Template 3: Klusstart en vrachtwagen onderweg
 
 "Hoi [naam], ik vertrek nu vanuit [plaats] richting [adres] voor de start van het werk aan [type dak]. Verwachte aankomst rond [tijd]. We zijn met [aantal] man en blijven tot ongeveer [eindtijd]. Tot zo!"
 

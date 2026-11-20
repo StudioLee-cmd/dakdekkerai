@@ -9,7 +9,7 @@ tags: ["Administratie", "Efficiëntie"]
 ---
 Vraag een solo-dakdekker hoeveel uur hij per week kwijt is aan administratie en het antwoord is meestal "geen idee, maar te veel". Een eerlijke meting komt vrijwel altijd uit op zes tot twaalf uur per week: offertes tikken, WhatsApps over en weer, facturen maken, achter betalingen aan bellen, klussen inplannen, reviews vragen. Dat is bijna een extra werkdag per week die niet op een dak besteed wordt.
 
-Personeel aannemen lost het zelden op — de eerste fulltime medewerker kost je 45.000 euro per jaar en brengt nieuwe administratieve lasten met zich mee. Wat wel werkt: zes processen die elk een uur per week inleveren, zonder dat je iemand hoeft in te werken. In deze gids loop ik elk van die zes stuk voor stuk door, met het concrete automatiseringssysteem erachter.
+Personeel aannemen lost het zelden op: de eerste fulltime medewerker kost je 45.000 euro per jaar en brengt nieuwe administratieve lasten met zich mee. Wat wel werkt: zes processen die elk een uur per week inleveren, zonder dat je iemand hoeft in te werken. In deze gids loop ik elk van die zes stuk voor stuk door, met het concrete automatiseringssysteem erachter.
 
 ## Waar je administratieve uren vandaag vandaan komen
 
@@ -22,13 +22,13 @@ Tussen de zaagmachine en de dakpannen zitten voor een dakbedekkingsbedrijf zes r
 - **Klantcommunicatie tussendoor** (1 uur/week): "wanneer komt u?", "heeft u nog een update?", "is het jaarlijkse onderhoud al ingepland?"
 - **Reviews vragen en administreren** (30 min–1 uur/week): klanten herinneren aan een review, screenshot maken, reageren op Google.
 
-Bij elkaar: zes tot twaalf uur. Dat is niet "even iets doen tussendoor" — dat is een dagtaak die verspreid over de week je momentum elke keer onderbreekt. Hieronder staan de zes concrete processen die je kunt wegautomatiseren zodat die tijd bijna volledig terugkomt.
+Bij elkaar: zes tot twaalf uur. Dat is niet "even iets doen tussendoor". Dat is een dagtaak die verspreid over de week je momentum elke keer onderbreekt. Hieronder staan de zes concrete processen die je kunt wegautomatiseren zodat die tijd bijna volledig terugkomt.
 
 ## 1. Offerte-intake via WhatsApp of webform
 
 Een potentiële klant die belt voor een dakinspectie heeft vrijwel altijd drie tot vier standaardvragen: huistype, dakoppervlakte inschatting, aard van het probleem, urgentie. Als jij die elke keer zelf per telefoon uitvraagt, kost dat tien tot vijftien minuten per lead. Honderd leads per jaar is twintig uur pure intake.
 
-Een gestructureerd webform op je website doet dezelfde intake in twee minuten van de klant — en jij krijgt een ingevuld overzicht binnen. Nog beter: een [AI chatbot](/chatbot) op je site die de klant door dezelfde vragen heen leidt en direct een tijdvenster voorstelt voor een inspectie. Klanten die niet willen typen, bellen alsnog — maar die telefoontjes zijn korter omdat je nu alleen nog details checkt, niet de basis opneemt.
+Een gestructureerd webform op je website doet dezelfde intake in twee minuten van de klant, en jij krijgt een ingevuld overzicht binnen. Nog beter: een [AI chatbot](/chatbot) op je site die de klant door dezelfde vragen heen leidt en direct een tijdvenster voorstelt voor een inspectie. Klanten die niet willen typen, bellen alsnog, maar die telefoontjes zijn korter omdat je nu alleen nog details checkt, niet de basis opneemt.
 
 De tijdwinst zit in het *niet* meer terugbellen voor dezelfde gegevens. Een WhatsApp-bericht met alle info ingevuld komt vijftien minuten na het verzoek binnen, zonder dat je een oproep hebt gemist.
 
@@ -48,7 +48,7 @@ Een klus inplannen zonder systeem loopt in de meeste dakbedrijven zo: klant belt
 
 Met een ingebouwde flow ziet het er anders uit: klant bevestigt afspraak op je bookingpagina, ontvangt direct een WhatsApp-bevestiging, 48 uur vooraf een JA-of-NEE herbevestiging, 24 uur vooraf een voorbereidingsbericht (bijvoorbeeld "zorg dat de kruipruimte toegankelijk is"), en op de dag zelf een "we vertrekken over 30 minuten"-bericht.
 
-Je doet nul handwerk. De no-shows — het grootste ergernis in dakbedrijven — dalen fors. En de klant is op het moment van aankomst voorbereid, wat je nog eens 15 minuten schrobben per klus scheelt.
+Je doet nul handwerk. De no-shows (het grootste ergernis in dakbedrijven) dalen fors. En de klant is op het moment van aankomst voorbereid, wat je nog eens 15 minuten schrobben per klus scheelt.
 
 ## 4. Werkbonnen en urenregistratie vanaf het dak
 
@@ -56,17 +56,17 @@ De klassieke werkbon is een papieren document dat 's avonds thuis wordt overgeti
 
 Een digitale werkbon in een app op je telefoon vervangt dat. Je vinkt op het dak zelf af welke materialen je gebruikt hebt, hoeveel uur er in zit, en tekent de klant direct op het scherm. De factuur wordt automatisch gegenereerd op basis van die werkbon en staat klaar om te versturen zodra je terug bij de auto bent.
 
-Dakdekkers die dit overstappen melden dat hun omloopsnelheid van factuur naar betaling halveert. Geld komt drie tot zes dagen sneller binnen — over een jaar is dat significant werkkapitaal.
+Dakdekkers die dit overstappen melden dat hun omloopsnelheid van factuur naar betaling halveert. Geld komt drie tot zes dagen sneller binnen. Over een jaar is dat significant werkkapitaal.
 
 ## 5. Facturatie en automatisch herinneren aan late betalers
 
-Factureren zelf is niet het probleem — achter mensen aanjagen die niet betalen, dat is het probleem. Een solo-dakdekker met 80 klussen per jaar heeft gemiddeld 8 tot 12 late betalers per jaar. Elk daarvan vraagt om 2 tot 3 herinneringen, een WhatsApp of telefoontje, en soms een aanmaning.
+Factureren zelf is niet het probleem. Achter mensen aanjagen die niet betalen, dat is het probleem. Een solo-dakdekker met 80 klussen per jaar heeft gemiddeld 8 tot 12 late betalers per jaar. Elk daarvan vraagt om 2 tot 3 herinneringen, een WhatsApp of telefoontje, en soms een aanmaning.
 
 Een basisflow die dit automatiseert: vijf dagen na de vervaldatum een vriendelijke WhatsApp-reminder, tien dagen later een formele herinneringsmail, twintig dagen later een laatste reminder met aanmaning-notitie. Alleen de allerlaatste stap (incassobureau of persoonlijk contact) vereist nog jouw aandacht. Deze flow kost niets extra behalve set-up, en de gemiddelde betaaltijd daalt fors omdat de meeste late betalers gewoon waren vergeten.
 
 ## 6. Reviews vragen en binnenkrijgen
 
-Elke klus is een potentiële Google-review — maar alleen als je er binnen 24 uur om vraagt. Na 48 uur is de motivatie al bijna nul. Solo-dakdekkers "vragen het de volgende keer wel" en die volgende keer komt nooit.
+Elke klus is een potentiële Google-review, maar alleen als je er binnen 24 uur om vraagt. Na 48 uur is de motivatie al bijna nul. Solo-dakdekkers "vragen het de volgende keer wel" en die volgende keer komt nooit.
 
 Een [automatische review-flow](/reviews) stuurt 24 uur na oplevering een kort WhatsApp-bericht: "Hopelijk blij met het dak. Als het een momentje waard is: [Google-link]." Geen extra handeling van jouw kant. Dakdekkers die dit aanzetten gaan van 3 tot 5 reviews per jaar naar 30 tot 50. Dat is direct effect op je lokale Google-ranking en dus op nieuwe aanvragen.
 
@@ -79,7 +79,7 @@ Automatiseren betekent niet "alles uit handen". Er zijn administratieve taken di
 - **Prijsstrategie en tariefbeslissingen**: software laat zien welke klussen winstgevend zijn, maar jij beslist.
 - **Leveranciersonderhandelingen en inkoopbeleid**: blijven persoonlijke relaties.
 
-De kunst is om het repetitieve weg te organiseren zodat je hoofd vrij is voor dit werk — niet om alles te automatiseren.
+De kunst is om het repetitieve weg te organiseren zodat je hoofd vrij is voor dit werk, niet om alles te automatiseren.
 
 ## Hoe je dit in fasen invoert
 
@@ -92,6 +92,6 @@ Alles tegelijk aanzetten werkt zelden. Een realistische volgorde voor een dakbed
 
 Elke fase is op zichzelf nuttig. Je hoeft geen alles-of-niets-beslissing te nemen.
 
-Wij bouwen dit volledige stack voor dakbedrijven in onze managed service — jouw boekingstool, jouw agenda, jouw facturatieprogramma, aan elkaar geknoopt zodat de processen hierboven vanzelf lopen. Binnen zes tot tien weken draait het geheel in de achtergrond en kun jij weer terug naar waar jouw uren echt renderen: op het dak.
+Wij bouwen dit volledige stack voor dakbedrijven in onze managed service: jouw boekingstool, jouw agenda, jouw facturatieprogramma, aan elkaar geknoopt zodat de processen hierboven vanzelf lopen. Binnen zes tot tien weken draait het geheel in de achtergrond en kun jij weer terug naar waar jouw uren echt renderen: op het dak.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-dakdekkers-helpt" class="text-dark fw-semibold">Hoe AI Dakdekkers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>

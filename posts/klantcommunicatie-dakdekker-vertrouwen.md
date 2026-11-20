@@ -11,13 +11,13 @@ cluster: "automatisering"
 
 ## Waarom communicatie het verschil maakt
 
-Dakdekken is vakwerk, maar klanten kunnen je vakmanschap niet beoordelen — ze zien het dak pas als het klaar is. Wat ze wél beoordelen is hoe je communiceert. De dakdekker die op tijd reageert, duidelijk uitlegt wat er gaat gebeuren en tussentijds updates stuurt, wint het vertrouwen. En vertrouwen leidt tot aanbevelingen en [positieve Google reviews](/blog/meer-google-reviews-als-dakdekker).
+Dakdekken is vakwerk, maar klanten kunnen je vakmanschap niet beoordelen: ze zien het dak pas als het klaar is. Wat ze wél beoordelen is hoe je communiceert. De dakdekker die op tijd reageert, duidelijk uitlegt wat er gaat gebeuren en tussentijds updates stuurt, wint het vertrouwen. En vertrouwen leidt tot aanbevelingen en [positieve Google reviews](/blog/meer-google-reviews-als-dakdekker).
 
 Veel dakdekkers onderschatten dit. Ze focussen op het technische werk en vergeten dat de klant ondertussen met vragen zit: wanneer beginnen jullie, hoelang duurt het, wat als het regent?
 
 ## Voor de klus: verwachtingen managen
 
-Goede communicatie begint vóór de eerste dakpan is aangeraakt. Na het uitbrengen van je offerte — lees ook hoe je je [website laat converteren](/blog/dakdekker-website-conversie-meer-aanvragen) — moet je helder communiceren:
+Goede communicatie begint vóór de eerste dakpan is aangeraakt. Na het uitbrengen van je offerte (lees ook hoe je je [website laat converteren](/blog/dakdekker-website-conversie-meer-aanvragen)) moet je helder communiceren:
 
 - **Planning**: wanneer start je en hoelang duurt het werk
 - **Impact**: wat merkt de klant (steigers, lawaai, beperkte bereikbaarheid)
@@ -28,7 +28,7 @@ Stuur dit in een overzichtelijke e-mail of WhatsApp-bericht, zodat de klant het 
 
 ## Tijdens het werk: updates sturen
 
-Als dakdekker werk je op het dak — de klant ziet niet wat er gebeurt. Dat creëert onzekerheid. Doorbreek die onzekerheid met korte dagelijkse updates:
+Als dakdekker werk je op het dak: de klant ziet niet wat er gebeurt. Dat creëert onzekerheid. Doorbreek die onzekerheid met korte dagelijkse updates:
 
 - **Ochtend**: wat staat er vandaag op de planning
 - **Einde dag**: wat is er gedaan, eventueel met een foto
@@ -53,7 +53,7 @@ Je hoeft niet alles handmatig te doen. Handige tools voor dakdekkers:
 
 - **WhatsApp Business**: professioneel communiceren met klanten, automatische welkomstberichten
 - **Projectmanagement-apps**: Trello of Notion voor het bijhouden van projectstatus
-- **Foto-documentatie**: maak voor, tijdens en na foto's — handig voor je portfolio én bij eventuele discussies
+- **Foto-documentatie**: maak voor, tijdens en na foto's, handig voor je portfolio én bij eventuele discussies
 
 Het verduurzamen van je communicatie past ook bij deze werkwijze: digitaal in plaats van papier, efficiënt en professioneel.
 
